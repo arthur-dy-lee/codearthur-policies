@@ -1,0 +1,26 @@
+{
+  "_format_version": "2.0",
+  "_description": "Multi-language quotes for InnerRelease App. Each language has its own file under quotes/ directory.",
+  "_remote_base_url": "https://arthur-dy-lee.github.io/codearthur-policies/Projects_docs/InnerRelease/quotes",
+  "_url_pattern": "quotes_{language_code}.json",
+  "_supported_languages": [
+    "en", "zh-Hans", "zh-Hant", "ja", "ko", "es", "fr",
+    "ar", "hi", "bn", "ru", "pt", "ur", "vi", "id"
+  ],
+  "_file_structure": {
+    "language": "Language code (e.g. 'en', 'zh-Hans')",
+    "quotes": [
+      {
+        "id": "Unique ID, must match across all language files (q1-q151)",
+        "text": "Translated quote text",
+        "author": "Localized author name",
+        "authorOriginal": "Original author name (omit for Latin-script languages: en, es, fr, pt, vi, id)",
+        "source": "Translated book/work title, or null"
+      }
+    ]
+  },
+  "_display_rules": {
+    "non_latin_scripts": "author (authorOriginal) — e.g. 海尔·德沃斯金 (Hale Dwoskin)",
+    "latin_scripts": "author only — e.g. Hale Dwoskin"
+  }
+}

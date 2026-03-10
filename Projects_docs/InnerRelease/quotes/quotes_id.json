@@ -1,0 +1,911 @@
+{
+  "language": "id",
+  "quotes": [
+    {
+      "id": "q1",
+      "text": "Apa pun yang tidak bisa Anda terima, Anda bisa melepaskannya. Apa pun yang bisa Anda lepaskan, Anda bisa memilikinya.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q2",
+      "text": "Emosi hanyalah emosi. Emosi bukan diri Anda, bukan fakta, dan Anda bisa melepaskannya.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q3",
+      "text": "Perlawanan adalah perasaan melaju dengan rem terinjak. Ketika Anda melepaskan, Anda merasa semakin memegang kendali dan semakin tidak menjadi korban dari apa pun yang terjadi.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q4",
+      "text": "Rasa sakit adalah label. Penderitaan berasal dari label, bukan dari sensasi itu sendiri.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q5",
+      "text": "Pada inti diri Anda, Anda sudah utuh, sudah lengkap, sudah cukup apa adanya.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q6",
+      "text": "Setiap kali Anda melepaskan, itu hanyalah keputusan, pilihan sederhana. Anda memiliki pilihan itu di setiap momen setiap hari.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q7",
+      "text": "Ketika Anda melepaskan, pikiran Anda menjadi tenang. Anda memiliki lebih banyak kemampuan untuk fokus, berkonsentrasi, menyelesaikan sesuatu, dan menyingkir dari jalan Anda sendiri.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q8",
+      "text": "Hanya berusaha mempertahankan yang 'positif' dalam pikiran tidak berhasil kecuali Anda melepaskan yang 'negatif' — masa lalu, beban berlebih Anda.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q9",
+      "text": "Rasa bersalah adalah 'aku berhutang' bawah sadar untuk sebuah hukuman.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q10",
+      "text": "Ketika kita melawan sesuatu yang tidak kita inginkan, kita juga melawan apa yang kita inginkan. Perlawanan tetap perlawanan, dan itulah yang menghalangi aliran.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q11",
+      "text": "Katakan 'saya merasa marah' atau 'saya merasa sedih', yang lebih tepat daripada 'saya marah' atau 'saya sedih'. Anda memvalidasi pengalaman Anda tanpa menginvalidasi siapa diri Anda.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q12",
+      "text": "Perasaan apa pun yang muncul hanyalah perasaan. Itu bukan Anda.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q13",
+      "text": "Ketika kita ingin mengubah sesuatu, kita melawannya. Ironisnya, justru perlawanan itulah yang menahannya tetap di tempat.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q14",
+      "text": "Anda bisa memilih untuk benar, atau Anda bisa memilih untuk bebas.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q15",
+      "text": "Saat Anda melepaskan keinginan untuk mengontrol, Anda justru merasa lebih terkendali.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q16",
+      "text": "Pikiran Anda seperti komputer. Melepaskan adalah tombol hapus terbaik untuk virus mental Anda.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q17",
+      "text": "Kesadaran adalah yang utama, semua hal lain yang kita alami adalah sekunder.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q18",
+      "text": "Kita sudah menjadi apa yang kita cari. Kita hanya perlu melepaskan keyakinan bahwa kita bukan.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q19",
+      "text": "Kesediaan untuk melepaskan keinginan untuk memahaminya memungkinkan jawaban hadir begitu saja.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q20",
+      "text": "Keinginan adalah kekurangan. Setiap kali kita menginginkan sesuatu, kita mengatakan bahwa kita tidak memilikinya.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q21",
+      "text": "Kebebasan Anda sudah ada di sini dan sekarang.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q22",
+      "text": "Berhentilah terburu-buru melewati kehidupan. Mulailah mendekati hidup Anda seolah Anda memiliki seluruh waktu di dunia. Momen yang menawarkan kesempatan terbesar untuk penemuan diri adalah sekarang.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q23",
+      "text": "Salah satu cara utama kita menciptakan kekecewaan dan ketidakbahagiaan adalah dengan berpegang pada pikiran dan perasaan yang membatasi.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q24",
+      "text": "Anda adalah kunci kebahagiaan, kesehatan, kesejahteraan, dan kesuksesan Anda sendiri. Yang perlu Anda lakukan hanyalah menggunakan kunci ini untuk membuka rahasia kebebasan dan kebahagiaan di dalam hati Anda sendiri.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q25",
+      "text": "Melepaskan itu alami. Menyerah itu alami. Berpegang teguh itu tidak alami.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q26",
+      "text": "Pada inti diri Anda, ada kesadaran yang bercahaya sendiri yang merupakan sifat sejati Anda. Pada inti kita, tidak ada perbedaan sama sekali antara apa yang Anda dan apa yang saya.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q27",
+      "text": "Bukan perjuangan yang mengarah pada perwujudan tujuan. Melepaskan perjuanganlah yang membuatnya mungkin.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q28",
+      "text": "Ketika Anda mengenali sumber sejati dari siapa diri Anda, itu membawa tingkat kebebasan dari penderitaan dan kebahagiaan yang tak tergoyahkan.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q29",
+      "text": "Penekanan adalah menjaga tutup pada emosi kita, mendorongnya kembali ke bawah, menyangkalnya, menekannya, dan berpura-pura bahwa emosi itu tidak ada.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q30",
+      "text": "Orang-orang yang benar-benar melakukan perubahan adalah mereka yang naik ke keberanian atau penerimaan.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q31",
+      "text": "Lepaskan keinginan Anda dan izinkan diri Anda untuk memiliki.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q32",
+      "text": "Jika Anda merasa terjebak, lepaskan keinginan untuk mengubahnya atau izinkan diri Anda merasakan apa yang Anda rasakan. Salah satu dari keduanya akan membantu melarutkan perasaan terjebak.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q33",
+      "text": "Jika Anda menyelam di bawah gelombang di permukaan kesadaran, selalu ada ketenangan.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q34",
+      "text": "Alih-alih ingin dicintai, izinkan diri Anda menyadari bahwa Anda adalah cinta.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q35",
+      "text": "Lepaskan keinginan untuk menjadikan masalah Anda nyata kembali.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q36",
+      "text": "Hiduplah dalam kebahagiaan dan jadilah kebahagiaan.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q37",
+      "text": "Kehadiran kesadaran yang Anda miliki adalah sambutan murni. Tanpa kata-kata, ia berkata ya pada segalanya.",
+      "author": "Hale Dwoskin",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q38",
+      "text": "Sambut pikiran Anda, sensasi Anda, perasaan Anda, dan cerita yang Anda sampaikan pada diri sendiri. Biarkan semuanya ada di sini, dan ketahuilah bahwa semuanya baik-baik saja apa adanya.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q39",
+      "text": "Anda sudah menjadi Keberadaan yang tak terbatas. Setiap jalan atau teknik dirancang hanya untuk membuat Anda jelas bagi diri sendiri.",
+      "author": "Hale Dwoskin",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q40",
+      "text": "Pikiran Anda bisa menjadi tuan terburuk, tetapi pelayan yang hebat.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q41",
+      "text": "Anda tidak bisa mengubah pengalaman. Tetapi Anda bisa mengubah cara Anda bereaksi terhadapnya.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q42",
+      "text": "Apa pun yang kita fokuskan, kita ciptakan. Jadi jika kita benar-benar marah pada perang, perselisihan, atau penderitaan, kita menambahkan energi kita padanya.",
+      "author": "Hale Dwoskin",
+      "source": "The Secret"
+    },
+    {
+      "id": "q43",
+      "text": "Ketika kita melawan hal-hal dalam hidup kita, apa yang kita lawan bertahan. Apa pun dalam kondisi mental Anda yang Anda lawan, bertahan.",
+      "author": "Hale Dwoskin",
+      "source": "Metode Sedona"
+    },
+    {
+      "id": "q44",
+      "text": "Tanpa Kesadaran tidak ada pengalaman. Kita begitu terjebak dalam perubahan tubuh-pikiran-dunia sehingga kita melewatkan keindahan alami dan kebahagiaan dari keberadaan murni.",
+      "author": "Hale Dwoskin",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q45",
+      "text": "Izinkan diri Anda menjelajahi kemungkinan bahwa tidak ada yang terpisah dari Kebenaran siapa diri Anda.",
+      "author": "Hale Dwoskin",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q46",
+      "text": "Keberadaan-Kesadaran yang Anda miliki selalu menjadi bagian paling intim dari setiap pengalaman.",
+      "author": "Hale Dwoskin",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q47",
+      "text": "Anda bisa memiliki apa pun yang Anda inginkan, asalkan Anda terlebih dahulu melepaskan keinginan untuk memilikinya.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q48",
+      "text": "Pikiran tidak akan pernah menemukan siapa Anda karena pikiran adalah penutup siapa Anda. Hanya dengan melepaskan pikiran Anda akan menemukan siapa Anda.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q49",
+      "text": "Alih-alih menahannya, Anda membiarkannya naik dan keluar. Setiap perasaan yang ditekan selalu mendorong untuk naik dan keluar.",
+      "author": "Lester Levenson",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q50",
+      "text": "Semua ketidakbahagiaan disebabkan oleh usaha kita untuk menjadi terbatas, menjadi ego. Semakin kita menjadi Diri kita, semakin bahagia kita.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q51",
+      "text": "Ketika tidak ada usaha, tidak ada ego. Semakin besar usaha, semakin besar ego.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q52",
+      "text": "Setiap masalah adalah masalah ego. Untuk memiliki masalah harus ada frustrasi ego.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q53",
+      "text": "Begitu Anda menyadari betapa mudahnya cara hidup tertinggi, dibutuhkan usaha luar biasa untuk mengasumsikan sebaliknya.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q54",
+      "text": "Ketika seseorang benar-benar mencintai, ia tidak pernah bisa terluka.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q55",
+      "text": "Satu-satunya cara menerima cinta adalah memberi cinta, karena apa yang kita berikan pasti kembali.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q56",
+      "text": "Cinta manusia adalah membutuhkan yang lain. Cinta ilahi adalah memberi kepada yang lain.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q57",
+      "text": "Kebahagiaan setara dengan kapasitas seseorang untuk mencintai, bukan untuk dicintai.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q58",
+      "text": "Cinta adalah perasaan memberi tanpa memikirkan imbalan apa pun.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q59",
+      "text": "Apa pun yang terjadi pada kita berasal dari pikiran.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q60",
+      "text": "Sifat sejati kita, diri sejati yang tak terbatas, hanyalah kita dikurangi pikiran.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q61",
+      "text": "Pikiran adalah satu-satunya keterbatasan yang Anda miliki.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q62",
+      "text": "Melepaskan ego sepenuhnya berarti bebas sepenuhnya.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q63",
+      "text": "Perasaan hanyalah program yang berjalan di pikiran. Anda bisa memilih untuk menghentikan program itu.",
+      "author": "Lester Levenson",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q64",
+      "text": "Setiap masalah fisik memiliki penyebab mental. Bersihkan pikiran, dan tubuh akan mengikuti.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q65",
+      "text": "Kebenaran selalu sederhana. Egolah yang memperumit segalanya.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q66",
+      "text": "Jika Anda tidak melepaskan pikiran dan membuatnya lebih tenang, maka pikiran Anda menjadi lebih berisik. Oleh karena itu, Anda harus terus melepaskan pikiran sampai mencapai akhir.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q67",
+      "text": "Kita bisa memiliki kedamaian jika kita melepaskan keinginan untuk mengubah masa lalu dan keinginan untuk mengendalikan masa depan.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q68",
+      "text": "Kesengsaraan adalah kerumitan. Kebahagiaan adalah kesederhanaan.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q69",
+      "text": "Setiap kali Anda merasa sengsara, ada kesempatan luar biasa untuk membuat langkah besar ke depan.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q70",
+      "text": "Lepaskan dan izinkan diri Anda melihat kesempurnaan di mana ketidaksempurnaan tampak berada.",
+      "author": "Lester Levenson",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q71",
+      "text": "Ukuran terbaik dari kecerdasan kita adalah kemampuan kita untuk bahagia.",
+      "author": "Lester Levenson",
+      "source": "Sedona Releasing Worldwide"
+    },
+    {
+      "id": "q72",
+      "text": "Jika kita bisa hanya ada, sekadar ada, kita bisa melihat ketidakterbatasan kita. Kita bisa melihat bahwa kita adalah segalanya.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q73",
+      "text": "Jika kita tidak suka apa yang terjadi pada kita di dunia, yang perlu kita lakukan hanyalah mengubah kesadaran kita — dan dunia di luar sana berubah untuk kita.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q74",
+      "text": "Merasa sedih tentang apa pun berarti berpegang padanya. Katakan, 'Ini adalah sesuatu yang harus saya lepaskan,' dan segera Anda akan merasa lebih baik.",
+      "author": "Lester Levenson",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q75",
+      "text": "Jalan menuju kebahagiaan tak terbatas adalah melalui penghapusan keinginan — tanpa keterikatan, tanpa keengganan.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q76",
+      "text": "Keadaan asli semua Makhluk adalah Cinta. Masalah kita hanya karena kita menutupi keadaan alami ini.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q77",
+      "text": "Kebenaran bisa ditemukan melalui proses menghilangkan pikiran yang salah, yaitu pikiran tentang keterbatasan. Ketika semua pikiran tentang keterbatasan dihilangkan, yang tersisa adalah Diri kita yang alami dan tak terbatas.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q78",
+      "text": "Kedamaian adalah tanpa perlawanan, penerimaan penuh, identifikasi dengan semua, setiap orang, segalanya.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q79",
+      "text": "Sebagian besar konsep cinta orang sebenarnya adalah kebencian, kurang lebih. 'Aku membutuhkanmu, aku harus memilikimu, aku tidak bisa hidup tanpamu, kamu milikku' — semua itu bukan cinta.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q80",
+      "text": "Cinta menghilangkan ketakutan. Cinta menghilangkan kecemasan.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q81",
+      "text": "Pertumbuhan adalah melampaui diri Anda, diri kebiasaan Anda, yang tidak lain adalah ego.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q82",
+      "text": "Jangan menjelajahi kegelapan untuk memahami cahaya. Jangan berkutat pada penyakit untuk sehat. Jangan berlarut dalam pikiran kekurangan untuk memiliki persediaan.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q83",
+      "text": "Ada lebih banyak rasa sakit dari berpegang pada pikiran tentang rasa sakit daripada dalam situasi itu sendiri.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q84",
+      "text": "Gambaran mental tentang apa yang kita inginkan, dengan penerimaan penuh dan keyakinan bahwa itu milik kita sekarang, akan mewujudkannya dengan cepat.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q85",
+      "text": "Ketika kita mengambil satu langkah menuju Diri, Ia mengambil sembilan langkah menuju kita.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q86",
+      "text": "Seluruh tujuan di jalan ini adalah melepaskan ego. Yang tersisa adalah Diri Anda.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q87",
+      "text": "Parlemen tidak bisa memperbaiki dunia; tetapi cukup banyak individu yang merasakan cinta bisa.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q88",
+      "text": "Orang saling membutuhkan dan mengira itu cinta. Tidak ada kepemilikan atau pembatasan terhadap yang lain ketika seseorang mencintai.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q89",
+      "text": "Tidak ada yang buruk; hanya ada kesalahan di jalan pulang ke Rumah.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q90",
+      "text": "Semakin sengsara Anda, semakin sedikit Anda harus mencari pelarian. Sebaliknya, menyendiri sampai Anda melihat dan melepaskan alasannya.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q91",
+      "text": "Saya melepaskan dan membongkar neraka yang telah saya ciptakan. Dengan menyelaraskan segalanya dengan cinta, berusaha mencintai alih-alih berusaha dicintai, saya menjadi semakin bebas, semakin bahagia.",
+      "author": "Lester Levenson",
+      "source": "No Attachments No Aversions"
+    },
+    {
+      "id": "q92",
+      "text": "Ego adalah sumber kelahiran dan kematian, dan ketika ego dilepaskan, Anda mati terhadap kematian.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q93",
+      "text": "Capailah tempat di mana tidak ada seorang pun dan tidak ada hal apa pun yang bisa mengganggu Anda.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q94",
+      "text": "Kita semua adalah Dewa yang bertingkah seperti orang-orang bodoh.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q95",
+      "text": "Apa itu kegembiraan? Kegembiraan tidak lain adalah Diri. Ketika keinginan terpenuhi, pikiran menjadi tenang. Ini memungkinkan Diri bersinar — dan itulah yang kita sebut kegembiraan.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q96",
+      "text": "Kebahagiaan menjadi semakin intens semakin kita bergerak menuju kebebasan total. Anda tidak menghilang. Anda tidak kehilangan apa pun. Anda mendapatkan lebih banyak.",
+      "author": "Lester Levenson",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q97",
+      "text": "Topeng adalah ego. Ia dimotivasi oleh pencarian cinta kita. Satu-satunya imbalan adalah frustrasi, karena hanya dengan mencintailah seseorang menemukan cinta.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q98",
+      "text": "Beberapa dari kita mencari kebahagiaan di tempat yang benar dan hasilnya menjadi lebih bahagia. Dan yang lain mencarinya secara membabi buta di dunia di mana ia tidak berada dan menjadi lebih frustrasi.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q99",
+      "text": "Kebahagiaan terbesar yang bisa kita berikan kepada pasangan datang dari membantunya memahami Kebenaran lebih baik.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q100",
+      "text": "Tidak ada yang namanya kesalahan — kita yang melakukannya! Tidak ada yang namanya kecelakaan — kita yang melakukannya!",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q101",
+      "text": "Jika Anda melihat kesengsaraan, itu kesengsaraan Anda. Ketika Anda melihat kesempurnaan di mana ketidaksempurnaan tampak berada, kesengsaraan hanyalah penampakan.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q102",
+      "text": "Melepaskan itu seperti berhentinya tekanan batin secara tiba-tiba atau meletakkan beban. Ini disertai perasaan lega dan ringan yang tiba-tiba, dengan kebahagiaan dan kebebasan yang meningkat.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q103",
+      "text": "Melepaskan melibatkan kesadaran akan perasaan, membiarkannya muncul, tinggal bersamanya, dan membiarkannya berjalan dengan sendirinya tanpa ingin mengubahnya atau melakukan apa pun terhadapnya.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q104",
+      "text": "Saat melepaskan, abaikan semua pikiran. Fokus pada perasaan itu sendiri, bukan pada pikiran.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q105",
+      "text": "Bukan pikiran atau fakta yang menyakitkan, tetapi perasaan yang menyertainya. Pikiran itu sendiri tidak menyakitkan, tetapi perasaan yang mendasarinya menyakitkan.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q106",
+      "text": "Poin krusialnya adalah: dengan mengubah diri sendiri, kita mengubah dunia. Saat kita menjadi lebih penuh kasih di dalam, penyembuhan terjadi di luar.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q107",
+      "text": "Kita memiliki tiga cara utama menangani perasaan: penekanan, ekspresi, dan pelarian.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q108",
+      "text": "Perasaan yang ditekan dan direpresi mencari jalan keluar dan menggunakan peristiwa sebagai pemicu dan alasan untuk melampiaskan diri. Kita seperti panci presto yang siap melepaskan uap saat kesempatan muncul.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q109",
+      "text": "Apa yang kita simpan di dalam mewarnai dunia kita. Jika kita melepaskan rasa bersalah, kita akan melihat kepolosan.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q110",
+      "text": "Dunia hanya bisa melihat kita sebagaimana kita melihat diri sendiri.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q111",
+      "text": "Berserah diri berarti tidak memiliki emosi kuat tentang suatu hal: 'Tidak apa-apa jika itu terjadi, dan tidak apa-apa jika tidak.'",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q112",
+      "text": "Perasaan datang dan pergi, dan akhirnya Anda menyadari bahwa Anda bukan perasaan Anda, tetapi 'Anda' yang sejati hanya menyaksikannya.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q113",
+      "text": "Kebaikan sederhana terhadap diri sendiri dan semua yang hidup adalah kekuatan transformasi paling dahsyat.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q114",
+      "text": "Peristiwa kehidupan adalah kesempatan untuk tumbuh, berkembang, mengalami, dan maju.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q115",
+      "text": "Di dalam diri kita, tetapi di luar kesadaran, ada kebenaran bahwa 'saya sudah tahu semua yang perlu saya ketahui.'",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q116",
+      "text": "Kekuatan bisa membawa kepuasan, tetapi hanya kuasa yang membawa kegembiraan. Kemenangan atas orang lain membawa kepuasan, tetapi kemenangan atas diri sendiri membawa kegembiraan.",
+      "author": "David R. Hawkins",
+      "source": "Power vs. Force"
+    },
+    {
+      "id": "q117",
+      "text": "Terkadang melepaskan sesuatu adalah tindakan yang jauh lebih berkuasa daripada mempertahankan atau berpegang padanya.",
+      "author": "Eckhart Tolle",
+      "source": "Sức mạnh của hiện tại"
+    },
+    {
+      "id": "q118",
+      "text": "Penyerahan diri adalah kebijaksanaan sederhana namun mendalam untuk mengalir bersama kehidupan alih-alih melawannya.",
+      "author": "Eckhart Tolle",
+      "source": "The Power of Now"
+    },
+    {
+      "id": "q119",
+      "text": "Serahkan diri pada apa yang ada. Katakan 'ya' pada kehidupan — dan lihat bagaimana kehidupan tiba-tiba mulai bekerja untuk Anda, bukan melawan Anda.",
+      "author": "Eckhart Tolle",
+      "source": "The Power of Now"
+    },
+    {
+      "id": "q120",
+      "text": "Terkadang menyerah berarti berhenti mencoba memahami, dan menjadi nyaman dengan ketidaktahuan.",
+      "author": "Eckhart Tolle",
+      "source": "A New Earth"
+    },
+    {
+      "id": "q121",
+      "text": "Ketika Anda melepaskan keyakinan bahwa Anda harus atau perlu tahu siapa diri Anda, apa yang terjadi pada kebingungan? Tiba-tiba ia hilang.",
+      "author": "Eckhart Tolle",
+      "source": "A New Earth"
+    },
+    {
+      "id": "q122",
+      "text": "Kebebasan sejati datang dari melepaskan perlawanan terhadap apa yang ada.",
+      "author": "Eckhart Tolle",
+      "source": "The Power of Now"
+    },
+    {
+      "id": "q123",
+      "text": "Penyerahan diri adalah transisi batin dari perlawanan ke penerimaan, dari tidak ke ya.",
+      "author": "Eckhart Tolle",
+      "source": "The Power of Now"
+    },
+    {
+      "id": "q124",
+      "text": "Keterikatan pada benda-benda hilang dengan sendirinya ketika Anda tidak lagi berusaha menemukan diri Anda di dalamnya.",
+      "author": "Eckhart Tolle",
+      "source": "A New Earth"
+    },
+    {
+      "id": "q125",
+      "text": "Tidak ada yang datang dan pergi adalah Anda. 'Saya bosan.' Siapa yang tahu ini?",
+      "author": "Eckhart Tolle",
+      "source": "Stillness Speaks"
+    },
+    {
+      "id": "q126",
+      "text": "Anda memasuki keadaan alami dengan melepaskan kontrol, melepaskan usaha, dan beristirahat dalam keadaan yang penuh hidup.",
+      "author": "Adyashanti",
+      "source": "True Meditation"
+    },
+    {
+      "id": "q127",
+      "text": "Melepaskan adalah membebaskan gambaran dan emosi, dendam dan ketakutan, keterikatan dan kekecewaan masa lalu yang mengikat jiwa kita.",
+      "author": "Jack Kornfield",
+      "source": null
+    },
+    {
+      "id": "q128",
+      "text": "Melepaskan bukan berarti menyingkirkan. Melepaskan berarti membiarkan. Ketika kita membiarkan dengan penuh kasih, segala sesuatu datang dan pergi dengan sendirinya.",
+      "author": "Jack Kornfield",
+      "source": null
+    },
+    {
+      "id": "q129",
+      "text": "Lepaskan pertempuran. Bernapaslah dengan tenang dan biarkan saja. Biarkan tubuh Anda rileks dan hati Anda lembut.",
+      "author": "Jack Kornfield",
+      "source": null
+    },
+    {
+      "id": "q130",
+      "text": "Dengan melepaskan, kita membiarkan segalanya datang kepada kita dengan anggun.",
+      "author": "Jack Kornfield",
+      "source": null
+    },
+    {
+      "id": "q131",
+      "text": "Ketika kita melawan perubahan, itu disebut penderitaan. Tetapi ketika kita bisa sepenuhnya melepaskan dan tidak melawannya, ketika kita bisa merangkul ketidakpastian dan rileks dalam kualitas dinamisnya, itu disebut pencerahan.",
+      "author": "Pema Chödrön",
+      "source": "Living Beautifully with Uncertainty and Change"
+    },
+    {
+      "id": "q132",
+      "text": "Inti dari kemurahan hati adalah melepaskan. Rasa sakit selalu tanda bahwa kita berpegang pada sesuatu — biasanya diri kita sendiri.",
+      "author": "Pema Chödrön",
+      "source": "Comfortable with Uncertainty"
+    },
+    {
+      "id": "q133",
+      "text": "Untuk hidup sepenuhnya, menjadi manusia seutuhnya, dan benar-benar terbangun adalah terus-menerus dilempar keluar dari sarang.",
+      "author": "Pema Chödrön",
+      "source": "When Things Fall Apart"
+    },
+    {
+      "id": "q134",
+      "text": "Setiap kali Anda tetap hadir dengan ketakutan dan ketidakpastian, Anda melepaskan cara kebiasaan mencari keamanan dan kenyamanan.",
+      "author": "Pema Chödrön",
+      "source": "When Things Fall Apart"
+    },
+    {
+      "id": "q135",
+      "text": "Masalahnya adalah keinginan untuk berubah pada dasarnya adalah bentuk agresi terhadap diri sendiri.",
+      "author": "Pema Chödrön",
+      "source": "The Wisdom of No Escape"
+    },
+    {
+      "id": "q136",
+      "text": "Cobalah belajar untuk membiarkan apa yang ada, apa adanya.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q137",
+      "text": "Luka adalah tempat di mana Cahaya masuk ke dalam diri Anda.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q138",
+      "text": "Saat Anda menerima kesulitan yang telah diberikan kepada Anda, pintu akan terbuka.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q139",
+      "text": "Tidurkan pikiran Anda, jangan biarkan mereka membayangi bulan hati Anda. Lepaskanlah pikiran.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q140",
+      "text": "Lepaskan kekhawatiran Anda dan jadilah jernih sepenuhnya, seperti permukaan cermin yang tidak memuat gambar apa pun.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q141",
+      "text": "Kemarin saya cerdas, jadi saya ingin mengubah dunia. Hari ini saya bijaksana, jadi saya mengubah diri sendiri.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q142",
+      "text": "Ketika Anda berdebat dengan kenyataan, Anda kalah — tetapi hanya 100% dari waktu.",
+      "author": "Byron Katie",
+      "source": "Loving What Is"
+    },
+    {
+      "id": "q143",
+      "text": "Melepaskan memberi kita kebebasan, dan kebebasan adalah satu-satunya syarat untuk kebahagiaan.",
+      "author": "Thich Nhat Hanh",
+      "source": "The Heart of the Buddha's Teaching"
+    },
+    {
+      "id": "q144",
+      "text": "Dalam proses melepaskan, Anda akan kehilangan banyak hal dari masa lalu, tetapi Anda akan menemukan diri sendiri.",
+      "author": "Deepak Chopra",
+      "source": null
+    },
+    {
+      "id": "q145",
+      "text": "Ketika saya melepaskan apa yang saya, saya menjadi apa yang mungkin saya jadi. Ketika saya melepaskan apa yang saya miliki, saya menerima apa yang saya butuhkan.",
+      "author": "Lao Tzu",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q146",
+      "text": "Kita harus bersedia melepaskan kehidupan yang telah kita rencanakan, agar mendapatkan kehidupan yang menunggu kita.",
+      "author": "Joseph Campbell",
+      "source": null
+    },
+    {
+      "id": "q147",
+      "text": "Lakukan segalanya dengan pikiran yang melepaskan. Jika Anda melepaskan sedikit, Anda akan memiliki sedikit kedamaian; jika Anda melepaskan banyak, Anda akan memiliki banyak kedamaian; jika Anda melepaskan sepenuhnya, Anda akan memiliki kedamaian sepenuhnya.",
+      "author": "Ajahn Chah",
+      "source": null
+    },
+    {
+      "id": "q148",
+      "text": "Saat Anda berhenti melawan adalah saat Anda mengizinkan semua yang Anda cari untuk menemukan Anda.",
+      "author": "Michael Singer",
+      "source": "The Untethered Soul"
+    },
+    {
+      "id": "q149",
+      "text": "Rasakan perasaan itu tetapi jangan menjadi emosi. Saksikan. Izinkan. Lepaskan.",
+      "author": "Crystal Andrus",
+      "source": null
+    },
+    {
+      "id": "q150",
+      "text": "Sesuatu yang luar biasa terjadi ketika kita berserah dan sekadar mencintai. Kita melebur ke dunia lain, ranah kekuatan yang sudah ada di dalam kita.",
+      "author": "Marianne Williamson",
+      "source": "A Return to Love"
+    },
+    {
+      "id": "q151",
+      "text": "Enam Kata Nasihat: Lepaskan apa yang telah berlalu. Lepaskan apa yang mungkin datang. Lepaskan apa yang sedang terjadi sekarang. Jangan mencoba memahami apa pun. Jangan mencoba membuat apa pun terjadi. Rileks, sekarang juga, dan beristirahatlah.",
+      "author": "Tilopa",
+      "source": null
+    }
+  ]
+}

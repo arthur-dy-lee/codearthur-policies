@@ -1,0 +1,911 @@
+{
+  "language": "fr",
+  "quotes": [
+    {
+      "id": "q1",
+      "text": "Tout ce que vous ne pouvez pas accepter, vous pouvez le lâcher. Tout ce que vous pouvez lâcher, vous pouvez l'avoir.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q2",
+      "text": "Les émotions ne sont que des émotions. Elles ne sont pas vous, elles ne sont pas des faits, et vous pouvez les lâcher.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q3",
+      "text": "La résistance est un sentiment d'avancer avec les freins serrés. Quand vous lâchez prise, vous vous sentez de plus en plus maître de la situation et de moins en moins victime de ce qui se passe.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q4",
+      "text": "La douleur est une étiquette. La souffrance vient de l'étiquette, pas de la sensation elle-même.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q5",
+      "text": "Au plus profond de vous, vous êtes déjà entier, déjà complet, déjà suffisant tel que vous êtes.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q6",
+      "text": "Chaque fois que vous libérez, c'est juste une décision, un simple choix. Vous avez ce choix à faire à chaque instant de chaque jour.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q7",
+      "text": "Quand vous lâchez prise, votre esprit se calme. Vous avez plus de capacité à vous concentrer, à suivre les choses jusqu'au bout, à ne plus vous mettre en travers de votre propre chemin.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q8",
+      "text": "Essayer simplement de garder le « positif » à l'esprit ne fonctionne pas à moins de lâcher le « négatif » — le passé, votre excès de bagages.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q9",
+      "text": "La culpabilité est un « je te dois » inconscient pour une punition.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q10",
+      "text": "Quand nous résistons à quelque chose que nous ne voulons pas, nous résistons aussi à ce que nous voulons. La résistance est la résistance dans les deux sens, et c'est ce qui bloque le flux.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q11",
+      "text": "Dites « je me sens en colère » ou « je me sens triste », ce qui est plus juste que « je suis en colère » ou « je suis triste ». Vous validez votre expérience sans invalider qui vous êtes.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q12",
+      "text": "Tout sentiment qui surgit n'est qu'un sentiment. Ce n'est pas vous.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q13",
+      "text": "Quand nous voulons changer quelque chose, nous y résistons. Ironiquement, c'est cette résistance même qui le maintient en place.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q14",
+      "text": "Vous pouvez choisir d'avoir raison, ou vous pouvez choisir d'être libre.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q15",
+      "text": "En lâchant le désir de contrôler, vous vous sentez en réalité plus en contrôle.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q16",
+      "text": "Votre esprit est comme un ordinateur. La libération est le bouton supprimer ultime pour vos virus mentaux.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q17",
+      "text": "La conscience est primordiale, tout le reste de ce que nous expérimentons est secondaire.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q18",
+      "text": "Nous sommes déjà ce que nous cherchons. Il suffit de lâcher la croyance que nous ne le sommes pas.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q19",
+      "text": "La volonté de lâcher le désir de comprendre permet à la réponse d'être simplement là.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q20",
+      "text": "Le désir est un manque. Chaque fois que nous désirons quelque chose, nous disons que nous ne l'avons pas.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q21",
+      "text": "Votre liberté est déjà ici et maintenant.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q22",
+      "text": "Arrêtez de traverser la vie à toute vitesse. Commencez à aborder votre vie comme si vous aviez tout le temps du monde. Le moment qui offre la plus grande opportunité de découverte de soi, c'est maintenant.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q23",
+      "text": "L'une des principales façons dont nous créons des déceptions et du malheur est de nous accrocher à des pensées et des sentiments limitants.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q24",
+      "text": "Vous êtes la clé de votre propre bonheur, santé, bien-être et succès. Tout ce que vous avez à faire est d'utiliser cette clé pour déverrouiller les secrets de la liberté et du bonheur dans votre propre cœur.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q25",
+      "text": "Lâcher prise est naturel. L'abandon est naturel. S'accrocher est contre nature.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q26",
+      "text": "Au plus profond de vous, il y a cette conscience auto-rayonnante qui est votre vraie nature. Au fond de nous, il n'y a aucune différence entre ce que vous êtes et ce que je suis.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q27",
+      "text": "Ce n'est pas la lutte qui mène à la réalisation de l'objectif. C'est le lâcher-prise de la lutte qui le rend possible.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q28",
+      "text": "Quand vous reconnaissez la véritable source de qui vous êtes, cela apporte un tout autre niveau de liberté face à la souffrance et un bonheur inébranlable.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q29",
+      "text": "La suppression consiste à garder un couvercle sur nos émotions, à les repousser, à les nier, à les réprimer et à prétendre qu'elles n'existent pas.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q30",
+      "text": "Les personnes qui opèrent vraiment un changement sont celles qui s'élèvent vers le courage ou l'acceptation.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q31",
+      "text": "Libérez votre désir et permettez-vous d'avoir.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q32",
+      "text": "Si vous vous sentez bloqué, soit lâchez le désir de changer les choses, soit permettez-vous de ressentir ce que vous ressentez. L'un ou l'autre aidera à dissoudre le sentiment d'être bloqué.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q33",
+      "text": "Si vous plongez sous les vagues à la surface de la conscience, il y a toujours le calme.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q34",
+      "text": "Au lieu de vouloir être aimé, permettez-vous de reconnaître que vous êtes l'amour.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q35",
+      "text": "Lâchez le désir de rendre vos problèmes réels à nouveau.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q36",
+      "text": "Vivez le bonheur et soyez le bonheur.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q37",
+      "text": "La présence de la conscience que vous êtes est un accueil pur. Sans mots, elle dit oui à tout.",
+      "author": "Hale Dwoskin",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q38",
+      "text": "Accueillez vos pensées, vos sensations, vos sentiments et les histoires que vous vous racontez. Permettez-leur simplement d'être là, et sachez que tout est bien tel qu'il est.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q39",
+      "text": "Vous êtes déjà un Être illimité. Chaque chemin ou technique est conçu uniquement pour vous rendre évident à vous-même.",
+      "author": "Hale Dwoskin",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q40",
+      "text": "Votre esprit peut être votre pire maître, mais un excellent serviteur.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q41",
+      "text": "Vous ne pouvez pas changer une expérience. Mais vous pouvez changer la façon dont vous y réagissez.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q42",
+      "text": "Tout ce sur quoi nous nous concentrons, nous le créons. Donc si nous sommes vraiment en colère contre une guerre, un conflit ou une souffrance, nous y ajoutons notre énergie.",
+      "author": "Hale Dwoskin",
+      "source": "The Secret"
+    },
+    {
+      "id": "q43",
+      "text": "Quand nous résistons aux choses dans notre vie, ce à quoi nous résistons persiste. Tout ce à quoi vous résistez dans votre état mental persiste.",
+      "author": "Hale Dwoskin",
+      "source": "La Méthode Sedona"
+    },
+    {
+      "id": "q44",
+      "text": "Sans la Conscience, il n'y a pas d'expérience. Nous sommes tellement pris dans les changements du corps-esprit-monde que nous manquons la beauté naturelle et la félicité de l'être pur.",
+      "author": "Hale Dwoskin",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q45",
+      "text": "Permettez-vous d'explorer la possibilité qu'il n'y a rien de séparé de la Vérité de qui vous êtes.",
+      "author": "Hale Dwoskin",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q46",
+      "text": "La Conscience-Être que vous êtes est toujours la partie la plus intime de chaque expérience.",
+      "author": "Hale Dwoskin",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q47",
+      "text": "Vous pouvez avoir tout ce que vous voulez, à condition de d'abord lâcher le désir de l'avoir.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q48",
+      "text": "L'esprit ne découvrira jamais qui vous êtes parce que l'esprit est la couverture de qui vous êtes. C'est seulement en lâchant l'esprit que vous découvrirez qui vous êtes.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q49",
+      "text": "Au lieu de le maintenir en bas, vous le laissez monter et sortir. Chaque sentiment supprimé pousse pour monter et sortir en permanence.",
+      "author": "Lester Levenson",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q50",
+      "text": "Tout le malheur est causé par notre tentative d'être limité, d'être un ego. Plus nous sommes notre Soi, plus nous sommes heureux.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q51",
+      "text": "Quand il n'y a pas d'effort, il n'y a pas d'ego. Plus il y a d'effort, plus il y a d'ego.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q52",
+      "text": "Chaque problème est un problème d'ego. Pour avoir un problème, il faut qu'il y ait une frustration de l'ego.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q53",
+      "text": "Une fois que vous réalisez à quel point le mode de vie le plus élevé est sans effort, il faut un effort considérable pour assumer le contraire.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q54",
+      "text": "Quand on aime vraiment, on ne peut jamais être blessé.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q55",
+      "text": "La seule méthode pour recevoir de l'amour est de donner de l'amour, car ce que nous donnons doit revenir.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q56",
+      "text": "L'amour humain, c'est avoir besoin de l'autre. L'amour divin, c'est donner à l'autre.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q57",
+      "text": "Le bonheur correspond à notre capacité d'aimer plutôt qu'à être aimé.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q58",
+      "text": "L'amour est un sentiment de don sans aucune pensée de recevoir quoi que ce soit en retour.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q59",
+      "text": "Tout ce qui nous arrive prend sa source dans l'esprit.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q60",
+      "text": "Notre vraie nature, le soi réel infini que nous sommes, c'est simplement nous moins l'esprit.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q61",
+      "text": "L'esprit est la seule limitation que vous ayez.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q62",
+      "text": "Libérer complètement l'ego, c'est être complètement libre.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q63",
+      "text": "Un sentiment n'est qu'un programme qui tourne dans l'esprit. Vous pouvez choisir d'arrêter le programme.",
+      "author": "Lester Levenson",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q64",
+      "text": "Chaque problème physique a une cause mentale. Nettoyez l'esprit, et le corps suivra.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q65",
+      "text": "La vérité est toujours simple. C'est l'ego qui complique tout.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q66",
+      "text": "Si vous ne défaites pas votre esprit et ne le rendez pas plus calme, alors votre esprit devient plus bruyant. Par conséquent, vous devez continuer à libérer votre esprit jusqu'à atteindre la fin.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q67",
+      "text": "Nous pouvons avoir la paix si nous lâchons le désir de changer le passé et le désir de contrôler l'avenir.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q68",
+      "text": "La misère est complexité. Le bonheur est simplicité.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q69",
+      "text": "Chaque fois que vous vous sentez misérable, il y a là une excellente opportunité de faire un grand pas en avant.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q70",
+      "text": "Libérez et permettez-vous de voir la perfection là où l'imperfection apparente semble être.",
+      "author": "Lester Levenson",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q71",
+      "text": "La meilleure mesure de notre intelligence est notre capacité à être heureux.",
+      "author": "Lester Levenson",
+      "source": "Sedona Releasing Worldwide"
+    },
+    {
+      "id": "q72",
+      "text": "Si nous pouvions simplement être, juste être, nous pourrions voir notre infinité. Nous pourrions voir que nous sommes le tout.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q73",
+      "text": "Si nous n'aimons pas ce qui nous arrive dans le monde, tout ce que nous avons à faire est de changer notre conscience — et le monde extérieur change pour nous.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q74",
+      "text": "Se sentir triste à propos de quoi que ce soit, c'est s'y accrocher. Dites : « C'est quelque chose que je dois lâcher », et immédiatement vous vous sentirez mieux.",
+      "author": "Lester Levenson",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q75",
+      "text": "Le chemin vers la joie infinie passe par l'élimination du désir — pas d'attachements, pas d'aversions.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q76",
+      "text": "L'état originel de tous les Êtres est l'Amour. Nos problèmes ne sont dus qu'au fait que nous recouvrons cet état naturel.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q77",
+      "text": "La vérité peut être trouvée par un processus d'élimination des pensées erronées, qui sont des pensées de limitation. Quand toutes les pensées de limitation sont éliminées, ce qui reste est notre Soi naturel et illimité.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q78",
+      "text": "La paix est la non-résistance, l'acceptation complète, l'identification avec tous, chacun, tout.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q79",
+      "text": "La grande majorité du concept d'amour des gens est en réalité de la haine, plus ou moins. « J'ai besoin de toi, il faut que je t'aie, je ne peux pas vivre sans toi, tu es à moi » — tout cela n'est pas de l'amour.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q80",
+      "text": "L'amour élimine la peur. L'amour élimine l'anxiété.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q81",
+      "text": "Grandir, c'est se transcender soi-même, son soi habituel, qui n'est autre que l'ego.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q82",
+      "text": "Ne sondez pas les ténèbres pour comprendre la lumière. Ne vous attardez pas sur la maladie pour être en bonne santé. Ne vous complaisez pas dans les pensées de manque pour avoir l'abondance.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q83",
+      "text": "Il y a plus de douleur à s'accrocher à la pensée de la douleur que dans la situation elle-même.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q84",
+      "text": "Une visualisation mentale de ce que nous voulons, avec l'acceptation complète et la conviction que c'est nôtre maintenant, le manifestera rapidement.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q85",
+      "text": "Quand nous faisons un pas vers le Soi, Il fait neuf pas vers nous.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q86",
+      "text": "L'objectif entier du chemin est de lâcher l'ego. Ce qui reste est votre Soi.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q87",
+      "text": "Les parlements ne peuvent pas corriger le monde ; mais suffisamment d'individus ressentant de l'amour le peuvent.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q88",
+      "text": "Les gens ont besoin les uns des autres et pensent que c'est de l'amour. Il n'y a pas de possessivité ni de clôture de l'autre quand on aime.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q89",
+      "text": "Il n'y a rien de mauvais ; il y a juste des erreurs commises sur le chemin du retour à la Maison.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q90",
+      "text": "Plus vous êtes misérable, moins vous devriez chercher une échappatoire. Plutôt, isolez-vous jusqu'à ce que vous voyiez et lâchiez la raison de cette misère.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q91",
+      "text": "Je lâchais prise et défaisais l'enfer que j'avais créé. En mettant tout en ordre avec l'amour, en essayant d'aimer plutôt que d'être aimé, je devenais de plus en plus libre, de plus en plus heureux.",
+      "author": "Lester Levenson",
+      "source": "No Attachments No Aversions"
+    },
+    {
+      "id": "q92",
+      "text": "L'ego est la source de la naissance et de la mort, et quand l'ego est lâché, vous mourez à la mort.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q93",
+      "text": "Atteignez l'endroit où personne et rien ne peut vous déranger.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q94",
+      "text": "Nous sommes tous des Dieux qui se comportent comme de sacrés idiots.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q95",
+      "text": "Qu'est-ce que la joie ? La joie n'est rien d'autre que le Soi. Quand les désirs sont satisfaits, l'esprit se calme. Cela permet au Soi de briller — et c'est ce que nous appelons la joie.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q96",
+      "text": "Le bonheur devient de plus en plus intense à mesure que nous avançons vers la liberté totale. Vous ne disparaissez pas. Vous ne perdez rien. Vous gagnez davantage.",
+      "author": "Lester Levenson",
+      "source": "Happiness Is Free"
+    },
+    {
+      "id": "q97",
+      "text": "La façade est l'ego. Elle est motivée par notre recherche d'amour. La seule récompense est la frustration, car c'est seulement en aimant que l'on trouve l'amour.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q98",
+      "text": "Certains d'entre nous cherchent le bonheur là où il se trouve et deviennent ainsi plus heureux. Et d'autres le cherchent aveuglément dans le monde où il n'est pas et deviennent plus frustrés.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q99",
+      "text": "Le plus grand bonheur que nous pouvons donner à un partenaire vient de l'aider à mieux comprendre la Vérité.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q100",
+      "text": "Il n'y a pas d'erreur — c'est nous qui le faisons ! Il n'y a pas d'accident — c'est nous qui le faisons !",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q101",
+      "text": "Si vous voyez la misère, c'est votre misère. Quand vous voyez la perfection là où l'imperfection apparente semble être, la misère n'est qu'une apparence.",
+      "author": "Lester Levenson",
+      "source": "Keys to the Ultimate Freedom"
+    },
+    {
+      "id": "q102",
+      "text": "Lâcher prise, c'est comme la cessation soudaine d'une pression intérieure ou le dépôt d'un poids. C'est accompagné d'un soudain sentiment de soulagement et de légèreté, avec un bonheur et une liberté accrus.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q103",
+      "text": "Lâcher prise implique d'être conscient d'un sentiment, de le laisser monter, de rester avec lui et de le laisser suivre son cours sans vouloir le changer ou faire quoi que ce soit à son sujet.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q104",
+      "text": "En lâchant prise, ignorez toutes les pensées. Concentrez-vous sur le sentiment lui-même, pas sur les pensées.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q105",
+      "text": "Ce ne sont pas les pensées ou les faits qui sont douloureux, mais les sentiments qui les accompagnent. Les pensées en elles-mêmes sont indolores, mais pas les sentiments qui les sous-tendent.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q106",
+      "text": "Le point crucial est : en nous changeant nous-mêmes, nous changeons le monde. À mesure que nous devenons plus aimants à l'intérieur, la guérison se produit à l'extérieur.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q107",
+      "text": "Nous avons trois façons principales de gérer les sentiments : la suppression, l'expression et la fuite.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q108",
+      "text": "Les sentiments supprimés et refoulés cherchent une issue et utilisent les événements comme déclencheurs et excuses pour se libérer. Nous sommes comme des cocottes-minute prêtes à libérer de la vapeur quand l'occasion se présente.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q109",
+      "text": "Ce que nous portons en nous colore notre monde. Si nous lâchons la culpabilité, nous verrons l'innocence.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q110",
+      "text": "Le monde ne peut nous voir que comme nous nous voyons nous-mêmes.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q111",
+      "text": "Être dans l'abandon signifie ne pas avoir d'émotion forte à propos d'une chose : « C'est bien si ça arrive, et c'est bien si ça n'arrive pas. »",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q112",
+      "text": "Les sentiments vont et viennent, et finalement vous réalisez que vous n'êtes pas vos sentiments, mais que le vrai « vous » ne fait que les observer.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q113",
+      "text": "La simple bonté envers soi-même et envers tout ce qui vit est la force transformatrice la plus puissante qui soit.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q114",
+      "text": "Les événements de la vie sont des occasions de grandir, de s'épanouir, d'expérimenter et de se développer.",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q115",
+      "text": "À l'intérieur de nous, mais hors de notre conscience, se trouve la vérité que « je sais déjà tout ce que j'ai besoin de savoir ».",
+      "author": "David R. Hawkins",
+      "source": "Letting Go: The Pathway of Surrender"
+    },
+    {
+      "id": "q116",
+      "text": "La force peut apporter la satisfaction, mais seul le pouvoir apporte la joie. La victoire sur les autres nous apporte la satisfaction, mais la victoire sur nous-mêmes nous apporte la joie.",
+      "author": "David R. Hawkins",
+      "source": "Power vs. Force"
+    },
+    {
+      "id": "q117",
+      "text": "Parfois, lâcher les choses est un acte de pouvoir bien plus grand que de les défendre ou de s'y accrocher.",
+      "author": "Eckhart Tolle",
+      "source": "Le pouvoir du moment présent"
+    },
+    {
+      "id": "q118",
+      "text": "L'abandon est la sagesse simple mais profonde de céder au flux de la vie plutôt que de s'y opposer.",
+      "author": "Eckhart Tolle",
+      "source": "Le pouvoir du moment présent"
+    },
+    {
+      "id": "q119",
+      "text": "Abandonnez-vous à ce qui est. Dites « oui » à la vie — et voyez comment la vie commence soudain à travailler pour vous plutôt que contre vous.",
+      "author": "Eckhart Tolle",
+      "source": "Le pouvoir du moment présent"
+    },
+    {
+      "id": "q120",
+      "text": "Parfois, l'abandon signifie renoncer à essayer de comprendre, et devenir à l'aise avec le fait de ne pas savoir.",
+      "author": "Eckhart Tolle",
+      "source": "Nouvelle Terre"
+    },
+    {
+      "id": "q121",
+      "text": "Quand vous lâchez la croyance que vous devriez ou avez besoin de savoir qui vous êtes, que se passe-t-il avec la confusion ? Soudainement, elle disparaît.",
+      "author": "Eckhart Tolle",
+      "source": "Nouvelle Terre"
+    },
+    {
+      "id": "q122",
+      "text": "La vraie liberté vient de la libération de la résistance à ce qui est.",
+      "author": "Eckhart Tolle",
+      "source": "Le pouvoir du moment présent"
+    },
+    {
+      "id": "q123",
+      "text": "L'abandon est la transition intérieure de la résistance à l'acceptation, du non au oui.",
+      "author": "Eckhart Tolle",
+      "source": "Le pouvoir du moment présent"
+    },
+    {
+      "id": "q124",
+      "text": "L'attachement aux choses disparaît de lui-même quand vous ne cherchez plus à vous trouver en elles.",
+      "author": "Eckhart Tolle",
+      "source": "Nouvelle Terre"
+    },
+    {
+      "id": "q125",
+      "text": "Rien de ce qui va et vient n'est vous. « Je m'ennuie. » Qui sait cela ?",
+      "author": "Eckhart Tolle",
+      "source": "Quiétude"
+    },
+    {
+      "id": "q126",
+      "text": "Vous accédez à l'état naturel en lâchant le contrôle, en lâchant l'effort et en vous reposant dans un état de vivacité.",
+      "author": "Adyashanti",
+      "source": "True Meditation"
+    },
+    {
+      "id": "q127",
+      "text": "Lâcher prise, c'est libérer les images et les émotions, les rancunes et les peurs, les attachements et les déceptions du passé qui enchaînent notre esprit.",
+      "author": "Jack Kornfield",
+      "source": null
+    },
+    {
+      "id": "q128",
+      "text": "Lâcher prise ne signifie pas se débarrasser. Lâcher prise signifie laisser être. Quand nous laissons être avec compassion, les choses vont et viennent d'elles-mêmes.",
+      "author": "Jack Kornfield",
+      "source": null
+    },
+    {
+      "id": "q129",
+      "text": "Lâchez la bataille. Respirez calmement et laissez faire. Laissez votre corps se détendre et votre cœur s'adoucir.",
+      "author": "Jack Kornfield",
+      "source": null
+    },
+    {
+      "id": "q130",
+      "text": "En lâchant prise, nous permettons à tout de venir à nous avec grâce.",
+      "author": "Jack Kornfield",
+      "source": null
+    },
+    {
+      "id": "q131",
+      "text": "Quand nous résistons au changement, cela s'appelle souffrir. Mais quand nous pouvons complètement lâcher prise et ne pas lutter contre, quand nous pouvons embrasser l'absence de sol sous nos pieds et nous détendre dans sa qualité dynamique, cela s'appelle l'éveil.",
+      "author": "Pema Chödrön",
+      "source": "Living Beautifully with Uncertainty and Change"
+    },
+    {
+      "id": "q132",
+      "text": "L'essence de la générosité est le lâcher-prise. La douleur est toujours un signe que nous nous accrochons à quelque chose — généralement à nous-mêmes.",
+      "author": "Pema Chödrön",
+      "source": "Comfortable with Uncertainty"
+    },
+    {
+      "id": "q133",
+      "text": "Être pleinement vivant, pleinement humain et complètement éveillé, c'est être continuellement éjecté du nid.",
+      "author": "Pema Chödrön",
+      "source": "When Things Fall Apart"
+    },
+    {
+      "id": "q134",
+      "text": "Chaque fois que vous restez présent avec la peur et l'incertitude, vous lâchez une façon habituelle de chercher la sécurité et le confort.",
+      "author": "Pema Chödrön",
+      "source": "When Things Fall Apart"
+    },
+    {
+      "id": "q135",
+      "text": "Le problème est que le désir de changer est fondamentalement une forme d'agression envers soi-même.",
+      "author": "Pema Chödrön",
+      "source": "The Wisdom of No Escape"
+    },
+    {
+      "id": "q136",
+      "text": "Essayez d'apprendre à laisser simplement être ce qui est.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q137",
+      "text": "La blessure est l'endroit par où la Lumière entre en vous.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q138",
+      "text": "Au moment où vous acceptez les épreuves qui vous ont été données, la porte s'ouvrira.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q139",
+      "text": "Endormez vos pensées, ne les laissez pas jeter une ombre sur la lune de votre cœur. Lâchez la pensée.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q140",
+      "text": "Lâchez vos soucis et soyez parfaitement serein, comme la surface d'un miroir qui ne contient aucune image.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q141",
+      "text": "Hier j'étais intelligent, alors je voulais changer le monde. Aujourd'hui je suis sage, alors je me change moi-même.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q142",
+      "text": "Quand vous vous disputez avec la réalité, vous perdez — mais seulement 100 % du temps.",
+      "author": "Byron Katie",
+      "source": "Aimer ce qui est"
+    },
+    {
+      "id": "q143",
+      "text": "Lâcher prise nous donne la liberté, et la liberté est la seule condition du bonheur.",
+      "author": "Thich Nhat Hanh",
+      "source": "Le cœur des enseignements du Bouddha"
+    },
+    {
+      "id": "q144",
+      "text": "Dans le processus du lâcher-prise, vous perdrez beaucoup de choses du passé, mais vous vous trouverez vous-même.",
+      "author": "Deepak Chopra",
+      "source": null
+    },
+    {
+      "id": "q145",
+      "text": "Quand je lâche ce que je suis, je deviens ce que je pourrais être. Quand je lâche ce que j'ai, je reçois ce dont j'ai besoin.",
+      "author": "Lao-Tseu",
+      "source": "Tao Te King"
+    },
+    {
+      "id": "q146",
+      "text": "Nous devons être prêts à lâcher la vie que nous avons planifiée, afin d'avoir la vie qui nous attend.",
+      "author": "Joseph Campbell",
+      "source": null
+    },
+    {
+      "id": "q147",
+      "text": "Faites tout avec un esprit qui lâche prise. Si vous lâchez un peu, vous aurez un peu de paix ; si vous lâchez beaucoup, vous aurez beaucoup de paix ; si vous lâchez complètement, vous aurez une paix complète.",
+      "author": "Ajahn Chah",
+      "source": null
+    },
+    {
+      "id": "q148",
+      "text": "Le moment où vous cessez de résister est le moment où vous permettez à tout ce que vous avez cherché de vous trouver.",
+      "author": "Michael Singer",
+      "source": "The Untethered Soul"
+    },
+    {
+      "id": "q149",
+      "text": "Ressentez le sentiment mais ne devenez pas l'émotion. Observez-la. Permettez-la. Libérez-la.",
+      "author": "Crystal Andrus",
+      "source": null
+    },
+    {
+      "id": "q150",
+      "text": "Quelque chose de merveilleux se produit quand nous nous abandonnons et aimons simplement. Nous fondons dans un autre monde, un royaume de pouvoir déjà en nous.",
+      "author": "Marianne Williamson",
+      "source": "Un retour à l'amour"
+    },
+    {
+      "id": "q151",
+      "text": "Six mots de conseil : Lâchez ce qui est passé. Lâchez ce qui pourrait venir. Lâchez ce qui se passe maintenant. N'essayez pas de comprendre quoi que ce soit. N'essayez pas de faire arriver quoi que ce soit. Détendez-vous, ici et maintenant, et reposez-vous.",
+      "author": "Tilopa",
+      "source": null
+    }
+  ]
+}

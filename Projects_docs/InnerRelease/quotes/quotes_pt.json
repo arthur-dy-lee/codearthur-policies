@@ -1,0 +1,911 @@
+{
+  "language": "pt",
+  "quotes": [
+    {
+      "id": "q1",
+      "text": "Tudo o que você não consegue aceitar, pode deixar ir. Tudo o que você pode deixar ir, pode ter.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q2",
+      "text": "Emoções são apenas emoções. Elas não são você, não são fatos, e você pode deixá-las ir.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q3",
+      "text": "A resistência é como seguir em frente com o freio puxado. Quando você solta, se sente cada vez mais no comando e cada vez menos vítima do que está acontecendo.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q4",
+      "text": "A dor é um rótulo. O sofrimento vem do rótulo, não da sensação em si.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q5",
+      "text": "Na sua essência, você já é inteiro, já é completo, já é suficiente como é.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q6",
+      "text": "Cada vez que você libera, é apenas uma decisão, uma simples escolha. Você tem essa escolha a cada momento de cada dia.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q7",
+      "text": "Quando você solta, sua mente se aquieta. Você tem mais capacidade de focar, se concentrar, perseverar e sair do seu próprio caminho.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q8",
+      "text": "Apenas tentar manter o 'positivo' em mente não funciona a menos que você solte o 'negativo' — o passado, sua bagagem excessiva.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q9",
+      "text": "A culpa é um inconsciente 'eu te devo' uma punição.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q10",
+      "text": "Quando resistimos algo que não queremos, também estamos resistindo o que queremos. Resistência é resistência de qualquer forma, e é isso que bloqueia o fluxo.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q11",
+      "text": "Diga 'eu sinto raiva' ou 'eu sinto tristeza', que é mais válido do que 'eu sou raiva' ou 'eu sou tristeza'. Você valida sua experiência sem invalidar quem você é.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q12",
+      "text": "Qualquer sentimento que surgir é apenas um sentimento. Não é você.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q13",
+      "text": "Quando queremos mudar algo, estamos resistindo. Ironicamente, é essa mesma resistência que o mantém no lugar.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q14",
+      "text": "Você pode escolher ter razão, ou pode escolher ser livre.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q15",
+      "text": "À medida que você solta a necessidade de controlar, na verdade se sente mais no controle.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q16",
+      "text": "Sua mente é como um computador. Liberar é o botão definitivo de deletar para seus vírus mentais.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q17",
+      "text": "A consciência é o primário, tudo o mais que experimentamos é secundário.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q18",
+      "text": "Já somos aquilo que buscamos. Só precisamos soltar a crença de que não somos.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q19",
+      "text": "A disposição de soltar a necessidade de entender permite que a resposta simplesmente esteja lá.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q20",
+      "text": "O desejo é uma falta. Sempre que desejamos algo, estamos dizendo que não o temos.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q21",
+      "text": "Sua liberdade já está aqui e agora.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q22",
+      "text": "Pare de passar pela vida correndo. Comece a abordar sua vida como se tivesse todo o tempo do mundo. O momento que oferece a maior oportunidade para o autoconhecimento é agora.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q23",
+      "text": "Uma das principais formas de criarmos decepções e infelicidade é nos apegando a pensamentos e sentimentos limitantes.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q24",
+      "text": "Você é a chave para sua própria felicidade, saúde, bem-estar e sucesso. Tudo que você precisa fazer é usar essa chave para desbloquear os segredos da liberdade e felicidade dentro do seu próprio coração.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q25",
+      "text": "Soltar é natural. Entregar-se é natural. Apegar-se é antinatural.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q26",
+      "text": "Na sua essência, existe essa consciência autorradiante que é sua verdadeira natureza. Na nossa essência, não há nenhuma diferença entre o que você é e o que eu sou.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q27",
+      "text": "Não é a luta que leva a manifestar o objetivo. É soltar a luta que torna isso possível.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q28",
+      "text": "Quando você reconhece a verdadeira fonte de quem você é, isso traz um nível completamente diferente de liberdade do sofrimento e uma felicidade inabalável.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q29",
+      "text": "A supressão é manter uma tampa sobre nossas emoções, empurrá-las para baixo, negá-las, reprimi-las e fingir que não existem.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q30",
+      "text": "As pessoas que realmente fazem uma mudança são as que ascendem à coragem ou à aceitação.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q31",
+      "text": "Libere sua necessidade e permita-se ter.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q32",
+      "text": "Se você se sente travado, solte a necessidade de mudar isso ou permita-se sentir do jeito que sente. Qualquer uma das duas ajudará a dissolver a sensação de estagnação.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q33",
+      "text": "Se você mergulhar abaixo das ondas na superfície da consciência, sempre há calmaria.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q34",
+      "text": "Em vez de querer ser amado, permita-se reconhecer que você é amor.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q35",
+      "text": "Solte a necessidade de tornar seus problemas reais novamente.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q36",
+      "text": "Viva a felicidade e seja a felicidade.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q37",
+      "text": "A presença da consciência que você é, é pura acolhida. Sem palavras, ela diz sim a tudo.",
+      "author": "Hale Dwoskin",
+      "source": "A Felicidade É Livre"
+    },
+    {
+      "id": "q38",
+      "text": "Acolha seus pensamentos, suas sensações, seus sentimentos e as histórias que você conta a si mesmo. Simplesmente permita que tudo esteja aqui, e saiba que tudo está bem como está.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q39",
+      "text": "Você já é Ser ilimitado. Cada caminho ou técnica é projetado apenas para torná-lo evidente para si mesmo.",
+      "author": "Hale Dwoskin",
+      "source": "A Felicidade É Livre"
+    },
+    {
+      "id": "q40",
+      "text": "Sua mente pode ser seu pior mestre, mas um ótimo servo.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q41",
+      "text": "Você não pode mudar uma experiência. Mas pode mudar a forma como reage a ela.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q42",
+      "text": "Tudo em que nos focamos, criamos. Então, se estamos realmente com raiva de uma guerra, conflito ou sofrimento, estamos adicionando nossa energia a isso.",
+      "author": "Hale Dwoskin",
+      "source": "O Segredo"
+    },
+    {
+      "id": "q43",
+      "text": "Quando resistimos às coisas em nossa vida, o que resistimos persiste. Qualquer coisa em seu estado mental que você resiste, persiste.",
+      "author": "Hale Dwoskin",
+      "source": "O Método Sedona"
+    },
+    {
+      "id": "q44",
+      "text": "Sem Consciência não há experiência. Ficamos tão envolvidos nas mudanças do corpo-mente-mundo que perdemos a beleza natural e a bem-aventurança do ser puro.",
+      "author": "Hale Dwoskin",
+      "source": "A Felicidade É Livre"
+    },
+    {
+      "id": "q45",
+      "text": "Permita-se explorar a possibilidade de que não há nada separado da Verdade de quem você é.",
+      "author": "Hale Dwoskin",
+      "source": "A Felicidade É Livre"
+    },
+    {
+      "id": "q46",
+      "text": "A Consciência-Ser que você é, é sempre a parte mais íntima de cada experiência.",
+      "author": "Hale Dwoskin",
+      "source": "A Felicidade É Livre"
+    },
+    {
+      "id": "q47",
+      "text": "Você pode ter qualquer coisa que quiser, desde que primeiro solte o desejo de tê-la.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q48",
+      "text": "A mente nunca descobrirá quem você é, porque a mente é o encobrimento de quem você é. É apenas soltando a mente que você descobrirá quem é.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q49",
+      "text": "Em vez de mantê-lo para baixo, você permite que suba e saia. Cada sentimento suprimido está empurrando para subir e sair o tempo todo.",
+      "author": "Lester Levenson",
+      "source": "A Felicidade É Livre"
+    },
+    {
+      "id": "q50",
+      "text": "Toda infelicidade é causada pela nossa tentativa de ser limitados, de ser um ego. Quanto mais somos nosso Ser, mais felizes somos.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q51",
+      "text": "Quando não há esforço, não há ego. Quanto mais esforço, mais ego.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q52",
+      "text": "Todo problema é um problema do ego. Para ter um problema, tem que haver uma frustração do ego.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q53",
+      "text": "Uma vez que você percebe como a forma mais elevada de vida é fácil, é preciso um esforço tremendo para assumir o contrário.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q54",
+      "text": "Quando alguém ama de verdade, nunca pode ser ferido.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q55",
+      "text": "O único método de receber amor é dar amor, porque o que damos deve voltar.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q56",
+      "text": "O amor humano é precisar do outro. O amor divino é dar ao outro.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q57",
+      "text": "A felicidade equivale à capacidade de amar, mais do que a ser amado.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q58",
+      "text": "O amor é um sentimento de dar sem pensar em receber nada em troca.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q59",
+      "text": "Tudo o que nos acontece se origina na mente.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q60",
+      "text": "Nossa verdadeira natureza, o ser real infinito que somos, é simplesmente nós menos a mente.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q61",
+      "text": "A mente é a única limitação que você tem.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q62",
+      "text": "Liberar completamente o ego é ser completamente livre.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q63",
+      "text": "Um sentimento é apenas um programa rodando na mente. Você pode escolher parar o programa.",
+      "author": "Lester Levenson",
+      "source": "A Felicidade É Livre"
+    },
+    {
+      "id": "q64",
+      "text": "Todo problema físico tem uma causa mental. Limpe a mente, e o corpo seguirá.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q65",
+      "text": "A verdade é sempre simples. É o ego que complica tudo.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q66",
+      "text": "Se você não desfaz sua mente e a torna mais silenciosa, então sua mente está ficando mais barulhenta. Portanto, você deve continuar liberando sua mente até chegar ao fim.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q67",
+      "text": "Podemos ter paz se soltarmos a vontade de mudar o passado e de controlar o futuro.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q68",
+      "text": "A miséria é complexidade. A felicidade é simplicidade.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q69",
+      "text": "Cada vez que você se sente miserável, há presente uma excelente oportunidade de dar um grande passo à frente.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q70",
+      "text": "Libere e permita-se ver a perfeição onde a aparente imperfeição parece estar.",
+      "author": "Lester Levenson",
+      "source": "A Felicidade É Livre"
+    },
+    {
+      "id": "q71",
+      "text": "A melhor medida da nossa inteligência é nossa capacidade de ser felizes.",
+      "author": "Lester Levenson",
+      "source": "Sedona Releasing Worldwide"
+    },
+    {
+      "id": "q72",
+      "text": "Se pudéssemos apenas ser, simplesmente ser, poderíamos ver nossa infinitude. Poderíamos ver que somos o todo.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q73",
+      "text": "Se não gostamos do que está acontecendo conosco no mundo, tudo o que temos a fazer é mudar nossa consciência — e o mundo lá fora muda para nós.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q74",
+      "text": "Sentir tristeza por algo é se apegar a isso. Diga: 'Isso é algo que preciso soltar', e imediatamente você se sentirá melhor.",
+      "author": "Lester Levenson",
+      "source": "A Felicidade É Livre"
+    },
+    {
+      "id": "q75",
+      "text": "O caminho para a alegria infinita é através da eliminação do desejo — sem apegos, sem aversões.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q76",
+      "text": "O estado original de todos os Seres é o Amor. Nossos problemas se devem apenas ao encobrimento deste estado natural.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q77",
+      "text": "A verdade pode ser encontrada por um processo de eliminação de pensamentos errôneos, que são pensamentos de limitação. Quando todos os pensamentos de limitação são eliminados, o que resta é nosso Ser natural e ilimitado.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q78",
+      "text": "A paz é não resistência, aceitação completa, identificação com todos, com cada um, com tudo.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q79",
+      "text": "O conceito de amor da grande maioria das pessoas é na verdade ódio, mais ou menos. 'Eu preciso de você, devo ter você, não posso viver sem você, você é meu': tudo isso é não-amor.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q80",
+      "text": "O amor elimina o medo. O amor elimina a ansiedade.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q81",
+      "text": "Crescer é transcender a si mesmo, seu eu habitual, que não é outra coisa senão o ego.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q82",
+      "text": "Não investigue a escuridão para entender a luz. Não se detenha na doença para ser saudável. Não se entregue a pensamentos de falta para ter abundância.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q83",
+      "text": "Há mais dor em se apegar ao pensamento de dor do que na própria situação.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q84",
+      "text": "Uma imagem mental daquilo que queremos, com a aceitação completa e a convicção de que é nosso agora, o trará rapidamente.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q85",
+      "text": "Quando damos um passo em direção ao Ser, Ele dá nove passos em nossa direção.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q86",
+      "text": "Todo o objetivo do caminho é soltar o ego. O que resta é o seu Ser.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q87",
+      "text": "Parlamentos não podem consertar o mundo; mas indivíduos suficientes sentindo amor podem.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q88",
+      "text": "As pessoas precisam umas das outras e acham que é amor. Não há apego nem prisão do outro quando se ama.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q89",
+      "text": "Não há nada de ruim; há apenas cometer erros no caminho de volta para Casa.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q90",
+      "text": "Quanto mais miserável você se sentir, menos deveria procurar uma saída. Em vez disso, isole-se até ver e soltar a razão disso.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q91",
+      "text": "Eu estava soltando e desfazendo o inferno que havia criado. Ao alinhar tudo com amor, tentando amar em vez de tentar ser amado, fui ficando cada vez mais livre, cada vez mais feliz.",
+      "author": "Lester Levenson",
+      "source": "Sem Apegos, Sem Aversões"
+    },
+    {
+      "id": "q92",
+      "text": "O ego é a fonte do nascimento e da morte, e quando o ego é solto, você morre para a morte.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q93",
+      "text": "Alcance o lugar onde ninguém e nada possa perturbá-lo.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q94",
+      "text": "Somos todos deuses agindo como tolos.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q95",
+      "text": "O que é alegria? Alegria não é nada além do Ser. Quando os desejos são satisfeitos, a mente se aquieta. Isso permite que o Ser brilhe — e é isso que chamamos de alegria.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q96",
+      "text": "A felicidade se intensifica cada vez mais à medida que avançamos em direção à liberdade total. Você não desaparece. Você não perde nada. Você ganha mais.",
+      "author": "Lester Levenson",
+      "source": "A Felicidade É Livre"
+    },
+    {
+      "id": "q97",
+      "text": "A fachada é o ego. É motivada pela nossa busca por amor. A única recompensa é a frustração, pois é apenas amando que se encontra o amor.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q98",
+      "text": "Alguns de nós buscam a felicidade onde ela está e como resultado ficam mais felizes. E outros a buscam cegamente no mundo onde ela não está e ficam mais frustrados.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q99",
+      "text": "A maior felicidade que podemos dar a um parceiro vem de ajudá-lo a compreender mais a Verdade.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q100",
+      "text": "Não existe tal coisa como um erro — somos nós que fazemos! Não existe tal coisa como um acidente — somos nós que fazemos!",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q101",
+      "text": "Se você vê miséria, é a sua miséria. Quando você vê a perfeição onde a aparente imperfeição parece estar, a miséria é apenas uma aparência.",
+      "author": "Lester Levenson",
+      "source": "As Chaves da Liberdade Definitiva"
+    },
+    {
+      "id": "q102",
+      "text": "Soltar é como a cessação repentina de uma pressão interna ou o largar de um peso. É acompanhado por uma sensação repentina de alívio e leveza, com maior felicidade e liberdade.",
+      "author": "David R. Hawkins",
+      "source": "Deixar Ir: O Caminho da Entrega"
+    },
+    {
+      "id": "q103",
+      "text": "Soltar envolve estar ciente de um sentimento, deixá-lo surgir, ficar com ele e deixá-lo seguir seu curso sem querer mudá-lo ou fazer qualquer coisa a respeito.",
+      "author": "David R. Hawkins",
+      "source": "Deixar Ir: O Caminho da Entrega"
+    },
+    {
+      "id": "q104",
+      "text": "Ao soltar, ignore todos os pensamentos. Foque no sentimento em si, não nos pensamentos.",
+      "author": "David R. Hawkins",
+      "source": "Deixar Ir: O Caminho da Entrega"
+    },
+    {
+      "id": "q105",
+      "text": "Não são os pensamentos ou os fatos que são dolorosos, mas os sentimentos que os acompanham. Os pensamentos em si são indolores, mas não os sentimentos que os sustentam.",
+      "author": "David R. Hawkins",
+      "source": "Deixar Ir: O Caminho da Entrega"
+    },
+    {
+      "id": "q106",
+      "text": "O ponto crucial é: ao nos mudarmos, mudamos o mundo. À medida que nos tornamos mais amorosos por dentro, a cura acontece por fora.",
+      "author": "David R. Hawkins",
+      "source": "Deixar Ir: O Caminho da Entrega"
+    },
+    {
+      "id": "q107",
+      "text": "Temos três formas principais de lidar com sentimentos: supressão, expressão e fuga.",
+      "author": "David R. Hawkins",
+      "source": "Deixar Ir: O Caminho da Entrega"
+    },
+    {
+      "id": "q108",
+      "text": "Os sentimentos suprimidos e reprimidos buscam uma saída e utilizam os eventos como gatilhos e desculpas para se manifestar. Somos como panelas de pressão prontas para liberar vapor quando surge a oportunidade.",
+      "author": "David R. Hawkins",
+      "source": "Deixar Ir: O Caminho da Entrega"
+    },
+    {
+      "id": "q109",
+      "text": "O que seguramos dentro de nós colore nosso mundo. Se soltarmos a culpa, veremos inocência.",
+      "author": "David R. Hawkins",
+      "source": "Deixar Ir: O Caminho da Entrega"
+    },
+    {
+      "id": "q110",
+      "text": "O mundo só pode nos ver como nós nos vemos.",
+      "author": "David R. Hawkins",
+      "source": "Deixar Ir: O Caminho da Entrega"
+    },
+    {
+      "id": "q111",
+      "text": "Estar entregue significa não ter emoções fortes sobre algo: 'Tudo bem se acontecer, e tudo bem se não acontecer.'",
+      "author": "David R. Hawkins",
+      "source": "Deixar Ir: O Caminho da Entrega"
+    },
+    {
+      "id": "q112",
+      "text": "Os sentimentos vêm e vão, e eventualmente você percebe que não é seus sentimentos, mas que o verdadeiro 'você' está meramente testemunhando-os.",
+      "author": "David R. Hawkins",
+      "source": "Deixar Ir: O Caminho da Entrega"
+    },
+    {
+      "id": "q113",
+      "text": "A simples bondade consigo mesmo e com tudo que vive é a força transformadora mais poderosa de todas.",
+      "author": "David R. Hawkins",
+      "source": "Deixar Ir: O Caminho da Entrega"
+    },
+    {
+      "id": "q114",
+      "text": "Os eventos da vida são oportunidades para crescer, expandir, experimentar e se desenvolver.",
+      "author": "David R. Hawkins",
+      "source": "Deixar Ir: O Caminho da Entrega"
+    },
+    {
+      "id": "q115",
+      "text": "Dentro de nós, mas fora da nossa consciência, está a verdade de que 'eu já sei tudo o que preciso saber'.",
+      "author": "David R. Hawkins",
+      "source": "Deixar Ir: O Caminho da Entrega"
+    },
+    {
+      "id": "q116",
+      "text": "A força pode trazer satisfação, mas só o poder traz alegria. A vitória sobre os outros nos traz satisfação, mas a vitória sobre nós mesmos nos traz alegria.",
+      "author": "David R. Hawkins",
+      "source": "Poder vs. Força"
+    },
+    {
+      "id": "q117",
+      "text": "Às vezes, deixar as coisas irem é um ato de poder muito maior do que defendê-las ou se apegar a elas.",
+      "author": "Eckhart Tolle",
+      "source": "O Poder do Agora"
+    },
+    {
+      "id": "q118",
+      "text": "A entrega é a sabedoria simples, mas profunda, de ceder ao fluxo da vida em vez de se opor a ele.",
+      "author": "Eckhart Tolle",
+      "source": "O Poder do Agora"
+    },
+    {
+      "id": "q119",
+      "text": "Entregue-se ao que é. Diga 'sim' à vida — e veja como a vida de repente começa a trabalhar a seu favor em vez de contra você.",
+      "author": "Eckhart Tolle",
+      "source": "O Poder do Agora"
+    },
+    {
+      "id": "q120",
+      "text": "Às vezes a entrega significa desistir de tentar entender e ficar confortável com o não saber.",
+      "author": "Eckhart Tolle",
+      "source": "Uma Nova Terra"
+    },
+    {
+      "id": "q121",
+      "text": "Quando você solta a crença de que deveria ou precisa saber quem você é, o que acontece com a confusão? De repente ela desaparece.",
+      "author": "Eckhart Tolle",
+      "source": "Uma Nova Terra"
+    },
+    {
+      "id": "q122",
+      "text": "A verdadeira liberdade vem de soltar a resistência ao que é.",
+      "author": "Eckhart Tolle",
+      "source": "O Poder do Agora"
+    },
+    {
+      "id": "q123",
+      "text": "A entrega é a transição interior da resistência para a aceitação, do não para o sim.",
+      "author": "Eckhart Tolle",
+      "source": "O Poder do Agora"
+    },
+    {
+      "id": "q124",
+      "text": "O apego às coisas se dissolve por si só quando você não mais busca se encontrar nelas.",
+      "author": "Eckhart Tolle",
+      "source": "Uma Nova Terra"
+    },
+    {
+      "id": "q125",
+      "text": "Nada que vem e vai é você. 'Estou entediado.' Quem sabe disso?",
+      "author": "Eckhart Tolle",
+      "source": "O Silêncio Fala"
+    },
+    {
+      "id": "q126",
+      "text": "Você chega ao estado natural soltando o controle, soltando o esforço e descansando em um estado de vivacidade.",
+      "author": "Adyashanti",
+      "source": "Meditação Verdadeira"
+    },
+    {
+      "id": "q127",
+      "text": "Soltar é liberar as imagens e as emoções, os rancores e os medos, os apegos e as decepções do passado que prendem nosso espírito.",
+      "author": "Jack Kornfield",
+      "source": null
+    },
+    {
+      "id": "q128",
+      "text": "Soltar não significa se livrar de algo. Soltar significa deixar ser. Quando deixamos ser com compaixão, as coisas vêm e vão por si mesmas.",
+      "author": "Jack Kornfield",
+      "source": null
+    },
+    {
+      "id": "q129",
+      "text": "Solte a batalha. Respire tranquilamente e deixe estar. Deixe seu corpo relaxar e seu coração amolecer.",
+      "author": "Jack Kornfield",
+      "source": null
+    },
+    {
+      "id": "q130",
+      "text": "Ao soltar, permitimos que tudo chegue a nós com graça.",
+      "author": "Jack Kornfield",
+      "source": null
+    },
+    {
+      "id": "q131",
+      "text": "Quando resistimos à mudança, isso se chama sofrimento. Mas quando conseguimos soltar completamente e não lutar contra ela, quando podemos abraçar a falta de chão da nossa situação e relaxar em sua qualidade dinâmica, isso se chama iluminação.",
+      "author": "Pema Chödrön",
+      "source": "Vivendo Lindamente com Incerteza e Mudança"
+    },
+    {
+      "id": "q132",
+      "text": "A essência da generosidade é soltar. A dor é sempre um sinal de que estamos nos apegando a algo — geralmente a nós mesmos.",
+      "author": "Pema Chödrön",
+      "source": "Confortável com a Incerteza"
+    },
+    {
+      "id": "q133",
+      "text": "Estar plenamente vivo, plenamente humano e completamente desperto é ser continuamente jogado para fora do ninho.",
+      "author": "Pema Chödrön",
+      "source": "Quando Tudo Se Desmorona"
+    },
+    {
+      "id": "q134",
+      "text": "Cada vez que você permanece presente com o medo e a incerteza, está soltando uma forma habitual de encontrar segurança e conforto.",
+      "author": "Pema Chödrön",
+      "source": "Quando Tudo Se Desmorona"
+    },
+    {
+      "id": "q135",
+      "text": "O problema é que o desejo de mudar é fundamentalmente uma forma de agressão contra si mesmo.",
+      "author": "Pema Chödrön",
+      "source": "A Sabedoria de Não Fugir"
+    },
+    {
+      "id": "q136",
+      "text": "Tente aprender a deixar que o que é simplesmente seja.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q137",
+      "text": "A ferida é o lugar por onde a Luz entra em você.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q138",
+      "text": "No momento em que você aceita os problemas que lhe foram dados, a porta se abrirá.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q139",
+      "text": "Ponha seus pensamentos para dormir, não deixe que projetem uma sombra sobre a lua do seu coração. Solte o pensamento.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q140",
+      "text": "Solte suas preocupações e tenha o coração completamente límpido, como a face de um espelho que não contém imagens.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q141",
+      "text": "Ontem eu era inteligente, então queria mudar o mundo. Hoje sou sábio, então estou mudando a mim mesmo.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q142",
+      "text": "Quando você discute com a realidade, perde — mas apenas 100% das vezes.",
+      "author": "Byron Katie",
+      "source": "Amando o Que É"
+    },
+    {
+      "id": "q143",
+      "text": "Soltar nos dá liberdade, e a liberdade é a única condição para a felicidade.",
+      "author": "Thich Nhat Hanh",
+      "source": "O Coração dos Ensinamentos de Buda"
+    },
+    {
+      "id": "q144",
+      "text": "No processo de soltar, você perderá muitas coisas do passado, mas encontrará a si mesmo.",
+      "author": "Deepak Chopra",
+      "source": null
+    },
+    {
+      "id": "q145",
+      "text": "Quando solto o que sou, me torno o que posso ser. Quando solto o que tenho, recebo o que preciso.",
+      "author": "Lao Tsé",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q146",
+      "text": "Devemos estar dispostos a soltar a vida que planejamos, para poder viver a vida que nos espera.",
+      "author": "Joseph Campbell",
+      "source": null
+    },
+    {
+      "id": "q147",
+      "text": "Faça tudo com uma mente que solta. Se soltar um pouco, terá um pouco de paz; se soltar muito, terá muita paz; se soltar completamente, terá paz completa.",
+      "author": "Ajahn Chah",
+      "source": null
+    },
+    {
+      "id": "q148",
+      "text": "O momento em que você para de resistir é o momento em que permite que tudo o que você tem buscado o encontre.",
+      "author": "Michael Singer",
+      "source": "A Alma Livre"
+    },
+    {
+      "id": "q149",
+      "text": "Sinta o sentimento, mas não se torne a emoção. Testemunhe. Permita. Libere.",
+      "author": "Crystal Andrus",
+      "source": null
+    },
+    {
+      "id": "q150",
+      "text": "Algo incrível acontece quando nos entregamos e simplesmente amamos. Nos fundimos em outro mundo, um reino de poder que já está dentro de nós.",
+      "author": "Marianne Williamson",
+      "source": "Um Retorno ao Amor"
+    },
+    {
+      "id": "q151",
+      "text": "Seis Palavras de Conselho: Solte o que já passou. Solte o que possa vir. Solte o que está acontecendo agora. Não tente resolver nada. Não tente fazer nada acontecer. Relaxe, agora mesmo, e descanse.",
+      "author": "Tilopa",
+      "source": null
+    }
+  ]
+}
