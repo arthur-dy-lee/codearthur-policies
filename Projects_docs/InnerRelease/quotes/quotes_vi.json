@@ -1,0 +1,911 @@
+{
+  "language": "vi",
+  "quotes": [
+    {
+      "id": "q1",
+      "text": "Bất cứ điều gì bạn không thể chấp nhận, bạn đều có thể buông bỏ. Bất cứ điều gì bạn có thể buông bỏ, bạn đều có thể có được.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q2",
+      "text": "Cảm xúc chỉ là cảm xúc. Chúng không phải là bạn, chúng không phải là sự thật, và bạn có thể buông bỏ chúng.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q3",
+      "text": "Sự kháng cự giống như cảm giác tiến về phía trước mà vẫn đạp phanh. Khi bạn buông bỏ, bạn cảm thấy ngày càng làm chủ được bản thân và ngày càng ít trở thành nạn nhân của những gì đang xảy ra.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q4",
+      "text": "Đau đớn chỉ là một nhãn dán. Nỗi khổ đến từ nhãn dán, không phải từ chính cảm giác.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q5",
+      "text": "Trong sâu thẳm, bạn đã trọn vẹn, đã hoàn hảo, đã đủ đầy như chính bạn đang là.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q6",
+      "text": "Mỗi lần bạn giải phóng, đó chỉ là một quyết định, một lựa chọn đơn giản. Bạn có sự lựa chọn đó trong từng khoảnh khắc của mỗi ngày.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q7",
+      "text": "Khi bạn buông bỏ, tâm trí bạn lắng lại. Bạn có khả năng tập trung, chú tâm, kiên trì và thoát khỏi chính mình tốt hơn.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q8",
+      "text": "Chỉ cố gắng giữ trong đầu những điều 'tích cực' sẽ không hiệu quả trừ khi bạn buông bỏ những điều 'tiêu cực' — quá khứ, những hành lý dư thừa của bạn.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q9",
+      "text": "Cảm giác tội lỗi là một 'tôi nợ bạn' vô thức đòi hỏi sự trừng phạt.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q10",
+      "text": "Khi chúng ta chống lại điều mình không muốn, chúng ta cũng đang chống lại điều mình muốn. Sự kháng cự vẫn là kháng cự dù theo cách nào, và đó chính là thứ đang chặn dòng chảy.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q11",
+      "text": "Hãy nói 'Tôi cảm thấy giận' hoặc 'Tôi cảm thấy buồn', điều này đúng hơn là 'Tôi đang giận' hay 'Tôi đang buồn'. Bạn xác nhận trải nghiệm của mình mà không phủ nhận con người bạn.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q12",
+      "text": "Bất kỳ cảm xúc nào trỗi dậy cũng chỉ là một cảm xúc. Nó không phải là bạn.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q13",
+      "text": "Khi chúng ta muốn thay đổi điều gì đó, chúng ta đang kháng cự nó. Trớ trêu thay, chính sự kháng cự đó lại giữ nó tại chỗ.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q14",
+      "text": "Bạn có thể chọn đúng, hoặc bạn có thể chọn tự do.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q15",
+      "text": "Khi bạn buông bỏ ham muốn kiểm soát, bạn thực sự cảm thấy kiểm soát được nhiều hơn.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q16",
+      "text": "Tâm trí bạn giống như một máy tính. Giải phóng chính là nút xóa tối thượng cho những virus tinh thần của bạn.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q17",
+      "text": "Nhận thức là chính yếu, mọi thứ khác mà chúng ta trải nghiệm đều là thứ yếu.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q18",
+      "text": "Chúng ta đã là điều mà chúng ta đang tìm kiếm. Chúng ta chỉ cần buông bỏ niềm tin rằng mình không phải vậy.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q19",
+      "text": "Sự sẵn lòng buông bỏ ham muốn tìm ra đáp án cho phép đáp án tự xuất hiện.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q20",
+      "text": "Ham muốn là sự thiếu hụt. Mỗi khi chúng ta ham muốn điều gì đó, chúng ta đang nói rằng mình không có nó.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q21",
+      "text": "Sự tự do của bạn đã ở đây và ngay bây giờ.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q22",
+      "text": "Hãy ngừng vội vã lướt qua cuộc sống. Bắt đầu tiếp cận cuộc sống như thể bạn có tất cả thời gian trên đời. Khoảnh khắc mang đến cơ hội lớn nhất cho sự khám phá bản thân chính là bây giờ.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q23",
+      "text": "Một trong những cách chính mà chúng ta tạo ra thất vọng và bất hạnh là bám víu vào những suy nghĩ và cảm xúc giới hạn.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q24",
+      "text": "Bạn là chìa khóa cho hạnh phúc, sức khỏe, an lạc và thành công của chính mình. Tất cả những gì bạn cần làm là dùng chiếc chìa khóa này để mở ra những bí mật của tự do và hạnh phúc trong trái tim bạn.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q25",
+      "text": "Buông bỏ là tự nhiên. Quy phục là tự nhiên. Bám víu mới là không tự nhiên.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q26",
+      "text": "Trong sâu thẳm, có một nhận thức tự tỏa sáng chính là bản chất thật của bạn. Trong cốt lõi, không có sự khác biệt nào giữa bạn và tôi.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q27",
+      "text": "Không phải sự đấu tranh dẫn đến việc hiện thực hóa mục tiêu. Chính việc buông bỏ sự đấu tranh mới làm cho điều đó trở nên khả thi.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q28",
+      "text": "Khi bạn nhận ra nguồn gốc đích thực của con người mình, điều đó mang đến một tầng tự do hoàn toàn khác khỏi khổ đau và một niềm hạnh phúc không gì lay chuyển được.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q29",
+      "text": "Đè nén là đậy nắp lên cảm xúc, đẩy chúng xuống, phủ nhận chúng, kìm nén chúng và giả vờ rằng chúng không tồn tại.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q30",
+      "text": "Những người thực sự tạo ra thay đổi là những người vươn lên đến can đảm hoặc chấp nhận.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q31",
+      "text": "Hãy giải phóng ham muốn của bạn và cho phép bản thân được có.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q32",
+      "text": "Nếu bạn cảm thấy bế tắc, hãy buông bỏ ham muốn thay đổi nó hoặc cho phép mình cảm nhận theo cách bạn đang cảm nhận. Cách nào cũng sẽ giúp hóa giải cảm giác bế tắc.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q33",
+      "text": "Nếu bạn lặn sâu bên dưới những con sóng trên bề mặt ý thức, luôn có sự tĩnh lặng.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q34",
+      "text": "Thay vì muốn được yêu thương, hãy cho phép mình nhận ra rằng bạn chính là tình yêu.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q35",
+      "text": "Hãy buông bỏ ham muốn biến những vấn đề của bạn thành thật trở lại.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q36",
+      "text": "Hãy sống niềm hạnh phúc và là niềm hạnh phúc.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q37",
+      "text": "Sự hiện diện của nhận thức mà bạn đang là chính là sự chào đón thuần khiết. Không cần lời nào, nó nói có với tất cả mọi thứ.",
+      "author": "Hale Dwoskin",
+      "source": "Hạnh phúc là miễn phí"
+    },
+    {
+      "id": "q38",
+      "text": "Hãy chào đón những suy nghĩ, cảm giác, cảm xúc và những câu chuyện mà bạn tự kể cho mình. Chỉ cần cho phép tất cả ở đây, và biết rằng mọi thứ đều ổn như nó đang là.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q39",
+      "text": "Bạn đã là Hiện Hữu vô hạn. Mọi con đường hay kỹ thuật đều chỉ được thiết kế để làm cho bạn trở nên hiển nhiên với chính mình.",
+      "author": "Hale Dwoskin",
+      "source": "Hạnh phúc là miễn phí"
+    },
+    {
+      "id": "q40",
+      "text": "Tâm trí bạn có thể là ông chủ tồi tệ nhất, nhưng lại là người đầy tớ tuyệt vời.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q41",
+      "text": "Bạn không thể thay đổi một trải nghiệm. Nhưng bạn có thể thay đổi cách bạn phản ứng với nó.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q42",
+      "text": "Bất cứ điều gì chúng ta tập trung vào, chúng ta đều tạo ra. Vì vậy nếu chúng ta thực sự tức giận về một cuộc chiến, xung đột hay khổ đau, chúng ta đang thêm năng lượng vào đó.",
+      "author": "Hale Dwoskin",
+      "source": "The Secret"
+    },
+    {
+      "id": "q43",
+      "text": "Khi chúng ta chống lại những thứ trong cuộc sống, điều chúng ta chống lại sẽ tồn tại dai dẳng. Bất cứ điều gì trong trạng thái tinh thần mà bạn kháng cự, đều sẽ kéo dài.",
+      "author": "Hale Dwoskin",
+      "source": "Phương pháp Sedona"
+    },
+    {
+      "id": "q44",
+      "text": "Không có Nhận Thức thì không có trải nghiệm. Chúng ta bị cuốn vào những thay đổi của thân-tâm-thế giới đến nỗi bỏ lỡ vẻ đẹp tự nhiên và niềm an lạc của hiện hữu thuần khiết.",
+      "author": "Hale Dwoskin",
+      "source": "Hạnh phúc là miễn phí"
+    },
+    {
+      "id": "q45",
+      "text": "Hãy cho phép mình khám phá khả năng rằng không có gì tách biệt khỏi Chân Lý của con người bạn.",
+      "author": "Hale Dwoskin",
+      "source": "Hạnh phúc là miễn phí"
+    },
+    {
+      "id": "q46",
+      "text": "Hiện Hữu-Nhận Thức mà bạn đang là luôn là phần thân mật nhất của mọi trải nghiệm.",
+      "author": "Hale Dwoskin",
+      "source": "Hạnh phúc là miễn phí"
+    },
+    {
+      "id": "q47",
+      "text": "Bạn có thể có bất cứ điều gì bạn muốn, miễn là bạn trước tiên buông bỏ ham muốn có nó.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q48",
+      "text": "Tâm trí sẽ không bao giờ khám phá ra bạn là ai bởi vì tâm trí chính là lớp che phủ con người thật của bạn. Chỉ bằng cách buông bỏ tâm trí, bạn mới khám phá ra mình là ai.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q49",
+      "text": "Thay vì đè nén, bạn cho phép nó trỗi lên và thoát ra. Mọi cảm xúc bị kìm nén đều luôn thúc đẩy để trỗi dậy và thoát ra.",
+      "author": "Lester Levenson",
+      "source": "Hạnh phúc là miễn phí"
+    },
+    {
+      "id": "q50",
+      "text": "Mọi bất hạnh đều do chúng ta cố gắng trở nên giới hạn, trở thành bản ngã. Chúng ta càng là Chân Ngã, chúng ta càng hạnh phúc.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q51",
+      "text": "Khi không có nỗ lực, không có bản ngã. Càng nhiều nỗ lực, càng nhiều bản ngã.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q52",
+      "text": "Mọi vấn đề đều là vấn đề của bản ngã. Để có một vấn đề, phải có sự thất vọng của bản ngã.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q53",
+      "text": "Một khi bạn nhận ra lối sống cao nhất nhẹ nhàng biết bao, phải tốn nỗ lực khổng lồ để giả định điều ngược lại.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q54",
+      "text": "Khi ai đó thực sự yêu thương, người ấy không bao giờ có thể bị tổn thương.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q55",
+      "text": "Cách duy nhất để nhận được tình yêu là cho đi tình yêu, bởi vì những gì chúng ta cho đi nhất định sẽ quay trở lại.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q56",
+      "text": "Tình yêu con người là cần đến người kia. Tình yêu thiêng liêng là cho đi người kia.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q57",
+      "text": "Hạnh phúc tương đương với khả năng yêu thương hơn là được yêu thương.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q58",
+      "text": "Tình yêu là cảm giác cho đi mà không nghĩ đến việc nhận lại bất cứ điều gì.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q59",
+      "text": "Bất cứ điều gì xảy ra với chúng ta đều bắt nguồn từ tâm trí.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q60",
+      "text": "Bản chất thật của chúng ta, chân ngã vô hạn, đơn giản là chúng ta trừ đi tâm trí.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q61",
+      "text": "Tâm trí là giới hạn duy nhất mà bạn có.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q62",
+      "text": "Giải phóng hoàn toàn bản ngã chính là hoàn toàn tự do.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q63",
+      "text": "Một cảm xúc chỉ là một chương trình đang chạy trong tâm trí. Bạn có thể chọn dừng chương trình đó.",
+      "author": "Lester Levenson",
+      "source": "Hạnh phúc là miễn phí"
+    },
+    {
+      "id": "q64",
+      "text": "Mọi vấn đề thể chất đều có nguyên nhân từ tinh thần. Làm sạch tâm trí, và cơ thể sẽ theo sau.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q65",
+      "text": "Chân lý luôn đơn giản. Chính bản ngã mới phức tạp hóa mọi thứ.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q66",
+      "text": "Nếu bạn không tháo gỡ tâm trí và làm cho nó tĩnh lặng hơn, thì tâm trí bạn đang trở nên ồn ào hơn. Vì vậy, bạn phải tiếp tục giải phóng tâm trí cho đến khi đạt đến điểm cuối.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q67",
+      "text": "Chúng ta có thể có bình an nếu buông bỏ ham muốn thay đổi quá khứ và ham muốn kiểm soát tương lai.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q68",
+      "text": "Khổ đau là phức tạp. Hạnh phúc là đơn giản.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q69",
+      "text": "Mỗi lần bạn cảm thấy khốn khổ, đó là cơ hội tuyệt vời để tiến một bước lớn về phía trước.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q70",
+      "text": "Hãy giải phóng và cho phép mình nhìn thấy sự hoàn hảo nơi mà sự không hoàn hảo dường như đang hiện hữu.",
+      "author": "Lester Levenson",
+      "source": "Hạnh phúc là miễn phí"
+    },
+    {
+      "id": "q71",
+      "text": "Thước đo tốt nhất cho trí tuệ của chúng ta là khả năng hạnh phúc.",
+      "author": "Lester Levenson",
+      "source": "Sedona Releasing Worldwide"
+    },
+    {
+      "id": "q72",
+      "text": "Nếu chúng ta chỉ có thể hiện hữu, chỉ là, chúng ta có thể thấy sự vô hạn của mình. Chúng ta có thể thấy rằng mình là tất cả.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q73",
+      "text": "Nếu chúng ta không thích những gì đang xảy ra với mình trên thế giới, tất cả những gì chúng ta cần làm là thay đổi ý thức — và thế giới bên ngoài sẽ thay đổi theo.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q74",
+      "text": "Cảm thấy buồn về bất cứ điều gì là đang bám víu vào nó. Hãy nói, 'Đây là điều tôi cần buông bỏ,' và ngay lập tức bạn sẽ cảm thấy tốt hơn.",
+      "author": "Lester Levenson",
+      "source": "Hạnh phúc là miễn phí"
+    },
+    {
+      "id": "q75",
+      "text": "Con đường đến niềm vui vô hạn là qua việc loại bỏ ham muốn — không bám víu, không chống đối.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q76",
+      "text": "Trạng thái nguyên thủy của mọi Chúng Sinh là Tình Yêu. Những phiền não của chúng ta chỉ là do che phủ trạng thái tự nhiên này.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q77",
+      "text": "Chân lý có thể được tìm thấy bằng cách loại bỏ những suy nghĩ sai lầm, tức là những suy nghĩ giới hạn. Khi mọi suy nghĩ giới hạn được loại bỏ, những gì còn lại chính là Chân Ngã tự nhiên, vô hạn của chúng ta.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q78",
+      "text": "Bình an là không kháng cự, chấp nhận hoàn toàn, đồng nhất với tất cả, với mọi người, với mọi thứ.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q79",
+      "text": "Phần lớn khái niệm tình yêu của mọi người thực ra là hận thù, ít hay nhiều. 'Tôi cần bạn, tôi phải có bạn, tôi không thể sống thiếu bạn, bạn là của tôi' — tất cả đều không phải tình yêu.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q80",
+      "text": "Tình yêu xóa bỏ sợ hãi. Tình yêu xóa bỏ lo âu.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q81",
+      "text": "Trưởng thành là vượt qua chính mình, vượt qua cái tôi thói quen, mà đó không gì khác ngoài bản ngã.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q82",
+      "text": "Đừng dò tìm bóng tối để hiểu ánh sáng. Đừng chìm đắm trong bệnh tật để khỏe mạnh. Đừng đắm chìm trong suy nghĩ thiếu thốn để có được sự đầy đủ.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q83",
+      "text": "Bám víu vào ý nghĩ về nỗi đau còn đau hơn chính tình huống gây đau.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q84",
+      "text": "Một hình ảnh tinh thần về điều chúng ta muốn, với sự chấp nhận hoàn toàn và niềm tin rằng nó đã là của chúng ta ngay bây giờ, sẽ mang nó đến nhanh chóng.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q85",
+      "text": "Khi chúng ta tiến một bước về phía Chân Ngã, Ngài tiến chín bước về phía chúng ta.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q86",
+      "text": "Toàn bộ mục đích trên con đường là buông bỏ bản ngã. Những gì còn lại chính là Chân Ngã của bạn.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q87",
+      "text": "Quốc hội không thể sửa đổi thế giới; nhưng đủ những cá nhân cảm nhận tình yêu thì có thể.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q88",
+      "text": "Con người cần nhau và nghĩ đó là tình yêu. Không có sự bám víu hay rào chắn người kia khi ai đó thực sự yêu thương.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q89",
+      "text": "Không có gì xấu cả; chỉ có những sai lầm trên đường trở về Nhà.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q90",
+      "text": "Càng khốn khổ, bạn càng nên ít tìm kiếm lối thoát. Thay vào đó, hãy tĩnh lặng cho đến khi bạn thấy và buông bỏ nguyên nhân của nó.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q91",
+      "text": "Tôi đã buông bỏ và tháo gỡ địa ngục mà tôi đã tạo ra. Bằng cách hòa giải tất cả với tình yêu, cố gắng yêu thương thay vì cố gắng được yêu thương, tôi ngày càng tự do hơn, hạnh phúc hơn.",
+      "author": "Lester Levenson",
+      "source": "No Attachments No Aversions"
+    },
+    {
+      "id": "q92",
+      "text": "Bản ngã là nguồn gốc của sinh tử và khi buông bỏ bản ngã, bạn chết đi với cái chết.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q93",
+      "text": "Hãy đạt đến nơi mà không ai và không điều gì có thể quấy nhiễu bạn.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q94",
+      "text": "Tất cả chúng ta đều là Thượng Đế đang hành xử như những kẻ ngốc.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q95",
+      "text": "Niềm vui là gì? Niềm vui chẳng qua chính là Chân Ngã. Khi ham muốn được thỏa mãn, tâm trí lắng lại. Điều này cho phép Chân Ngã tỏa sáng — và đó là điều chúng ta gọi là niềm vui.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q96",
+      "text": "Niềm hạnh phúc ngày càng mãnh liệt hơn khi chúng ta tiến gần hơn đến tự do hoàn toàn. Bạn không biến mất. Bạn không mất gì cả. Bạn được nhiều hơn.",
+      "author": "Lester Levenson",
+      "source": "Hạnh phúc là miễn phí"
+    },
+    {
+      "id": "q97",
+      "text": "Mặt nạ chính là bản ngã. Nó được thúc đẩy bởi việc tìm kiếm tình yêu. Phần thưởng duy nhất là thất vọng, bởi chỉ bằng cách yêu thương mới tìm thấy tình yêu.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q98",
+      "text": "Một số người đang tìm kiếm hạnh phúc nơi nó hiện hữu và nhờ đó ngày càng hạnh phúc hơn. Những người khác mù quáng tìm kiếm nó ngoài thế giới, nơi nó không có, và ngày càng thất vọng hơn.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q99",
+      "text": "Niềm hạnh phúc lớn nhất mà chúng ta có thể mang đến cho người bạn đời đến từ việc giúp họ hiểu Chân Lý sâu sắc hơn.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q100",
+      "text": "Không có thứ gọi là sai lầm — chúng ta tạo ra nó! Không có thứ gọi là tai nạn — chúng ta tạo ra nó!",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q101",
+      "text": "Nếu bạn thấy khổ đau, đó là khổ đau của bạn. Khi bạn thấy sự hoàn hảo nơi sự không hoàn hảo dường như hiện hữu, khổ đau chỉ là bề ngoài.",
+      "author": "Lester Levenson",
+      "source": "Chìa khóa dẫn đến tự do tối thượng"
+    },
+    {
+      "id": "q102",
+      "text": "Buông bỏ giống như sự chấm dứt đột ngột của một áp lực bên trong hoặc việc đặt xuống một gánh nặng. Nó đi kèm với cảm giác nhẹ nhõm và thoải mái bất ngờ, với niềm hạnh phúc và tự do gia tăng.",
+      "author": "David R. Hawkins",
+      "source": "Buông bỏ: Con đường quy phục"
+    },
+    {
+      "id": "q103",
+      "text": "Buông bỏ bao gồm việc nhận biết một cảm xúc, để nó trỗi lên, ở lại với nó, và để nó diễn ra tự nhiên mà không muốn thay đổi hay làm gì với nó.",
+      "author": "David R. Hawkins",
+      "source": "Buông bỏ: Con đường quy phục"
+    },
+    {
+      "id": "q104",
+      "text": "Khi buông bỏ, hãy bỏ qua mọi suy nghĩ. Tập trung vào chính cảm xúc, không phải vào suy nghĩ.",
+      "author": "David R. Hawkins",
+      "source": "Buông bỏ: Con đường quy phục"
+    },
+    {
+      "id": "q105",
+      "text": "Không phải suy nghĩ hay sự kiện gây đau đớn mà là những cảm xúc đi kèm với chúng. Suy nghĩ tự thân không gây đau, nhưng những cảm xúc ẩn bên dưới thì có.",
+      "author": "David R. Hawkins",
+      "source": "Buông bỏ: Con đường quy phục"
+    },
+    {
+      "id": "q106",
+      "text": "Điểm mấu chốt là: bằng cách thay đổi bản thân, chúng ta thay đổi thế giới. Khi chúng ta trở nên yêu thương hơn bên trong, sự chữa lành xảy ra bên ngoài.",
+      "author": "David R. Hawkins",
+      "source": "Buông bỏ: Con đường quy phục"
+    },
+    {
+      "id": "q107",
+      "text": "Chúng ta có ba cách chính để xử lý cảm xúc: đè nén, biểu lộ và trốn tránh.",
+      "author": "David R. Hawkins",
+      "source": "Buông bỏ: Con đường quy phục"
+    },
+    {
+      "id": "q108",
+      "text": "Những cảm xúc bị đè nén và kìm nén tìm kiếm lối thoát và sử dụng các sự kiện làm kích hoạt và cái cớ để xả ra. Chúng ta như những nồi áp suất sẵn sàng xả hơi khi có cơ hội.",
+      "author": "David R. Hawkins",
+      "source": "Buông bỏ: Con đường quy phục"
+    },
+    {
+      "id": "q109",
+      "text": "Những gì chúng ta ôm giữ bên trong nhuộm màu thế giới của chúng ta. Nếu buông bỏ tội lỗi, chúng ta sẽ thấy sự ngây thơ.",
+      "author": "David R. Hawkins",
+      "source": "Buông bỏ: Con đường quy phục"
+    },
+    {
+      "id": "q110",
+      "text": "Thế giới chỉ có thể nhìn thấy chúng ta như cách chúng ta nhìn thấy chính mình.",
+      "author": "David R. Hawkins",
+      "source": "Buông bỏ: Con đường quy phục"
+    },
+    {
+      "id": "q111",
+      "text": "Quy phục có nghĩa là không có cảm xúc mạnh mẽ nào về một điều: 'Nếu nó xảy ra cũng được, và nếu không xảy ra cũng được.'",
+      "author": "David R. Hawkins",
+      "source": "Buông bỏ: Con đường quy phục"
+    },
+    {
+      "id": "q112",
+      "text": "Cảm xúc đến rồi đi, và cuối cùng bạn nhận ra rằng bạn không phải là cảm xúc, mà 'bạn' thật sự chỉ đang chứng kiến chúng.",
+      "author": "David R. Hawkins",
+      "source": "Buông bỏ: Con đường quy phục"
+    },
+    {
+      "id": "q113",
+      "text": "Sự tử tế đơn giản với bản thân và với mọi sinh linh là sức mạnh chuyển hóa mãnh liệt nhất.",
+      "author": "David R. Hawkins",
+      "source": "Buông bỏ: Con đường quy phục"
+    },
+    {
+      "id": "q114",
+      "text": "Những sự kiện trong đời là cơ hội để trưởng thành, mở rộng, trải nghiệm và phát triển.",
+      "author": "David R. Hawkins",
+      "source": "Buông bỏ: Con đường quy phục"
+    },
+    {
+      "id": "q115",
+      "text": "Bên trong chúng ta, nhưng ngoài tầm nhận thức, là chân lý rằng 'Tôi đã biết tất cả những gì tôi cần biết.'",
+      "author": "David R. Hawkins",
+      "source": "Buông bỏ: Con đường quy phục"
+    },
+    {
+      "id": "q116",
+      "text": "Sức mạnh có thể mang lại sự hài lòng, nhưng chỉ có quyền năng mới mang lại niềm vui. Chiến thắng người khác mang đến sự hài lòng, nhưng chiến thắng bản thân mang đến niềm vui.",
+      "author": "David R. Hawkins",
+      "source": "Power vs. Force"
+    },
+    {
+      "id": "q117",
+      "text": "Đôi khi buông bỏ mọi thứ là một hành động có sức mạnh lớn hơn nhiều so với bảo vệ hay bám víu.",
+      "author": "Eckhart Tolle",
+      "source": "Sức mạnh của hiện tại"
+    },
+    {
+      "id": "q118",
+      "text": "Quy phục là sự khôn ngoan đơn giản nhưng sâu sắc của việc thuận theo thay vì chống lại dòng chảy của cuộc sống.",
+      "author": "Eckhart Tolle",
+      "source": "Sức mạnh của hiện tại"
+    },
+    {
+      "id": "q119",
+      "text": "Hãy quy phục trước những gì đang là. Hãy nói 'có' với cuộc sống — và xem cuộc sống bỗng nhiên bắt đầu vận hành vì bạn thay vì chống lại bạn.",
+      "author": "Eckhart Tolle",
+      "source": "Sức mạnh của hiện tại"
+    },
+    {
+      "id": "q120",
+      "text": "Đôi khi quy phục có nghĩa là từ bỏ cố gắng hiểu, và trở nên thoải mái với việc không biết.",
+      "author": "Eckhart Tolle",
+      "source": "Trái đất mới"
+    },
+    {
+      "id": "q121",
+      "text": "Khi bạn buông bỏ niềm tin rằng bạn nên hoặc cần biết mình là ai, điều gì xảy ra với sự hoang mang? Bỗng nhiên nó biến mất.",
+      "author": "Eckhart Tolle",
+      "source": "Trái đất mới"
+    },
+    {
+      "id": "q122",
+      "text": "Tự do đích thực đến từ việc giải phóng sự kháng cự trước những gì đang là.",
+      "author": "Eckhart Tolle",
+      "source": "Sức mạnh của hiện tại"
+    },
+    {
+      "id": "q123",
+      "text": "Quy phục là sự chuyển đổi nội tâm từ kháng cự sang chấp nhận, từ không sang có.",
+      "author": "Eckhart Tolle",
+      "source": "Sức mạnh của hiện tại"
+    },
+    {
+      "id": "q124",
+      "text": "Sự bám víu vào vạn vật tự rơi rụng khi bạn không còn tìm kiếm chính mình trong chúng.",
+      "author": "Eckhart Tolle",
+      "source": "Trái đất mới"
+    },
+    {
+      "id": "q125",
+      "text": "Không điều gì đến rồi đi là bạn. 'Tôi đang chán.' Ai biết điều này?",
+      "author": "Eckhart Tolle",
+      "source": "Stillness Speaks"
+    },
+    {
+      "id": "q126",
+      "text": "Bạn bước vào trạng thái tự nhiên bằng cách buông bỏ sự kiểm soát, buông bỏ nỗ lực và nghỉ ngơi trong trạng thái sống động.",
+      "author": "Adyashanti",
+      "source": "Thiền định đích thực"
+    },
+    {
+      "id": "q127",
+      "text": "Buông bỏ là giải phóng những hình ảnh và cảm xúc, những oán giận và nỗi sợ, những bám víu và thất vọng của quá khứ đang trói buộc tinh thần chúng ta.",
+      "author": "Jack Kornfield",
+      "source": null
+    },
+    {
+      "id": "q128",
+      "text": "Buông bỏ không có nghĩa là loại bỏ. Buông bỏ có nghĩa là để yên. Khi chúng ta để yên với lòng từ bi, mọi thứ tự đến và đi.",
+      "author": "Jack Kornfield",
+      "source": null
+    },
+    {
+      "id": "q129",
+      "text": "Hãy buông bỏ cuộc chiến. Hít thở nhẹ nhàng và để mọi thứ như nó đang là. Hãy để cơ thể bạn thư giãn và trái tim bạn dịu lại.",
+      "author": "Jack Kornfield",
+      "source": null
+    },
+    {
+      "id": "q130",
+      "text": "Bằng cách buông bỏ, chúng ta cho phép mọi thứ đến với mình trong ân sủng.",
+      "author": "Jack Kornfield",
+      "source": null
+    },
+    {
+      "id": "q131",
+      "text": "Khi chúng ta chống lại sự thay đổi, đó gọi là khổ đau. Nhưng khi chúng ta có thể hoàn toàn buông bỏ và không đấu tranh chống lại nó, khi chúng ta có thể ôm lấy sự bấp bênh và thư giãn trong phẩm chất sống động của nó, đó gọi là giác ngộ.",
+      "author": "Pema Chödrön",
+      "source": "Living Beautifully with Uncertainty and Change"
+    },
+    {
+      "id": "q132",
+      "text": "Bản chất của sự rộng lượng là buông bỏ. Nỗi đau luôn là dấu hiệu cho thấy chúng ta đang bám víu vào điều gì đó — thường là chính mình.",
+      "author": "Pema Chödrön",
+      "source": "Comfortable with Uncertainty"
+    },
+    {
+      "id": "q133",
+      "text": "Để sống trọn vẹn, trọn vẹn là người, và hoàn toàn tỉnh thức, là liên tục bị đẩy ra khỏi tổ.",
+      "author": "Pema Chödrön",
+      "source": "Khi mọi thứ sụp đổ"
+    },
+    {
+      "id": "q134",
+      "text": "Mỗi lần bạn hiện diện với nỗi sợ hãi và sự bất định, bạn đang buông bỏ một cách quen thuộc để tìm kiếm an toàn và thoải mái.",
+      "author": "Pema Chödrön",
+      "source": "Khi mọi thứ sụp đổ"
+    },
+    {
+      "id": "q135",
+      "text": "Vấn đề là ham muốn thay đổi về cơ bản là một hình thức công kích chính mình.",
+      "author": "Pema Chödrön",
+      "source": "The Wisdom of No Escape"
+    },
+    {
+      "id": "q136",
+      "text": "Hãy cố gắng học cách để những gì đang là đơn giản được là.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q137",
+      "text": "Vết thương là nơi Ánh Sáng đi vào bạn.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q138",
+      "text": "Khoảnh khắc bạn chấp nhận những khó khăn mà bạn được trao, cánh cửa sẽ mở ra.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q139",
+      "text": "Hãy đặt suy nghĩ vào giấc ngủ, đừng để chúng phủ bóng lên vầng trăng trong trái tim bạn. Hãy buông bỏ suy nghĩ.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q140",
+      "text": "Hãy buông bỏ lo lắng và trở nên thanh thản hoàn toàn, như mặt gương không chứa bất kỳ hình ảnh nào.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q141",
+      "text": "Hôm qua tôi thông minh, nên tôi muốn thay đổi thế giới. Hôm nay tôi khôn ngoan, nên tôi đang thay đổi chính mình.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q142",
+      "text": "Khi bạn tranh cãi với thực tại, bạn thua — nhưng chỉ 100% mọi lần.",
+      "author": "Byron Katie",
+      "source": "Yêu thương những gì đang là"
+    },
+    {
+      "id": "q143",
+      "text": "Buông bỏ cho chúng ta tự do, và tự do là điều kiện duy nhất cho hạnh phúc.",
+      "author": "Thích Nhất Hạnh",
+      "source": "Trái tim của giáo lý Phật"
+    },
+    {
+      "id": "q144",
+      "text": "Trong quá trình buông bỏ, bạn sẽ mất đi nhiều thứ từ quá khứ, nhưng bạn sẽ tìm thấy chính mình.",
+      "author": "Deepak Chopra",
+      "source": null
+    },
+    {
+      "id": "q145",
+      "text": "Khi tôi buông bỏ điều tôi đang là, tôi trở thành điều tôi có thể là. Khi tôi buông bỏ điều tôi đang có, tôi nhận được điều tôi cần.",
+      "author": "Lão Tử",
+      "source": "Đạo Đức Kinh"
+    },
+    {
+      "id": "q146",
+      "text": "Chúng ta phải sẵn lòng buông bỏ cuộc sống mà chúng ta đã hoạch định, để có được cuộc sống đang chờ đợi chúng ta.",
+      "author": "Joseph Campbell",
+      "source": null
+    },
+    {
+      "id": "q147",
+      "text": "Hãy làm mọi thứ với tâm buông bỏ. Nếu bạn buông bỏ một chút, bạn sẽ có một chút bình an; nếu buông bỏ nhiều, bạn sẽ có nhiều bình an; nếu buông bỏ hoàn toàn, bạn sẽ có bình an hoàn toàn.",
+      "author": "Ajahn Chah",
+      "source": null
+    },
+    {
+      "id": "q148",
+      "text": "Khoảnh khắc bạn ngừng kháng cự chính là khoảnh khắc bạn cho phép mọi thứ bạn đang tìm kiếm tìm đến bạn.",
+      "author": "Michael Singer",
+      "source": "Tâm hồn tự do"
+    },
+    {
+      "id": "q149",
+      "text": "Hãy cảm nhận cảm xúc nhưng đừng trở thành cảm xúc. Hãy chứng kiến nó. Cho phép nó. Giải phóng nó.",
+      "author": "Crystal Andrus",
+      "source": null
+    },
+    {
+      "id": "q150",
+      "text": "Điều kỳ diệu xảy ra khi chúng ta quy phục và chỉ đơn giản yêu thương. Chúng ta tan chảy vào một thế giới khác, một vương quốc quyền năng đã sẵn có bên trong chúng ta.",
+      "author": "Marianne Williamson",
+      "source": "Trở về với tình yêu"
+    },
+    {
+      "id": "q151",
+      "text": "Sáu Lời Khuyên: Buông bỏ những gì đã qua. Buông bỏ những gì có thể đến. Buông bỏ những gì đang xảy ra. Đừng cố tìm hiểu bất cứ điều gì. Đừng cố làm bất cứ điều gì xảy ra. Thư giãn, ngay bây giờ, và nghỉ ngơi.",
+      "author": "Tilopa",
+      "source": null
+    }
+  ]
+}
