@@ -12,14 +12,20 @@ https://arthur-dy-lee.github.io/codearthur-policies/
 
 ```
 codearthur-policies/
-├── en/                             # English (default, covers all regions except China)
-│   ├── privacy.html                # Privacy Policy (20 sections)
-│   ├── terms.html                  # Terms of Service & EULA (30 sections)
-│   └── account-deletion.html       # Account & Data Deletion (8 sections)
-├── zh/                             # 中文版（海外华人用户）
-│   ├── privacy.html                # 隐私政策（20 条）
-│   ├── terms.html                  # 用户协议 & EULA（30 条）
-│   └── account-deletion.html       # 账号与数据删除说明（8 条）
+├── main/
+│   ├── dongyue/           # 对应 Dongyue Li 的账号
+│   │   ├── en/
+│   │   │   ├── privacy.html
+│   │   │   ├── terms.html
+│   │   │   └── account-deletion.html
+│   │   └── zh/            # 如果有中文版
+│   │
+│   └── bozhu/             # 对应 bozhu.li 的账号
+│       ├── en/
+│       │   ├── privacy.html
+│       │   ├── terms.html
+│       │   └── account-deletion.html
+│       └── zh/
 ├── LICENSE
 └── README.md
 ```
@@ -117,14 +123,14 @@ codearthur-policies/
 
 ```
 # 英文版
-https://arthur-dy-lee.github.io/codearthur-policies/en/privacy.html?name=FireApp
-https://arthur-dy-lee.github.io/codearthur-policies/en/terms.html?name=FireApp
-https://arthur-dy-lee.github.io/codearthur-policies/en/account-deletion.html?name=FireApp
+https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/privacy.html?name=FireApp
+https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/terms.html?name=FireApp
+https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/account-deletion.html?name=FireApp
 
 # 中文版
-https://arthur-dy-lee.github.io/codearthur-policies/zh/privacy.html?name=FireApp
-https://arthur-dy-lee.github.io/codearthur-policies/zh/terms.html?name=FireApp
-https://arthur-dy-lee.github.io/codearthur-policies/zh/account-deletion.html?name=FireApp
+https://arthur-dy-lee.github.io/codearthur-policies/bozhu/zh/privacy.html?name=FireApp
+https://arthur-dy-lee.github.io/codearthur-policies/bozhu/zh/terms.html?name=FireApp
+https://arthur-dy-lee.github.io/codearthur-policies/bozhu/zh/account-deletion.html?name=FireApp
 ```
 
 支持两种参数名：`?name=AppName` 或 `?app=AppName`，效果一致。页面内的 JS 会自动替换文档中的 App 名称占位符。
@@ -172,7 +178,7 @@ func openPrivacyPolicy() {
 
 | 字段 | 填入值 |
 |:--|:--|
-| Privacy Policy URL | `https://arthur-dy-lee.github.io/codearthur-policies/en/privacy.html?name=你的AppName` |
+| Privacy Policy URL | `https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/privacy.html?name=你的AppName` |
 
 ### App 内设置页建议展示
 
