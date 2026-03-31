@@ -26,6 +26,7 @@ codearthur-policies/
 │       │   ├── terms.html
 │       │   └── account-deletion.html
 │       └── zh/
+├── Projects_docs/         # 项目策略与方法论文档（非法律条款）
 ├── LICENSE
 └── README.md
 ```
@@ -116,6 +117,14 @@ codearthur-policies/
 | 8. 联系方式 | 开发者名称与邮箱 |
 
 ---
+
+## 项目策略文档（Projects_docs）
+
+除法律条款外，本仓库也维护项目级策略文档，供 matrixApps 矩阵项目复用。
+
+| 文档 | 用途 |
+|:--|:--|
+| `Projects_docs/matrixApps_矩阵广告接入标准模板清单.md` | 矩阵广告接入标准：分层预埋、合规前置、远程开关、监控熔断与发布检查清单 |
 
 ## URL 规则
 
