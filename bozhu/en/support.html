@@ -3,49 +3,97 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Support - SilenceCut</title>
+    <title>Support</title>
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 720px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333; }
         h1 { color: #1a1a1a; }
         h2 { color: #333; margin-top: 2em; }
+        h3 { margin-top: 1.5em; }
         a { color: #0066cc; }
         .contact-box { background: #f5f5f7; border-radius: 12px; padding: 20px; margin: 20px 0; }
+        .template-box { background: #f0f4f8; border: 1px solid #d0d7de; border-radius: 10px; padding: 16px 20px; margin: 16px 0; font-family: "SF Mono", Menlo, Consolas, monospace; font-size: 14px; white-space: pre-wrap; line-height: 1.8; color: #24292f; }
+        .copy-btn { display: inline-block; margin-top: 8px; padding: 6px 16px; background: #0066cc; color: #fff; border: none; border-radius: 6px; font-size: 14px; cursor: pointer; }
+        .copy-btn:hover { background: #0055b3; }
+        .copy-btn.copied { background: #2ea44f; }
+        .note { color: #666; font-size: 14px; margin-top: 8px; }
     </style>
 </head>
 <body>
-    <h1>SilenceCut — Support</h1>
-    <p>Thank you for using SilenceCut! We're here to help if you have any questions or issues.</p>
+    <h1 id="page-title">Support</h1>
+    <p id="page-intro">Thank you for using our app! We're here to help if you have any questions or issues.</p>
 
     <div class="contact-box">
         <h2>Contact Us</h2>
         <p><strong>Email:</strong> <a href="mailto:arthur.dy.lee@gmail.com">arthur.dy.lee@gmail.com</a></p>
-        <p><strong>GitHub Issues:</strong> <a href="https://github.com/arthur-dy-lee/codearthur-policies/issues">Submit a bug report or feature request</a></p>
-        <p>We typically respond within 1–2 business days.</p>
+        <p><strong>GitHub Issues:</strong> <a href="https://github.com/arthur-dy-lee/codearthur-policies/issues" target="_blank">Submit a bug report or feature request</a></p>
     </div>
+
+    <h2>How to Submit Feedback</h2>
+    <p>To help us identify and resolve your issue quickly, please use the following format when submitting feedback via Email or GitHub Issues:</p>
+
+    <div class="template-box" id="template">
+[App Name] Issue Title
+
+App: <span id="tpl-app">AppName</span>
+App Version: (e.g. 1.0)
+Device: (e.g. iPhone 15 Pro)
+iOS Version: (e.g. iOS 17.5)
+
+Description:
+Please describe the issue or suggestion in detail.
+
+Steps to reproduce (if applicable):
+1.
+2.
+3.
+
+Expected behavior:
+
+Actual behavior:
+
+Screenshots (if applicable):
+    </div>
+    <button class="copy-btn" onclick="copyTemplate()">Copy Template</button>
+    <p class="note">Tip: Replace the placeholders with your actual information before submitting.</p>
 
     <h2>Frequently Asked Questions</h2>
 
-    <h3>How does silence detection work?</h3>
-    <p>SilenceCut analyzes your audio track to find segments below a volume threshold. You can adjust the sensitivity using the volume threshold, minimum silence duration, and padding controls.</p>
-
     <h3>Is my data uploaded to any server?</h3>
-    <p>No. All audio and video processing happens entirely on your device. Your files never leave your iPhone or iPad.</p>
-
-    <h3>What is SilenceCut Pro?</h3>
-    <p>Pro unlocks unlimited projects, watermark-free exports, and an ad-free experience. You can subscribe monthly or yearly from the app.</p>
+    <p>No. All processing happens entirely on your device. Your files never leave your iPhone or iPad.</p>
 
     <h3>How do I restore my purchase on a new device?</h3>
-    <p>Open SilenceCut, go to the subscription page, and tap "Restore Purchases". Make sure you're signed in with the same Apple ID.</p>
+    <p>Open the app, go to the subscription or settings page, and tap "Restore Purchases". Make sure you're signed in with the same Apple ID used for the original purchase.</p>
 
-    <h3>What export formats are supported?</h3>
-    <p>Video: MP4, MOV (H.264). Audio: M4A, WAV. You can also choose resolution (Original, 4K, 1080p, 720p) and playback speed (0.5x–2.0x).</p>
+    <h3>Can I get a refund?</h3>
+    <p>Subscriptions and purchases are processed by Apple. To request a refund, visit <a href="https://reportaproblem.apple.com" target="_blank">reportaproblem.apple.com</a>.</p>
 
-    <h3>How do AI subtitles work?</h3>
-    <p>SilenceCut uses on-device Whisper AI models to transcribe speech and burn subtitles into your exported video. No internet connection is required.</p>
+    <h3>What devices are supported?</h3>
+    <p>Our apps require iOS 17.0 or later, compatible with iPhone and iPad.</p>
 
-    <h2>System Requirements</h2>
-    <p>iOS 17.0 or later. Compatible with iPhone and iPad.</p>
+    <p style="margin-top: 3em; color: #888; font-size: 14px;">&copy; 2025 Bozhu Li. All rights reserved.</p>
 
-    <p style="margin-top: 3em; color: #888; font-size: 14px;">© 2025 Bozhu Li. All rights reserved.</p>
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const appName = params.get('name') || 'Our App';
+
+        document.title = 'Support — ' + appName;
+        document.getElementById('page-title').textContent = appName + ' — Support';
+        document.getElementById('page-intro').textContent =
+            'Thank you for using ' + appName + '! We\'re here to help if you have any questions or issues.';
+        document.getElementById('tpl-app').textContent = appName;
+
+        function copyTemplate() {
+            const text = document.getElementById('template').innerText;
+            navigator.clipboard.writeText(text).then(function() {
+                const btn = document.querySelector('.copy-btn');
+                btn.textContent = 'Copied!';
+                btn.classList.add('copied');
+                setTimeout(function() {
+                    btn.textContent = 'Copy Template';
+                    btn.classList.remove('copied');
+                }, 2000);
+            });
+        }
+    </script>
 </body>
 </html>
