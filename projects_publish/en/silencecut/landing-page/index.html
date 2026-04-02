@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SilenceCut — Remove Video Silence Automatically</title>
+    <meta name="description" content="SilenceCut automatically detects and removes silent segments from your videos. Fast, offline, completely private. Available on iPhone and iPad.">
+    <style>
+        :root {
+            --bg: #fafafa;
+            --card: #ffffff;
+            --text: #1d1d1f;
+            --text-secondary: #6e6e73;
+            --accent: #0071e3;
+            --accent-hover: #0077ed;
+            --gradient-start: #1a1a2e;
+            --gradient-end: #16213e;
+            --feature-bg: #f5f5f7;
+            --pro-gradient-start: #667eea;
+            --pro-gradient-end: #764ba2;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+            color: var(--text);
+            background: var(--bg);
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Hero */
+        .hero {
+            background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+            color: #fff;
+            text-align: center;
+            padding: 100px 20px 80px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle at 30% 50%, rgba(102, 126, 234, 0.15) 0%, transparent 50%),
+                        radial-gradient(circle at 70% 80%, rgba(118, 75, 162, 0.1) 0%, transparent 50%);
+            animation: float 20s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translate(0, 0); }
+            50% { transform: translate(-20px, -20px); }
+        }
+
+        .hero-content { position: relative; z-index: 1; max-width: 680px; margin: 0 auto; }
+
+        .app-icon {
+            width: 120px;
+            height: 120px;
+            border-radius: 26px;
+            margin: 0 auto 32px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+
+        .app-icon img {
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+
+        .hero h1 {
+            font-size: 56px;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            margin-bottom: 16px;
+        }
+
+        .hero .tagline {
+            font-size: 22px;
+            color: rgba(255,255,255,0.8);
+            margin-bottom: 40px;
+            line-height: 1.5;
+        }
+
+        .app-store-badge {
+            display: inline-block;
+            transition: transform 0.2s;
+        }
+
+        .app-store-badge:hover { transform: scale(1.05); }
+
+        .app-store-badge img { height: 54px; }
+
+        /* Sections */
+        section { padding: 80px 20px; }
+
+        .container { max-width: 1080px; margin: 0 auto; }
+
+        .section-title {
+            font-size: 40px;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 16px;
+            letter-spacing: -0.02em;
+        }
+
+        .section-subtitle {
+            font-size: 18px;
+            color: var(--text-secondary);
+            text-align: center;
+            margin-bottom: 56px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            line-height: 1.6;
+        }
+
+        /* Features Grid */
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 24px;
+        }
+
+        .feature-card {
+            background: var(--card);
+            border-radius: 20px;
+            padding: 36px 28px;
+            text-align: center;
+            transition: transform 0.3s, box-shadow 0.3s;
+            border: 1px solid rgba(0,0,0,0.04);
+        }
+
+        .feature-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 40px rgba(0,0,0,0.08);
+        }
+
+        .feature-icon {
+            width: 56px;
+            height: 56px;
+            border-radius: 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 20px;
+            font-size: 28px;
+        }
+
+        .feature-icon.detect { background: #e8f5e9; }
+        .feature-icon.tune { background: #e3f2fd; }
+        .feature-icon.subtitle { background: #fce4ec; }
+        .feature-icon.export { background: #fff3e0; }
+        .feature-icon.privacy { background: #f3e5f5; }
+        .feature-icon.speed { background: #e0f7fa; }
+
+        .feature-card h3 {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .feature-card p {
+            font-size: 15px;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        /* How it works */
+        .how-it-works { background: var(--feature-bg); }
+
+        .steps {
+            display: flex;
+            gap: 40px;
+            align-items: flex-start;
+            justify-content: center;
+        }
+
+        .step {
+            text-align: center;
+            flex: 1;
+            max-width: 260px;
+            position: relative;
+        }
+
+        .step:not(:last-child)::after {
+            content: '→';
+            position: absolute;
+            right: -28px;
+            top: 36px;
+            font-size: 28px;
+            color: var(--text-secondary);
+        }
+
+        .step-number {
+            width: 64px;
+            height: 64px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--pro-gradient-start), var(--pro-gradient-end));
+            color: #fff;
+            font-size: 26px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 20px;
+        }
+
+        .step h3 {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+
+        .step p {
+            font-size: 15px;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        /* Pro Section */
+        .pro-section {
+            background: linear-gradient(135deg, var(--pro-gradient-start), var(--pro-gradient-end));
+            color: #fff;
+            text-align: center;
+            border-radius: 0;
+        }
+
+        .pro-section .section-title { color: #fff; }
+        .pro-section .section-subtitle { color: rgba(255,255,255,0.8); }
+
+        .pro-features {
+            display: flex;
+            gap: 32px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .pro-item {
+            background: rgba(255,255,255,0.15);
+            backdrop-filter: blur(10px);
+            border-radius: 16px;
+            padding: 28px 32px;
+            min-width: 200px;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+
+        .pro-item .icon { font-size: 32px; margin-bottom: 12px; }
+        .pro-item h3 { font-size: 17px; font-weight: 600; margin-bottom: 6px; }
+        .pro-item p { font-size: 14px; color: rgba(255,255,255,0.7); }
+
+        /* CTA */
+        .cta {
+            text-align: center;
+            padding: 80px 20px;
+        }
+
+        .cta h2 {
+            font-size: 36px;
+            font-weight: 700;
+            margin-bottom: 16px;
+        }
+
+        .cta p {
+            font-size: 18px;
+            color: var(--text-secondary);
+            margin-bottom: 32px;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            border-top: 1px solid rgba(0,0,0,0.06);
+            color: var(--text-secondary);
+            font-size: 14px;
+        }
+
+        footer a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            margin: 0 12px;
+        }
+
+        footer a:hover { color: var(--accent); }
+
+        .footer-links { margin-bottom: 16px; }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero { padding: 60px 20px 50px; }
+            .hero h1 { font-size: 36px; }
+            .hero .tagline { font-size: 18px; }
+            .section-title { font-size: 28px; }
+            .features-grid { grid-template-columns: 1fr; max-width: 400px; margin: 0 auto; }
+            .steps { flex-direction: column; align-items: center; }
+            .step:not(:last-child)::after { content: '↓'; right: auto; bottom: -28px; top: auto; left: 50%; transform: translateX(-50%); }
+            .pro-features { flex-direction: column; align-items: center; }
+        }
+
+        @media (max-width: 480px) {
+            .hero h1 { font-size: 28px; }
+            section { padding: 60px 16px; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- Hero -->
+<section class="hero">
+    <div class="hero-content">
+        <div class="app-icon"><img src="../icon/AppIcon-1024.png" alt="SilenceCut App Icon"></div>
+        <h1>SilenceCut</h1>
+        <p class="tagline">Automatically remove silent segments from your videos.<br>Fast. Offline. Private.</p>
+        <a class="app-store-badge" href="https://apps.apple.com/app/silencecut/id6760957695" target="_blank">
+            <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+        </a>
+    </div>
+</section>
+
+<!-- How It Works -->
+<section class="how-it-works">
+    <div class="container">
+        <h2 class="section-title">Three Steps. That's It.</h2>
+        <p class="section-subtitle">Import your video, let SilenceCut find the silence, and export a tighter cut.</p>
+        <div class="steps">
+            <div class="step">
+                <div class="step-number">1</div>
+                <h3>Import</h3>
+                <p>Pick a video or audio file from your Photo Library or Files app.</p>
+            </div>
+            <div class="step">
+                <div class="step-number">2</div>
+                <h3>Detect</h3>
+                <p>SilenceCut automatically finds and marks all silent segments in seconds.</p>
+            </div>
+            <div class="step">
+                <div class="step-number">3</div>
+                <h3>Export</h3>
+                <p>Export your polished video as MP4, MOV, or audio-only — ready to share.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Features -->
+<section>
+    <div class="container">
+        <h2 class="section-title">Powerful Features</h2>
+        <p class="section-subtitle">Everything you need to cut the silence and keep the content.</p>
+        <div class="features-grid">
+            <div class="feature-card">
+                <div class="feature-icon detect">🎯</div>
+                <h3>Smart Silence Detection</h3>
+                <p>Adaptive threshold automatically adjusts to your audio's noise floor for accurate results in any recording environment.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon tune">🎛️</div>
+                <h3>Fine-Tune Controls</h3>
+                <p>Adjust volume threshold, minimum silence duration, and padding to get exactly the cut you want.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon subtitle">💬</div>
+                <h3>AI Subtitles</h3>
+                <p>Generate subtitles with on-device Whisper AI models — from Tiny to Large. Burned right into your video, fully offline.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon export">📦</div>
+                <h3>Flexible Export</h3>
+                <p>MP4, MOV, M4A, or WAV. Choose from Original, 4K, 1080p, or 720p resolution. Adjust speed from 0.5x to 2.0x.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon privacy">🔒</div>
+                <h3>100% Private</h3>
+                <p>All processing happens on your device. Your files are never uploaded to any server. No internet required.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon speed">⚡</div>
+                <h3>Lightning Fast</h3>
+                <p>Optimized 16kHz audio analysis delivers results in seconds, even for long recordings.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Pro -->
+<section class="pro-section">
+    <div class="container">
+        <h2 class="section-title">Go Pro</h2>
+        <p class="section-subtitle">Unlock the full SilenceCut experience.</p>
+        <div class="pro-features">
+            <div class="pro-item">
+                <div class="icon">♾️</div>
+                <h3>Unlimited Projects</h3>
+                <p>No limits on how many videos you process.</p>
+            </div>
+            <div class="pro-item">
+                <div class="icon">✨</div>
+                <h3>No Watermark</h3>
+                <p>Export clean, professional videos.</p>
+            </div>
+            <div class="pro-item">
+                <div class="icon">🚫</div>
+                <h3>No Ads</h3>
+                <p>A completely distraction-free experience.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- CTA -->
+<section class="cta">
+    <h2>Ready to Cut the Silence?</h2>
+    <p>Available on iPhone and iPad. Requires iOS 17.0 or later.</p>
+    <a class="app-store-badge" href="https://apps.apple.com/app/silencecut/id6760957695" target="_blank">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+    </a>
+</section>
+
+<!-- Footer -->
+<footer>
+    <div class="footer-links">
+        <a href="https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/privacy.html?name=SilenceCut">Privacy Policy</a>
+        <a href="https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/support.html">Support</a>
+        <a href="mailto:arthur.dy.lee@gmail.com">Contact</a>
+    </div>
+    <p>&copy; 2025 Bozhu Li. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
