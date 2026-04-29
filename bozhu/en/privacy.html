@@ -32,7 +32,7 @@
 <body>
 
 <h1>Privacy Policy</h1>
-<p class="update-date">Last updated: March 7, 2026</p>
+<p class="update-date">Last updated: April 28, 2026</p>
 
 <p>This Privacy Policy describes how <strong class="app-name">Our App</strong> ("the App"), developed by Bozhu Li ("Developer", "we", "us", or "our"), collects, uses, and protects your information. By downloading, installing, or using the App, you agree to the practices described in this policy.</p>
 
@@ -140,9 +140,39 @@
 
 <h2>11. AI-Powered Features</h2>
 
-<p>Some of our Apps may include features powered by artificial intelligence or machine learning. When you use these features:</p>
+<p>Some of our Apps include features powered by artificial intelligence or machine learning (for example, voice-based transaction recording in FIREprint). When you use these features:</p>
+
+<p><strong>11.1 Data Collected and Sent to Third-Party AI Services</strong></p>
+<p>The following categories of data may be sent to a third-party AI service provider for processing:</p>
 <ul>
-    <li>Input data may be sent to third-party AI service providers for processing. This data is used solely to generate results and is not stored by us beyond the processing session.</li>
+    <li><strong>Voice audio data:</strong> When using AI platforms that support real-time audio (such as OpenAI or Google Gemini), raw microphone audio is streamed to the AI service via a secure WebSocket connection for speech recognition and transaction parsing.</li>
+    <li><strong>Transcribed text:</strong> When using AI platforms that do not support real-time audio (such as Anthropic Claude), speech is first converted to text on-device using Apple's built-in speech recognition, and only the resulting text is sent to the AI service.</li>
+    <li><strong>Transaction context:</strong> Your expense and income category names are included in the request to help the AI accurately classify your transaction.</li>
+    <li><strong>Locale information:</strong> General region and date context (not precise location) is included to improve parsing accuracy.</li>
+</ul>
+
+<p><strong>11.2 Third-Party AI Service Providers</strong></p>
+<p>Depending on your configuration within the App, your data may be sent to one of the following third-party AI service providers:</p>
+<ul>
+    <li><strong>OpenAI</strong> (ChatGPT / GPT-4o) — <a href="https://openai.com/privacy">OpenAI Privacy Policy</a></li>
+    <li><strong>Google</strong> (Gemini) — <a href="https://policies.google.com/privacy">Google Privacy Policy</a></li>
+    <li><strong>Anthropic</strong> (Claude) — <a href="https://www.anthropic.com/privacy">Anthropic Privacy Policy</a></li>
+    <li><strong>Custom API provider:</strong> If you configure a custom OpenAI-compatible API endpoint, your data is sent to that provider. You are responsible for reviewing that provider's privacy practices.</li>
+</ul>
+<p>You choose which AI provider to use and provide your own API key. We do not select the provider on your behalf.</p>
+
+<p><strong>11.3 User Consent</strong></p>
+<p>The App requests your explicit consent before sending any data to a third-party AI service. You may decline, in which case the AI-powered feature will not be available. You may revoke your consent at any time in the App's settings (Settings → AI Configuration), after which consent will be requested again before any data is sent.</p>
+
+<p><strong>11.4 Data Retention and Security</strong></p>
+<ul>
+    <li>Data sent to AI services is used solely to generate a structured transaction record (amount, category, date) and is not stored by us beyond the processing session.</li>
+    <li>Your API key is stored only in the device's secure Keychain and is never transmitted to our servers.</li>
+    <li>All communication with AI services uses encrypted connections (HTTPS/WSS).</li>
+</ul>
+
+<p><strong>11.5 Limitations</strong></p>
+<ul>
     <li>AI-generated content (including but not limited to text suggestions, classifications, or analyses) is provided for reference only and does not constitute professional advice of any kind (financial, medical, legal, or otherwise).</li>
     <li>We do not use your personal data to train AI models.</li>
 </ul>
