@@ -2,921 +2,767 @@
   "language": "ko",
   "quotes": [
     {
-      "id": "q9",
-      "text": "마음을 놓아버리고 마음챙김을 하세요. 귀를 닫고 들으세요.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q11",
-      "text": "당신의 과제는 사랑을 찾는 것이 아니라, 사랑에 대항하여 당신 안에 세운 모든 장벽을 찾아내는 것입니다.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q12",
-      "text": "상처가 있는 곳이 바로 빛이 들어오는 곳입니다.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q15",
-      "text": "지금의 자신을 놓아버릴 때, 될 수 있는 자신이 됩니다.",
+      "id": "q001",
+      "text": "가장 높은 선은 물과 같다. 물의 선함은 만물을 이롭게 하면서도 다투지 않고, 모두가 싫어하는 낮은 곳에 머무는 데 있다.",
       "author": "노자",
       "authorOriginal": "Laozi",
       "source": "도덕경"
     },
     {
-      "id": "q16",
-      "text": "스트레스에 대한 가장 강력한 무기는 하나의 생각 대신 다른 생각을 선택할 수 있는 우리의 능력입니다.",
-      "author": "윌리엄 제임스",
-      "authorOriginal": "William James",
-      "source": null
-    },
-    {
-      "id": "q17",
-      "text": "시작이 있는 것은 모두 끝이 있습니다. 그것과 평화를 이루면 모든 것이 잘될 것입니다.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q22",
-      "text": "고통은 피할 수 없습니다. 그러나 괴로움은 선택입니다.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q36",
-      "text": "삶은 붙잡는 것과 놓아버리는 것 사이의 균형입니다.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q38",
-      "text": "평화는 안에서 옵니다. 밖에서 찾지 마세요.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q39",
-      "text": "이 온 우주 누구 못지않게, 당신 자신이 당신의 사랑과 애정을 받을 자격이 있습니다.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q40",
-      "text": "모든 것을 이해하는 것은 모든 것을 용서하는 것입니다.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q41",
-      "text": "우리를 구원하는 것은 우리 자신뿐입니다. 아무도 대신할 수 없고, 아무도 대신해서는 안 됩니다. 우리 스스로 그 길을 걸어야 합니다.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q42",
-      "text": "마음이 전부입니다. 생각하는 대로 됩니다.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q43",
-      "text": "매일 아침 우리는 새로 태어납니다. 오늘 무엇을 하느냐가 가장 중요합니다.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q44",
-      "text": "괴로움의 뿌리는 집착입니다.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q45",
-      "text": "날고 싶다면, 당신을 무겁게 하는 모든 것을 내려놓으세요.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q50",
-      "text": "부족함이 없다는 것을 깨달을 때, 온 세상이 당신의 것이 됩니다.",
+      "id": "q002",
+      "text": "누가 흐린 물을 맑게 할 수 있는가. 가만히 두면 서서히 맑아진다. 누가 고요함을 지킬 수 있는가. 움직임이 흐르게 두면 고요함이 서서히 깃든다.",
       "author": "노자",
       "authorOriginal": "Laozi",
       "source": "도덕경"
     },
     {
-      "id": "q51",
-      "text": "자연은 서두르지 않으나, 모든 것을 이루어냅니다.",
+      "id": "q003",
+      "text": "비움을 극진히 이루고, 고요함을 지치지 않는 마음으로 지켜라. 만물은 저마다 분주히 움직이지만, 끝내 본래의 자리로 돌아감을 우리는 본다.",
       "author": "노자",
       "authorOriginal": "Laozi",
       "source": "도덕경"
     },
     {
-      "id": "q52",
-      "text": "가진 것에 만족하고, 있는 그대로를 기뻐하세요.",
+      "id": "q004",
+      "text": "뿌리로 돌아가는 것을 고요함이라 부른다. 그 고요함은 제 본분을 다하고 돌아왔음을 알리는 것이라 할 수 있다.",
       "author": "노자",
       "authorOriginal": "Laozi",
       "source": "도덕경"
     },
     {
-      "id": "q53",
-      "text": "새로운 시작은 종종 고통스러운 끝으로 위장되어 있습니다.",
-      "author": "노자",
-      "authorOriginal": "Laozi",
-      "source": null
-    },
-    {
-      "id": "q54",
-      "text": "남을 지배하는 자는 강할 수 있으나, 자신을 다스린 자는 더욱 강합니다.",
+      "id": "q005",
+      "text": "남을 아는 이는 슬기롭고, 자기를 아는 이는 밝다. 남을 이기는 이는 힘이 세지만, 자기를 이기는 이는 진정 강하다.",
       "author": "노자",
       "authorOriginal": "Laozi",
       "source": "도덕경"
     },
     {
-      "id": "q55",
-      "text": "마음을 바로잡으면 나머지 삶은 저절로 자리를 잡습니다.",
+      "id": "q006",
+      "text": "자신의 몫에 만족하는 이가 부유하고, 꾸준히 힘써 나아가는 이가 굳센 뜻을 지닌다.",
       "author": "노자",
       "authorOriginal": "Laozi",
-      "source": null
+      "source": "도덕경"
     },
     {
-      "id": "q56",
-      "text": "나무를 심기에 가장 좋은 때는 이십 년 전이었습니다. 두 번째로 좋은 때는 바로 지금입니다.",
-      "author": "중국 속담",
-      "authorOriginal": "Chinese Proverb",
-      "source": null
+      "id": "q007",
+      "text": "부드러움이 굳셈을 이기고, 약함이 강함을 이긴다.",
+      "author": "노자",
+      "authorOriginal": "Laozi",
+      "source": "도덕경"
     },
     {
-      "id": "q57",
-      "text": "당신은 마음에 대한 힘을 가지고 있습니다 — 외부 사건에 대한 것이 아닙니다. 이것을 깨달으면 힘을 찾게 됩니다.",
+      "id": "q008",
+      "text": "세상에서 가장 부드러운 것이 가장 굳센 것을 헤치고 넘어선다. 형체 없는 것이 틈조차 없는 곳으로 스며든다.",
+      "author": "노자",
+      "authorOriginal": "Laozi",
+      "source": "도덕경"
+    },
+    {
+      "id": "q009",
+      "text": "그러므로 만족할 줄 아는 넉넉함이야말로 변치 않고 오래가는 넉넉함이다.",
+      "author": "노자",
+      "authorOriginal": "Laozi",
+      "source": "도덕경"
+    },
+    {
+      "id": "q010",
+      "text": "끊임없는 움직임이 추위를 이기고, 고요함이 더위를 이긴다. 맑음과 고요함이 천하를 바르게 다스린다.",
+      "author": "노자",
+      "authorOriginal": "Laozi",
+      "source": "도덕경"
+    },
+    {
+      "id": "q011",
+      "text": "아름드리나무도 가느다란 싹에서 자랐고, 아홉 층 누대도 한 줌의 흙에서 솟았으며, 천 리 길도 한 걸음에서 시작되었다.",
+      "author": "노자",
+      "authorOriginal": "Laozi",
+      "source": "도덕경"
+    },
+    {
+      "id": "q012",
+      "text": "사람은 태어날 때 부드럽고 여리며, 죽을 때 굳고 단단하다. 그러므로 굳셈과 단단함은 죽음의 벗이요, 부드러움과 여림은 삶의 벗이다.",
+      "author": "노자",
+      "authorOriginal": "Laozi",
+      "source": "도덕경"
+    },
+    {
+      "id": "q013",
+      "text": "세상에 물보다 더 부드럽고 약한 것이 없으나, 굳고 강한 것을 치는 데 있어서는 물을 앞설 것이 없다.",
+      "author": "노자",
+      "authorOriginal": "Laozi",
+      "source": "도덕경"
+    },
+    {
+      "id": "q014",
+      "text": "세상 누구나 부드러움이 굳셈을 이기고 약함이 강함을 이긴다는 것을 알지만, 그것을 실천에 옮길 수 있는 이는 없다.",
+      "author": "노자",
+      "authorOriginal": "Laozi",
+      "source": "도덕경"
+    },
+    {
+      "id": "q015",
+      "text": "군자는 평온하고 여유로우나, 소인은 늘 근심에 휩싸여 있다.",
+      "author": "공자",
+      "authorOriginal": "Confucius",
+      "source": "논어"
+    },
+    {
+      "id": "q016",
+      "text": "지혜로운 이는 물을 즐기고, 어진 이는 산을 즐긴다. 지혜로운 이는 움직이고, 어진 이는 고요하다.",
+      "author": "공자",
+      "authorOriginal": "Confucius",
+      "source": "논어"
+    },
+    {
+      "id": "q017",
+      "text": "남이 나를 알아주지 않음을 근심하지 않고, 내가 남을 알지 못함을 근심하리라.",
+      "author": "공자",
+      "authorOriginal": "Confucius",
+      "source": "논어"
+    },
+    {
+      "id": "q018",
+      "text": "미움은 결코 미움으로 그치지 않으니, 미움은 오직 사랑으로 그친다. 이것이 변치 않는 오랜 이치이다.",
+      "author": "붓다",
+      "authorOriginal": "Buddha",
+      "source": "법구경"
+    },
+    {
+      "id": "q019",
+      "text": "단단한 바위가 바람에 흔들리지 않듯, 지혜로운 이는 비난과 칭찬 속에서도 흔들리지 않는다.",
+      "author": "붓다",
+      "authorOriginal": "Buddha",
+      "source": "법구경"
+    },
+    {
+      "id": "q020",
+      "text": "지혜로운 이는 가르침을 듣고 나면, 깊고 잔잔하며 고요한 호수처럼 맑아진다.",
+      "author": "붓다",
+      "authorOriginal": "Buddha",
+      "source": "법구경"
+    },
+    {
+      "id": "q021",
+      "text": "선한 이는 무슨 일이 닥쳐도 묵묵히 걸어간다. 쾌락을 탐하여 떠들지 않으며, 기쁨에 닿든 슬픔에 닿든 지혜로운 이는 들뜨지도 가라앉지도 않는다.",
+      "author": "붓다",
+      "authorOriginal": "Buddha",
+      "source": "법구경"
+    },
+    {
+      "id": "q022",
+      "text": "그의 생각이 고요하고 그의 말과 행동이 고요하니, 참된 앎으로 자유를 얻어 마침내 고요한 사람이 되었음이라.",
+      "author": "붓다",
+      "authorOriginal": "Buddha",
+      "source": "법구경"
+    },
+    {
+      "id": "q023",
+      "text": "한 사람이 싸움에서 백만의 사람을 이기더라도, 자기 자신을 이기는 이야말로 가장 위대한 승리자이다.",
+      "author": "붓다",
+      "authorOriginal": "Buddha",
+      "source": "법구경"
+    },
+    {
+      "id": "q024",
+      "text": "우리를 미워하는 이들을 미워하지 않으며 행복하게 살자. 미워하는 이들 가운데서도 미움 없이 머물자.",
+      "author": "붓다",
+      "authorOriginal": "Buddha",
+      "source": "법구경"
+    },
+    {
+      "id": "q025",
+      "text": "승리도 패배도 내려놓은 이, 그 만족한 사람이 진정 행복하다.",
+      "author": "붓다",
+      "authorOriginal": "Buddha",
+      "source": "법구경"
+    },
+    {
+      "id": "q026",
+      "text": "고독과 고요함의 단맛을 맛본 이는 두려움에서 벗어나고 허물에서 벗어나, 진리를 들이마시는 단맛을 누린다.",
+      "author": "붓다",
+      "authorOriginal": "Buddha",
+      "source": "법구경"
+    },
+    {
+      "id": "q027",
+      "text": "노여움은 사랑으로 이기고, 악함은 선함으로 이기게 하라. 인색함은 베풂으로 이기고, 거짓은 진실로 이기게 하라.",
+      "author": "붓다",
+      "authorOriginal": "Buddha",
+      "source": "법구경"
+    },
+    {
+      "id": "q028",
+      "text": "'지어진 모든 것은 사라진다.' 이를 알고 보는 이는 괴로움 앞에서 흔들리지 않으니, 이것이 맑음에 이르는 길이다.",
+      "author": "붓다",
+      "authorOriginal": "Buddha",
+      "source": "법구경"
+    },
+    {
+      "id": "q029",
+      "text": "앞엣것을 내려놓고, 뒤엣것을 내려놓고, 가운뎃것마저 내려놓으라. 존재의 저편 기슭으로 건너갈 때, 마음이 온전히 자유로우면 다시는 나고 스러짐에 들지 않으리라.",
+      "author": "붓다",
+      "authorOriginal": "Buddha",
+      "source": "법구경"
+    },
+    {
+      "id": "q030",
+      "text": "당신은 나를 끝없는 존재로 빚으셨으니, 그것이 당신의 기쁨입니다. 이 여린 그릇을 비우고 또 비우시고, 늘 새로운 생명으로 채우십니다.",
+      "author": "타고르",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "기탄잘리"
+    },
+    {
+      "id": "q031",
+      "text": "이제 당신과 마주 앉아 고요히 머물 때입니다. 이 잔잔하고 넘쳐흐르는 여가 속에서 삶을 바치는 노래를 부를 때입니다.",
+      "author": "타고르",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "기탄잘리"
+    },
+    {
+      "id": "q032",
+      "text": "모든 것을 짊어질 수 있는 그분의 손에 당신의 짐을 다 맡기고, 결코 뒤돌아보며 후회하지 마십시오.",
+      "author": "타고르",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "기탄잘리"
+    },
+    {
+      "id": "q033",
+      "text": "당신이 말씀하지 않으시면, 나는 당신의 침묵으로 마음을 채우고 견디겠습니다. 별빛 지새우는 밤처럼, 인내로 고개 숙인 밤처럼, 가만히 머물러 기다리겠습니다.",
+      "author": "타고르",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "기탄잘리"
+    },
+    {
+      "id": "q034",
+      "text": "지친 밤이 오면, 당신께 믿음을 기대어 쉬며 다툼 없이 잠에 나를 맡기게 하소서.",
+      "author": "타고르",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "기탄잘리"
+    },
+    {
+      "id": "q035",
+      "text": "나의 기쁨과 슬픔을 가벼이 견딜 힘을 내게 주소서.",
+      "author": "타고르",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "기탄잘리"
+    },
+    {
+      "id": "q036",
+      "text": "분주한 일이 사방에서 소란을 일으켜 나를 저 너머에서 가로막을 때, 침묵의 주인이시여, 당신의 평화와 안식을 안고 내게 오소서.",
+      "author": "타고르",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "기탄잘리"
+    },
+    {
+      "id": "q037",
+      "text": "나의 구원은 버림에 있지 않습니다. 나는 수천의 기쁜 끈 속에서 자유의 품을 느낍니다.",
+      "author": "타고르",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "기탄잘리"
+    },
+    {
+      "id": "q038",
+      "text": "한가로운 날들 속에서 나는 잃어버린 시간을 슬퍼했습니다. 그러나 주여, 그것은 결코 잃어버린 것이 아닙니다. 당신은 내 삶의 모든 순간을 당신의 손에 거두셨습니다.",
+      "author": "타고르",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "기탄잘리"
+    },
+    {
+      "id": "q039",
+      "text": "낮과 밤이 지나고, 시대가 꽃처럼 피었다 시듭니다. 당신은 기다릴 줄 아십니다.",
+      "author": "타고르",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "기탄잘리"
+    },
+    {
+      "id": "q040",
+      "text": "그러하여 죽음 속에서도 그 미지의 것은 내게 늘 알던 것으로 다가올 것입니다. 내가 이 삶을 사랑하기에, 죽음 또한 사랑하게 되리라는 것을 압니다.",
+      "author": "타고르",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "기탄잘리"
+    },
+    {
+      "id": "q041",
+      "text": "내가 키를 놓을 때, 이제 당신이 그것을 잡으실 때가 왔음을 압니다. 해야 할 일은 그 즉시 이루어질 것입니다. 이 안간힘은 부질없습니다.",
+      "author": "타고르",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "기탄잘리"
+    },
+    {
+      "id": "q042",
+      "text": "사랑은 소유하지 않으며 소유되지도 않으니, 사랑은 그 자체로 충만하다.",
+      "author": "칼릴 지브란",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "예언자"
+    },
+    {
+      "id": "q043",
+      "text": "그러나 함께함 속에도 여백을 두어, 하늘의 바람이 그대들 사이에서 춤추게 하라.",
+      "author": "칼릴 지브란",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "예언자"
+    },
+    {
+      "id": "q044",
+      "text": "그대의 사랑은 줄 수 있어도 그대의 생각은 줄 수 없으니, 그들에게는 그들 자신의 생각이 있기 때문이다.",
+      "author": "칼릴 지브란",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "예언자"
+    },
+    {
+      "id": "q045",
+      "text": "그대 자신을 내어줄 때, 그제야 진정으로 주는 것이다.",
+      "author": "칼릴 지브란",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "예언자"
+    },
+    {
+      "id": "q046",
+      "text": "그대의 기쁨은 가면을 벗은 그대의 슬픔이다. 그대의 웃음이 솟아오르는 바로 그 샘은, 흔히 그대의 눈물로 채워졌던 것이다.",
+      "author": "칼릴 지브란",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "예언자"
+    },
+    {
+      "id": "q047",
+      "text": "슬픔이 그대 존재를 더 깊이 새길수록, 그대는 더 많은 기쁨을 담을 수 있다.",
+      "author": "칼릴 지브란",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "예언자"
+    },
+    {
+      "id": "q048",
+      "text": "그대가 떨쳐내려는 것이 두려움이라면, 그 두려움의 자리는 그대의 가슴속에 있을 뿐, 두려워하는 대상의 손에 있지 않다.",
+      "author": "칼릴 지브란",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "예언자"
+    },
+    {
+      "id": "q049",
+      "text": "그대의 아픔은 그대의 깨달음을 감싼 껍질이 깨어지는 일이다.",
+      "author": "칼릴 지브란",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "예언자"
+    },
+    {
+      "id": "q050",
+      "text": "\"나는 진리를 찾았다\"고 말하지 말고, 차라리 \"나는 하나의 진리를 찾았다\"고 말하라.",
+      "author": "칼릴 지브란",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "예언자"
+    },
+    {
+      "id": "q051",
+      "text": "그런 이들의 가슴속에서 영혼은 율동하는 침묵 가운데 머문다.",
+      "author": "칼릴 지브란",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "예언자"
+    },
+    {
+      "id": "q052",
+      "text": "그러나 그대 안의 영원한 것은 삶의 영원함을 알고 있으니, 어제는 오늘의 기억일 뿐이고 내일은 오늘의 꿈일 뿐임을 안다.",
+      "author": "칼릴 지브란",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "예언자"
+    },
+    {
+      "id": "q053",
+      "text": "삶과 죽음은 하나이니, 강과 바다가 하나인 것과 같다.",
+      "author": "칼릴 지브란",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "예언자"
+    },
+    {
+      "id": "q054",
+      "text": "매 순간 로마인답게, 한 인간답게 굳건히 생각하라. 지금 손에 쥔 일을 온전하고 소박한 품위로, 그리고 애정과 자유와 정의의 마음으로 행하라. 그리고 다른 모든 생각에서 스스로를 놓아주라.",
       "author": "마르쿠스 아우렐리우스",
       "authorOriginal": "Marcus Aurelius",
       "source": "명상록"
     },
     {
-      "id": "q58",
-      "text": "행복한 삶을 위해 필요한 것은 매우 적습니다. 그것은 모두 당신 안에, 생각하는 방식 안에 있습니다.",
+      "id": "q055",
+      "text": "사람은 과거도 미래도 잃을 수 없다. 지니지 않은 것을 누가 그에게서 빼앗을 수 있겠는가.",
       "author": "마르쿠스 아우렐리우스",
       "authorOriginal": "Marcus Aurelius",
       "source": "명상록"
     },
     {
-      "id": "q59",
-      "text": "삶의 행복은 생각의 질에 달려 있습니다.",
+      "id": "q056",
+      "text": "사람이 자기 영혼 속으로 물러나는 것보다 더 고요하고 근심 없는 안식처는 어디에도 없다. 들여다보는 즉시 온전한 평온에 이르는 그런 생각을 마음에 지닌 이라면 더욱 그러하다. 평온이란 다름 아닌 잘 정돈된 마음이다.",
       "author": "마르쿠스 아우렐리우스",
       "authorOriginal": "Marcus Aurelius",
       "source": "명상록"
     },
     {
-      "id": "q60",
-      "text": "훌륭한 사람이 어떠해야 하는지 논쟁하느라 시간을 낭비하지 마세요. 훌륭한 사람이 되세요.",
+      "id": "q057",
+      "text": "우주는 변화요, 삶은 견해이다.",
       "author": "마르쿠스 아우렐리우스",
       "authorOriginal": "Marcus Aurelius",
       "source": "명상록"
     },
     {
-      "id": "q61",
-      "text": "사람이 두려워해야 할 것은 죽음이 아니라, 진정으로 살기 시작하지 않는 것입니다.",
+      "id": "q058",
+      "text": "그대의 견해를 거두어라. 그러면 \"나는 상처받았다\"는 한탄도 사라진다. 그 한탄을 거두어라. 그러면 상처 또한 사라진다.",
       "author": "마르쿠스 아우렐리우스",
       "authorOriginal": "Marcus Aurelius",
       "source": "명상록"
     },
     {
-      "id": "q62",
-      "text": "운명이 묶어주는 것을 받아들이고, 운명이 함께하게 한 사람들을 사랑하세요.",
+      "id": "q059",
+      "text": "시간은 일어나는 일들로 이루어진 강과 같고, 거센 물줄기와 같다. 어떤 것이 눈에 보이는 순간, 그것은 곧 떠내려가고 다른 것이 그 자리에 들어서며, 그것 또한 떠내려갈 것이다.",
       "author": "마르쿠스 아우렐리우스",
       "authorOriginal": "Marcus Aurelius",
       "source": "명상록"
     },
     {
-      "id": "q63",
-      "text": "분노의 결과는 그 원인보다 훨씬 더 참혹합니다.",
+      "id": "q060",
+      "text": "파도가 끊임없이 부딪쳐 부서지는 곶이 되어라. 그것은 굳건히 서서 제 둘레의 사나운 물결을 잠재운다.",
       "author": "마르쿠스 아우렐리우스",
       "authorOriginal": "Marcus Aurelius",
       "source": "명상록"
     },
     {
-      "id": "q64",
-      "text": "우리는 현실보다 상상 속에서 더 자주 고통받습니다.",
+      "id": "q061",
+      "text": "성가시거나 어울리지 않는 온갖 인상을 떨쳐내고 닦아내어, 곧바로 온전한 평온에 드는 일은 얼마나 쉬운가.",
+      "author": "마르쿠스 아우렐리우스",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "명상록"
+    },
+    {
+      "id": "q062",
+      "text": "사람에게는 본래 견뎌낼 수 없도록 지어진 일이란 결코 일어나지 않는다.",
+      "author": "마르쿠스 아우렐리우스",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "명상록"
+    },
+    {
+      "id": "q063",
+      "text": "그대가 늘 품는 생각, 그것이 곧 그대 마음의 빛깔이 된다. 영혼은 생각으로 물들기 때문이다.",
+      "author": "마르쿠스 아우렐리우스",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "명상록"
+    },
+    {
+      "id": "q064",
+      "text": "어쩔 수 없는 사정에 마음이 흐트러졌거든, 어서 자신에게로 돌아오라. 그 강요가 끝난 뒤에도 가락이 어긋난 채로 머물지 말라.",
+      "author": "마르쿠스 아우렐리우스",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "명상록"
+    },
+    {
+      "id": "q065",
+      "text": "어떤 일에 대해 견해를 갖지 않고 영혼을 어지럽히지 않는 것은 우리의 힘 안에 있다. 사물 자체에는 우리의 판단을 빚어낼 본디의 힘이 없기 때문이다.",
+      "author": "마르쿠스 아우렐리우스",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "명상록"
+    },
+    {
+      "id": "q066",
+      "text": "그대 자신을 지금 이 순간에 머물게 하라.",
+      "author": "마르쿠스 아우렐리우스",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "명상록"
+    },
+    {
+      "id": "q067",
+      "text": "안을 들여다보라. 안에는 선의 샘이 있어, 그대가 파내려고만 한다면 끊임없이 솟아오를 것이다.",
+      "author": "마르쿠스 아우렐리우스",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "명상록"
+    },
+    {
+      "id": "q068",
+      "text": "어떤 것은 우리의 힘 안에 있고, 어떤 것은 우리의 힘 밖에 있다.",
+      "author": "에픽테토스",
+      "authorOriginal": "Epictetus",
+      "source": "엥케이리디온"
+    },
+    {
+      "id": "q069",
+      "text": "흙으로 빚은 그릇을 사랑하거든, 내가 사랑하는 것은 흙으로 빚은 그릇이라고 말하라. 그러면 그것이 깨어져도 마음이 흔들리지 않으리라.",
+      "author": "에픽테토스",
+      "authorOriginal": "Epictetus",
+      "source": "엥케이리디온"
+    },
+    {
+      "id": "q070",
+      "text": "사람을 어지럽히는 것은 일어난 일이 아니라, 그 일에 대한 견해이다.",
+      "author": "에픽테토스",
+      "authorOriginal": "Epictetus",
+      "source": "엥케이리디온"
+    },
+    {
+      "id": "q071",
+      "text": "일이 그대 바람대로 일어나기를 바라지 말고, 일어나는 그대로를 바라라. 그러면 삶이 평온히 흐를 것이다.",
+      "author": "에픽테토스",
+      "authorOriginal": "Epictetus",
+      "source": "엥케이리디온"
+    },
+    {
+      "id": "q072",
+      "text": "병은 몸에는 걸림돌이 되어도, 의지가 스스로 그러기를 택하지 않는 한 의지에는 걸림돌이 되지 않는다.",
+      "author": "에픽테토스",
+      "authorOriginal": "Epictetus",
+      "source": "엥케이리디온"
+    },
+    {
+      "id": "q073",
+      "text": "어떤 것에 대해서도 잃었다고 말하지 말고, 돌려주었다고 말하라.",
+      "author": "에픽테토스",
+      "authorOriginal": "Epictetus",
+      "source": "엥케이리디온"
+    },
+    {
+      "id": "q074",
+      "text": "삶에서는 잔치 자리에 앉은 듯이 처신해야 함을 기억하라.",
+      "author": "에픽테토스",
+      "authorOriginal": "Epictetus",
+      "source": "엥케이리디온"
+    },
+    {
+      "id": "q075",
+      "text": "그대를 헐뜯거나 때리는 사람이 그대를 모욕하는 것이 아니라, 그것이 모욕이라 여기는 그대의 견해가 그러함을 기억하라.",
+      "author": "에픽테토스",
+      "authorOriginal": "Epictetus",
+      "source": "엥케이리디온"
+    },
+    {
+      "id": "q076",
+      "text": "한번 틈을 두고 천천히 머무르면, 그대는 더 쉽게 자신을 다스리게 되리라.",
+      "author": "에픽테토스",
+      "authorOriginal": "Epictetus",
+      "source": "엥케이리디온"
+    },
+    {
+      "id": "q077",
+      "text": "모든 것에는 두 개의 손잡이가 있으니, 하나는 짊어질 수 있는 손잡이요, 다른 하나는 짊어질 수 없는 손잡이이다.",
+      "author": "에픽테토스",
+      "authorOriginal": "Epictetus",
+      "source": "엥케이리디온"
+    },
+    {
+      "id": "q078",
+      "text": "삶의 어느 자리에서나 그대는 즐거움과 쉼과 기쁨을 찾으리라. 다만 불행을 미워하기보다 가벼이 여기려는 마음이 있을 때 그러하다.",
       "author": "세네카",
       "authorOriginal": "Seneca",
-      "source": "스토아 철학자의 편지"
+      "source": "마음의 평정에 관하여"
     },
     {
-      "id": "q65",
-      "text": "진정한 행복은 미래에 대한 불안한 의존 없이 현재를 즐기는 것입니다.",
+      "id": "q079",
+      "text": "삶의 모든 자리가 덧없음을 알라. 누구에게든 일어났던 일은 그대에게도 일어날 수 있음을 알라.",
       "author": "세네카",
       "authorOriginal": "Seneca",
-      "source": null
+      "source": "마음의 평정에 관하여"
     },
     {
-      "id": "q66",
-      "text": "우리에게 살 시간이 짧은 것이 아니라, 우리가 너무 많은 시간을 낭비하는 것입니다.",
+      "id": "q080",
+      "text": "군중에 지쳤을 때는 고독이 우리를 낫게 하고, 고독에 지쳤을 때는 군중이 우리를 낫게 한다.",
+      "author": "세네카",
+      "authorOriginal": "Seneca",
+      "source": "마음의 평정에 관하여"
+    },
+    {
+      "id": "q081",
+      "text": "사람의 마음에는 쉼이 있어야 한다. 마음은 쉬고 난 뒤에 더 맑고 더 굳세게 일어난다.",
+      "author": "세네카",
+      "authorOriginal": "Seneca",
+      "source": "마음의 평정에 관하여"
+    },
+    {
+      "id": "q082",
+      "text": "이러하다. 우리는 짧은 삶을 받는 것이 아니라, 삶을 짧게 만든다. 우리에게 날이 모자란 것이 아니라, 우리가 날을 헛되이 흘려보내는 것이다.",
       "author": "세네카",
       "authorOriginal": "Seneca",
       "source": "인생의 짧음에 관하여"
     },
     {
-      "id": "q67",
-      "text": "행운은 준비가 기회를 만났을 때 일어나는 것입니다.",
+      "id": "q083",
+      "text": "자신의 모든 시간을 제 뜻대로 쓰고, 하루하루를 한평생을 짜듯 정돈하는 이는 내일을 바라지도 두려워하지도 않는다.",
       "author": "세네카",
       "authorOriginal": "Seneca",
-      "source": null
+      "source": "인생의 짧음에 관하여"
     },
     {
-      "id": "q68",
-      "text": "어려움은 노동이 몸을 단련하듯 마음을 강하게 합니다.",
-      "author": "세네카",
-      "authorOriginal": "Seneca",
-      "source": null
+      "id": "q084",
+      "text": "나는 있는 그대로 존재하니, 그것으로 충분하다.\n세상 누구도 알아주지 않아도 나는 만족하여 앉아 있고,\n모두가 알아준다 해도 나는 만족하여 앉아 있다.",
+      "author": "휘트먼",
+      "authorOriginal": "Walt Whitman",
+      "source": "풀잎"
     },
     {
-      "id": "q69",
-      "text": "중요한 것은 당신에게 무슨 일이 일어나는가가 아니라, 그것에 어떻게 반응하느냐입니다.",
-      "author": "에픽테토스",
-      "authorOriginal": "Epictetus",
-      "source": null
+      "id": "q085",
+      "text": "나는 생각했던 것보다 더 크고 더 선하다.\n내 안에 이토록 많은 선함이 담겨 있는 줄 미처 몰랐다.",
+      "author": "휘트먼",
+      "authorOriginal": "Walt Whitman",
+      "source": "풀잎"
     },
     {
-      "id": "q70",
-      "text": "행복에 이르는 길은 오직 하나, 우리의 힘이 미치지 않는 것에 대한 걱정을 그만두는 것입니다.",
-      "author": "에픽테토스",
-      "authorOriginal": "Epictetus",
-      "source": null
+      "id": "q086",
+      "text": "내가 나 자신과 어긋나는가?\n그래, 좋다, 나는 나 자신과 어긋난다.\n(나는 크고, 내 안에 무수한 것을 품고 있으니.)",
+      "author": "휘트먼",
+      "authorOriginal": "Walt Whitman",
+      "source": "풀잎"
     },
     {
-      "id": "q71",
-      "text": "먼저 자신이 어떤 사람이 되고 싶은지 말하세요. 그리고 해야 할 일을 하세요.",
-      "author": "에픽테토스",
-      "authorOriginal": "Epictetus",
-      "source": null
+      "id": "q087",
+      "text": "가벼운 발걸음 가벼운 마음으로 나는 열린 길로 나선다.\n건강하고 자유로이, 온 세상을 앞에 두고,\n내 마음 닿는 곳 어디로든 이어지는 길고 누런 길을 앞에 두고.",
+      "author": "휘트먼",
+      "authorOriginal": "Walt Whitman",
+      "source": "풀잎"
     },
     {
-      "id": "q72",
-      "text": "당신의 힘 안에 있는 것을 최대한 활용하고, 나머지는 일어나는 대로 받아들이세요.",
-      "author": "에픽테토스",
-      "authorOriginal": "Epictetus",
-      "source": null
+      "id": "q088",
+      "text": "나는 나 자신을 기리고, 나 자신을 노래한다.\n내가 받아들이는 것을 그대도 받아들이리니,\n내게 속한 모든 티끌이 그대에게도 똑같이 속하기에.",
+      "author": "휘트먼",
+      "authorOriginal": "Walt Whitman",
+      "source": "풀잎"
     },
     {
-      "id": "q73",
-      "text": "자기 자신을 다스리지 못하는 사람은 자유로운 사람이 아닙니다.",
-      "author": "에픽테토스",
-      "authorOriginal": "Epictetus",
-      "source": null
+      "id": "q089",
+      "text": "그대 자신을 믿으라. 모든 가슴은 그 무쇠 현에 떨리며 울린다.",
+      "author": "에머슨",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "자기신뢰"
     },
     {
-      "id": "q74",
-      "text": "폐허가 있는 곳에 보물에 대한 희망이 있습니다.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q090",
+      "text": "그대에게 평화를 가져다줄 수 있는 것은 오직 그대 자신뿐이다. 평화를 가져다줄 수 있는 것은 오직 신념의 승리뿐이다.",
+      "author": "에머슨",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "자기신뢰"
     },
     {
-      "id": "q75",
-      "text": "슬퍼하지 마세요. 잃어버린 것은 무엇이든 다른 형태로 돌아옵니다.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q091",
+      "text": "어리석은 일관성은 좁은 마음이 떠받드는 헛것이니, 자잘한 정치가와 철학자와 신학자들이 떠받든다.",
+      "author": "에머슨",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "자기신뢰"
     },
     {
-      "id": "q76",
-      "text": "어제 나는 영리했기에 세상을 바꾸려 했습니다. 오늘 나는 지혜로워져 나 자신을 바꾸고 있습니다.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q092",
+      "text": "세상 속에서 세상의 견해를 따라 사는 것은 쉽고, 고독 속에서 자기 견해를 따라 사는 것도 쉽다. 그러나 위대한 이는 군중 한가운데서도 더없이 온화하게 고독의 독립을 지키는 사람이다.",
+      "author": "에머슨",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "자기신뢰"
     },
     {
-      "id": "q77",
-      "text": "침묵은 신의 언어이며, 나머지는 모두 서투른 번역입니다.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q093",
+      "text": "그대가 놓친 모든 것에는 대신 얻은 무언가가 있고, 그대가 얻는 모든 것에는 잃는 무언가가 있다.",
+      "author": "에머슨",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "보상"
     },
     {
-      "id": "q78",
-      "text": "당신의 삶에 불을 지피세요. 당신의 불꽃을 부채질해 줄 사람을 찾으세요.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q094",
+      "text": "그대 자신을 고수하라. 결코 흉내 내지 말라.",
+      "author": "에머슨",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "자기신뢰"
     },
     {
-      "id": "q79",
-      "text": "세상이라는 정원에는 한계가 없습니다, 당신의 마음속을 제외하고는.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q095",
+      "text": "희망은 깃털 달린 것,\n영혼에 깃들어,\n가사 없는 노래를 부르며,\n결코 멈추지 않는다.",
+      "author": "디킨슨",
+      "authorOriginal": "Emily Dickinson",
+      "source": "시집"
     },
     {
-      "id": "q80",
-      "text": "당신이 찾는 것이 당신을 찾고 있습니다.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q096",
+      "text": "내가 한 가슴이 무너지는 것을 막을 수 있다면,\n나는 헛되이 살지 않으리.\n내가 한 생의 아픔을 덜어주거나,\n한 고통을 식혀주거나,\n기진한 한 마리 울새를\n둥지로 되돌려 보낼 수 있다면,\n나는 헛되이 살지 않으리.",
+      "author": "디킨슨",
+      "authorOriginal": "Emily Dickinson",
+      "source": "시집"
     },
     {
-      "id": "q81",
-      "text": "당신의 영혼을 설레게 하는 모든 부름에 응답하세요.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q097",
+      "text": "영혼은 제 벗을 골라 들이고는,\n문을 닫는다.\n그 거룩한 결단에는\n더 이상 끼어들지 말라.",
+      "author": "디킨슨",
+      "authorOriginal": "Emily Dickinson",
+      "source": "시집"
     },
     {
-      "id": "q82",
-      "text": "나무처럼 되어 죽은 잎사귀를 떨어뜨리세요.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q098",
+      "text": "나는 깊이 있게 살고자 숲으로 갔다. 삶의 본질만을 마주하고, 삶이 가르치려는 바를 배울 수 있을지 보고, 죽음에 이르렀을 때 내가 살지 못했음을 깨닫지 않으려고.",
+      "author": "소로",
+      "authorOriginal": "Henry David Thoreau",
+      "source": "월든"
     },
     {
-      "id": "q83",
-      "text": "옳고 그름의 관념 너머에 하나의 들판이 있습니다. 거기서 만납시다.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q099",
+      "text": "적어도 나는 이 시도로 이것을 배웠다. 누구든 자기 꿈을 향해 자신 있게 나아가고, 마음에 그린 삶을 살려고 애쓴다면, 여느 때에는 짐작도 못 한 성공을 만나게 되리라는 것을.",
+      "author": "소로",
+      "authorOriginal": "Henry David Thoreau",
+      "source": "월든"
     },
     {
-      "id": "q84",
-      "text": "그렇게 작은 척 그만하세요. 당신은 황홀한 움직임 속의 우주입니다.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q85",
-      "text": "감사를 외투처럼 걸치면 삶의 모든 구석구석을 채워줄 것입니다.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q86",
-      "text": "진정으로 사랑하는 것의 묘한 끌림에 조용히 이끌려 보세요.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q87",
-      "text": "나는 광기의 끝에서 살아왔습니다, 이유를 알고 싶어서, 문을 두드리며. 문이 열립니다. 나는 안에서 두드리고 있었던 것입니다.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q88",
-      "text": "당신은 날개를 가지고 태어났는데, 왜 기어 다니며 살려 하나요?",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q89",
-      "text": "남들에게 일이 어떻게 되었는지에 대한 이야기에 만족하지 마세요. 당신만의 신화를 펼치세요.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q100",
+      "text": "어떤 이가 동행들과 보조를 맞추지 못한다면, 그것은 아마 다른 북소리를 듣고 있기 때문이리라. 그가 듣는 그 가락에, 그 박자가 어떠하든 아무리 멀리서 들려오든, 발을 맞추게 하라.",
+      "author": "소로",
+      "authorOriginal": "Henry David Thoreau",
+      "source": "월든"
     },
     {
       "id": "q101",
-      "text": "당신은 바다 속의 한 방울이 아닙니다. 당신은 한 방울 속의 바다 전체입니다.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
+      "text": "책임의 무게를 내려놓고, 손에 쥔 것을 놓아주며, 그대 운명을 보살피는 일을 더 높은 힘에 맡기라. 그 모든 일이 어찌 되든 진실로 무심해지라. 그러면 온전한 내면의 안식을 얻을 뿐 아니라, 흔히 그 위에 더하여, 진심으로 내려놓았다 여겼던 바로 그 좋은 것들까지 얻게 됨을 알게 되리라.",
+      "author": "윌리엄 제임스",
+      "authorOriginal": "William James",
+      "source": "종교적 경험의 다양성"
     },
     {
-      "id": "q145",
-      "text": "우리가 내면에서 이루는 것이 외부 현실을 바꿀 것입니다.",
-      "author": "플루타르코스",
-      "authorOriginal": "Plutarch",
-      "source": null
-    },
-    {
-      "id": "q146",
-      "text": "자기 자신이 되세요. 다른 모든 사람은 이미 다 가져갔으니까요.",
+      "id": "q102",
+      "text": "슬픔이 있는 곳에 거룩한 땅이 있다.",
       "author": "오스카 와일드",
       "authorOriginal": "Oscar Wilde",
-      "source": null
+      "source": "옥중기"
     },
     {
-      "id": "q150",
-      "text": "자기 자신을 아는 것이 모든 지혜의 시작입니다.",
-      "author": "아리스토텔레스",
-      "authorOriginal": "Aristotle",
-      "source": null
-    },
-    {
-      "id": "q151",
-      "text": "우주의 모든 것이 당신 안에 있습니다. 모든 것을 자기 자신에게 구하세요.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q170",
-      "text": "슬픔의 날씨에서만 우리는 지배당합니다. 기쁨 속에서 우리는 폭풍에 맞서고 그것을 이겨냅니다.",
-      "author": "아멜리아 바",
-      "authorOriginal": "Amelia Barr",
-      "source": null
-    },
-    {
-      "id": "q171",
-      "text": "사람들은 사물에 의해 괴로워하는 것이 아니라, 사물에 대한 관점에 의해 괴로워합니다.",
-      "author": "에픽테토스",
-      "authorOriginal": "Epictetus",
-      "source": "엔케이리디온"
-    },
-    {
-      "id": "q172",
-      "text": "당신의 철학을 설명하지 마세요. 체현하세요.",
-      "author": "에픽테토스",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q173",
-      "text": "우리를 진정으로 두렵고 당혹하게 만드는 것은 외부 사건 자체가 아니라 그것에 대해 생각하는 방식입니다.",
-      "author": "에픽테토스",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q174",
-      "text": "가지지 못한 것에 슬퍼하지 않고 가진 것에 기뻐하는 자가 현명한 사람입니다.",
-      "author": "에픽테토스",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q175",
-      "text": "자유는 삶에서 유일하게 가치 있는 목표입니다. 우리가 통제할 수 없는 것을 무시함으로써 얻어집니다.",
-      "author": "에픽테토스",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q176",
-      "text": "영혼은 자신의 생각의 빛깔로 물듭니다.",
-      "author": "마르쿠스 아우렐리우스",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "명상록"
-    },
-    {
-      "id": "q177",
-      "text": "아침에 일어날 때, 살아 있다는 것이 얼마나 특별한 일인지 생각하세요.",
-      "author": "마르쿠스 아우렐리우스",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "명상록"
-    },
-    {
-      "id": "q178",
-      "text": "우리가 듣는 모든 것은 의견이지 사실이 아닙니다. 우리가 보는 모든 것은 관점이지 진실이 아닙니다.",
-      "author": "마르쿠스 아우렐리우스",
-      "authorOriginal": "Marcus Aurelius",
-      "source": null
-    },
-    {
-      "id": "q179",
-      "text": "최고의 복수는 적과 같아지지 않는 것입니다.",
-      "author": "마르쿠스 아우렐리우스",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "명상록"
-    },
-    {
-      "id": "q180",
-      "text": "옳지 않다면 하지 마세요. 참되지 않다면 말하지 마세요.",
-      "author": "마르쿠스 아우렐리우스",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "명상록"
-    },
-    {
-      "id": "q181",
-      "text": "타인에게는 관대하고 자신에게는 엄격하세요.",
-      "author": "마르쿠스 아우렐리우스",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "명상록"
-    },
-    {
-      "id": "q182",
-      "text": "미래가 당신을 불안하게 하지 못하게 하세요. 오늘 현재에 맞서는 것과 같은 이성의 무기로 미래를 맞이하게 될 것입니다.",
-      "author": "마르쿠스 아우렐리우스",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "명상록"
-    },
-    {
-      "id": "q208",
-      "text": "당신이 생각하는 것이 마음의 질을 결정합니다. 영혼은 생각의 빛깔을 띱니다.",
-      "author": "마르쿠스 아우렐리우스",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "명상록"
-    },
-    {
-      "id": "q212",
-      "text": "변화의 비밀은 오래된 것과 싸우는 데 에너지를 쏟는 것이 아니라, 새로운 것을 만드는 데 모든 에너지를 집중하는 것입니다.",
-      "author": "소크라테스",
-      "authorOriginal": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q213",
-      "text": "성찰하지 않는 삶은 살 가치가 없습니다.",
-      "author": "소크라테스",
-      "authorOriginal": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q214",
-      "text": "나는 내가 아무것도 모른다는 것을 압니다.",
-      "author": "소크라테스",
-      "authorOriginal": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q222",
-      "text": "살아야 할 이유를 가진 자는 거의 어떤 상황도 견딜 수 있습니다.",
-      "author": "프리드리히 니체",
-      "authorOriginal": "Friedrich Nietzsche",
-      "source": null
-    },
-    {
-      "id": "q223",
-      "text": "자연 속을 걸을 때마다, 찾는 것보다 훨씬 더 많은 것을 받습니다.",
+      "id": "q103",
+      "text": "또 하나의 눈부신 시에라의 날, 우리는 녹아 스며들어 어딘지 모를 곳으로 고동치며 실려가는 듯하다. 삶은 길지도 짧지도 않으니, 나무와 별이 그러하듯 우리도 시간을 아끼거나 서두르려 애쓰지 않는다.",
       "author": "존 뮤어",
       "authorOriginal": "John Muir",
-      "source": null
+      "source": "시에라에서의 첫여름"
     },
     {
-      "id": "q224",
-      "text": "보편적인 요소들에서 충분함을 찾고, 공기와 물에서 상쾌함을 느끼고, 아침 산책에 활력을 얻는 것 — 이것이 소박한 삶의 보상입니다.",
+      "id": "q104",
+      "text": "돌아오면 나는 자연에게로 간다. 위로받고 치유받기 위해, 그리고 내 감각을 다시 한번 가락에 맞추기 위해.",
       "author": "존 버로스",
       "authorOriginal": "John Burroughs",
-      "source": null
+      "source": "시간과 변화"
     },
     {
-      "id": "q225",
-      "text": "당신의 고통은 이해의 껍질을 깨뜨리는 것입니다.",
-      "author": "칼릴 지브란",
-      "authorOriginal": "Kahlil Gibran",
-      "source": "예언자"
-    },
-    {
-      "id": "q226",
-      "text": "고통 속에서 가장 강한 영혼이 나왔습니다. 가장 위대한 인격은 상처로 새겨져 있습니다.",
-      "author": "칼릴 지브란",
-      "authorOriginal": "Kahlil Gibran",
-      "source": null
-    },
-    {
-      "id": "q227",
-      "text": "자신의 생각과 평화롭지 않을 때 사람은 말을 합니다.",
-      "author": "칼릴 지브란",
-      "authorOriginal": "Kahlil Gibran",
-      "source": "예언자"
-    },
-    {
-      "id": "q228",
-      "text": "슬픔이 당신의 존재를 깊이 파낼수록, 더 많은 기쁨을 담을 수 있습니다.",
-      "author": "칼릴 지브란",
-      "authorOriginal": "Kahlil Gibran",
-      "source": "예언자"
-    },
-    {
-      "id": "q229",
-      "text": "당신의 아이들은 당신의 아이들이 아닙니다. 그들은 당신을 통해 왔지만 당신으로부터 온 것이 아닙니다.",
-      "author": "칼릴 지브란",
-      "authorOriginal": "Kahlil Gibran",
-      "source": "예언자"
-    },
-    {
-      "id": "q230",
-      "text": "사랑은 이별의 시간이 올 때까지 그 깊이를 알지 못합니다.",
-      "author": "칼릴 지브란",
-      "authorOriginal": "Kahlil Gibran",
-      "source": "예언자"
-    },
-    {
-      "id": "q231",
-      "text": "나는 수다스러운 이에게서 침묵을, 편협한 이에게서 관용을, 불친절한 이에게서 친절을 배웠습니다.",
-      "author": "칼릴 지브란",
-      "authorOriginal": "Kahlil Gibran",
-      "source": null
-    },
-    {
-      "id": "q232",
-      "text": "항상 햇살을 향해 얼굴을 두세요 — 그러면 그림자는 뒤로 드리워집니다.",
-      "author": "월트 휘트먼",
-      "authorOriginal": "Walt Whitman",
-      "source": null
-    },
-    {
-      "id": "q233",
-      "text": "나도, 다른 누구도 당신을 위해 그 길을 걸을 수 없습니다. 당신이 직접 걸어야 합니다.",
-      "author": "월트 휘트먼",
-      "authorOriginal": "Walt Whitman",
-      "source": null
-    },
-    {
-      "id": "q234",
-      "text": "나는 나 자신과 모순되는가? 좋다, 그렇다면 나는 모순됩니다. 나는 크고, 다양한 것을 품고 있습니다.",
-      "author": "월트 휘트먼",
-      "authorOriginal": "Walt Whitman",
-      "source": "나의 노래"
-    },
-    {
-      "id": "q235",
-      "text": "나는 있는 그대로 존재합니다, 그것으로 충분합니다.",
-      "author": "월트 휘트먼",
-      "authorOriginal": "Walt Whitman",
-      "source": null
-    },
-    {
-      "id": "q239",
-      "text": "우리 뒤에 있는 것과 우리 앞에 있는 것은 우리 안에 있는 것에 비하면 아주 작은 일입니다.",
-      "author": "랄프 왈도 에머슨",
-      "authorOriginal": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q240",
-      "text": "끊임없이 당신을 다른 무언가로 만들려는 세상에서 자기 자신이 되는 것이 가장 위대한 성취입니다.",
-      "author": "랄프 왈도 에머슨",
-      "authorOriginal": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q241",
-      "text": "화가 난 1분마다 60초의 행복을 잃게 됩니다.",
-      "author": "랄프 왈도 에머슨",
-      "authorOriginal": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q242",
-      "text": "지금의 당신은 과거의 결과입니다. 미래의 당신은 지금 무엇을 하느냐에 달려 있습니다.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q243",
-      "text": "건강은 가장 큰 선물이고, 만족은 가장 큰 부이며, 신의는 가장 좋은 관계입니다.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q244",
-      "text": "세 가지는 오래 숨길 수 없습니다: 해와 달, 그리고 진실.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q245",
-      "text": "우리는 생각에 의해 형성됩니다. 생각하는 대로 됩니다.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q246",
-      "text": "발전시켜 행동으로 옮긴 아이디어가 관념으로만 존재하는 아이디어보다 더 중요합니다.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q247",
-      "text": "행복에 이르는 길은 없습니다. 행복이 곧 길입니다.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q248",
-      "text": "인내가 핵심입니다. 기억하세요: 항아리도 한 방울 한 방울 채워집니다.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q249",
-      "text": "분리 속에 세상의 가장 큰 비극이 있고, 자비 속에 세상의 진정한 힘이 있습니다.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q250",
-      "text": "과거에 머물지 말고, 미래를 꿈꾸지 말고, 마음을 현재의 순간에 집중하세요.",
-      "author": "부처",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q251",
-      "text": "멈추지만 않는다면, 아무리 천천히 가도 상관없습니다.",
-      "author": "공자",
-      "authorOriginal": "Confucius",
-      "source": null
-    },
-    {
-      "id": "q252",
-      "text": "우리의 가장 큰 영광은 결코 넘어지지 않는 것이 아니라, 넘어질 때마다 다시 일어나는 것입니다.",
-      "author": "공자",
-      "authorOriginal": "Confucius",
-      "source": null
-    },
-    {
-      "id": "q253",
-      "text": "삶은 정말 단순한데, 우리가 복잡하게 만들고 있습니다.",
-      "author": "공자",
-      "authorOriginal": "Confucius",
-      "source": null
-    },
-    {
-      "id": "q254",
-      "text": "유일한 진정한 지혜는 자신이 아무것도 모른다는 것을 아는 데 있습니다.",
-      "author": "소크라테스",
-      "authorOriginal": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q255",
-      "text": "긴장은 당신이 되어야 한다고 생각하는 모습이고, 이완은 당신의 본 모습입니다.",
-      "author": "중국 속담",
-      "authorOriginal": "Chinese Proverb",
-      "source": null
-    },
-    {
-      "id": "q256",
-      "text": "투쟁이 없으면 발전도 없습니다.",
+      "id": "q105",
+      "text": "그대는 한 인간이 어떻게 노예가 되었는지를 보았다. 이제 한 노예가 어떻게 인간이 되었는지를 보게 되리라.",
       "author": "프레더릭 더글러스",
       "authorOriginal": "Frederick Douglass",
-      "source": null
+      "source": "프레더릭 더글러스의 삶 이야기"
     },
     {
-      "id": "q267",
-      "text": "외면하지 마세요. 붕대 감은 곳을 계속 바라보세요. 그곳이 빛이 들어오는 곳입니다.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q106",
+      "text": "그대에게 이르노니, 춤추는 별을 낳으려면 아직 자기 안에 혼돈을 품고 있어야 한다.",
+      "author": "니체",
+      "authorOriginal": "Friedrich Nietzsche",
+      "source": "차라투스트라는 이렇게 말했다"
     },
     {
-      "id": "q308",
-      "text": "마음은 채워야 할 그릇이 아니라 지펴야 할 불입니다.",
+      "id": "q107",
+      "text": "성찰하지 않는 삶은 살 가치가 없다.",
+      "author": "소크라테스",
+      "authorOriginal": "Socrates",
+      "source": "소크라테스의 변명"
+    },
+    {
+      "id": "q108",
+      "text": "죽음에 대해 마음을 편히 가지라. 그리고 선한 이에게는 살아서나 죽어서나 어떤 악도 닥칠 수 없음을 확실히 알라.",
+      "author": "소크라테스",
+      "authorOriginal": "Socrates",
+      "source": "소크라테스의 변명"
+    },
+    {
+      "id": "q109",
+      "text": "알렉산드로스는 적을 정복하는 것보다 자기 자신을 다스리는 것이 더 왕다운 일이라 여겨, 그들 가운데 누구와도 가까이하지 않았다.",
       "author": "플루타르코스",
       "authorOriginal": "Plutarch",
-      "source": null
-    },
-    {
-      "id": "q310",
-      "text": "나는 탐구자였고 지금도 그렇지만, 책과 별에 묻기를 멈추었습니다. 내 영혼의 가르침에 귀 기울이기 시작했습니다.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q317",
-      "text": "마음을 다스리세요, 그렇지 않으면 마음이 당신을 다스립니다.",
-      "author": "호라티우스",
-      "authorOriginal": "Horace",
-      "source": null
-    },
-    {
-      "id": "q318",
-      "text": "당신 존재의 중심에 답이 있습니다. 당신은 자신이 누구인지 알고, 무엇을 원하는지 압니다.",
-      "author": "노자",
-      "authorOriginal": "Laozi",
-      "source": "도덕경"
-    },
-    {
-      "id": "q319",
-      "text": "침묵은 큰 힘의 원천입니다.",
-      "author": "노자",
-      "authorOriginal": "Laozi",
-      "source": "도덕경"
-    },
-    {
-      "id": "q320",
-      "text": "천 리 길도 한 걸음부터 시작됩니다.",
-      "author": "노자",
-      "authorOriginal": "Laozi",
-      "source": "도덕경"
-    },
-    {
-      "id": "q321",
-      "text": "소박함, 인내, 자비. 이 셋이 당신의 가장 큰 보물입니다.",
-      "author": "노자",
-      "authorOriginal": "Laozi",
-      "source": "도덕경"
-    },
-    {
-      "id": "q322",
-      "text": "떠나기를 멈추면 도착할 것입니다. 찾기를 멈추면 보게 될 것입니다. 도망치기를 멈추면 발견될 것입니다.",
-      "author": "노자",
-      "authorOriginal": "Laozi",
-      "source": null
-    },
-    {
-      "id": "q323",
-      "text": "두 배 밝게 타는 불꽃은 절반의 시간만 탑니다.",
-      "author": "노자",
-      "authorOriginal": "Laozi",
-      "source": null
-    },
-    {
-      "id": "q324",
-      "text": "남을 아는 것은 지성이고, 자기를 아는 것이 진정한 지혜입니다. 남을 이기는 것은 힘이고, 자기를 이기는 것이 진정한 강함입니다.",
-      "author": "노자",
-      "authorOriginal": "Laozi",
-      "source": "도덕경"
-    },
-    {
-      "id": "q325",
-      "text": "당신의 흙탕물이 가라앉고 물이 맑아질 때까지 기다릴 인내가 있습니까?",
-      "author": "노자",
-      "authorOriginal": "Laozi",
-      "source": "도덕경"
-    },
-    {
-      "id": "q326",
-      "text": "물보다 부드럽고 유연한 것은 없지만, 물을 이길 수 있는 것도 없습니다.",
-      "author": "노자",
-      "authorOriginal": "Laozi",
-      "source": "도덕경"
-    },
-    {
-      "id": "q334",
-      "text": "이 또한 지나가리라.",
-      "author": "페르시아 속담",
-      "authorOriginal": "Persian Proverb",
-      "source": null
-    },
-    {
-      "id": "q346",
-      "text": "당신이 되기로 정해진 유일한 사람은 당신이 되기로 결심한 사람입니다.",
-      "author": "랄프 왈도 에머슨",
-      "authorOriginal": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q349",
-      "text": "나는 가능성 속에 거합니다.",
-      "author": "에밀리 디킨슨",
-      "authorOriginal": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q350",
-      "text": "희망은 영혼에 깃드는 날개 달린 것입니다.",
-      "author": "에밀리 디킨슨",
-      "authorOriginal": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q351",
-      "text": "영혼은 항상 문을 열어두고, 황홀한 경험을 맞이할 준비를 해야 합니다.",
-      "author": "에밀리 디킨슨",
-      "authorOriginal": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q361",
-      "text": "하루를 마치고 그날과 작별하세요. 할 수 있는 것은 했습니다. 실수와 어리석음이 끼어들었을 수 있지만, 가능한 한 빨리 잊으세요.",
-      "author": "랄프 왈도 에머슨",
-      "authorOriginal": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q362",
-      "text": "눈을 감으세요. 사랑에 빠지세요. 거기 머무세요.",
-      "author": "루미",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q363",
-      "text": "아름다움이든 공포든, 모든 일이 당신에게 일어나도록 두세요. 계속 나아가세요. 어떤 감정도 영원하지 않습니다.",
-      "author": "라이너 마리아 릴케",
-      "authorOriginal": "Rainer Maria Rilke",
-      "source": null
+      "source": "플루타르코스 영웅전"
     }
   ]
 }

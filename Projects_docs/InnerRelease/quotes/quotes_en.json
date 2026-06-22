@@ -2,790 +2,658 @@
   "language": "en",
   "quotes": [
     {
-      "id": "q9",
-      "text": "Let go of your mind and then be mindful. Close your ears and listen.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q11",
-      "text": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q12",
-      "text": "The wound is the place where the Light enters you.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q15",
-      "text": "When you let go of what you are, you become what you might be.",
+      "id": "q001",
+      "text": "The highest excellence is like that of water. The excellence of water appears in its benefiting all things, and in its occupying, without striving to the contrary, the low place which all men dislike.",
       "author": "Laozi",
       "source": "Tao Te Ching"
     },
     {
-      "id": "q16",
-      "text": "The greatest weapon against stress is our ability to choose one thought over another.",
-      "author": "William James",
-      "source": null
-    },
-    {
-      "id": "q17",
-      "text": "Everything that has a beginning has an ending. Make your peace with that and all will be well.",
-      "author": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q22",
-      "text": "Pain is inevitable. Suffering is optional.",
-      "author": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q36",
-      "text": "Life is a balance between holding on and letting go.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q38",
-      "text": "Peace comes from within. Do not seek it without.",
-      "author": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q39",
-      "text": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
-      "author": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q40",
-      "text": "To understand everything is to forgive everything.",
-      "author": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q41",
-      "text": "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
-      "author": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q42",
-      "text": "The mind is everything. What you think, you become.",
-      "author": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q43",
-      "text": "Each morning we are born again. What we do today is what matters most.",
-      "author": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q44",
-      "text": "The root of suffering is attachment.",
-      "author": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q45",
-      "text": "If you want to fly, give up everything that weighs you down.",
-      "author": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q50",
-      "text": "When you realize nothing is lacking, the whole world belongs to you.",
+      "id": "q002",
+      "text": "Who can make the muddy water clear? Let it be still, and it will gradually become clear. Who can secure the condition of rest? Let movement go on, and the condition of rest will gradually arise.",
       "author": "Laozi",
       "source": "Tao Te Ching"
     },
     {
-      "id": "q51",
-      "text": "Nature does not hurry, yet everything is accomplished.",
+      "id": "q003",
+      "text": "The state of vacancy should be brought to the utmost degree, and that of stillness guarded with unwearying vigour. All things alike go through their processes of activity, and then we see them return to their original state.",
       "author": "Laozi",
       "source": "Tao Te Ching"
     },
     {
-      "id": "q52",
-      "text": "Be content with what you have; rejoice in the way things are.",
+      "id": "q004",
+      "text": "This returning to their root is what we call the state of stillness; and that stillness may be called a reporting that they have fulfilled their appointed end.",
       "author": "Laozi",
       "source": "Tao Te Ching"
     },
     {
-      "id": "q53",
-      "text": "New beginnings are often disguised as painful endings.",
-      "author": "Laozi",
-      "source": null
-    },
-    {
-      "id": "q54",
-      "text": "He who controls others may be powerful, but he who has mastered himself is mightier still.",
+      "id": "q005",
+      "text": "He who knows other men is discerning; he who knows himself is intelligent. He who overcomes others is strong; he who overcomes himself is mighty.",
       "author": "Laozi",
       "source": "Tao Te Ching"
     },
     {
-      "id": "q55",
-      "text": "If you correct your mind, the rest of your life will fall into place.",
+      "id": "q006",
+      "text": "He who is satisfied with his lot is rich; he who goes on acting with energy has a firm will.",
       "author": "Laozi",
-      "source": null
+      "source": "Tao Te Ching"
     },
     {
-      "id": "q56",
-      "text": "The best time to plant a tree was twenty years ago. The second best time is now.",
-      "author": "Chinese Proverb",
-      "source": null
+      "id": "q007",
+      "text": "The soft overcomes the hard; and the weak the strong.",
+      "author": "Laozi",
+      "source": "Tao Te Ching"
     },
     {
-      "id": "q57",
-      "text": "You have power over your mind—not outside events. Realize this, and you will find strength.",
-      "author": "Marcus Aurelius",
-      "source": "Meditations"
+      "id": "q008",
+      "text": "The softest thing in the world dashes against and overcomes the hardest; that which has no substantial existence enters where there is no crevice.",
+      "author": "Laozi",
+      "source": "Tao Te Ching"
     },
     {
-      "id": "q58",
-      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
-      "author": "Marcus Aurelius",
-      "source": "Meditations"
+      "id": "q009",
+      "text": "Therefore the sufficiency of contentment is an enduring and unchanging sufficiency.",
+      "author": "Laozi",
+      "source": "Tao Te Ching"
     },
     {
-      "id": "q59",
-      "text": "The happiness of your life depends upon the quality of your thoughts.",
-      "author": "Marcus Aurelius",
-      "source": "Meditations"
+      "id": "q010",
+      "text": "Constant action overcomes cold; being still overcomes heat. Purity and stillness give the correct law to all under heaven.",
+      "author": "Laozi",
+      "source": "Tao Te Ching"
     },
     {
-      "id": "q60",
-      "text": "Waste no more time arguing about what a good man should be. Be one.",
-      "author": "Marcus Aurelius",
-      "source": "Meditations"
+      "id": "q011",
+      "text": "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a small heap of earth; the journey of a thousand li commenced with a single step.",
+      "author": "Laozi",
+      "source": "Tao Te Ching"
     },
     {
-      "id": "q61",
-      "text": "It is not death that a man should fear, but he should fear never beginning to live.",
-      "author": "Marcus Aurelius",
-      "source": "Meditations"
+      "id": "q012",
+      "text": "Man at his birth is supple and weak; at his death, firm and strong. Thus it is that firmness and strength are the concomitants of death; softness and weakness, the concomitants of life.",
+      "author": "Laozi",
+      "source": "Tao Te Ching"
     },
     {
-      "id": "q62",
-      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
-      "author": "Marcus Aurelius",
-      "source": "Meditations"
+      "id": "q013",
+      "text": "There is nothing in the world more soft and weak than water, and yet for attacking things that are firm and strong there is nothing that can take precedence of it.",
+      "author": "Laozi",
+      "source": "Tao Te Ching"
     },
     {
-      "id": "q63",
-      "text": "How much more grievous are the consequences of anger than the causes of it.",
-      "author": "Marcus Aurelius",
-      "source": "Meditations"
+      "id": "q014",
+      "text": "Every one in the world knows that the soft overcomes the hard, and the weak the strong, but no one is able to carry it out in practice.",
+      "author": "Laozi",
+      "source": "Tao Te Ching"
     },
     {
-      "id": "q64",
-      "text": "We suffer more often in imagination than in reality.",
-      "author": "Seneca",
-      "source": "Letters from a Stoic"
+      "id": "q015",
+      "text": "The superior man is satisfied and composed; the mean man is always full of distress.",
+      "author": "Confucius",
+      "source": "Analects"
     },
     {
-      "id": "q65",
-      "text": "True happiness is to enjoy the present, without anxious dependence upon the future.",
-      "author": "Seneca",
-      "source": null
+      "id": "q016",
+      "text": "The wise find pleasure in water; the virtuous find pleasure in hills. The wise are active; the virtuous are tranquil.",
+      "author": "Confucius",
+      "source": "Analects"
     },
     {
-      "id": "q66",
-      "text": "It is not that we have a short time to live, but that we waste a great deal of it.",
-      "author": "Seneca",
-      "source": "On the Shortness of Life"
+      "id": "q017",
+      "text": "I will not be afflicted at men's not knowing me; I will be afflicted that I do not know men.",
+      "author": "Confucius",
+      "source": "Analects"
     },
     {
-      "id": "q67",
-      "text": "Luck is what happens when preparation meets opportunity.",
-      "author": "Seneca",
-      "source": null
+      "id": "q018",
+      "text": "For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.",
+      "author": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q68",
-      "text": "Difficulties strengthen the mind, as labor does the body.",
-      "author": "Seneca",
-      "source": null
+      "id": "q019",
+      "text": "As a solid rock is not shaken by the wind, wise people falter not amidst blame and praise.",
+      "author": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q69",
-      "text": "It's not what happens to you, but how you react to it that matters.",
-      "author": "Epictetus",
-      "source": null
+      "id": "q020",
+      "text": "Wise people, after they have listened to the laws, become serene, like a deep, smooth, and still lake.",
+      "author": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q70",
-      "text": "There is only one way to happiness and that is to cease worrying about things which are beyond our power.",
-      "author": "Epictetus",
-      "source": null
+      "id": "q021",
+      "text": "Good people walk on whatever befall, the good do not prattle, longing for pleasure; whether touched by happiness or sorrow wise people never appear elated or depressed.",
+      "author": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q71",
-      "text": "First say to yourself what you would be; and then do what you have to do.",
-      "author": "Epictetus",
-      "source": null
+      "id": "q022",
+      "text": "His thought is quiet, quiet are his word and deed, when he has obtained freedom by true knowledge, when he has thus become a quiet man.",
+      "author": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q72",
-      "text": "Make the best use of what is in your power, and take the rest as it happens.",
-      "author": "Epictetus",
-      "source": null
+      "id": "q023",
+      "text": "If one man conquer in battle a thousand times thousand men, and if another conquer himself, he is the greatest of conquerors.",
+      "author": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q73",
-      "text": "No man is free who is not master of himself.",
-      "author": "Epictetus",
-      "source": null
+      "id": "q024",
+      "text": "Let us live happily then, not hating those who hate us! among men who hate us let us dwell free from hatred!",
+      "author": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q74",
-      "text": "Where there is ruin, there is hope for treasure.",
-      "author": "Rumi",
-      "source": null
+      "id": "q025",
+      "text": "He who has given up both victory and defeat, he, the contented, is happy.",
+      "author": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q75",
-      "text": "Don't grieve. Anything you lose comes round in another form.",
-      "author": "Rumi",
-      "source": null
+      "id": "q026",
+      "text": "He who has tasted the sweetness of solitude and tranquillity, is free from fear and free from sin, while he tastes the sweetness of drinking in the law.",
+      "author": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q76",
-      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
-      "author": "Rumi",
-      "source": null
+      "id": "q027",
+      "text": "Let a man overcome anger by love, let him overcome evil by good; let him overcome the greedy by liberality, the liar by truth!",
+      "author": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q77",
-      "text": "Silence is the language of God, all else is poor translation.",
-      "author": "Rumi",
-      "source": null
+      "id": "q028",
+      "text": "'All created things perish,' he who knows and sees this becomes passive in pain; this is the way to purity.",
+      "author": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q78",
-      "text": "Set your life on fire. Seek those who fan your flames.",
-      "author": "Rumi",
-      "source": null
+      "id": "q029",
+      "text": "Give up what is before, give up what is behind, give up what is in the middle, when thou goest to the other shore of existence; if thy mind is altogether free, thou wilt not again enter into birth and decay.",
+      "author": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q79",
-      "text": "The garden of the world has no limits, except in your mind.",
-      "author": "Rumi",
-      "source": null
+      "id": "q030",
+      "text": "Thou hast made me endless, such is thy pleasure. This frail vessel thou emptiest again and again, and fillest it ever with fresh life.",
+      "author": "Rabindranath Tagore",
+      "source": "Gitanjali"
     },
     {
-      "id": "q80",
-      "text": "What you seek is seeking you.",
-      "author": "Rumi",
-      "source": null
+      "id": "q031",
+      "text": "Now it is time to sit quite, face to face with thee, and to sing dedication of life in this silent and overflowing leisure.",
+      "author": "Rabindranath Tagore",
+      "source": "Gitanjali"
     },
     {
-      "id": "q81",
-      "text": "Respond to every call that excites your spirit.",
-      "author": "Rumi",
-      "source": null
+      "id": "q032",
+      "text": "Leave all thy burdens on his hands who can bear all, and never look behind in regret.",
+      "author": "Rabindranath Tagore",
+      "source": "Gitanjali"
     },
     {
-      "id": "q82",
-      "text": "Be like a tree and let the dead leaves drop.",
-      "author": "Rumi",
-      "source": null
+      "id": "q033",
+      "text": "If thou speakest not I will fill my heart with thy silence and endure it. I will keep still and wait like the night with starry vigil and its head bent low with patience.",
+      "author": "Rabindranath Tagore",
+      "source": "Gitanjali"
     },
     {
-      "id": "q83",
-      "text": "Out beyond ideas of wrongdoing and rightdoing, there is a field. I'll meet you there.",
-      "author": "Rumi",
-      "source": null
+      "id": "q034",
+      "text": "In the night of weariness let me give myself up to sleep without struggle, resting my trust upon thee.",
+      "author": "Rabindranath Tagore",
+      "source": "Gitanjali"
     },
     {
-      "id": "q84",
-      "text": "Stop acting so small. You are the universe in ecstatic motion.",
-      "author": "Rumi",
-      "source": null
+      "id": "q035",
+      "text": "Give me the strength lightly to bear my joys and sorrows.",
+      "author": "Rabindranath Tagore",
+      "source": "Gitanjali"
     },
     {
-      "id": "q85",
-      "text": "Wear gratitude like a cloak and it will feed every corner of your life.",
-      "author": "Rumi",
-      "source": null
+      "id": "q036",
+      "text": "When tumultuous work raises its din on all sides shutting me out from beyond, come to me, my lord of silence, with thy peace and rest.",
+      "author": "Rabindranath Tagore",
+      "source": "Gitanjali"
     },
     {
-      "id": "q86",
-      "text": "Let yourself be silently drawn by the strange pull of what you really love.",
-      "author": "Rumi",
-      "source": null
+      "id": "q037",
+      "text": "Deliverance is not for me in renunciation. I feel the embrace of freedom in a thousand bonds of delight.",
+      "author": "Rabindranath Tagore",
+      "source": "Gitanjali"
     },
     {
-      "id": "q87",
-      "text": "I have lived on the lip of insanity, wanting to know reasons, knocking on a door. It opens. I've been knocking from the inside.",
-      "author": "Rumi",
-      "source": null
+      "id": "q038",
+      "text": "On many an idle day have I grieved over lost time. But it is never lost, my lord. Thou hast taken every moment of my life in thine own hands.",
+      "author": "Rabindranath Tagore",
+      "source": "Gitanjali"
     },
     {
-      "id": "q88",
-      "text": "You were born with wings, why prefer to crawl through life?",
-      "author": "Rumi",
-      "source": null
+      "id": "q039",
+      "text": "Days and nights pass and ages bloom and fade like flowers. Thou knowest how to wait.",
+      "author": "Rabindranath Tagore",
+      "source": "Gitanjali"
     },
     {
-      "id": "q89",
-      "text": "Don't be satisfied with stories, how things have gone with others. Unfold your own myth.",
-      "author": "Rumi",
-      "source": null
+      "id": "q040",
+      "text": "Even so, in death the same unknown will appear as ever known to me. And because I love this life, I know I shall love death as well.",
+      "author": "Rabindranath Tagore",
+      "source": "Gitanjali"
     },
     {
-      "id": "q101",
-      "text": "You are not a drop in the ocean. You are the entire ocean in a drop.",
-      "author": "Rumi",
-      "source": null
+      "id": "q041",
+      "text": "When I give up the helm I know that the time has come for thee to take it. What there is to do will be instantly done. Vain is this struggle.",
+      "author": "Rabindranath Tagore",
+      "source": "Gitanjali"
     },
     {
-      "id": "q145",
-      "text": "What we achieve inwardly will change outer reality.",
-      "author": "Plutarch",
-      "source": null
-    },
-    {
-      "id": "q146",
-      "text": "Be yourself; everyone else is already taken.",
-      "author": "Oscar Wilde",
-      "source": null
-    },
-    {
-      "id": "q150",
-      "text": "Knowing yourself is the beginning of all wisdom.",
-      "author": "Aristotle",
-      "source": null
-    },
-    {
-      "id": "q151",
-      "text": "Everything in the universe is within you. Ask all from yourself.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q170",
-      "text": "It is only in sorrow bad weather masters us; in joy we face the storm and defy it.",
-      "author": "Amelia Barr",
-      "source": null
-    },
-    {
-      "id": "q171",
-      "text": "People are not disturbed by things, but by the views they take of them.",
-      "author": "Epictetus",
-      "source": "Enchiridion"
-    },
-    {
-      "id": "q172",
-      "text": "Don't explain your philosophy. Embody it.",
-      "author": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q173",
-      "text": "What really frightens and dismays us is not external events themselves, but the way in which we think about them.",
-      "author": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q174",
-      "text": "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
-      "author": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q175",
-      "text": "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.",
-      "author": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q176",
-      "text": "The soul becomes dyed with the color of its thoughts.",
-      "author": "Marcus Aurelius",
-      "source": "Meditations"
-    },
-    {
-      "id": "q177",
-      "text": "When you arise in the morning, think of what a privilege it is to be alive.",
-      "author": "Marcus Aurelius",
-      "source": "Meditations"
-    },
-    {
-      "id": "q178",
-      "text": "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
-      "author": "Marcus Aurelius",
-      "source": null
-    },
-    {
-      "id": "q179",
-      "text": "The best revenge is not to be like your enemy.",
-      "author": "Marcus Aurelius",
-      "source": "Meditations"
-    },
-    {
-      "id": "q180",
-      "text": "If it is not right, do not do it; if it is not true, do not say it.",
-      "author": "Marcus Aurelius",
-      "source": "Meditations"
-    },
-    {
-      "id": "q181",
-      "text": "Be tolerant with others and strict with yourself.",
-      "author": "Marcus Aurelius",
-      "source": "Meditations"
-    },
-    {
-      "id": "q182",
-      "text": "Never let the future disturb you. You will meet it with the same weapons of reason which today arm you against the present.",
-      "author": "Marcus Aurelius",
-      "source": "Meditations"
-    },
-    {
-      "id": "q208",
-      "text": "The things you think about determine the quality of your mind. Your soul takes on the color of your thoughts.",
-      "author": "Marcus Aurelius",
-      "source": "Meditations"
-    },
-    {
-      "id": "q212",
-      "text": "The secret of change is to focus all of your energy not on fighting the old, but on building the new.",
-      "author": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q213",
-      "text": "An unexamined life is not worth living.",
-      "author": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q214",
-      "text": "I know that I know nothing.",
-      "author": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q222",
-      "text": "He who has a why to live for can bear almost any how.",
-      "author": "Friedrich Nietzsche",
-      "source": null
-    },
-    {
-      "id": "q223",
-      "text": "In every walk with nature, one receives far more than he seeks.",
-      "author": "John Muir",
-      "source": null
-    },
-    {
-      "id": "q224",
-      "text": "To find the universal elements enough; to find the air and the water exhilarating; to be refreshed by a morning walk—these are some of the rewards of the simple life.",
-      "author": "John Burroughs",
-      "source": null
-    },
-    {
-      "id": "q225",
-      "text": "Your pain is the breaking of the shell that encloses your understanding.",
+      "id": "q042",
+      "text": "Love possesses not nor would it be possessed; For love is sufficient unto love.",
       "author": "Kahlil Gibran",
       "source": "The Prophet"
     },
     {
-      "id": "q226",
-      "text": "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
-      "author": "Kahlil Gibran",
-      "source": null
-    },
-    {
-      "id": "q227",
-      "text": "You talk when you cease to be at peace with your thoughts.",
+      "id": "q043",
+      "text": "But let there be spaces in your togetherness, And let the winds of the heavens dance between you.",
       "author": "Kahlil Gibran",
       "source": "The Prophet"
     },
     {
-      "id": "q228",
+      "id": "q044",
+      "text": "You may give them your love but not your thoughts, For they have their own thoughts.",
+      "author": "Kahlil Gibran",
+      "source": "The Prophet"
+    },
+    {
+      "id": "q045",
+      "text": "It is when you give of yourself that you truly give.",
+      "author": "Kahlil Gibran",
+      "source": "The Prophet"
+    },
+    {
+      "id": "q046",
+      "text": "Your joy is your sorrow unmasked. And the selfsame well from which your laughter rises was oftentimes filled with your tears.",
+      "author": "Kahlil Gibran",
+      "source": "The Prophet"
+    },
+    {
+      "id": "q047",
       "text": "The deeper that sorrow carves into your being, the more joy you can contain.",
       "author": "Kahlil Gibran",
       "source": "The Prophet"
     },
     {
-      "id": "q229",
-      "text": "Your children are not your children. They come through you but not from you.",
+      "id": "q048",
+      "text": "And if it is a fear you would dispel, the seat of that fear is in your heart and not in the hand of the feared.",
       "author": "Kahlil Gibran",
       "source": "The Prophet"
     },
     {
-      "id": "q230",
-      "text": "And ever has it been known that love knows not its own depth until the hour of separation.",
+      "id": "q049",
+      "text": "Your pain is the breaking of the shell that encloses your understanding.",
       "author": "Kahlil Gibran",
       "source": "The Prophet"
     },
     {
-      "id": "q231",
-      "text": "I have learned silence from the talkative, toleration from the intolerant, and kindness from the unkind.",
+      "id": "q050",
+      "text": "Say not, \"I have found the truth,\" but rather, \"I have found a truth.\"",
       "author": "Kahlil Gibran",
-      "source": null
+      "source": "The Prophet"
     },
     {
-      "id": "q232",
-      "text": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+      "id": "q051",
+      "text": "In the bosom of such as these the spirit dwells in rhythmic silence.",
+      "author": "Kahlil Gibran",
+      "source": "The Prophet"
+    },
+    {
+      "id": "q052",
+      "text": "Yet the timeless in you is aware of life's timelessness, And knows that yesterday is but today's memory and tomorrow is today's dream.",
+      "author": "Kahlil Gibran",
+      "source": "The Prophet"
+    },
+    {
+      "id": "q053",
+      "text": "For life and death are one, even as the river and the sea are one.",
+      "author": "Kahlil Gibran",
+      "source": "The Prophet"
+    },
+    {
+      "id": "q054",
+      "text": "Every moment think steadily as a Roman and a man to do what thou hast in hand with perfect and simple dignity, and feeling of affection, and freedom, and justice, and to give thyself relief from all other thoughts.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations"
+    },
+    {
+      "id": "q055",
+      "text": "For a man cannot lose either the past or the future: for what a man has not, how can any one take this from him?",
+      "author": "Marcus Aurelius",
+      "source": "Meditations"
+    },
+    {
+      "id": "q056",
+      "text": "For nowhere either with more quiet or more freedom from trouble does a man retire than into his own soul, particularly when he has within him such thoughts that by looking into them he is immediately in perfect tranquillity; and I affirm that tranquillity is nothing else than the good ordering of the mind.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations"
+    },
+    {
+      "id": "q057",
+      "text": "The universe is transformation: life is opinion.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations"
+    },
+    {
+      "id": "q058",
+      "text": "Take away thy opinion, and then there is taken away the complaint, \"I have been harmed.\" Take away the complaint, \"I have been harmed,\" and the harm is taken away.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations"
+    },
+    {
+      "id": "q059",
+      "text": "Time is like a river made up of the events which happen, and a violent stream; for as soon as a thing has been seen, it is carried away, and another comes in its place, and this will be carried away too.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations"
+    },
+    {
+      "id": "q060",
+      "text": "Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations"
+    },
+    {
+      "id": "q061",
+      "text": "How easy it is to repel and to wipe away every impression which is troublesome or unsuitable, and immediately to be in all tranquillity.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations"
+    },
+    {
+      "id": "q062",
+      "text": "Nothing happens to any man which he is not formed by nature to bear.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations"
+    },
+    {
+      "id": "q063",
+      "text": "Such as are thy habitual thoughts, such also will be the character of thy mind; for the soul is dyed by the thoughts.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations"
+    },
+    {
+      "id": "q064",
+      "text": "When thou hast been compelled by circumstances to be disturbed in a manner, quickly return to thyself, and do not continue out of tune longer than the compulsion lasts.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations"
+    },
+    {
+      "id": "q065",
+      "text": "It is in our power to have no opinion about a thing, and not to be disturbed in our soul; for things themselves have no natural power to form our judgments.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations"
+    },
+    {
+      "id": "q066",
+      "text": "Confine thyself to the present.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations"
+    },
+    {
+      "id": "q067",
+      "text": "Look within. Within is the fountain of good, and it will ever bubble up, if thou wilt ever dig.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations"
+    },
+    {
+      "id": "q068",
+      "text": "Of things some are in our power, and others are not.",
+      "author": "Epictetus",
+      "source": "Enchiridion"
+    },
+    {
+      "id": "q069",
+      "text": "If you love an earthen vessel, say it is an earthen vessel which you love; for when it has been broken you will not be disturbed.",
+      "author": "Epictetus",
+      "source": "Enchiridion"
+    },
+    {
+      "id": "q070",
+      "text": "Men are disturbed not by the things which happen, but by the opinions about the things.",
+      "author": "Epictetus",
+      "source": "Enchiridion"
+    },
+    {
+      "id": "q071",
+      "text": "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.",
+      "author": "Epictetus",
+      "source": "Enchiridion"
+    },
+    {
+      "id": "q072",
+      "text": "Disease is an impediment to the body, but not to the will, unless the will itself chooses.",
+      "author": "Epictetus",
+      "source": "Enchiridion"
+    },
+    {
+      "id": "q073",
+      "text": "Never say about anything, I have lost it, but say I have restored it.",
+      "author": "Epictetus",
+      "source": "Enchiridion"
+    },
+    {
+      "id": "q074",
+      "text": "Remember that in life you ought to behave as at a banquet.",
+      "author": "Epictetus",
+      "source": "Enchiridion"
+    },
+    {
+      "id": "q075",
+      "text": "Remember that it is not he who reviles you or strikes you, who insults you, but it is your opinion about these things as being insulting.",
+      "author": "Epictetus",
+      "source": "Enchiridion"
+    },
+    {
+      "id": "q076",
+      "text": "For if you once gain time and delay, you will more easily master yourself.",
+      "author": "Epictetus",
+      "source": "Enchiridion"
+    },
+    {
+      "id": "q077",
+      "text": "Everything has two handles, the one by which it may be borne, the other by which it may not.",
+      "author": "Epictetus",
+      "source": "Enchiridion"
+    },
+    {
+      "id": "q078",
+      "text": "In every station of life you will find amusements, relaxations, and enjoyments; that is, provided you be willing to make light of evils rather than to hate them.",
+      "author": "Seneca",
+      "source": "Of Peace of Mind"
+    },
+    {
+      "id": "q079",
+      "text": "Know then that every station of life is transitory, and that what has ever happened to anybody may happen to you also.",
+      "author": "Seneca",
+      "source": "Of Peace of Mind"
+    },
+    {
+      "id": "q080",
+      "text": "Solitude will cure us when we are sick of crowds, and crowds will cure us when we are sick of solitude.",
+      "author": "Seneca",
+      "source": "Of Peace of Mind"
+    },
+    {
+      "id": "q081",
+      "text": "Men's minds ought to have relaxation: they rise up better and more vigorous after rest.",
+      "author": "Seneca",
+      "source": "Of Peace of Mind"
+    },
+    {
+      "id": "q082",
+      "text": "Thus it is: we do not receive a short life, but we make it a short one, and we are not poor in days, but wasteful of them.",
+      "author": "Seneca",
+      "source": "Of the Shortness of Life"
+    },
+    {
+      "id": "q083",
+      "text": "He who disposes of all his time for his own purposes, who arranges all his days as though he were arranging the plan of his life, neither wishes for nor fears the morrow.",
+      "author": "Seneca",
+      "source": "Of the Shortness of Life"
+    },
+    {
+      "id": "q084",
+      "text": "I exist as I am, that is enough,\nIf no other in the world be aware I sit content,\nAnd if each and all be aware I sit content.",
       "author": "Walt Whitman",
-      "source": null
+      "source": "Leaves of Grass"
     },
     {
-      "id": "q233",
-      "text": "Not I, nor anyone else can travel that road for you. You must travel it by yourself.",
+      "id": "q085",
+      "text": "I am larger, better than I thought,\nI did not know I held so much goodness.",
       "author": "Walt Whitman",
-      "source": null
+      "source": "Leaves of Grass"
     },
     {
-      "id": "q234",
-      "text": "Do I contradict myself? Very well then, I contradict myself. I am large, I contain multitudes.",
+      "id": "q086",
+      "text": "Do I contradict myself?\nVery well then I contradict myself,\n(I am large, I contain multitudes.)",
       "author": "Walt Whitman",
-      "source": "Song of Myself"
+      "source": "Leaves of Grass"
     },
     {
-      "id": "q235",
-      "text": "I exist as I am, that is enough.",
+      "id": "q087",
+      "text": "Afoot and light-hearted I take to the open road,\nHealthy, free, the world before me,\nThe long brown path before me leading wherever I choose.",
       "author": "Walt Whitman",
-      "source": null
+      "source": "Leaves of Grass"
     },
     {
-      "id": "q239",
-      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "id": "q088",
+      "text": "I celebrate myself, and sing myself,\nAnd what I assume you shall assume,\nFor every atom belonging to me as good belongs to you.",
+      "author": "Walt Whitman",
+      "source": "Leaves of Grass"
+    },
+    {
+      "id": "q089",
+      "text": "Trust thyself: every heart vibrates to that iron string.",
       "author": "Ralph Waldo Emerson",
-      "source": null
+      "source": "Self-Reliance"
     },
     {
-      "id": "q240",
-      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "id": "q090",
+      "text": "Nothing can bring you peace but yourself. Nothing can bring you peace but the triumph of principles.",
       "author": "Ralph Waldo Emerson",
-      "source": null
+      "source": "Self-Reliance"
     },
     {
-      "id": "q241",
-      "text": "For every minute you are angry, you lose sixty seconds of happiness.",
+      "id": "q091",
+      "text": "A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines.",
       "author": "Ralph Waldo Emerson",
-      "source": null
+      "source": "Self-Reliance"
     },
     {
-      "id": "q242",
-      "text": "What you are is what you have been. What you will be is what you do now.",
-      "author": "Buddha",
-      "source": null
+      "id": "q092",
+      "text": "It is easy in the world to live after the world's opinion; it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude.",
+      "author": "Ralph Waldo Emerson",
+      "source": "Self-Reliance"
     },
     {
-      "id": "q243",
-      "text": "Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.",
-      "author": "Buddha",
-      "source": null
+      "id": "q093",
+      "text": "For everything you have missed, you have gained something else; and for everything you gain, you lose something.",
+      "author": "Ralph Waldo Emerson",
+      "source": "Compensation"
     },
     {
-      "id": "q244",
-      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
-      "author": "Buddha",
-      "source": null
+      "id": "q094",
+      "text": "Insist on yourself; never imitate.",
+      "author": "Ralph Waldo Emerson",
+      "source": "Self-Reliance"
     },
     {
-      "id": "q245",
-      "text": "We are shaped by our thoughts; we become what we think.",
-      "author": "Buddha",
-      "source": null
+      "id": "q095",
+      "text": "Hope is the thing with feathers\nThat perches in the soul,\nAnd sings the tune without the words,\nAnd never stops at all.",
+      "author": "Emily Dickinson",
+      "source": "Poems"
     },
     {
-      "id": "q246",
-      "text": "An idea that is developed and put into action is more important than an idea that exists only as an idea.",
-      "author": "Buddha",
-      "source": null
+      "id": "q096",
+      "text": "If I can stop one heart from breaking,\nI shall not live in vain;\nIf I can ease one life the aching,\nOr cool one pain,\nOr help one fainting robin\nUnto his nest again,\nI shall not live in vain.",
+      "author": "Emily Dickinson",
+      "source": "Poems"
     },
     {
-      "id": "q247",
-      "text": "There is no path to happiness: happiness is the path.",
-      "author": "Buddha",
-      "source": null
+      "id": "q097",
+      "text": "The soul selects her own society,\nThen shuts the door;\nOn her divine majority\nObtrude no more.",
+      "author": "Emily Dickinson",
+      "source": "Poems"
     },
     {
-      "id": "q248",
-      "text": "Patience is key. Remember: a jug fills drop by drop.",
-      "author": "Buddha",
-      "source": null
+      "id": "q098",
+      "text": "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.",
+      "author": "Henry David Thoreau",
+      "source": "Walden"
     },
     {
-      "id": "q249",
-      "text": "In separateness lies the world's greatest misery; in compassion lies the world's true strength.",
-      "author": "Buddha",
-      "source": null
+      "id": "q099",
+      "text": "I learned this, at least, by my experiment; that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.",
+      "author": "Henry David Thoreau",
+      "source": "Walden"
     },
     {
-      "id": "q250",
-      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
-      "author": "Buddha",
-      "source": null
+      "id": "q100",
+      "text": "If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away.",
+      "author": "Henry David Thoreau",
+      "source": "Walden"
     },
     {
-      "id": "q251",
-      "text": "It does not matter how slowly you go as long as you do not stop.",
-      "author": "Confucius",
-      "source": null
+      "id": "q101",
+      "text": "Give up the feeling of responsibility, let go your hold, resign the care of your destiny to higher powers, be genuinely indifferent as to what becomes of it all, and you will find not only that you gain a perfect inward relief, but often also, in addition, the particular goods you sincerely thought you were renouncing.",
+      "author": "William James",
+      "source": "The Varieties of Religious Experience"
     },
     {
-      "id": "q252",
-      "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
-      "author": "Confucius",
-      "source": null
+      "id": "q102",
+      "text": "Where there is sorrow there is holy ground.",
+      "author": "Oscar Wilde",
+      "source": "De Profundis"
     },
     {
-      "id": "q253",
-      "text": "Life is really simple, but we insist on making it complicated.",
-      "author": "Confucius",
-      "source": null
+      "id": "q103",
+      "text": "Another glorious Sierra day in which one seems to be dissolved and absorbed and sent pulsing onward we know not where. Life seems neither long nor short, and we take no more heed to save time or make haste than do the trees and stars.",
+      "author": "John Muir",
+      "source": "My First Summer in the Sierra"
     },
     {
-      "id": "q254",
-      "text": "The only true wisdom is in knowing you know nothing.",
-      "author": "Socrates",
-      "source": null
+      "id": "q104",
+      "text": "When I come back, I go to Nature to be soothed and healed, and to have my senses put in tune once more.",
+      "author": "John Burroughs",
+      "source": "Time and Change"
     },
     {
-      "id": "q255",
-      "text": "Tension is who you think you should be. Relaxation is who you are.",
-      "author": "Chinese Proverb",
-      "source": null
-    },
-    {
-      "id": "q256",
-      "text": "If there is no struggle, there is no progress.",
+      "id": "q105",
+      "text": "You have seen how a man was made a slave; you shall see how a slave was made a man.",
       "author": "Frederick Douglass",
-      "source": null
+      "source": "Narrative of the Life of Frederick Douglass"
     },
     {
-      "id": "q267",
-      "text": "Don't turn away. Keep your gaze on the bandaged place. That's where the light enters you.",
-      "author": "Rumi",
-      "source": null
+      "id": "q106",
+      "text": "I tell you: one must still have chaos in one, to give birth to a dancing star.",
+      "author": "Friedrich Nietzsche",
+      "source": "Thus Spake Zarathustra"
     },
     {
-      "id": "q308",
-      "text": "The mind is not a vessel to be filled but a fire to be kindled.",
+      "id": "q107",
+      "text": "The unexamined life is not worth living.",
+      "author": "Socrates",
+      "source": "Apology"
+    },
+    {
+      "id": "q108",
+      "text": "Be of good cheer about death, and know of a certainty, that no evil can happen to a good man, either in life or after death.",
+      "author": "Socrates",
+      "source": "Apology"
+    },
+    {
+      "id": "q109",
+      "text": "Alexander, esteeming it more kingly to govern himself than to conquer his enemies, sought no intimacy with any one of them.",
       "author": "Plutarch",
-      "source": null
-    },
-    {
-      "id": "q310",
-      "text": "I have been a seeker and I still am, but I stopped asking the books and the stars. I started listening to the teaching of my soul.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q317",
-      "text": "Rule your mind or it will rule you.",
-      "author": "Horace",
-      "source": null
-    },
-    {
-      "id": "q318",
-      "text": "At the center of your being you have the answer; you know who you are and you know what you want.",
-      "author": "Laozi",
-      "source": "Tao Te Ching"
-    },
-    {
-      "id": "q319",
-      "text": "Silence is a source of great strength.",
-      "author": "Laozi",
-      "source": "Tao Te Ching"
-    },
-    {
-      "id": "q320",
-      "text": "A journey of a thousand miles begins with a single step.",
-      "author": "Laozi",
-      "source": "Tao Te Ching"
-    },
-    {
-      "id": "q321",
-      "text": "Simplicity, patience, compassion. These three are your greatest treasures.",
-      "author": "Laozi",
-      "source": "Tao Te Ching"
-    },
-    {
-      "id": "q322",
-      "text": "Stop leaving and you will arrive. Stop searching and you will see. Stop running away and you will be found.",
-      "author": "Laozi",
-      "source": null
-    },
-    {
-      "id": "q323",
-      "text": "The flame that burns twice as bright burns half as long.",
-      "author": "Laozi",
-      "source": null
-    },
-    {
-      "id": "q324",
-      "text": "Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.",
-      "author": "Laozi",
-      "source": "Tao Te Ching"
-    },
-    {
-      "id": "q325",
-      "text": "Do you have the patience to wait until your mud settles and the water is clear?",
-      "author": "Laozi",
-      "source": "Tao Te Ching"
-    },
-    {
-      "id": "q326",
-      "text": "Nothing is softer or more flexible than water, yet nothing can resist it.",
-      "author": "Laozi",
-      "source": "Tao Te Ching"
-    },
-    {
-      "id": "q334",
-      "text": "This too shall pass.",
-      "author": "Persian Proverb",
-      "source": null
-    },
-    {
-      "id": "q346",
-      "text": "The only person you are destined to become is the person you decide to be.",
-      "author": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q349",
-      "text": "I dwell in possibility.",
-      "author": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q350",
-      "text": "Hope is the thing with feathers that perches in the soul.",
-      "author": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q351",
-      "text": "The soul should always stand ajar, ready to welcome the ecstatic experience.",
-      "author": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q361",
-      "text": "Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can.",
-      "author": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q362",
-      "text": "Close your eyes. Fall in love. Stay there.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q363",
-      "text": "Let everything happen to you: beauty and terror. Just keep going. No feeling is final.",
-      "author": "Rainer Maria Rilke",
-      "source": null
+      "source": "Plutarch's Lives"
     }
   ]
 }

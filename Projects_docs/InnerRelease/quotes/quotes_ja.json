@@ -2,921 +2,767 @@
   "language": "ja",
   "quotes": [
     {
-      "id": "q9",
-      "text": "心を手放し、そして気づきを持ちなさい。耳を閉じて、聴きなさい。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q11",
-      "text": "あなたの使命は愛を探すことではなく、自分の中に愛に対して築いた壁を見つけ出すことです。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q12",
-      "text": "傷こそが、光があなたの中に入ってくる場所です。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q15",
-      "text": "今の自分を手放すとき、なりうる自分になれるのです。",
+      "id": "q001",
+      "text": "最上の善は水のごとし。水は万物を潤しながら争わず、人の厭う低きところに身を置く。それゆえに道に近い。",
       "author": "老子",
       "authorOriginal": "Laozi",
-      "source": "道徳経"
+      "source": "老子（道徳経）"
     },
     {
-      "id": "q16",
-      "text": "ストレスに対する最大の武器は、一つの思考を別の思考より選ぶ力です。",
-      "author": "ウィリアム・ジェームズ",
-      "authorOriginal": "William James",
-      "source": null
-    },
-    {
-      "id": "q17",
-      "text": "始まりがあるものには、すべて終わりがあります。それを受け入れれば、すべてうまくいきます。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q22",
-      "text": "苦痛は避けられません。しかし、苦しみは選択です。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q36",
-      "text": "人生とは、しがみつくことと手放すことのバランスです。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q38",
-      "text": "平和は内から来ます。外に求めてはなりません。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q39",
-      "text": "この宇宙の誰にも劣らず、あなた自身が愛と慈しみに値するのです。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q40",
-      "text": "すべてを理解することは、すべてを許すことです。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q41",
-      "text": "私たちを救えるのは自分自身だけです。誰も救えないし、誰も救ってはくれません。自ら道を歩まなければなりません。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q42",
-      "text": "心がすべてです。あなたが考えるもの、それがあなたになります。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q43",
-      "text": "毎朝、私たちは新たに生まれます。今日何をするかが最も大切なのです。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q44",
-      "text": "苦しみの根源は執着です。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q45",
-      "text": "空を飛びたいなら、あなたを重くしているすべてのものを手放しなさい。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q50",
-      "text": "何も欠けていないと悟ったとき、全世界があなたのものになります。",
+      "id": "q002",
+      "text": "濁った水を、誰が澄ませることができようか。ただ静かに任せておけば、おのずと澄んでくる。安らぎを、誰が手に入れられようか。動きをそのまま流れさせておけば、おのずと安らぎは生まれてくる。",
       "author": "老子",
       "authorOriginal": "Laozi",
-      "source": "道徳経"
+      "source": "老子（道徳経）"
     },
     {
-      "id": "q51",
-      "text": "自然は急ぎません。それでもすべてが成し遂げられます。",
+      "id": "q003",
+      "text": "心を極みまで虚しくし、静けさをゆるみなく守りなさい。万物はそれぞれに営みを尽くし、やがてもとの源へと還ってゆく。",
       "author": "老子",
       "authorOriginal": "Laozi",
-      "source": "道徳経"
+      "source": "老子（道徳経）"
     },
     {
-      "id": "q52",
-      "text": "持っているものに満足し、あるがままを喜びなさい。",
+      "id": "q004",
+      "text": "根へと還ること、それを静けさと呼ぶ。その静けさこそ、定められた務めを果たし終えたしるしである。",
       "author": "老子",
       "authorOriginal": "Laozi",
-      "source": "道徳経"
+      "source": "老子（道徳経）"
     },
     {
-      "id": "q53",
-      "text": "新しい始まりは、しばしば苦しい終わりに姿を変えています。",
+      "id": "q005",
+      "text": "他人を知る者は賢く、おのれを知る者は明らかである。他人に勝つ者は強く、おのれに勝つ者こそ真に強い。",
       "author": "老子",
       "authorOriginal": "Laozi",
-      "source": null
+      "source": "老子（道徳経）"
     },
     {
-      "id": "q54",
-      "text": "他者を制する者は力がある。しかし自己を制する者はさらに強い。",
+      "id": "q006",
+      "text": "おのが分に足ることを知る者は富み、たゆまず歩みを続ける者は固い意志をもつ。",
       "author": "老子",
       "authorOriginal": "Laozi",
-      "source": "道徳経"
+      "source": "老子（道徳経）"
     },
     {
-      "id": "q55",
-      "text": "心を正せば、人生の残りはおのずと整います。",
+      "id": "q007",
+      "text": "柔らかきものは硬きものに勝ち、弱きものは強きものに勝つ。",
       "author": "老子",
       "authorOriginal": "Laozi",
-      "source": null
+      "source": "老子（道徳経）"
     },
     {
-      "id": "q56",
-      "text": "木を植える最良の時期は二十年前でした。次に良い時期は今です。",
-      "author": "中国のことわざ",
-      "authorOriginal": "Chinese Proverb",
-      "source": null
+      "id": "q008",
+      "text": "この世でもっとも柔らかきものが、もっとも硬きものを貫いてゆく。かたちなきものは、隙間なきところへも入りこむ。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "老子（道徳経）"
     },
     {
-      "id": "q57",
-      "text": "あなたは心を支配する力を持っています——外の出来事ではありません。このことに気づけば、強さが見つかるでしょう。",
+      "id": "q009",
+      "text": "それゆえ、足ることを知る心の豊かさこそ、いつまでも変わらぬ真の豊かさである。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "老子（道徳経）"
+    },
+    {
+      "id": "q010",
+      "text": "たえず動くものは寒さに勝ち、静けさは暑さに勝つ。清らかさと静けさこそ、天下を正しく治める道である。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "老子（道徳経）"
+    },
+    {
+      "id": "q011",
+      "text": "両手に余る大樹も、ひとつの小さな芽から育つ。九層の高楼も、ひと盛りの土から立ち上がる。千里の道も、最初の一歩から始まる。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "老子（道徳経）"
+    },
+    {
+      "id": "q012",
+      "text": "人は生まれるときやわらかく弱く、死するとき硬くこわばる。されば硬さと強さは死につらなり、柔らかさと弱さは生につらなる。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "老子（道徳経）"
+    },
+    {
+      "id": "q013",
+      "text": "この世に水ほど柔らかく弱いものはない。だが硬く強いものを打ち崩すことにおいて、水にまさるものはない。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "老子（道徳経）"
+    },
+    {
+      "id": "q014",
+      "text": "柔らかきが硬きに勝ち、弱きが強きに勝つことを、世の誰もが知っている。けれど、それを実りある行いとできる者はいない。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "老子（道徳経）"
+    },
+    {
+      "id": "q015",
+      "text": "君子は心満ち足りて穏やかであり、小人はつねに憂いに満ちている。",
+      "author": "孔子",
+      "authorOriginal": "Confucius",
+      "source": "論語"
+    },
+    {
+      "id": "q016",
+      "text": "知者は水を楽しみ、仁者は山を楽しむ。知者は動き、仁者は静かである。",
+      "author": "孔子",
+      "authorOriginal": "Confucius",
+      "source": "論語"
+    },
+    {
+      "id": "q017",
+      "text": "人が自分を知らぬことを憂えはしない。自分が人を知らぬことこそを憂えるのだ。",
+      "author": "孔子",
+      "authorOriginal": "Confucius",
+      "source": "論語"
+    },
+    {
+      "id": "q018",
+      "text": "憎しみは、いかなるときも憎しみによっては鎮まらない。憎しみは愛によってのみ鎮まる。これは永遠の理である。",
+      "author": "ブッダ",
+      "authorOriginal": "Buddha",
+      "source": "ダンマパダ（法句経）"
+    },
+    {
+      "id": "q019",
+      "text": "ひとつの大岩が風に揺るがぬように、賢き人は誹りにも誉れにも心を乱さない。",
+      "author": "ブッダ",
+      "authorOriginal": "Buddha",
+      "source": "ダンマパダ（法句経）"
+    },
+    {
+      "id": "q020",
+      "text": "賢き人は教えに耳を傾けたのち、深く澄みわたり静まりかえった湖のように、安らかになる。",
+      "author": "ブッダ",
+      "authorOriginal": "Buddha",
+      "source": "ダンマパダ（法句経）"
+    },
+    {
+      "id": "q021",
+      "text": "善き人は何が訪れようと静かに歩む。快楽を求めて饒舌になることもない。幸いに触れても、悲しみに触れても、賢き人は浮かれもせず沈みもしない。",
+      "author": "ブッダ",
+      "authorOriginal": "Buddha",
+      "source": "ダンマパダ（法句経）"
+    },
+    {
+      "id": "q022",
+      "text": "その思いは静かであり、言葉も行いも静かである。まことの知によって自由を得たとき、その人はかくも静かな人となる。",
+      "author": "ブッダ",
+      "authorOriginal": "Buddha",
+      "source": "ダンマパダ（法句経）"
+    },
+    {
+      "id": "q023",
+      "text": "戦場で幾千の人に幾千たび勝つ者よりも、おのれ自身に勝つ者こそ、もっとも偉大な勝者である。",
+      "author": "ブッダ",
+      "authorOriginal": "Buddha",
+      "source": "ダンマパダ（法句経）"
+    },
+    {
+      "id": "q024",
+      "text": "ならば安らかに生きよう。憎む者を憎まずに。憎しみに満ちた人々のただなかにあって、憎しみから自由に生きよう。",
+      "author": "ブッダ",
+      "authorOriginal": "Buddha",
+      "source": "ダンマパダ（法句経）"
+    },
+    {
+      "id": "q025",
+      "text": "勝利も敗北もともに手放した人、足ることを知るその人こそ、安らかである。",
+      "author": "ブッダ",
+      "authorOriginal": "Buddha",
+      "source": "ダンマパダ（法句経）"
+    },
+    {
+      "id": "q026",
+      "text": "孤独と静けさの甘さを味わった者は、教えを飲みほす甘さを味わいながら、恐れから自由になり、過ちから自由になる。",
+      "author": "ブッダ",
+      "authorOriginal": "Buddha",
+      "source": "ダンマパダ（法句経）"
+    },
+    {
+      "id": "q027",
+      "text": "怒りは愛によって越えよ。悪は善によって越えよ。貪りは惜しみなき施しによって越え、偽りはまことによって越えよ。",
+      "author": "ブッダ",
+      "authorOriginal": "Buddha",
+      "source": "ダンマパダ（法句経）"
+    },
+    {
+      "id": "q028",
+      "text": "「つくられたものはすべて滅びゆく」。これを知り、これを見る者は、苦しみのなかで静かに澄んでゆく。これが清らかさへの道である。",
+      "author": "ブッダ",
+      "authorOriginal": "Buddha",
+      "source": "ダンマパダ（法句経）"
+    },
+    {
+      "id": "q029",
+      "text": "過ぎ去ったものを手放し、来たるものを手放し、いまあるものをも手放しなさい。存在の彼岸へ渡るとき、心がまったく自由であれば、もはや生と滅へと立ち戻ることはない。",
+      "author": "ブッダ",
+      "authorOriginal": "Buddha",
+      "source": "ダンマパダ（法句経）"
+    },
+    {
+      "id": "q030",
+      "text": "あなたは私を限りなきものとなさいました。それがあなたの喜び。この脆いうつわを、あなたはくり返し空にしては、たえず新しいいのちで満たしてくださる。",
+      "author": "タゴール",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "ギタンジャリ"
+    },
+    {
+      "id": "q031",
+      "text": "いまこそ静かに座し、あなたと向かいあい、この沈黙にあふれるやすらぎのなかで、いのちを捧げる歌をうたうとき。",
+      "author": "タゴール",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "ギタンジャリ"
+    },
+    {
+      "id": "q032",
+      "text": "すべての重荷を、すべてを担いうるその御手にゆだねなさい。そして二度と、悔いをもって後ろをふり返ってはならない。",
+      "author": "タゴール",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "ギタンジャリ"
+    },
+    {
+      "id": "q033",
+      "text": "あなたが語らぬのなら、私はあなたの沈黙で心を満たし、それに耐えましょう。星々とともに夜を見守り、辛抱づよく頭を垂れる夜のように、私は静かに待ちましょう。",
+      "author": "タゴール",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "ギタンジャリ"
+    },
+    {
+      "id": "q034",
+      "text": "疲れはてた夜には、あらがうことなく眠りに身をゆだねさせてください。私の信頼を、あなたのうえに置いて。",
+      "author": "タゴール",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "ギタンジャリ"
+    },
+    {
+      "id": "q035",
+      "text": "喜びも悲しみも、軽やかに担いゆく力を、私にお与えください。",
+      "author": "タゴール",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "ギタンジャリ"
+    },
+    {
+      "id": "q036",
+      "text": "騒がしい営みが四方にざわめき、彼方の世界から私を閉ざすとき、沈黙の主よ、あなたの平安と安らぎとともに、私のもとへ来てください。",
+      "author": "タゴール",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "ギタンジャリ"
+    },
+    {
+      "id": "q037",
+      "text": "私にとって解き放ちは、捨て去ることのうちにはない。私は千の喜びの絆のなかにこそ、自由の抱擁を感じるのだ。",
+      "author": "タゴール",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "ギタンジャリ"
+    },
+    {
+      "id": "q038",
+      "text": "うつろな日々に、失われた時を幾度も嘆いてきました。けれど、主よ、時は決して失われてはいません。あなたは私のいのちのひとときひとときを、その御手に握っていてくださったのです。",
+      "author": "タゴール",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "ギタンジャリ"
+    },
+    {
+      "id": "q039",
+      "text": "昼は過ぎ夜は去り、時代は花のように咲いては枯れてゆく。あなたは、待つすべを知っておられる。",
+      "author": "タゴール",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "ギタンジャリ"
+    },
+    {
+      "id": "q040",
+      "text": "それでもなお、死のなかで、あの未知なるものが、いつも知っていたものとして私に現れるでしょう。私はこのいのちを愛しているから、きっと死もまた愛するだろうと知っています。",
+      "author": "タゴール",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "ギタンジャリ"
+    },
+    {
+      "id": "q041",
+      "text": "私が舵を手放すとき、それをあなたが取られるときが来たのだと知ります。なすべきことは、たちまちになされるでしょう。あらがいは、むなしい。",
+      "author": "タゴール",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "ギタンジャリ"
+    },
+    {
+      "id": "q042",
+      "text": "愛は所有せず、所有されることも望まない。愛は、愛そのものだけで満ち足りているのだから。",
+      "author": "カリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q043",
+      "text": "けれど、寄りそうそのあいだにも、隙間を残しておきなさい。天の風が、ふたりのあいだで舞えるように。",
+      "author": "カリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q044",
+      "text": "子らに愛を与えても、あなたの思いまでは与えてはならない。彼らには、彼ら自身の思いがあるのだから。",
+      "author": "カリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q045",
+      "text": "おのれ自身を与えるとき、人はまことに与えているのだ。",
+      "author": "カリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q046",
+      "text": "あなたの喜びとは、仮面をはがれた悲しみにほかならない。笑いが湧きあがるその同じ泉が、かつては幾度も涙で満たされていたのだ。",
+      "author": "カリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q047",
+      "text": "悲しみがあなたの存在を深くえぐるほど、あなたはより多くの喜びを湛えられるようになる。",
+      "author": "カリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q048",
+      "text": "もし払いのけたい恐れがあるなら、その恐れの座はあなたの心のなかにあって、恐れる相手の手のなかにあるのではない。",
+      "author": "カリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q049",
+      "text": "あなたの痛みとは、あなたの理解を包む殻が割れる、その瞬間なのだ。",
+      "author": "カリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q050",
+      "text": "「私は真理を見つけた」と言ってはならない。むしろ「私はひとつの真理を見つけた」と言いなさい。",
+      "author": "カリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q051",
+      "text": "そのような人の胸のうちにこそ、魂はしらべのある沈黙のなかに宿るのだ。",
+      "author": "カリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q052",
+      "text": "けれどあなたのなかの永遠なるものは、いのちの永遠を知っている。そして知っている――昨日は今日の記憶にすぎず、明日は今日の夢にすぎないと。",
+      "author": "カリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q053",
+      "text": "生と死はひとつである。川と海がひとつであるように。",
+      "author": "カリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q054",
+      "text": "一瞬ごとに、ローマ人として、また一人の人として、ゆるぎなく思い定めよ。いま手にあることを、完全で素朴な品位とともに、慈しみと自由と正しさをもって行い、ほかのいっさいの思いから、おのれを解き放て。",
       "author": "マルクス・アウレリウス",
       "authorOriginal": "Marcus Aurelius",
       "source": "自省録"
     },
     {
-      "id": "q58",
-      "text": "幸せな人生を送るのに必要なものはごくわずかです。それはすべてあなたの内に、あなたの考え方の中にあります。",
+      "id": "q055",
+      "text": "人は過去をも未来をも失うことはできない。もっていないものを、どうして誰かが奪い取れようか。",
       "author": "マルクス・アウレリウス",
       "authorOriginal": "Marcus Aurelius",
       "source": "自省録"
     },
     {
-      "id": "q59",
-      "text": "あなたの人生の幸福は、思考の質にかかっています。",
+      "id": "q056",
+      "text": "人がおのれ自身の魂の内へ退くときほど、静かで煩いから自由な隠れ家はどこにもない。とりわけ、覗きこめばたちまち深い安らぎへと導かれる思いを、内に宿しているなら。そして私は言おう――心の安らぎとは、ただ整えられた心にほかならない、と。",
       "author": "マルクス・アウレリウス",
       "authorOriginal": "Marcus Aurelius",
       "source": "自省録"
     },
     {
-      "id": "q60",
-      "text": "善き人とは何かを議論して時間を浪費するのはやめなさい。善き人であれ。",
+      "id": "q057",
+      "text": "宇宙は変化であり、人生は思いなしである。",
       "author": "マルクス・アウレリウス",
       "authorOriginal": "Marcus Aurelius",
       "source": "自省録"
     },
     {
-      "id": "q61",
-      "text": "人が恐れるべきは死ではなく、生き始めないことを恐れるべきです。",
+      "id": "q058",
+      "text": "「私は傷つけられた」という思いなしを取り去れば、嘆きもまた消える。「私は傷つけられた」という嘆きを取り去れば、傷そのものも消えてゆく。",
       "author": "マルクス・アウレリウス",
       "authorOriginal": "Marcus Aurelius",
       "source": "自省録"
     },
     {
-      "id": "q62",
-      "text": "運命があなたに結びつけるものを受け入れ、運命が引き合わせる人々を愛しなさい。",
+      "id": "q059",
+      "text": "時は、起こりゆく出来事からなる川のようであり、激しい流れである。ひとつのものが目に映るやいなや流し去られ、別のものがその場に来て、それもまた流し去られてゆく。",
       "author": "マルクス・アウレリウス",
       "authorOriginal": "Marcus Aurelius",
       "source": "自省録"
     },
     {
-      "id": "q63",
-      "text": "怒りの結果は、その原因よりもはるかに重大です。",
+      "id": "q060",
+      "text": "波がたえず砕けかかる岬のようであれ。岬はゆるぎなく立ちつづけ、まわりに荒れ狂う水を静めてゆく。",
       "author": "マルクス・アウレリウス",
       "authorOriginal": "Marcus Aurelius",
       "source": "自省録"
     },
     {
-      "id": "q64",
-      "text": "私たちは現実よりも想像の中で多く苦しんでいます。",
+      "id": "q061",
+      "text": "わずらわしく場ちがいな思いのすべてを、払いのけ拭い去り、たちまち深い静けさへと立ち戻ること――それはなんとたやすいことか。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
+    },
+    {
+      "id": "q062",
+      "text": "人に起こることで、その人が生まれながらに耐えられぬものなど、ひとつもない。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
+    },
+    {
+      "id": "q063",
+      "text": "ふだん抱く思いがそのまま、あなたの心のありようとなる。魂は、その思いによって染められるのだから。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
+    },
+    {
+      "id": "q064",
+      "text": "やむをえぬ事情で心を乱されたなら、すみやかにおのれ自身へ立ち戻りなさい。乱れが強いられたあいだ以上に、調子を狂わせたままでいてはならない。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
+    },
+    {
+      "id": "q065",
+      "text": "ものごとについて何の思いも抱かず、魂を乱さずにいることは、私たちの力のうちにある。ものごとそれ自体に、私たちの判断をつくる力など、もともと備わってはいないのだから。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
+    },
+    {
+      "id": "q066",
+      "text": "おのれを、いまこの瞬間にとどめなさい。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
+    },
+    {
+      "id": "q067",
+      "text": "内を見つめなさい。内にこそ善の泉がある。掘りつづけさえすれば、それはいつまでも湧きあがってくる。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
+    },
+    {
+      "id": "q068",
+      "text": "ものごとには、私たちの力のうちにあるものと、力の及ばぬものとがある。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": "エンケイリディオン"
+    },
+    {
+      "id": "q069",
+      "text": "もし素焼きの壺を愛するなら、これは素焼きの壺なのだと言いなさい。そうすれば、それが割れても、あなたは心を乱されない。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": "エンケイリディオン"
+    },
+    {
+      "id": "q070",
+      "text": "人を乱すのは、起こる出来事そのものではない。その出来事についての思いなしである。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": "エンケイリディオン"
+    },
+    {
+      "id": "q071",
+      "text": "起こることが、あなたの望むとおりに起こることを求めてはならない。むしろ、起こることがありのままであることを願いなさい。そうすれば、あなたの人生は静かに流れてゆく。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": "エンケイリディオン"
+    },
+    {
+      "id": "q072",
+      "text": "病は身体のさまたげにはなっても、意志のさまたげにはならない。意志みずからがそう選ばぬかぎりは。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": "エンケイリディオン"
+    },
+    {
+      "id": "q073",
+      "text": "何かについて「失った」と言ってはならない。「もとへお返しした」と言いなさい。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": "エンケイリディオン"
+    },
+    {
+      "id": "q074",
+      "text": "人生においては、宴の席にあるように振る舞いなさい。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": "エンケイリディオン"
+    },
+    {
+      "id": "q075",
+      "text": "あなたを罵る者、打つ者が、あなたを辱めるのではないと心にとめなさい。辱めているのは、それを侮辱だとみなすあなた自身の思いなのだ。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": "エンケイリディオン"
+    },
+    {
+      "id": "q076",
+      "text": "ひとたび間をおき、ためらいを待てるようになれば、あなたはより容易に、おのれ自身を治めることができる。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": "エンケイリディオン"
+    },
+    {
+      "id": "q077",
+      "text": "すべてのものには、二つの取っ手がある。担いうる取っ手と、担えぬ取っ手と。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": "エンケイリディオン"
+    },
+    {
+      "id": "q078",
+      "text": "人生のいかなる境遇にも、楽しみと、やすらぎと、よろこびはある。ただし、わざわいを憎むのではなく、軽くやり過ごそうとする心がありさえすれば。",
       "author": "セネカ",
       "authorOriginal": "Seneca",
-      "source": "道徳書簡集"
+      "source": "心の平静について"
     },
     {
-      "id": "q65",
-      "text": "真の幸福とは、未来に不安を抱くことなく、今を楽しむことです。",
+      "id": "q079",
+      "text": "ならば知っておきなさい。人生のいかなる境遇も移ろいゆくものであり、誰かの身に起こりえたことは、あなたの身にも起こりうるのだと。",
       "author": "セネカ",
       "authorOriginal": "Seneca",
-      "source": null
+      "source": "心の平静について"
     },
     {
-      "id": "q66",
-      "text": "人生が短いのではありません。私たちがその多くを浪費しているのです。",
+      "id": "q080",
+      "text": "人ごみに疲れたときは孤独が癒やしてくれ、孤独に疲れたときは人ごみが癒やしてくれる。",
+      "author": "セネカ",
+      "authorOriginal": "Seneca",
+      "source": "心の平静について"
+    },
+    {
+      "id": "q081",
+      "text": "心にはやすらぎが要る。休らったのちにこそ、人はいっそう良く、いっそう力づよく立ち上がるのだから。",
+      "author": "セネカ",
+      "authorOriginal": "Seneca",
+      "source": "心の平静について"
+    },
+    {
+      "id": "q082",
+      "text": "そういうことなのだ。私たちは短い人生を授かるのではない。みずから短くしているのだ。日々に乏しいのではなく、日々を浪費しているのだ。",
       "author": "セネカ",
       "authorOriginal": "Seneca",
       "source": "人生の短さについて"
     },
     {
-      "id": "q67",
-      "text": "幸運とは、準備が機会に出会ったときに起こるものです。",
+      "id": "q083",
+      "text": "おのれのすべての時を自分の目的のために用い、一日一日を人生そのものを描くように整える者は、明日を望みもせず、恐れもしない。",
       "author": "セネカ",
       "authorOriginal": "Seneca",
-      "source": null
+      "source": "人生の短さについて"
     },
     {
-      "id": "q68",
-      "text": "困難は心を鍛えます。労働が体を鍛えるように。",
-      "author": "セネカ",
-      "authorOriginal": "Seneca",
-      "source": null
+      "id": "q084",
+      "text": "私はあるがままに在る、それで十分だ。\nこの世の誰ひとり気づかずとも、私は満ち足りて座している。\nそして、ことごとくが気づいたとしても、私は満ち足りて座している。",
+      "author": "ホイットマン",
+      "authorOriginal": "Walt Whitman",
+      "source": "草の葉"
     },
     {
-      "id": "q69",
-      "text": "大切なのは何が起こるかではなく、それにどう反応するかです。",
-      "author": "エピクテトス",
-      "authorOriginal": "Epictetus",
-      "source": null
+      "id": "q085",
+      "text": "私は思っていたよりも大きく、より善きものだ。\n自分がこれほど多くの善きものを宿していたとは、知らなかった。",
+      "author": "ホイットマン",
+      "authorOriginal": "Walt Whitman",
+      "source": "草の葉"
     },
     {
-      "id": "q70",
-      "text": "幸福への道はただ一つ、自分の力の及ばないことについて悩むのをやめることです。",
-      "author": "エピクテトス",
-      "authorOriginal": "Epictetus",
-      "source": null
+      "id": "q086",
+      "text": "私は自分と矛盾しているか。\nならばよい、私は自分と矛盾している。\n（私は大きい、私は多くのものを内に容れている。）",
+      "author": "ホイットマン",
+      "authorOriginal": "Walt Whitman",
+      "source": "草の葉"
     },
     {
-      "id": "q71",
-      "text": "まず自分がどうありたいかを言い、それから為すべきことを為しなさい。",
-      "author": "エピクテトス",
-      "authorOriginal": "Epictetus",
-      "source": null
+      "id": "q087",
+      "text": "身軽に、心も軽く、私は開かれた道へと踏み出す。\n健やかに、自由に、世界を目の前にして、\n長く茶色い小道が、私の選ぶどこへでも続いてゆく。",
+      "author": "ホイットマン",
+      "authorOriginal": "Walt Whitman",
+      "source": "草の葉"
     },
     {
-      "id": "q72",
-      "text": "自分の力の及ぶことを最大限に活かし、残りはあるがままに受け入れなさい。",
-      "author": "エピクテトス",
-      "authorOriginal": "Epictetus",
-      "source": null
+      "id": "q088",
+      "text": "私は私自身を讃え、私自身を歌う。\nそして私が想うことを、あなたもまた想うだろう。\n私に属するひとつひとつの原子は、等しくあなたにも属するのだから。",
+      "author": "ホイットマン",
+      "authorOriginal": "Walt Whitman",
+      "source": "草の葉"
     },
     {
-      "id": "q73",
-      "text": "自分自身の主人でない者は、自由ではありません。",
-      "author": "エピクテトス",
-      "authorOriginal": "Epictetus",
-      "source": null
+      "id": "q089",
+      "text": "おのれを信じよ。すべての心は、その鉄の弦に共鳴する。",
+      "author": "エマソン",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "自己信頼"
     },
     {
-      "id": "q74",
-      "text": "廃墟のあるところに、宝への希望があります。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q090",
+      "text": "あなたに平安をもたらすのは、あなた自身のほかにない。あなたに平安をもたらすのは、原理の勝利のほかにない。",
+      "author": "エマソン",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "自己信頼"
     },
     {
-      "id": "q75",
-      "text": "嘆かないでください。失ったものはすべて、別の形で戻ってきます。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q091",
+      "text": "愚かな一貫性は、小さな心に取りつく妖怪である。狭量な政治家や哲学者や聖職者たちが、こぞって崇めるものだ。",
+      "author": "エマソン",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "自己信頼"
     },
     {
-      "id": "q76",
-      "text": "昨日の私は賢かったから、世界を変えたいと思いました。今日の私は智慧があるので、自分自身を変えています。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q092",
+      "text": "世の中で世間の意見に従って生きるのはたやすい。孤独のなかで自分の意見に従って生きるのもたやすい。だが真に偉大な人とは、群衆のただなかにあってなお、完全な穏やかさをもって、孤独の独立を保つ人である。",
+      "author": "エマソン",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "自己信頼"
     },
     {
-      "id": "q77",
-      "text": "沈黙は神の言葉です。それ以外はすべて不完全な翻訳にすぎません。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q093",
+      "text": "失ったものひとつひとつに、あなたは別の何かを得ている。そして得るものひとつひとつに、あなたは何かを失っている。",
+      "author": "エマソン",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "補償"
     },
     {
-      "id": "q78",
-      "text": "自分の人生に火をつけなさい。その炎をあおいでくれる人を探しなさい。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q094",
+      "text": "おのれを貫きなさい。決して、誰かの真似をしてはならない。",
+      "author": "エマソン",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "自己信頼"
     },
     {
-      "id": "q79",
-      "text": "世界という庭に限界はありません。あなたの心の中を除いては。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q095",
+      "text": "希望とは羽をもつもの、\n魂のなかに止まり、\n言葉のない調べをうたい、\n決して、やむことがない。",
+      "author": "ディキンソン",
+      "authorOriginal": "Emily Dickinson",
+      "source": "詩集"
     },
     {
-      "id": "q80",
-      "text": "あなたが探しているものは、あなたを探しています。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q096",
+      "text": "もしひとつの心が砕けるのを止められたなら、\n私はむなしくは生きなかったことになる。\nもしひとつのいのちの痛みをやわらげ、\nひとつの苦しみを冷ますことができたなら、\nもし力つきた一羽のこまどりを\nふたたび巣へ帰してやれたなら、\n私はむなしくは生きなかったことになる。",
+      "author": "ディキンソン",
+      "authorOriginal": "Emily Dickinson",
+      "source": "詩集"
     },
     {
-      "id": "q81",
-      "text": "あなたの魂を奮い立たせるすべての呼びかけに応えなさい。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q097",
+      "text": "魂はみずからの仲間を選び、\nそして扉を閉ざす。\nその聖なる選びのうちへ、\nもう立ち入ってはならない。",
+      "author": "ディキンソン",
+      "authorOriginal": "Emily Dickinson",
+      "source": "詩集"
     },
     {
-      "id": "q82",
-      "text": "木のように、枯れ葉を落としなさい。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q098",
+      "text": "私が森へ行ったのは、思いを定めて生きたかったからだ。人生のもっとも本質的な事実だけに向きあい、それが教えるものを学べるかどうかを確かめ、いざ死を迎えるときに、自分が真には生きていなかったと気づくことのないように。",
+      "author": "ソロー",
+      "authorOriginal": "Henry David Thoreau",
+      "source": "ウォールデン"
     },
     {
-      "id": "q83",
-      "text": "善悪の観念の向こうに、一つの野原があります。そこであなたに会いましょう。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q099",
+      "text": "私はこの試みから、少なくともこれを学んだ。もし人が自分の夢の方向へ確信をもって進み、思い描いた人生を生きようと努めるなら、ふだんの時には思いもよらぬ成功に出会うだろう、ということを。",
+      "author": "ソロー",
+      "authorOriginal": "Henry David Thoreau",
+      "source": "ウォールデン"
     },
     {
-      "id": "q84",
-      "text": "そんなに小さくふるまうのはやめなさい。あなたは歓喜の中で動く宇宙そのものです。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q85",
-      "text": "感謝をまとうように身につけなさい。それがあなたの人生のすべてを満たすでしょう。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q86",
-      "text": "本当に愛するものの不思議な引力に、静かに引かれるままになりなさい。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q87",
-      "text": "私は狂気の淵に住み、理由を知りたくて扉を叩いていました。扉が開きました。ずっと内側から叩いていたのです。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q88",
-      "text": "あなたは翼を持って生まれたのに、なぜ這って生きることを選ぶのですか？",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q89",
-      "text": "他人の話に満足してはいけません。自分自身の神話を紡ぎなさい。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q100",
+      "text": "もし誰かが仲間と歩調を合わせないなら、それはおそらく、その人が別の太鼓のひびきを聞いているからだ。たとえそれがどんな拍子であれ、どれほど遠くから聞こえようと、その人を、自分の聞く調べに合わせて歩ませてやりなさい。",
+      "author": "ソロー",
+      "authorOriginal": "Henry David Thoreau",
+      "source": "ウォールデン"
     },
     {
       "id": "q101",
-      "text": "あなたは大海の一滴ではありません。あなたは一滴の中の大海そのものです。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
+      "text": "責任を背負う気持ちを手放し、握りしめた手をゆるめ、おのれの運命のなりゆきを、より高きものへゆだねなさい。すべてがどうなろうと、心からとらわれずにいなさい。そうすれば、完全な内なる安らぎを得るばかりか、しばしばそのうえに、まことに手放したと思っていたまさにそのものを、手にすることになるだろう。",
+      "author": "ウィリアム・ジェームズ",
+      "authorOriginal": "William James",
+      "source": "宗教的経験の諸相"
     },
     {
-      "id": "q145",
-      "text": "内面で成し遂げたことが、外の現実を変えるのです。",
-      "author": "プルタルコス",
-      "authorOriginal": "Plutarch",
-      "source": null
-    },
-    {
-      "id": "q146",
-      "text": "自分自身でありなさい。他の人はもう全員取られています。",
+      "id": "q102",
+      "text": "悲しみのあるところ、そこは聖なる地である。",
       "author": "オスカー・ワイルド",
       "authorOriginal": "Oscar Wilde",
-      "source": null
+      "source": "獄中記"
     },
     {
-      "id": "q150",
-      "text": "自分自身を知ることが、すべての智慧の始まりです。",
-      "author": "アリストテレス",
-      "authorOriginal": "Aristotle",
-      "source": null
-    },
-    {
-      "id": "q151",
-      "text": "宇宙のすべてはあなたの中にあります。すべてを自分自身に求めなさい。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q170",
-      "text": "悲しみの悪天候の中でだけ私たちは負けますが、喜びの中では嵐に立ち向かい、挑みます。",
-      "author": "アメリア・バー",
-      "authorOriginal": "Amelia Barr",
-      "source": null
-    },
-    {
-      "id": "q171",
-      "text": "人は物事によって乱されるのではなく、物事に対する自分の見方によって乱されるのです。",
-      "author": "エピクテトス",
-      "authorOriginal": "Epictetus",
-      "source": "提要"
-    },
-    {
-      "id": "q172",
-      "text": "自分の哲学を説明するな。体現せよ。",
-      "author": "エピクテトス",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q173",
-      "text": "私たちを本当に怯えさせ、落胆させるのは、外の出来事そのものではなく、それについての私たちの考え方です。",
-      "author": "エピクテトス",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q174",
-      "text": "賢者とは、持っていないものを嘆かず、持っているものを喜ぶ人です。",
-      "author": "エピクテトス",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q175",
-      "text": "自由は人生における唯一の価値ある目標です。それは自分の力の及ばないものを無視することで勝ち取られます。",
-      "author": "エピクテトス",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q176",
-      "text": "魂はその思考の色に染まります。",
-      "author": "マルクス・アウレリウス",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "自省録"
-    },
-    {
-      "id": "q177",
-      "text": "朝目覚めたとき、生きていることがどれほどの特権であるかを考えなさい。",
-      "author": "マルクス・アウレリウス",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "自省録"
-    },
-    {
-      "id": "q178",
-      "text": "私たちが聞くものはすべて意見であり、事実ではありません。私たちが見るものはすべて見方であり、真実ではありません。",
-      "author": "マルクス・アウレリウス",
-      "authorOriginal": "Marcus Aurelius",
-      "source": null
-    },
-    {
-      "id": "q179",
-      "text": "最高の復讐は、敵のようにならないことです。",
-      "author": "マルクス・アウレリウス",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "自省録"
-    },
-    {
-      "id": "q180",
-      "text": "正しくなければ行うな。真実でなければ言うな。",
-      "author": "マルクス・アウレリウス",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "自省録"
-    },
-    {
-      "id": "q181",
-      "text": "他者には寛容に、自分には厳格であれ。",
-      "author": "マルクス・アウレリウス",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "自省録"
-    },
-    {
-      "id": "q182",
-      "text": "未来に心を乱されてはなりません。今日あなたを武装させている同じ理性の力で、未来にも立ち向かうのですから。",
-      "author": "マルクス・アウレリウス",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "自省録"
-    },
-    {
-      "id": "q208",
-      "text": "あなたが考えることが心の質を決めます。魂は思考の色に染まるのです。",
-      "author": "マルクス・アウレリウス",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "自省録"
-    },
-    {
-      "id": "q212",
-      "text": "変化の秘訣は、古いものと闘うことにではなく、新しいものを築くことにすべてのエネルギーを注ぐことです。",
-      "author": "ソクラテス",
-      "authorOriginal": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q213",
-      "text": "吟味されない人生は生きるに値しません。",
-      "author": "ソクラテス",
-      "authorOriginal": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q214",
-      "text": "私は自分が何も知らないということを知っています。",
-      "author": "ソクラテス",
-      "authorOriginal": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q222",
-      "text": "生きる理由を持つ者は、ほとんどどんな状況にも耐えられます。",
-      "author": "フリードリヒ・ニーチェ",
-      "authorOriginal": "Friedrich Nietzsche",
-      "source": null
-    },
-    {
-      "id": "q223",
-      "text": "自然の中を歩くたびに、求める以上のものを受け取ります。",
+      "id": "q103",
+      "text": "またひとつ、シエラの輝かしい一日。おのれが溶けて吸いこまれ、どこへとも知れず鼓動とともに送り出されてゆくようだ。人生は長くも短くも感じられず、私たちは樹々や星々と同じように、時を惜しむことも急ぐこともしない。",
       "author": "ジョン・ミューア",
       "authorOriginal": "John Muir",
-      "source": null
+      "source": "シエラの最初の夏"
     },
     {
-      "id": "q224",
-      "text": "普遍的な要素で満足すること。空気と水に活力を感じること。朝の散歩にリフレッシュされること——これらは素朴な生活の報酬です。",
-      "author": "ジョン・バロウズ",
+      "id": "q104",
+      "text": "戻ってくると、私は自然のもとへ行く。なだめられ、癒やされ、すり減った感覚をもう一度ととのえてもらうために。",
+      "author": "ジョン・バローズ",
       "authorOriginal": "John Burroughs",
-      "source": null
+      "source": "時と変化"
     },
     {
-      "id": "q225",
-      "text": "あなたの痛みは、理解を包む殻が割れることです。",
-      "author": "ハリール・ジブラーン",
-      "authorOriginal": "Kahlil Gibran",
-      "source": "預言者"
-    },
-    {
-      "id": "q226",
-      "text": "苦しみの中から最も強い魂が生まれてきました。最も偉大な人格は傷跡で覆われています。",
-      "author": "ハリール・ジブラーン",
-      "authorOriginal": "Kahlil Gibran",
-      "source": null
-    },
-    {
-      "id": "q227",
-      "text": "自分の思考と平和でなくなったとき、人は話し始めます。",
-      "author": "ハリール・ジブラーン",
-      "authorOriginal": "Kahlil Gibran",
-      "source": "預言者"
-    },
-    {
-      "id": "q228",
-      "text": "悲しみがあなたの存在を深く刻むほど、より多くの喜びを入れることができます。",
-      "author": "ハリール・ジブラーン",
-      "authorOriginal": "Kahlil Gibran",
-      "source": "預言者"
-    },
-    {
-      "id": "q229",
-      "text": "あなたの子どもたちはあなたの子どもたちではありません。彼らはあなたを通って来ますが、あなたから来るのではありません。",
-      "author": "ハリール・ジブラーン",
-      "authorOriginal": "Kahlil Gibran",
-      "source": "預言者"
-    },
-    {
-      "id": "q230",
-      "text": "そして常に知られていたことですが、愛はその深さを別れの時まで知りません。",
-      "author": "ハリール・ジブラーン",
-      "authorOriginal": "Kahlil Gibran",
-      "source": "預言者"
-    },
-    {
-      "id": "q231",
-      "text": "私は多弁な人から沈黙を、不寛容な人から寛容を、不親切な人から親切を学びました。",
-      "author": "ハリール・ジブラーン",
-      "authorOriginal": "Kahlil Gibran",
-      "source": null
-    },
-    {
-      "id": "q232",
-      "text": "顔をいつも太陽の方に向けなさい——そうすれば影はあなたの後ろに落ちます。",
-      "author": "ウォルト・ホイットマン",
-      "authorOriginal": "Walt Whitman",
-      "source": null
-    },
-    {
-      "id": "q233",
-      "text": "私も他の誰も、あなたのためにその道を歩くことはできません。あなた自身が歩かなければなりません。",
-      "author": "ウォルト・ホイットマン",
-      "authorOriginal": "Walt Whitman",
-      "source": null
-    },
-    {
-      "id": "q234",
-      "text": "私は自分と矛盾しているだろうか？よろしい、では矛盾しよう。私は大きい、多くのものを含んでいるのだ。",
-      "author": "ウォルト・ホイットマン",
-      "authorOriginal": "Walt Whitman",
-      "source": "自分自身の歌"
-    },
-    {
-      "id": "q235",
-      "text": "私はこのままの私として存在している。それで十分です。",
-      "author": "ウォルト・ホイットマン",
-      "authorOriginal": "Walt Whitman",
-      "source": null
-    },
-    {
-      "id": "q239",
-      "text": "私たちの背後にあるものと前方にあるものは、私たちの内にあるものに比べれば取るに足らないことです。",
-      "author": "ラルフ・ウォルドー・エマーソン",
-      "authorOriginal": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q240",
-      "text": "常にあなたを別の何かにしようとする世界の中で、自分自身であり続けることが最大の偉業です。",
-      "author": "ラルフ・ウォルドー・エマーソン",
-      "authorOriginal": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q241",
-      "text": "怒っている一分ごとに、六十秒の幸福を失っています。",
-      "author": "ラルフ・ウォルドー・エマーソン",
-      "authorOriginal": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q242",
-      "text": "あなたが今あるものは、かつてあったものです。あなたがこれからなるものは、今あなたがすることです。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q243",
-      "text": "健康は最大の贈り物、満足は最大の富、信頼は最良の絆です。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q244",
-      "text": "三つのものは長く隠すことができません。太陽と月と真実です。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q245",
-      "text": "私たちは思考によって形作られます。考えるものに、私たちはなるのです。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q246",
-      "text": "発展させて行動に移されたアイデアは、アイデアのままのものより重要です。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q247",
-      "text": "幸福への道はありません。幸福が道なのです。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q248",
-      "text": "忍耐が鍵です。思い出してください——水瓶は一滴ずつ満ちるのです。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q249",
-      "text": "分離の中に世界最大の不幸があり、慈悲の中に世界の真の強さがあります。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q250",
-      "text": "過去に囚われるな、未来を夢見るな、心を今この瞬間に集中させなさい。",
-      "author": "仏陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q251",
-      "text": "どんなにゆっくりでも構いません。立ち止まりさえしなければ。",
-      "author": "孔子",
-      "authorOriginal": "Confucius",
-      "source": null
-    },
-    {
-      "id": "q252",
-      "text": "最大の栄光は一度も倒れないことではなく、倒れるたびに起き上がることにあります。",
-      "author": "孔子",
-      "authorOriginal": "Confucius",
-      "source": null
-    },
-    {
-      "id": "q253",
-      "text": "人生は本当にシンプルなのに、私たちは複雑にしたがるのです。",
-      "author": "孔子",
-      "authorOriginal": "Confucius",
-      "source": null
-    },
-    {
-      "id": "q254",
-      "text": "唯一の真の智慧は、自分が何も知らないと知ることです。",
-      "author": "ソクラテス",
-      "authorOriginal": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q255",
-      "text": "緊張とは、あなたがこうあるべきだと思っている自分です。リラックスとは、ありのままのあなたです。",
-      "author": "中国のことわざ",
-      "authorOriginal": "Chinese Proverb",
-      "source": null
-    },
-    {
-      "id": "q256",
-      "text": "闘いがなければ、進歩はありません。",
+      "id": "q105",
+      "text": "ひとりの人がどのように奴隷とされたかを、あなたは見てきた。これからあなたは、ひとりの奴隷がどのように人となったかを見るだろう。",
       "author": "フレデリック・ダグラス",
       "authorOriginal": "Frederick Douglass",
-      "source": null
+      "source": "フレデリック・ダグラスの生涯の物語"
     },
     {
-      "id": "q267",
-      "text": "目をそらさないでください。包帯の巻かれた場所を見つめ続けなさい。そこから光があなたに入ってくるのです。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q106",
+      "text": "言っておこう。踊る星を生むためには、人はなお、おのれのうちに混沌をもっていなければならない。",
+      "author": "ニーチェ",
+      "authorOriginal": "Friedrich Nietzsche",
+      "source": "ツァラトゥストラはこう語った"
     },
     {
-      "id": "q308",
-      "text": "心は満たされるべき器ではなく、燃え立たせるべき火です。",
+      "id": "q107",
+      "text": "省みられることのない人生は、生きるに値しない。",
+      "author": "ソクラテス",
+      "authorOriginal": "Socrates",
+      "source": "ソクラテスの弁明"
+    },
+    {
+      "id": "q108",
+      "text": "死を、心安らかに迎えなさい。そして確かに知っておきなさい。善き人には、生においても死のあとにおいても、いかなる災いも起こりはしないのだと。",
+      "author": "ソクラテス",
+      "authorOriginal": "Socrates",
+      "source": "ソクラテスの弁明"
+    },
+    {
+      "id": "q109",
+      "text": "アレクサンドロスは、敵を征服するよりもおのれを治めることをこそ、より王にふさわしいとみなし、敵の誰とも親しく交わろうとはしなかった。",
       "author": "プルタルコス",
       "authorOriginal": "Plutarch",
-      "source": null
-    },
-    {
-      "id": "q310",
-      "text": "私は探求者でしたし、今もそうです。しかし、本や星に問うのをやめました。自分の魂の教えに耳を傾け始めたのです。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q317",
-      "text": "心を支配しなさい。さもなければ心があなたを支配します。",
-      "author": "ホラティウス",
-      "authorOriginal": "Horace",
-      "source": null
-    },
-    {
-      "id": "q318",
-      "text": "あなたの存在の中心に答えがあります。あなたは自分が誰であり、何を望んでいるかを知っています。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": "道徳経"
-    },
-    {
-      "id": "q319",
-      "text": "沈黙は偉大な力の源です。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": "道徳経"
-    },
-    {
-      "id": "q320",
-      "text": "千里の道も一歩から始まります。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": "道徳経"
-    },
-    {
-      "id": "q321",
-      "text": "素朴さ、忍耐、思いやり。この三つがあなたの最大の宝です。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": "道徳経"
-    },
-    {
-      "id": "q322",
-      "text": "去ることをやめれば到着します。探すことをやめれば見えてきます。逃げることをやめれば見つけてもらえます。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": null
-    },
-    {
-      "id": "q323",
-      "text": "二倍明るく燃える炎は、半分の時間で燃え尽きます。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": null
-    },
-    {
-      "id": "q324",
-      "text": "他者を知る者は智慧がある。自分を知る者は真に賢い。他者を制する者は強い。自分を制する者は真に力がある。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": "道徳経"
-    },
-    {
-      "id": "q325",
-      "text": "あなたの泥が沈み、水が澄むまで待つ忍耐がありますか？",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": "道徳経"
-    },
-    {
-      "id": "q326",
-      "text": "水より柔らかく、しなやかなものはありませんが、水に抵抗できるものもまたありません。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": "道徳経"
-    },
-    {
-      "id": "q334",
-      "text": "これもまた過ぎ去る。",
-      "author": "ペルシアのことわざ",
-      "authorOriginal": "Persian Proverb",
-      "source": null
-    },
-    {
-      "id": "q346",
-      "text": "あなたが運命づけられている唯一の人は、あなたがなろうと決意した人です。",
-      "author": "ラルフ・ウォルドー・エマーソン",
-      "authorOriginal": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q349",
-      "text": "私は可能性の中に住んでいます。",
-      "author": "エミリー・ディキンソン",
-      "authorOriginal": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q350",
-      "text": "希望は羽を持ち、魂にとまるものです。",
-      "author": "エミリー・ディキンソン",
-      "authorOriginal": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q351",
-      "text": "魂はいつも扉を少し開けておき、恍惚の体験を迎え入れる準備をしておくべきです。",
-      "author": "エミリー・ディキンソン",
-      "authorOriginal": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q361",
-      "text": "一日を終えたら、それで終わりにしなさい。できることはやりました。いくつかの失敗や愚かなこともあったでしょう。できるだけ早く忘れなさい。",
-      "author": "ラルフ・ウォルドー・エマーソン",
-      "authorOriginal": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q362",
-      "text": "目を閉じなさい。恋に落ちなさい。そこにいなさい。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q363",
-      "text": "すべてのことが自分に起こるままにしなさい。美しさも恐ろしさも。ただ歩き続けなさい。どんな感情も最後ではないのです。",
-      "author": "ライナー・マリア・リルケ",
-      "authorOriginal": "Rainer Maria Rilke",
-      "source": null
+      "source": "プルタルコス英雄伝"
     }
   ]
 }

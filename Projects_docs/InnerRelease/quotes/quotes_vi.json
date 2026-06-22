@@ -2,790 +2,767 @@
   "language": "vi",
   "quotes": [
     {
-      "id": "q9",
-      "text": "Hãy buông tâm trí rồi mới tỉnh thức. Hãy nhắm tai lại và lắng nghe.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q11",
-      "text": "Nhiệm vụ của bạn không phải tìm kiếm tình yêu, mà chỉ là tìm và phá bỏ mọi rào cản bên trong mà bạn đã dựng lên để chống lại nó.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q12",
-      "text": "Vết thương là nơi Ánh sáng đi vào bạn.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q15",
-      "text": "Khi bạn buông bỏ những gì mình đang là, bạn trở thành những gì mình có thể là.",
+      "id": "q001",
+      "text": "Đức cao nhất tựa như nước. Nước khéo làm lợi cho muôn loài mà không tranh giành, lại an nhiên ở chốn thấp mà người đời chê bỏ.",
       "author": "Lão Tử",
-      "source": "Đạo đức kinh"
+      "authorOriginal": "Laozi",
+      "source": "Đạo Đức Kinh"
     },
     {
-      "id": "q16",
-      "text": "Vũ khí mạnh nhất chống lại căng thẳng là khả năng chọn một suy nghĩ thay vì suy nghĩ khác.",
-      "author": "William James",
-      "source": null
-    },
-    {
-      "id": "q17",
-      "text": "Mọi thứ có khởi đầu đều có kết thúc. Hãy chấp nhận điều đó, và mọi sự sẽ ổn.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q22",
-      "text": "Đau khổ là không tránh khỏi. Chịu đựng là tùy chọn.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q36",
-      "text": "Cuộc sống là sự cân bằng giữa giữ lấy và buông tay.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q38",
-      "text": "Bình an đến từ bên trong. Đừng tìm kiếm nó ở bên ngoài.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q39",
-      "text": "Chính bạn, cũng như bất kỳ ai trong toàn vũ trụ, đều xứng đáng với tình yêu và sự chăm sóc của mình.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q40",
-      "text": "Hiểu tất cả là tha thứ tất cả.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q41",
-      "text": "Không ai cứu chúng ta ngoài chính chúng ta. Không ai có thể và không ai được phép. Chúng ta phải tự bước trên con đường.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q42",
-      "text": "Tâm trí là tất cả. Bạn nghĩ gì, bạn trở thành điều đó.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q43",
-      "text": "Mỗi buổi sáng chúng ta được sinh ra một lần nữa. Điều chúng ta làm hôm nay mới là quan trọng nhất.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q44",
-      "text": "Gốc rễ của khổ đau là chấp trước.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q45",
-      "text": "Nếu muốn bay, hãy buông bỏ mọi thứ kéo bạn xuống.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q50",
-      "text": "Khi bạn nhận ra không thiếu thứ gì, cả thế giới thuộc về bạn.",
+      "id": "q002",
+      "text": "Ai có thể khiến dòng nước đục trở nên trong? Hãy để nó lắng yên, rồi tự khắc nó sẽ dần trong. Ai có thể giữ được sự nghỉ ngơi? Hãy để vận động tiếp diễn, rồi sự tĩnh lặng sẽ dần sinh ra.",
       "author": "Lão Tử",
-      "source": "Đạo đức kinh"
+      "authorOriginal": "Laozi",
+      "source": "Đạo Đức Kinh"
     },
     {
-      "id": "q51",
-      "text": "Thiên nhiên không vội vã, nhưng mọi thứ đều được hoàn thành.",
+      "id": "q003",
+      "text": "Hãy đưa cõi lòng trống không đến tận cùng, gìn giữ sự tĩnh lặng bằng tinh thần không mệt mỏi. Muôn vật cùng trải qua những vận hành của mình, rồi ta thấy chúng trở về cội nguồn ban sơ.",
       "author": "Lão Tử",
-      "source": "Đạo đức kinh"
+      "authorOriginal": "Laozi",
+      "source": "Đạo Đức Kinh"
     },
     {
-      "id": "q52",
-      "text": "Hãy bằng lòng với những gì bạn có; hãy vui với cách mọi thứ đang là.",
+      "id": "q004",
+      "text": "Sự trở về cội nguồn ấy, ta gọi là tĩnh lặng; và tĩnh lặng ấy có thể coi như lời báo rằng muôn vật đã trọn vẹn phận mệnh của mình.",
       "author": "Lão Tử",
-      "source": "Đạo đức kinh"
+      "authorOriginal": "Laozi",
+      "source": "Đạo Đức Kinh"
     },
     {
-      "id": "q53",
-      "text": "Những khởi đầu mới thường ẩn mình dưới vỏ bọc của những kết thúc đau đớn.",
+      "id": "q005",
+      "text": "Người hiểu kẻ khác là sáng suốt; người hiểu chính mình là minh triết. Người thắng kẻ khác là mạnh; người thắng chính mình mới thật là hùng mạnh.",
       "author": "Lão Tử",
-      "source": null
+      "authorOriginal": "Laozi",
+      "source": "Đạo Đức Kinh"
     },
     {
-      "id": "q54",
-      "text": "Ai kiểm soát được người khác có thể mạnh, nhưng ai làm chủ được chính mình còn mạnh hơn.",
+      "id": "q006",
+      "text": "Người bằng lòng với phận mình là giàu có; người vẫn bền bỉ hành động là kẻ có ý chí vững vàng.",
       "author": "Lão Tử",
-      "source": "Đạo đức kinh"
+      "authorOriginal": "Laozi",
+      "source": "Đạo Đức Kinh"
     },
     {
-      "id": "q55",
-      "text": "Nếu bạn sửa chữa tâm trí mình, phần còn lại của cuộc đời sẽ vào đúng chỗ.",
+      "id": "q007",
+      "text": "Mềm thắng cứng; yếu thắng mạnh.",
       "author": "Lão Tử",
-      "source": null
+      "authorOriginal": "Laozi",
+      "source": "Đạo Đức Kinh"
     },
     {
-      "id": "q56",
-      "text": "Thời điểm tốt nhất để trồng một cái cây là hai mươi năm trước. Thời điểm tốt thứ hai là bây giờ.",
-      "author": "Tục ngữ Trung Hoa",
-      "source": null
+      "id": "q008",
+      "text": "Vật mềm nhất trong thiên hạ lại vượt qua và chế ngự được vật cứng nhất; cái vô hình thấm vào nơi chẳng có một kẽ hở.",
+      "author": "Lão Tử",
+      "authorOriginal": "Laozi",
+      "source": "Đạo Đức Kinh"
     },
     {
-      "id": "q57",
-      "text": "Bạn có quyền lực trên tâm trí mình — không phải trên các sự kiện bên ngoài. Hãy nhận ra điều này, và bạn sẽ tìm thấy sức mạnh.",
+      "id": "q009",
+      "text": "Bởi vậy, sự đủ đầy của lòng biết đủ là cái đủ đầy bền lâu và không hề đổi thay.",
+      "author": "Lão Tử",
+      "authorOriginal": "Laozi",
+      "source": "Đạo Đức Kinh"
+    },
+    {
+      "id": "q010",
+      "text": "Hành động không ngừng thắng được cái lạnh; tĩnh lặng thắng được cái nóng. Sự trong sạch và tĩnh lặng đem lại phép tắc đúng đắn cho cả thiên hạ.",
+      "author": "Lão Tử",
+      "authorOriginal": "Laozi",
+      "source": "Đạo Đức Kinh"
+    },
+    {
+      "id": "q011",
+      "text": "Cây to ôm trọn vòng tay lớn lên từ mầm nhỏ bé nhất; đài cao chín tầng dựng nên từ một nắm đất nhỏ; hành trình ngàn dặm bắt đầu từ một bước chân.",
+      "author": "Lão Tử",
+      "authorOriginal": "Laozi",
+      "source": "Đạo Đức Kinh"
+    },
+    {
+      "id": "q012",
+      "text": "Con người lúc sinh ra thì mềm mại và yếu ớt; khi chết đi thì cứng rắn và rắn chắc. Vậy nên cứng rắn và mạnh mẽ là bạn đồng hành của cái chết; mềm mại và yếu mềm là bạn đồng hành của sự sống.",
+      "author": "Lão Tử",
+      "authorOriginal": "Laozi",
+      "source": "Đạo Đức Kinh"
+    },
+    {
+      "id": "q013",
+      "text": "Trong thiên hạ chẳng có gì mềm yếu hơn nước, vậy mà khi chống lại những vật cứng rắn và mạnh mẽ thì chẳng gì có thể vượt hơn nó.",
+      "author": "Lão Tử",
+      "authorOriginal": "Laozi",
+      "source": "Đạo Đức Kinh"
+    },
+    {
+      "id": "q014",
+      "text": "Ai trong thiên hạ cũng biết rằng mềm thắng cứng, yếu thắng mạnh, vậy mà chẳng ai làm được điều ấy trong đời sống.",
+      "author": "Lão Tử",
+      "authorOriginal": "Laozi",
+      "source": "Đạo Đức Kinh"
+    },
+    {
+      "id": "q015",
+      "text": "Bậc quân tử an nhiên và thư thái; kẻ tiểu nhân thì luôn đầy ưu phiền.",
+      "author": "Khổng Tử",
+      "authorOriginal": "Confucius",
+      "source": "Luận Ngữ"
+    },
+    {
+      "id": "q016",
+      "text": "Người trí tìm niềm vui nơi dòng nước; người nhân tìm niềm vui nơi núi đồi. Người trí thì linh hoạt; người nhân thì tĩnh tại.",
+      "author": "Khổng Tử",
+      "authorOriginal": "Confucius",
+      "source": "Luận Ngữ"
+    },
+    {
+      "id": "q017",
+      "text": "Ta chẳng buồn phiền vì người đời không hiểu ta; ta chỉ buồn phiền vì chính ta không hiểu người.",
+      "author": "Khổng Tử",
+      "authorOriginal": "Confucius",
+      "source": "Luận Ngữ"
+    },
+    {
+      "id": "q018",
+      "text": "Bởi hận thù chẳng bao giờ dứt được bằng hận thù: hận thù chỉ tan biến bằng tình thương, đó là quy luật ngàn đời.",
+      "author": "Đức Phật",
+      "authorOriginal": "Buddha",
+      "source": "Kinh Pháp Cú"
+    },
+    {
+      "id": "q019",
+      "text": "Như tảng đá vững chãi không lay chuyển trước gió, người trí chẳng nao núng giữa lời chê và tiếng khen.",
+      "author": "Đức Phật",
+      "authorOriginal": "Buddha",
+      "source": "Kinh Pháp Cú"
+    },
+    {
+      "id": "q020",
+      "text": "Người trí, sau khi lắng nghe chánh pháp, trở nên an tĩnh, tựa như mặt hồ sâu thẳm, phẳng lặng và yên bình.",
+      "author": "Đức Phật",
+      "authorOriginal": "Buddha",
+      "source": "Kinh Pháp Cú"
+    },
+    {
+      "id": "q021",
+      "text": "Người thiện lành bước đi an nhiên trước mọi điều xảy đến, không huyên thuyên đòi hỏi lạc thú; dù chạm vào niềm vui hay nỗi buồn, người trí chẳng bao giờ tỏ ra phấn khích hay sa sút.",
+      "author": "Đức Phật",
+      "authorOriginal": "Buddha",
+      "source": "Kinh Pháp Cú"
+    },
+    {
+      "id": "q022",
+      "text": "Tâm người an tĩnh, lời nói và việc làm cũng an tĩnh, khi người đã đạt tự do nhờ chân tri, khi người đã trở thành kẻ an nhiên.",
+      "author": "Đức Phật",
+      "authorOriginal": "Buddha",
+      "source": "Kinh Pháp Cú"
+    },
+    {
+      "id": "q023",
+      "text": "Dù một người chiến thắng ngàn vạn người trong trận mạc, nhưng nếu người khác chiến thắng được chính mình, ấy mới là người chiến thắng vĩ đại nhất.",
+      "author": "Đức Phật",
+      "authorOriginal": "Buddha",
+      "source": "Kinh Pháp Cú"
+    },
+    {
+      "id": "q024",
+      "text": "Vậy hãy sống an vui, không oán hận những kẻ oán hận ta! Giữa những kẻ oán hận, ta hãy sống không chút hận thù!",
+      "author": "Đức Phật",
+      "authorOriginal": "Buddha",
+      "source": "Kinh Pháp Cú"
+    },
+    {
+      "id": "q025",
+      "text": "Người đã buông bỏ cả thắng lẫn thua, người ấy, lòng biết đủ, là người an vui.",
+      "author": "Đức Phật",
+      "authorOriginal": "Buddha",
+      "source": "Kinh Pháp Cú"
+    },
+    {
+      "id": "q026",
+      "text": "Người đã nếm được vị ngọt của tịch tĩnh và an nhiên thì thoát khỏi sợ hãi, thoát khỏi tội lỗi, khi người tận hưởng vị ngọt của chánh pháp.",
+      "author": "Đức Phật",
+      "authorOriginal": "Buddha",
+      "source": "Kinh Pháp Cú"
+    },
+    {
+      "id": "q027",
+      "text": "Hãy lấy tình thương thắng cơn giận, lấy điều thiện thắng điều ác; lấy lòng rộng rãi thắng kẻ tham lam, lấy sự thật thắng kẻ dối gian!",
+      "author": "Đức Phật",
+      "authorOriginal": "Buddha",
+      "source": "Kinh Pháp Cú"
+    },
+    {
+      "id": "q028",
+      "text": "\"Vạn vật sinh ra đều hoại diệt\", ai thấu hiểu và thấy được điều ấy thì lìa khổ đau; đó là con đường đến với thanh tịnh.",
+      "author": "Đức Phật",
+      "authorOriginal": "Buddha",
+      "source": "Kinh Pháp Cú"
+    },
+    {
+      "id": "q029",
+      "text": "Hãy buông cái đã qua, buông cái sắp đến, buông cả cái đang là, khi ngươi sang đến bến bờ bên kia của hiện hữu; nếu tâm ngươi hoàn toàn tự do, ngươi sẽ không còn rơi vào vòng sinh diệt nữa.",
+      "author": "Đức Phật",
+      "authorOriginal": "Buddha",
+      "source": "Kinh Pháp Cú"
+    },
+    {
+      "id": "q030",
+      "text": "Người đã làm con vô tận, ấy là niềm vui của Người. Chiếc bình mong manh này Người trút cạn hết lần này đến lần khác, rồi lại đổ đầy bằng sự sống mới mẻ.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Lời Dâng"
+    },
+    {
+      "id": "q031",
+      "text": "Giờ đây đã đến lúc ngồi thật yên, đối diện với Người, và cất tiếng hát dâng hiến đời mình trong khoảng nhàn tịch lặng tràn đầy này.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Lời Dâng"
+    },
+    {
+      "id": "q032",
+      "text": "Hãy đặt mọi gánh nặng vào tay Đấng có thể mang vác tất cả, và đừng bao giờ ngoái lại trong nuối tiếc.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Lời Dâng"
+    },
+    {
+      "id": "q033",
+      "text": "Nếu Người không nói, con sẽ lấp đầy lòng mình bằng sự im lặng của Người mà cam chịu. Con sẽ ngồi yên và đợi, như đêm thâu canh thức cùng những vì sao, cúi đầu thật thấp với lòng nhẫn nại.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Lời Dâng"
+    },
+    {
+      "id": "q034",
+      "text": "Trong đêm mỏi mệt, xin cho con buông mình vào giấc ngủ không chống cự, đặt trọn niềm tin nơi Người.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Lời Dâng"
+    },
+    {
+      "id": "q035",
+      "text": "Xin ban cho con sức mạnh để mang lấy niềm vui và nỗi buồn của mình một cách nhẹ nhàng.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Lời Dâng"
+    },
+    {
+      "id": "q036",
+      "text": "Khi công việc ồn ã nổi lên huyên náo bốn bề, khép con lại với cõi ngoài kia, xin hãy đến với con, hỡi Chúa của tịch lặng, mang theo bình an và nghỉ ngơi của Người.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Lời Dâng"
+    },
+    {
+      "id": "q037",
+      "text": "Giải thoát của con không nằm ở sự từ bỏ. Con cảm nhận cái ôm của tự do ngay trong muôn ngàn ràng buộc của niềm hân hoan.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Lời Dâng"
+    },
+    {
+      "id": "q038",
+      "text": "Trong bao ngày nhàn rỗi, con đã sầu muộn vì thời gian đánh mất. Nhưng nó chẳng hề mất đi, lạy Chúa. Người đã nâng niu từng khoảnh khắc đời con trong chính đôi tay Người.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Lời Dâng"
+    },
+    {
+      "id": "q039",
+      "text": "Ngày và đêm trôi qua, năm tháng nở rồi tàn như những đóa hoa. Người biết cách đợi chờ.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Lời Dâng"
+    },
+    {
+      "id": "q040",
+      "text": "Dẫu vậy, trong cái chết, điều chưa biết kia sẽ hiện ra thân quen với con như xưa nay. Và bởi con yêu sự sống này, con biết con cũng sẽ yêu cái chết.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Lời Dâng"
+    },
+    {
+      "id": "q041",
+      "text": "Khi con buông tay lái, con biết đã đến lúc Người cầm lấy. Điều gì cần làm sẽ tức khắc được làm xong. Vùng vẫy chỉ là vô ích.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Lời Dâng"
+    },
+    {
+      "id": "q042",
+      "text": "Tình yêu không chiếm hữu mà cũng chẳng để bị chiếm hữu; bởi tình yêu là đủ đầy nơi chính mình.",
+      "author": "Kahlil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "Nhà Tiên Tri"
+    },
+    {
+      "id": "q043",
+      "text": "Nhưng hãy để có những khoảng trống trong sự gắn bó của hai người, và để gió trời nhảy múa giữa hai ta.",
+      "author": "Kahlil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "Nhà Tiên Tri"
+    },
+    {
+      "id": "q044",
+      "text": "Bạn có thể trao chúng tình yêu của mình nhưng không phải những ý nghĩ của mình, bởi chúng có những ý nghĩ riêng.",
+      "author": "Kahlil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "Nhà Tiên Tri"
+    },
+    {
+      "id": "q045",
+      "text": "Chỉ khi bạn trao đi chính mình, bạn mới thật sự cho đi.",
+      "author": "Kahlil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "Nhà Tiên Tri"
+    },
+    {
+      "id": "q046",
+      "text": "Niềm vui của bạn là nỗi buồn đã cởi bỏ mặt nạ. Và chính cái giếng mà tiếng cười của bạn trào lên đã bao lần đầy ắp nước mắt.",
+      "author": "Kahlil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "Nhà Tiên Tri"
+    },
+    {
+      "id": "q047",
+      "text": "Nỗi buồn càng khắc sâu vào tâm hồn bạn, bạn càng có thể chứa đựng nhiều niềm vui.",
+      "author": "Kahlil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "Nhà Tiên Tri"
+    },
+    {
+      "id": "q048",
+      "text": "Và nếu có một nỗi sợ bạn muốn xua tan, thì cội nguồn của nỗi sợ ấy nằm trong tim bạn chứ không trong bàn tay của điều khiến bạn sợ.",
+      "author": "Kahlil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "Nhà Tiên Tri"
+    },
+    {
+      "id": "q049",
+      "text": "Nỗi đau của bạn là sự rạn vỡ của lớp vỏ bao bọc lấy sự thấu hiểu trong bạn.",
+      "author": "Kahlil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "Nhà Tiên Tri"
+    },
+    {
+      "id": "q050",
+      "text": "Đừng nói \"Tôi đã tìm ra chân lý\", mà hãy nói \"Tôi đã tìm ra một chân lý\".",
+      "author": "Kahlil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "Nhà Tiên Tri"
+    },
+    {
+      "id": "q051",
+      "text": "Trong lòng những con người như thế, tâm hồn an trú trong sự tĩnh lặng nhịp nhàng.",
+      "author": "Kahlil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "Nhà Tiên Tri"
+    },
+    {
+      "id": "q052",
+      "text": "Nhưng cái vô thời gian trong bạn vẫn ý thức được sự vô thời gian của cuộc đời, và biết rằng hôm qua chỉ là ký ức của hôm nay, còn ngày mai là giấc mơ của hôm nay.",
+      "author": "Kahlil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "Nhà Tiên Tri"
+    },
+    {
+      "id": "q053",
+      "text": "Bởi sự sống và cái chết là một, như dòng sông và biển cả vốn là một.",
+      "author": "Kahlil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "Nhà Tiên Tri"
+    },
+    {
+      "id": "q054",
+      "text": "Mỗi khoảnh khắc, hãy nghĩ thật vững vàng như một người La Mã và một con người, để làm điều đang ở trong tay với phẩm giá trọn vẹn và giản dị, với lòng yêu thương, sự tự do và công chính, rồi cởi bỏ cho mình mọi ý nghĩ khác.",
       "author": "Marcus Aurelius",
-      "source": "Suy tưởng"
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Suy Tưởng"
     },
     {
-      "id": "q58",
-      "text": "Cần rất ít để có một cuộc sống hạnh phúc; tất cả nằm bên trong bạn, trong cách bạn suy nghĩ.",
+      "id": "q055",
+      "text": "Bởi con người không thể đánh mất cả quá khứ lẫn tương lai: cái mà người ta chưa từng có, làm sao ai có thể lấy đi của họ?",
       "author": "Marcus Aurelius",
-      "source": "Suy tưởng"
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Suy Tưởng"
     },
     {
-      "id": "q59",
-      "text": "Hạnh phúc cuộc đời bạn phụ thuộc vào chất lượng suy nghĩ của bạn.",
+      "id": "q056",
+      "text": "Bởi chẳng nơi nào yên tĩnh hơn hay thanh thản hơn để con người lui về bằng chính tâm hồn mình, nhất là khi trong họ có những ý nghĩ mà chỉ cần nhìn vào là lập tức được an nhiên trọn vẹn; và ta khẳng định rằng sự an nhiên chẳng là gì khác ngoài một tâm trí được sắp đặt khéo léo.",
       "author": "Marcus Aurelius",
-      "source": "Suy tưởng"
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Suy Tưởng"
     },
     {
-      "id": "q60",
-      "text": "Đừng lãng phí thêm thời gian tranh cãi về việc một người tốt nên như thế nào. Hãy là một người tốt.",
+      "id": "q057",
+      "text": "Vũ trụ là sự biến đổi; đời sống là cách ta nhìn nhận.",
       "author": "Marcus Aurelius",
-      "source": "Suy tưởng"
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Suy Tưởng"
     },
     {
-      "id": "q61",
-      "text": "Không phải cái chết mà con người nên sợ, mà nên sợ rằng mình chưa bao giờ thực sự sống.",
+      "id": "q058",
+      "text": "Hãy buông đi định kiến của ngươi, thì lời than \"Ta bị tổn thương\" cũng theo đó mà tan. Hãy buông lời than \"Ta bị tổn thương\", thì sự tổn thương cũng không còn.",
       "author": "Marcus Aurelius",
-      "source": "Suy tưởng"
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Suy Tưởng"
     },
     {
-      "id": "q62",
-      "text": "Hãy chấp nhận những gì số phận ràng buộc bạn, và yêu thương những người mà số phận đưa đến bên bạn.",
+      "id": "q059",
+      "text": "Thời gian như một dòng sông tạo nên bởi những sự việc xảy đến, một dòng chảy xiết; bởi vừa mới được thấy, một điều đã bị cuốn trôi, rồi điều khác đến thế chỗ, và điều này rồi cũng sẽ bị cuốn đi.",
       "author": "Marcus Aurelius",
-      "source": "Suy tưởng"
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Suy Tưởng"
     },
     {
-      "id": "q63",
-      "text": "Hậu quả của cơn giận nặng nề hơn biết bao so với nguyên nhân gây ra nó.",
+      "id": "q060",
+      "text": "Hãy như mỏm đá nơi sóng cứ vỗ vào không ngừng, mà nó vẫn đứng vững và làm dịu cơn cuồng nộ của dòng nước quanh mình.",
       "author": "Marcus Aurelius",
-      "source": "Suy tưởng"
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Suy Tưởng"
     },
     {
-      "id": "q64",
-      "text": "Chúng ta thường đau khổ trong trí tưởng tượng hơn là trong thực tế.",
-      "author": "Seneca",
-      "source": "Những bức thư đạo đức"
+      "id": "q061",
+      "text": "Thật dễ dàng biết bao để xua đi và gột rửa mọi ấn tượng phiền muộn hay bất xứng, rồi tức khắc trở về với sự an nhiên trọn vẹn.",
+      "author": "Marcus Aurelius",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Suy Tưởng"
     },
     {
-      "id": "q65",
-      "text": "Hạnh phúc đích thực là tận hưởng hiện tại, không phụ thuộc lo lắng vào tương lai.",
-      "author": "Seneca",
-      "source": null
+      "id": "q062",
+      "text": "Chẳng điều gì xảy đến với con người mà tự nhiên không cho họ khả năng để chịu đựng nó.",
+      "author": "Marcus Aurelius",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Suy Tưởng"
     },
     {
-      "id": "q66",
-      "text": "Không phải chúng ta có ít thời gian sống, mà là chúng ta lãng phí quá nhiều.",
-      "author": "Seneca",
-      "source": "Về sự ngắn ngủi của đời người"
+      "id": "q063",
+      "text": "Những ý nghĩ thường ngày của ngươi ra sao, tính cách tâm trí ngươi cũng sẽ như vậy; bởi tâm hồn được nhuộm màu bởi những ý nghĩ.",
+      "author": "Marcus Aurelius",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Suy Tưởng"
     },
     {
-      "id": "q67",
-      "text": "May mắn là khi sự chuẩn bị gặp cơ hội.",
-      "author": "Seneca",
-      "source": null
+      "id": "q064",
+      "text": "Khi hoàn cảnh buộc ngươi phải xao động phần nào, hãy mau trở về với chính mình, đừng để lạc điệu lâu hơn cái lúc bị buộc phải vậy.",
+      "author": "Marcus Aurelius",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Suy Tưởng"
     },
     {
-      "id": "q68",
-      "text": "Khó khăn rèn luyện tâm trí, như lao động rèn luyện thể xác.",
-      "author": "Seneca",
-      "source": null
+      "id": "q065",
+      "text": "Ta có quyền không mang định kiến nào về một sự việc, để tâm hồn ta khỏi bị xao động; bởi tự thân các sự việc chẳng có sức mạnh tự nhiên nào để áp đặt phán xét lên ta.",
+      "author": "Marcus Aurelius",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Suy Tưởng"
     },
     {
-      "id": "q69",
-      "text": "Quan trọng không phải điều xảy ra với bạn, mà là cách bạn phản ứng với nó.",
+      "id": "q066",
+      "text": "Hãy an trú trong hiện tại.",
+      "author": "Marcus Aurelius",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Suy Tưởng"
+    },
+    {
+      "id": "q067",
+      "text": "Hãy nhìn vào bên trong. Bên trong là suối nguồn của điều thiện, và nó sẽ mãi tuôn trào nếu ngươi chịu đào sâu.",
+      "author": "Marcus Aurelius",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Suy Tưởng"
+    },
+    {
+      "id": "q068",
+      "text": "Có những điều nằm trong tầm tay ta, và có những điều thì không.",
       "author": "Epictetus",
-      "source": null
+      "authorOriginal": "Epictetus",
+      "source": "Cẩm Nang"
     },
     {
-      "id": "q70",
-      "text": "Chỉ có một con đường dẫn đến hạnh phúc, đó là ngừng lo lắng về những điều nằm ngoài tầm kiểm soát.",
+      "id": "q069",
+      "text": "Nếu bạn yêu một chiếc bình đất, hãy nói rằng đó là một chiếc bình đất mà bạn yêu; bởi khi nó vỡ, lòng bạn sẽ không xao động.",
       "author": "Epictetus",
-      "source": null
+      "authorOriginal": "Epictetus",
+      "source": "Cẩm Nang"
     },
     {
-      "id": "q71",
-      "text": "Trước tiên, hãy nói với chính mình bạn muốn trở thành ai; rồi hãy làm những gì bạn phải làm.",
+      "id": "q070",
+      "text": "Con người xao động không phải bởi những điều xảy đến, mà bởi những định kiến của họ về chúng.",
       "author": "Epictetus",
-      "source": null
+      "authorOriginal": "Epictetus",
+      "source": "Cẩm Nang"
     },
     {
-      "id": "q72",
-      "text": "Hãy tận dụng tốt nhất những gì trong tầm tay, và chấp nhận phần còn lại như nó đến.",
+      "id": "q071",
+      "text": "Đừng mong những điều xảy đến phải xảy ra theo ý bạn; mà hãy mong những điều xảy đến đúng như chúng vốn là, rồi đời bạn sẽ trôi đi trong an nhiên.",
       "author": "Epictetus",
-      "source": null
+      "authorOriginal": "Epictetus",
+      "source": "Cẩm Nang"
     },
     {
-      "id": "q73",
-      "text": "Không ai tự do nếu chưa làm chủ được chính mình.",
+      "id": "q072",
+      "text": "Bệnh tật là chướng ngại cho thân thể, nhưng không cho ý chí, trừ khi chính ý chí chọn như vậy.",
       "author": "Epictetus",
-      "source": null
+      "authorOriginal": "Epictetus",
+      "source": "Cẩm Nang"
     },
     {
-      "id": "q74",
-      "text": "Nơi nào có đổ nát, nơi đó có hy vọng cho kho báu.",
-      "author": "Rumi",
-      "source": null
+      "id": "q073",
+      "text": "Đừng bao giờ nói về điều gì rằng \"Tôi đã mất nó\", mà hãy nói \"Tôi đã trả nó về\".",
+      "author": "Epictetus",
+      "authorOriginal": "Epictetus",
+      "source": "Cẩm Nang"
     },
     {
-      "id": "q75",
-      "text": "Đừng buồn. Bất cứ điều gì bạn mất đi sẽ trở lại dưới một hình thức khác.",
-      "author": "Rumi",
-      "source": null
+      "id": "q074",
+      "text": "Hãy nhớ rằng trong đời, bạn nên ứng xử như đang dự một bữa tiệc.",
+      "author": "Epictetus",
+      "authorOriginal": "Epictetus",
+      "source": "Cẩm Nang"
     },
     {
-      "id": "q76",
-      "text": "Hôm qua tôi thông minh, nên tôi muốn thay đổi thế giới. Hôm nay tôi khôn ngoan, nên tôi đang thay đổi chính mình.",
-      "author": "Rumi",
-      "source": null
+      "id": "q075",
+      "text": "Hãy nhớ rằng không phải kẻ mắng nhiếc hay đánh bạn làm bạn tổn thương, mà chính định kiến của bạn cho rằng những điều đó là sỉ nhục.",
+      "author": "Epictetus",
+      "authorOriginal": "Epictetus",
+      "source": "Cẩm Nang"
     },
     {
-      "id": "q77",
-      "text": "Im lặng là ngôn ngữ của Thượng đế, mọi thứ khác chỉ là bản dịch kém.",
-      "author": "Rumi",
-      "source": null
+      "id": "q076",
+      "text": "Bởi một khi bạn có được thời gian và biết chần chừ, bạn sẽ dễ dàng làm chủ chính mình hơn.",
+      "author": "Epictetus",
+      "authorOriginal": "Epictetus",
+      "source": "Cẩm Nang"
     },
     {
-      "id": "q78",
-      "text": "Hãy thắp lửa cuộc đời mình. Hãy tìm những người quạt bùng ngọn lửa của bạn.",
-      "author": "Rumi",
-      "source": null
+      "id": "q077",
+      "text": "Mọi sự đều có hai quai cầm: một quai để có thể mang vác được, quai kia thì không.",
+      "author": "Epictetus",
+      "authorOriginal": "Epictetus",
+      "source": "Cẩm Nang"
     },
     {
-      "id": "q79",
-      "text": "Khu vườn thế giới không có giới hạn, ngoại trừ trong tâm trí bạn.",
-      "author": "Rumi",
-      "source": null
+      "id": "q078",
+      "text": "Ở bất cứ hoàn cảnh nào của đời sống, bạn cũng sẽ tìm thấy niềm vui, sự thư thái và lạc thú; miễn là bạn sẵn lòng coi nhẹ những điều xấu thay vì căm ghét chúng.",
+      "author": "Seneca",
+      "authorOriginal": "Seneca",
+      "source": "Bàn Về Sự Bình An Của Tâm Hồn"
     },
     {
-      "id": "q80",
-      "text": "Điều bạn tìm kiếm cũng đang tìm kiếm bạn.",
-      "author": "Rumi",
-      "source": null
+      "id": "q079",
+      "text": "Vậy hãy biết rằng mọi hoàn cảnh của đời sống đều thoáng qua, và điều gì đã từng xảy đến với bất cứ ai cũng có thể xảy đến với bạn.",
+      "author": "Seneca",
+      "authorOriginal": "Seneca",
+      "source": "Bàn Về Sự Bình An Của Tâm Hồn"
     },
     {
-      "id": "q81",
-      "text": "Hãy đáp lại mọi tiếng gọi khơi dậy tinh thần bạn.",
-      "author": "Rumi",
-      "source": null
+      "id": "q080",
+      "text": "Sự cô tịch sẽ chữa lành ta khi ta chán đám đông, và đám đông sẽ chữa lành ta khi ta chán sự cô tịch.",
+      "author": "Seneca",
+      "authorOriginal": "Seneca",
+      "source": "Bàn Về Sự Bình An Của Tâm Hồn"
     },
     {
-      "id": "q82",
-      "text": "Hãy như cái cây và để lá khô rụng xuống.",
-      "author": "Rumi",
-      "source": null
+      "id": "q081",
+      "text": "Tâm trí con người cần được nghỉ ngơi: sau khi nghỉ, chúng trỗi dậy tốt đẹp hơn và mạnh mẽ hơn.",
+      "author": "Seneca",
+      "authorOriginal": "Seneca",
+      "source": "Bàn Về Sự Bình An Của Tâm Hồn"
     },
     {
-      "id": "q83",
-      "text": "Bên kia những ý niệm về đúng sai, có một cánh đồng. Tôi sẽ gặp bạn ở đó.",
-      "author": "Rumi",
-      "source": null
+      "id": "q082",
+      "text": "Là thế đấy: ta không nhận được một cuộc đời ngắn ngủi, mà chính ta khiến nó ngắn ngủi; ta không nghèo về ngày tháng, mà phung phí chúng.",
+      "author": "Seneca",
+      "authorOriginal": "Seneca",
+      "source": "Bàn Về Sự Ngắn Ngủi Của Đời Người"
     },
     {
-      "id": "q84",
-      "text": "Đừng sống nhỏ bé như vậy. Bạn là vũ trụ trong chuyển động xuất thần.",
-      "author": "Rumi",
-      "source": null
+      "id": "q083",
+      "text": "Người biết dùng trọn thời gian của mình cho mục đích của mình, người sắp đặt mỗi ngày như đang sắp đặt cả kế hoạch đời mình, thì chẳng mong cũng chẳng sợ ngày mai.",
+      "author": "Seneca",
+      "authorOriginal": "Seneca",
+      "source": "Bàn Về Sự Ngắn Ngủi Của Đời Người"
     },
     {
-      "id": "q85",
-      "text": "Hãy khoác lòng biết ơn như chiếc áo choàng, và nó sẽ nuôi dưỡng mọi góc đời bạn.",
-      "author": "Rumi",
-      "source": null
+      "id": "q084",
+      "text": "Tôi hiện hữu như tôi vốn là, thế là đủ,\nNếu chẳng ai trên đời hay biết, tôi vẫn ngồi an nhiên,\nVà nếu mọi người đều hay biết, tôi vẫn ngồi an nhiên.",
+      "author": "Walt Whitman",
+      "authorOriginal": "Walt Whitman",
+      "source": "Lá Cỏ"
     },
     {
-      "id": "q86",
-      "text": "Hãy để mình lặng lẽ bị cuốn hút bởi sức hút kỳ lạ của điều bạn thực sự yêu.",
-      "author": "Rumi",
-      "source": null
+      "id": "q085",
+      "text": "Tôi lớn lao hơn, tốt đẹp hơn tôi từng tưởng,\nTôi chẳng biết mình mang trong mình nhiều điều thiện lành đến thế.",
+      "author": "Walt Whitman",
+      "authorOriginal": "Walt Whitman",
+      "source": "Lá Cỏ"
     },
     {
-      "id": "q87",
-      "text": "Tôi đã sống bên bờ vực điên loạn, muốn biết lý do, gõ cửa. Cửa mở. Hóa ra tôi đã gõ từ bên trong.",
-      "author": "Rumi",
-      "source": null
+      "id": "q086",
+      "text": "Tôi có tự mâu thuẫn chăng?\nThôi được, vậy thì tôi tự mâu thuẫn,\n(Tôi rộng lớn, tôi chứa đựng muôn trùng.)",
+      "author": "Walt Whitman",
+      "authorOriginal": "Walt Whitman",
+      "source": "Lá Cỏ"
     },
     {
-      "id": "q88",
-      "text": "Bạn sinh ra với đôi cánh, sao lại thích bò qua cuộc đời?",
-      "author": "Rumi",
-      "source": null
+      "id": "q087",
+      "text": "Cất bước nhẹ lòng, tôi đi vào con đường rộng mở,\nKhỏe khoắn, tự do, thế giới trải trước mặt tôi,\nLối nâu dài trước mặt dẫn tôi đến bất cứ nơi nào tôi chọn.",
+      "author": "Walt Whitman",
+      "authorOriginal": "Walt Whitman",
+      "source": "Lá Cỏ"
     },
     {
-      "id": "q89",
-      "text": "Đừng thỏa mãn với những câu chuyện về người khác. Hãy mở ra huyền thoại của riêng bạn.",
-      "author": "Rumi",
-      "source": null
+      "id": "q088",
+      "text": "Tôi tôn vinh chính mình, và hát về chính mình,\nVà điều tôi tin nhận, bạn cũng sẽ tin nhận,\nBởi mỗi nguyên tử thuộc về tôi cũng thuộc về bạn.",
+      "author": "Walt Whitman",
+      "authorOriginal": "Walt Whitman",
+      "source": "Lá Cỏ"
+    },
+    {
+      "id": "q089",
+      "text": "Hãy tin vào chính mình: mọi trái tim đều rung lên theo sợi dây sắt ấy.",
+      "author": "Ralph Waldo Emerson",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "Tự Lực"
+    },
+    {
+      "id": "q090",
+      "text": "Chẳng gì có thể mang bình an đến cho bạn ngoài chính bạn. Chẳng gì có thể mang bình an đến cho bạn ngoài sự đắc thắng của những nguyên tắc.",
+      "author": "Ralph Waldo Emerson",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "Tự Lực"
+    },
+    {
+      "id": "q091",
+      "text": "Sự nhất quán ngu xuẩn là con ma ám của những tâm hồn nhỏ bé, được tôn sùng bởi những chính khách, triết gia và mục sư tầm thường.",
+      "author": "Ralph Waldo Emerson",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "Tự Lực"
+    },
+    {
+      "id": "q092",
+      "text": "Sống theo ý kiến của thế gian thì dễ giữa chốn đông người; sống theo ý mình thì dễ trong cô tịch; nhưng bậc vĩ nhân là người giữa đám đông vẫn giữ trọn vẹn, dịu dàng, sự độc lập của chốn cô tịch.",
+      "author": "Ralph Waldo Emerson",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "Tự Lực"
+    },
+    {
+      "id": "q093",
+      "text": "Với mỗi điều bạn bỏ lỡ, bạn lại nhận được điều khác; và với mỗi điều bạn nhận được, bạn lại mất đi điều gì đó.",
+      "author": "Ralph Waldo Emerson",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "Đền Bù"
+    },
+    {
+      "id": "q094",
+      "text": "Hãy là chính mình; đừng bao giờ bắt chước.",
+      "author": "Ralph Waldo Emerson",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "Tự Lực"
+    },
+    {
+      "id": "q095",
+      "text": "Hy vọng là loài có cánh\nĐậu trong tâm hồn,\nHát khúc ca không lời,\nVà chẳng bao giờ ngừng nghỉ.",
+      "author": "Emily Dickinson",
+      "authorOriginal": "Emily Dickinson",
+      "source": "Thơ"
+    },
+    {
+      "id": "q096",
+      "text": "Nếu tôi có thể ngăn một trái tim khỏi tan vỡ,\nThì tôi đã không sống uổng phí;\nNếu tôi có thể vơi đi một nỗi đau đời,\nHay xoa dịu một cơn nhức nhối,\nHay giúp một chú chim cổ đỏ lả đi\nTrở về tổ ấm,\nThì tôi đã không sống uổng phí.",
+      "author": "Emily Dickinson",
+      "authorOriginal": "Emily Dickinson",
+      "source": "Thơ"
+    },
+    {
+      "id": "q097",
+      "text": "Tâm hồn tự chọn lấy bạn đồng hành của mình,\nRồi khép cánh cửa lại;\nTrước sự an định thiêng liêng của nàng\nXin đừng quấy rầy thêm nữa.",
+      "author": "Emily Dickinson",
+      "authorOriginal": "Emily Dickinson",
+      "source": "Thơ"
+    },
+    {
+      "id": "q098",
+      "text": "Tôi vào rừng bởi tôi muốn sống một cách có chủ đích, chỉ đối diện với những điều thiết yếu của đời sống, và xem liệu tôi có học được điều nó muốn dạy, để khi đến lúc lìa đời, tôi không nhận ra rằng mình chưa từng thật sự sống.",
+      "author": "Henry David Thoreau",
+      "authorOriginal": "Henry David Thoreau",
+      "source": "Walden"
+    },
+    {
+      "id": "q099",
+      "text": "Ít ra tôi đã học được điều này qua trải nghiệm của mình: nếu một người tự tin tiến về phía những giấc mơ, và cố sống cuộc đời mình đã hình dung, người ấy sẽ gặp được thành công bất ngờ giữa những giờ phút bình thường.",
+      "author": "Henry David Thoreau",
+      "authorOriginal": "Henry David Thoreau",
+      "source": "Walden"
+    },
+    {
+      "id": "q100",
+      "text": "Nếu một người không sải bước theo kịp bạn đồng hành, có lẽ vì người ấy nghe thấy một tiếng trống khác. Hãy để người ấy bước theo điệu nhạc mình nghe, dù nhịp điệu ấy có ra sao hay xa xăm đến đâu.",
+      "author": "Henry David Thoreau",
+      "authorOriginal": "Henry David Thoreau",
+      "source": "Walden"
     },
     {
       "id": "q101",
-      "text": "Bạn không phải một giọt nước trong đại dương. Bạn là cả đại dương trong một giọt nước.",
-      "author": "Rumi",
-      "source": null
+      "text": "Hãy buông bỏ cảm giác trách nhiệm, hãy buông tay, giao phó số phận mình cho những thế lực cao hơn, hãy thật sự thản nhiên với việc mọi sự rồi sẽ ra sao, và bạn sẽ thấy mình không chỉ đạt được sự thanh thản nội tâm trọn vẹn, mà thường còn có thêm chính những điều tốt đẹp bạn tưởng mình đang từ bỏ.",
+      "author": "William James",
+      "authorOriginal": "William James",
+      "source": "Những Sắc Thái Của Kinh Nghiệm Tôn Giáo"
     },
     {
-      "id": "q145",
-      "text": "Những gì chúng ta đạt được bên trong sẽ thay đổi thực tại bên ngoài.",
-      "author": "Plutarch",
-      "source": null
-    },
-    {
-      "id": "q146",
-      "text": "Hãy là chính mình; mọi người khác đã có ai đó rồi.",
+      "id": "q102",
+      "text": "Nơi nào có nỗi buồn, nơi ấy là mảnh đất thiêng.",
       "author": "Oscar Wilde",
-      "source": null
+      "authorOriginal": "Oscar Wilde",
+      "source": "De Profundis"
     },
     {
-      "id": "q150",
-      "text": "Biết mình là khởi đầu của mọi trí tuệ.",
-      "author": "Aristotle",
-      "source": null
-    },
-    {
-      "id": "q151",
-      "text": "Mọi thứ trong vũ trụ đều ở bên trong bạn. Hãy đòi hỏi tất cả từ chính mình.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q170",
-      "text": "Chỉ trong nỗi buồn, thời tiết xấu mới chinh phục được ta; trong niềm vui, ta đối mặt bão tố và thách thức nó.",
-      "author": "Amelia Barr",
-      "source": null
-    },
-    {
-      "id": "q171",
-      "text": "Con người không bị xáo trộn bởi sự vật, mà bởi cách nhìn của họ về sự vật.",
-      "author": "Epictetus",
-      "source": "Cẩm nang"
-    },
-    {
-      "id": "q172",
-      "text": "Đừng giải thích triết lý của bạn. Hãy thể hiện nó.",
-      "author": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q173",
-      "text": "Điều thực sự làm chúng ta sợ hãi và hoang mang không phải các sự kiện bên ngoài mà là cách chúng ta nghĩ về chúng.",
-      "author": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q174",
-      "text": "Người khôn ngoan không buồn về những gì không có, mà vui về những gì đang có.",
-      "author": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q175",
-      "text": "Tự do là mục tiêu duy nhất xứng đáng trong đời. Nó đạt được bằng cách bỏ qua những gì ngoài tầm kiểm soát.",
-      "author": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q176",
-      "text": "Tâm hồn nhuộm màu theo suy nghĩ của mình.",
-      "author": "Marcus Aurelius",
-      "source": "Suy tưởng"
-    },
-    {
-      "id": "q177",
-      "text": "Khi thức dậy buổi sáng, hãy nghĩ xem được sống là đặc ân lớn lao biết bao.",
-      "author": "Marcus Aurelius",
-      "source": "Suy tưởng"
-    },
-    {
-      "id": "q178",
-      "text": "Mọi thứ chúng ta nghe là một ý kiến, không phải sự thật. Mọi thứ chúng ta thấy là một góc nhìn, không phải chân lý.",
-      "author": "Marcus Aurelius",
-      "source": null
-    },
-    {
-      "id": "q179",
-      "text": "Sự trả thù tốt nhất là không giống kẻ thù của mình.",
-      "author": "Marcus Aurelius",
-      "source": "Suy tưởng"
-    },
-    {
-      "id": "q180",
-      "text": "Nếu không đúng, đừng làm; nếu không thật, đừng nói.",
-      "author": "Marcus Aurelius",
-      "source": "Suy tưởng"
-    },
-    {
-      "id": "q181",
-      "text": "Hãy khoan dung với người khác và nghiêm khắc với chính mình.",
-      "author": "Marcus Aurelius",
-      "source": "Suy tưởng"
-    },
-    {
-      "id": "q182",
-      "text": "Đừng bao giờ để tương lai quấy rầy bạn. Bạn sẽ đối mặt với nó bằng cùng vũ khí lý trí mà hôm nay bạn dùng chống lại hiện tại.",
-      "author": "Marcus Aurelius",
-      "source": "Suy tưởng"
-    },
-    {
-      "id": "q208",
-      "text": "Những gì bạn nghĩ quyết định chất lượng tâm trí. Tâm hồn bạn mang màu sắc suy nghĩ của mình.",
-      "author": "Marcus Aurelius",
-      "source": "Suy tưởng"
-    },
-    {
-      "id": "q212",
-      "text": "Bí quyết của sự thay đổi là tập trung toàn bộ năng lượng không phải vào đấu tranh với cái cũ mà vào xây dựng cái mới.",
-      "author": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q213",
-      "text": "Cuộc đời không được xem xét thì không đáng sống.",
-      "author": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q214",
-      "text": "Tôi biết rằng tôi không biết gì cả.",
-      "author": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q222",
-      "text": "Ai có lý do để sống thì chịu đựng được hầu như mọi cách sống.",
-      "author": "Friedrich Nietzsche",
-      "source": null
-    },
-    {
-      "id": "q223",
-      "text": "Trong mỗi chuyến đi bộ giữa thiên nhiên, người ta nhận được nhiều hơn những gì tìm kiếm.",
+      "id": "q103",
+      "text": "Lại một ngày Sierra rạng rỡ nữa, ngày mà ta dường như tan ra, hòa nhập và được cuốn trôi về phía trước, chẳng biết đến nơi nao. Đời sống tựa hồ không dài cũng chẳng ngắn, và ta chẳng bận lòng giữ thời gian hay vội vã hơn những cây cối và những vì sao.",
       "author": "John Muir",
-      "source": null
+      "authorOriginal": "John Muir",
+      "source": "Mùa Hè Đầu Tiên Của Tôi Ở Sierra"
     },
     {
-      "id": "q224",
-      "text": "Thấy đủ với những yếu tố phổ quát; thấy không khí và nước sảng khoái; được tươi mới bởi buổi đi dạo sáng sớm — đó là phần thưởng của cuộc sống giản đơn.",
+      "id": "q104",
+      "text": "Khi trở về, tôi tìm đến Thiên Nhiên để được xoa dịu và chữa lành, và để các giác quan của tôi một lần nữa được hòa điệu.",
       "author": "John Burroughs",
-      "source": null
+      "authorOriginal": "John Burroughs",
+      "source": "Thời Gian Và Biến Đổi"
     },
     {
-      "id": "q225",
-      "text": "Nỗi đau của bạn là sự vỡ vụn của lớp vỏ bao bọc sự hiểu biết.",
-      "author": "Kahlil Gibran",
-      "source": "Nhà tiên tri"
-    },
-    {
-      "id": "q226",
-      "text": "Từ đau khổ đã nổi lên những tâm hồn mạnh mẽ nhất; những tính cách vĩ đại nhất đều mang vết sẹo.",
-      "author": "Kahlil Gibran",
-      "source": null
-    },
-    {
-      "id": "q227",
-      "text": "Bạn nói khi không còn hòa bình với suy nghĩ của mình.",
-      "author": "Kahlil Gibran",
-      "source": "Nhà tiên tri"
-    },
-    {
-      "id": "q228",
-      "text": "Nỗi buồn khắc càng sâu vào tâm hồn bạn, bạn càng chứa được nhiều niềm vui.",
-      "author": "Kahlil Gibran",
-      "source": "Nhà tiên tri"
-    },
-    {
-      "id": "q229",
-      "text": "Con cái bạn không phải là con cái bạn. Chúng đến thông qua bạn nhưng không phải từ bạn.",
-      "author": "Kahlil Gibran",
-      "source": "Nhà tiên tri"
-    },
-    {
-      "id": "q230",
-      "text": "Và mãi mãi người ta biết rằng tình yêu không biết chiều sâu của mình cho đến giờ phút chia ly.",
-      "author": "Kahlil Gibran",
-      "source": "Nhà tiên tri"
-    },
-    {
-      "id": "q231",
-      "text": "Tôi đã học sự im lặng từ kẻ hay nói, sự khoan dung từ kẻ bất khoan dung, và lòng tử tế từ kẻ không tử tế.",
-      "author": "Kahlil Gibran",
-      "source": null
-    },
-    {
-      "id": "q232",
-      "text": "Hãy luôn hướng mặt về phía ánh nắng — và bóng tối sẽ đổ lại phía sau bạn.",
-      "author": "Walt Whitman",
-      "source": null
-    },
-    {
-      "id": "q233",
-      "text": "Không phải tôi, cũng không phải ai khác có thể đi con đường đó thay bạn. Bạn phải tự mình đi.",
-      "author": "Walt Whitman",
-      "source": null
-    },
-    {
-      "id": "q234",
-      "text": "Tôi mâu thuẫn với chính mình ư? Thì đã sao, tôi mâu thuẫn với chính mình. Tôi rộng lớn, tôi chứa đựng vô vàn.",
-      "author": "Walt Whitman",
-      "source": "Bài ca về chính mình"
-    },
-    {
-      "id": "q235",
-      "text": "Tôi tồn tại như tôi đang là, thế là đủ.",
-      "author": "Walt Whitman",
-      "source": null
-    },
-    {
-      "id": "q239",
-      "text": "Những gì đằng sau và đằng trước chúng ta chỉ là chuyện nhỏ so với những gì ở bên trong chúng ta.",
-      "author": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q240",
-      "text": "Là chính mình trong một thế giới liên tục cố biến bạn thành ai khác là thành tựu vĩ đại nhất.",
-      "author": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q241",
-      "text": "Mỗi phút bạn tức giận, bạn mất đi sáu mươi giây hạnh phúc.",
-      "author": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q242",
-      "text": "Bạn đang là gì chính là kết quả của những gì bạn đã là. Bạn sẽ trở thành gì là kết quả của những gì bạn làm bây giờ.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q243",
-      "text": "Sức khỏe là món quà vĩ đại nhất, sự mãn nguyện là tài sản lớn nhất, sự chung thủy là mối quan hệ tốt nhất.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q244",
-      "text": "Ba điều không thể giấu lâu: mặt trời, mặt trăng, và sự thật.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q245",
-      "text": "Chúng ta được định hình bởi suy nghĩ; chúng ta trở thành điều chúng ta nghĩ.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q246",
-      "text": "Một ý tưởng được phát triển và đưa vào hành động quan trọng hơn một ý tưởng chỉ tồn tại dưới dạng ý tưởng.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q247",
-      "text": "Không có con đường nào dẫn đến hạnh phúc: hạnh phúc chính là con đường.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q248",
-      "text": "Kiên nhẫn là chìa khóa. Hãy nhớ: bình đầy từng giọt một.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q249",
-      "text": "Trong sự chia rẽ nằm nỗi khổ lớn nhất của thế giới; trong lòng từ bi nằm sức mạnh đích thực.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q250",
-      "text": "Đừng trú ngụ trong quá khứ, đừng mơ mộng về tương lai, hãy tập trung tâm trí vào khoảnh khắc hiện tại.",
-      "author": "Đức Phật",
-      "source": null
-    },
-    {
-      "id": "q251",
-      "text": "Không quan trọng bạn đi chậm đến đâu, miễn là bạn không dừng lại.",
-      "author": "Khổng Tử",
-      "source": null
-    },
-    {
-      "id": "q252",
-      "text": "Vinh quang lớn nhất không phải ở chỗ không bao giờ ngã, mà ở chỗ đứng dậy mỗi khi ngã.",
-      "author": "Khổng Tử",
-      "source": null
-    },
-    {
-      "id": "q253",
-      "text": "Cuộc sống thực sự đơn giản, nhưng chúng ta cứ khăng khăng làm nó phức tạp.",
-      "author": "Khổng Tử",
-      "source": null
-    },
-    {
-      "id": "q254",
-      "text": "Trí tuệ thực sự duy nhất là biết rằng mình không biết gì.",
-      "author": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q255",
-      "text": "Căng thẳng là người mà bạn nghĩ mình nên là. Thư giãn là người mà bạn thực sự là.",
-      "author": "Tục ngữ Trung Hoa",
-      "source": null
-    },
-    {
-      "id": "q256",
-      "text": "Nếu không có đấu tranh, không có tiến bộ.",
+      "id": "q105",
+      "text": "Bạn đã thấy một con người bị biến thành nô lệ ra sao; rồi bạn sẽ thấy một nô lệ trở thành con người ra sao.",
       "author": "Frederick Douglass",
-      "source": null
+      "authorOriginal": "Frederick Douglass",
+      "source": "Tự Truyện Cuộc Đời Frederick Douglass"
     },
     {
-      "id": "q267",
-      "text": "Đừng quay đi. Hãy giữ ánh nhìn vào chỗ được băng bó. Đó là nơi ánh sáng đi vào bạn.",
-      "author": "Rumi",
-      "source": null
+      "id": "q106",
+      "text": "Ta nói cho ngươi hay: con người vẫn phải mang trong mình một chút hỗn mang, để sinh ra một ngôi sao biết nhảy múa.",
+      "author": "Friedrich Nietzsche",
+      "authorOriginal": "Friedrich Nietzsche",
+      "source": "Zarathustra Đã Nói Như Thế"
     },
     {
-      "id": "q308",
-      "text": "Tâm trí không phải bình chứa cần đổ đầy mà là ngọn lửa cần thắp sáng.",
+      "id": "q107",
+      "text": "Một cuộc đời không được xem xét là cuộc đời không đáng sống.",
+      "author": "Socrates",
+      "authorOriginal": "Socrates",
+      "source": "Biện Giải"
+    },
+    {
+      "id": "q108",
+      "text": "Hãy bình thản trước cái chết, và biết chắc một điều rằng chẳng điều xấu nào có thể xảy đến với người lương thiện, dù trong đời sống hay sau khi lìa đời.",
+      "author": "Socrates",
+      "authorOriginal": "Socrates",
+      "source": "Biện Giải"
+    },
+    {
+      "id": "q109",
+      "text": "Alexander, coi việc làm chủ chính mình là vương giả hơn việc chinh phục kẻ thù, nên đã chẳng tìm sự thân mật với bất kỳ ai trong số họ.",
       "author": "Plutarch",
-      "source": null
-    },
-    {
-      "id": "q310",
-      "text": "Tôi đã là người tìm kiếm và vẫn là, nhưng tôi đã ngừng hỏi sách vở và sao trời. Tôi bắt đầu lắng nghe lời dạy từ linh hồn mình.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q317",
-      "text": "Hãy cai trị tâm trí, nếu không nó sẽ cai trị bạn.",
-      "author": "Horace",
-      "source": null
-    },
-    {
-      "id": "q318",
-      "text": "Ở trung tâm bản thể bạn có câu trả lời; bạn biết mình là ai và biết mình muốn gì.",
-      "author": "Lão Tử",
-      "source": "Đạo đức kinh"
-    },
-    {
-      "id": "q319",
-      "text": "Im lặng là nguồn sức mạnh vĩ đại.",
-      "author": "Lão Tử",
-      "source": "Đạo đức kinh"
-    },
-    {
-      "id": "q320",
-      "text": "Hành trình ngàn dặm bắt đầu từ một bước chân.",
-      "author": "Lão Tử",
-      "source": "Đạo đức kinh"
-    },
-    {
-      "id": "q321",
-      "text": "Giản dị, kiên nhẫn, từ bi. Ba điều này là kho báu lớn nhất của bạn.",
-      "author": "Lão Tử",
-      "source": "Đạo đức kinh"
-    },
-    {
-      "id": "q322",
-      "text": "Ngừng rời đi và bạn sẽ đến nơi. Ngừng tìm kiếm và bạn sẽ thấy. Ngừng chạy trốn và bạn sẽ được tìm thấy.",
-      "author": "Lão Tử",
-      "source": null
-    },
-    {
-      "id": "q323",
-      "text": "Ngọn lửa cháy sáng gấp đôi sẽ tắt nhanh gấp đôi.",
-      "author": "Lão Tử",
-      "source": null
-    },
-    {
-      "id": "q324",
-      "text": "Biết người khác là thông minh; biết mình là trí tuệ thực sự. Làm chủ người khác là sức mạnh; làm chủ mình là quyền năng thực sự.",
-      "author": "Lão Tử",
-      "source": "Đạo đức kinh"
-    },
-    {
-      "id": "q325",
-      "text": "Bạn có đủ kiên nhẫn chờ cho bùn lắng xuống và nước trong lại không?",
-      "author": "Lão Tử",
-      "source": "Đạo đức kinh"
-    },
-    {
-      "id": "q326",
-      "text": "Không gì mềm mại hay linh hoạt hơn nước, nhưng không gì có thể chống lại nó.",
-      "author": "Lão Tử",
-      "source": "Đạo đức kinh"
-    },
-    {
-      "id": "q334",
-      "text": "Rồi điều này cũng sẽ qua.",
-      "author": "Tục ngữ Ba Tư",
-      "source": null
-    },
-    {
-      "id": "q346",
-      "text": "Người duy nhất mà bạn được định mệnh trở thành là người mà bạn quyết định trở thành.",
-      "author": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q349",
-      "text": "Tôi cư ngụ trong khả thể.",
-      "author": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q350",
-      "text": "Hy vọng là thứ có lông vũ đậu trong tâm hồn.",
-      "author": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q351",
-      "text": "Tâm hồn nên luôn hé mở, sẵn sàng đón nhận trải nghiệm xuất thần.",
-      "author": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q361",
-      "text": "Hãy kết thúc mỗi ngày và buông nó đi. Bạn đã làm hết sức mình. Vài sai lầm và ngớ ngẩn chắc chắn đã xen vào; hãy quên chúng ngay khi có thể.",
-      "author": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q362",
-      "text": "Nhắm mắt lại. Yêu đi. Ở lại đó.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q363",
-      "text": "Hãy để mọi thứ xảy đến với bạn: vẻ đẹp và nỗi kinh hoàng. Cứ tiếp tục bước. Không cảm xúc nào là cuối cùng.",
-      "author": "Rainer Maria Rilke",
-      "source": null
+      "authorOriginal": "Plutarch",
+      "source": "Tiểu Sử Danh Nhân"
     }
   ]
 }

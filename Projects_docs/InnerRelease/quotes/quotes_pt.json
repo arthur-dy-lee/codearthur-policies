@@ -2,790 +2,767 @@
   "language": "pt",
   "quotes": [
     {
-      "id": "q9",
-      "text": "Solte sua mente e depois seja consciente. Feche seus ouvidos e escute.",
-      "author": "Rumi",
-      "source": null
+      "id": "q001",
+      "text": "A mais alta virtude é como a água. Sua excelência está em beneficiar todas as coisas e em repousar, sem disputa, no lugar humilde que todos desprezam.",
+      "author": "Lao-Tsé",
+      "authorOriginal": "Laozi",
+      "source": "Tao Te Ching"
     },
     {
-      "id": "q11",
-      "text": "A ferida é o lugar por onde a luz entra em você.",
-      "author": "Rumi",
-      "source": null
+      "id": "q002",
+      "text": "Quem é capaz de clarear as águas turvas? Deixa-as repousar, e aos poucos se tornarão límpidas. Quem é capaz de conquistar o repouso? Deixa o movimento seguir seu curso, e a quietude surgirá por si mesma.",
+      "author": "Lao-Tsé",
+      "authorOriginal": "Laozi",
+      "source": "Tao Te Ching"
     },
     {
-      "id": "q12",
-      "text": "No meio da dificuldade encontra-se a oportunidade.",
-      "author": "Albert Einstein",
-      "source": null
+      "id": "q003",
+      "text": "Alcança o ápice do vazio e guarda a quietude com firme constância. Todas as coisas cumprem seu ciclo de atividade, e então as vemos retornar à sua origem.",
+      "author": "Lao-Tsé",
+      "authorOriginal": "Laozi",
+      "source": "Tao Te Ching"
     },
     {
-      "id": "q15",
-      "text": "Você não pode impedir as ondas, mas pode aprender a surfar.",
-      "author": "Jon Kabat-Zinn",
-      "source": null
+      "id": "q004",
+      "text": "Esse retorno à raiz é o que chamamos de quietude; e essa quietude é o cumprimento sereno do destino que lhes foi reservado.",
+      "author": "Lao-Tsé",
+      "authorOriginal": "Laozi",
+      "source": "Tao Te Ching"
     },
     {
-      "id": "q16",
-      "text": "A maior glória não está em nunca cair, mas em se levantar cada vez que caímos.",
+      "id": "q005",
+      "text": "Quem conhece os outros é sábio; quem conhece a si mesmo é iluminado. Quem vence os outros é forte; quem vence a si mesmo é verdadeiramente poderoso.",
+      "author": "Lao-Tsé",
+      "authorOriginal": "Laozi",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q006",
+      "text": "Quem se contenta com o que tem é rico; quem age com perseverança tem vontade firme.",
+      "author": "Lao-Tsé",
+      "authorOriginal": "Laozi",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q007",
+      "text": "O suave vence o rígido; e o fraco vence o forte.",
+      "author": "Lao-Tsé",
+      "authorOriginal": "Laozi",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q008",
+      "text": "O que há de mais suave no mundo supera o que há de mais duro; o que não tem forma penetra onde não existe fresta.",
+      "author": "Lao-Tsé",
+      "authorOriginal": "Laozi",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q009",
+      "text": "Por isso, a plenitude do contentamento é uma plenitude duradoura e imutável.",
+      "author": "Lao-Tsé",
+      "authorOriginal": "Laozi",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q010",
+      "text": "O movimento incessante vence o frio; a quietude vence o calor. A pureza e a serenidade governam tudo o que existe sob o céu.",
+      "author": "Lao-Tsé",
+      "authorOriginal": "Laozi",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q011",
+      "text": "A árvore que abraça os braços nasceu do menor broto; a torre de nove andares ergueu-se de um punhado de terra; a jornada de mil léguas começou com um único passo.",
+      "author": "Lao-Tsé",
+      "authorOriginal": "Laozi",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q012",
+      "text": "Ao nascer, o homem é tenro e flexível; ao morrer, torna-se rígido e duro. Assim, a rigidez e a dureza acompanham a morte; a suavidade e a flexibilidade acompanham a vida.",
+      "author": "Lao-Tsé",
+      "authorOriginal": "Laozi",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q013",
+      "text": "Nada no mundo é mais suave e tenro do que a água, e ainda assim, para desgastar o que é duro e firme, nada a supera.",
+      "author": "Lao-Tsé",
+      "authorOriginal": "Laozi",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q014",
+      "text": "Todos no mundo sabem que o suave vence o duro e que o fraco vence o forte, mas ninguém é capaz de viver segundo essa verdade.",
+      "author": "Lao-Tsé",
+      "authorOriginal": "Laozi",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q015",
+      "text": "O homem superior é sereno e tranquilo; o homem mesquinho vive sempre cheio de aflição.",
       "author": "Confúcio",
-      "source": null
+      "authorOriginal": "Confucius",
+      "source": "Analectos"
     },
     {
-      "id": "q17",
-      "text": "Aquilo que você pensa, você se torna. Aquilo que você sente, você atrai. Aquilo que você imagina, você cria.",
+      "id": "q016",
+      "text": "Os sábios encontram alegria na água; os virtuosos encontram alegria nas montanhas. Os sábios são ativos; os virtuosos são tranquilos.",
+      "author": "Confúcio",
+      "authorOriginal": "Confucius",
+      "source": "Analectos"
+    },
+    {
+      "id": "q017",
+      "text": "Não me aflijo por não ser conhecido pelos homens; aflijo-me por não conhecê-los.",
+      "author": "Confúcio",
+      "authorOriginal": "Confucius",
+      "source": "Analectos"
+    },
+    {
+      "id": "q018",
+      "text": "O ódio jamais se aplaca com o ódio: o ódio se aplaca com o amor; essa é uma lei eterna.",
       "author": "Buda",
-      "source": null
+      "authorOriginal": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q22",
-      "text": "Sua tarefa não é buscar o amor, mas simplesmente buscar e encontrar todas as barreiras que você construiu contra ele.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q36",
-      "text": "Tudo o que é necessário para a liberdade é querer libertá-lo.",
-      "author": "Hale Dwoskin",
-      "source": "O Método Sedona"
-    },
-    {
-      "id": "q38",
-      "text": "A aceitação do que aconteceu é o primeiro passo para superar as consequências de qualquer infortúnio.",
-      "author": "William James",
-      "source": null
-    },
-    {
-      "id": "q39",
-      "text": "A vida é um equilíbrio entre segurar e deixar ir.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q40",
-      "text": "Nenhum problema pode ser resolvido pelo mesmo nível de consciência que o criou.",
-      "author": "Albert Einstein",
-      "source": null
-    },
-    {
-      "id": "q41",
-      "text": "A mudança é a lei da vida. E aqueles que olham apenas para o passado ou para o presente certamente perderão o futuro.",
-      "author": "John F. Kennedy",
-      "source": null
-    },
-    {
-      "id": "q42",
-      "text": "Os sentimentos não precisam ser controlados. Eles precisam ser reconhecidos e então deixados ir.",
-      "author": "Hale Dwoskin",
-      "source": "O Método Sedona"
-    },
-    {
-      "id": "q43",
-      "text": "Se você quer voar, precisa desistir de tudo o que o puxa para baixo.",
-      "author": "Toni Morrison",
-      "source": null
-    },
-    {
-      "id": "q44",
-      "text": "A verdadeira meditação é encontrar uma tela em branco e pintá-la com suas inspirações.",
-      "author": "Chogyam Trungpa",
-      "source": null
-    },
-    {
-      "id": "q45",
-      "text": "Você não pode encontrar paz evitando a vida.",
-      "author": "Michael Cunningham",
-      "source": null
-    },
-    {
-      "id": "q50",
-      "text": "Aquele que conquistou a si mesmo é um herói muito maior do que aquele que derrotou mil vezes mil homens.",
+      "id": "q019",
+      "text": "Assim como a rocha firme não se abala com o vento, o sábio não vacila diante da censura nem do elogio.",
       "author": "Buda",
-      "source": null
+      "authorOriginal": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q51",
-      "text": "Não é o mais forte da espécie que sobrevive, nem o mais inteligente, mas sim o mais adaptável à mudança.",
-      "author": "Charles Darwin",
-      "source": null
-    },
-    {
-      "id": "q52",
-      "text": "Quando você se aceita completamente, todo o universo o aceita.",
-      "author": "Lao Tsé",
-      "source": null
-    },
-    {
-      "id": "q53",
-      "text": "Soltar é a lição mais difícil que todos nós precisamos aprender, e é também a mais libertadora.",
-      "author": "Hale Dwoskin",
-      "source": "O Método Sedona"
-    },
-    {
-      "id": "q54",
-      "text": "Mergulhe na profundidade de cada momento e encontrará a eternidade.",
-      "author": "Deepak Chopra",
-      "source": null
-    },
-    {
-      "id": "q55",
-      "text": "O maior erro que você pode cometer na vida é ter medo de cometer erros.",
-      "author": "Elbert Hubbard",
-      "source": null
-    },
-    {
-      "id": "q56",
-      "text": "Quando a dor de segurar se torna maior que a dor de soltar, você finalmente solta.",
-      "author": "Hale Dwoskin",
-      "source": "O Método Sedona"
-    },
-    {
-      "id": "q57",
-      "text": "Soltar nos dá liberdade, e a liberdade é a única condição para a felicidade.",
-      "author": "Thich Nhat Hanh",
-      "source": null
-    },
-    {
-      "id": "q58",
-      "text": "O que está atrás de nós e o que está diante de nós são pequenas coisas comparadas ao que está dentro de nós.",
-      "author": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q59",
-      "text": "Não se agarre ao passado e não sonhe com o futuro. Concentre-se no momento presente.",
+      "id": "q020",
+      "text": "Os sábios, ao ouvirem os ensinamentos, tornam-se serenos, como um lago profundo, calmo e imóvel.",
       "author": "Buda",
-      "source": null
+      "authorOriginal": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q60",
-      "text": "Quando você larga quem você é, se torna quem poderia ser.",
-      "author": "Rumi",
-      "source": null
+      "id": "q021",
+      "text": "Os bons seguem em paz aconteça o que acontecer; não tagarelam ávidos de prazer. Tocados pela alegria ou pela dor, os sábios jamais se mostram exaltados nem abatidos.",
+      "author": "Buda",
+      "authorOriginal": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q61",
-      "text": "Todo o universo está conspirando para lhe dar tudo o que você precisa.",
-      "author": "Hale Dwoskin",
-      "source": "O Método Sedona"
+      "id": "q022",
+      "text": "Seu pensamento é sereno, serenas são suas palavras e ações, quando alcança a liberdade pelo verdadeiro conhecimento e se torna, assim, um homem de paz.",
+      "author": "Buda",
+      "authorOriginal": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q62",
-      "text": "Aquilo que você resiste, persiste.",
-      "author": "Carl Jung",
-      "source": null
+      "id": "q023",
+      "text": "Se um homem vencer em batalha mil vezes mil homens, e outro vencer a si mesmo, este é o maior dos vencedores.",
+      "author": "Buda",
+      "authorOriginal": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q63",
-      "text": "A felicidade não depende de condições externas, ela é governada por nossa atitude mental.",
-      "author": "Dale Carnegie",
-      "source": null
+      "id": "q024",
+      "text": "Vivamos, então, felizes, sem odiar os que nos odeiam! Entre os que nos odeiam, vivamos livres de todo ódio!",
+      "author": "Buda",
+      "authorOriginal": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q64",
-      "text": "Todo próximo nível de sua vida vai exigir uma versão diferente de você.",
-      "author": "Leonardo DiCaprio",
-      "source": null
+      "id": "q025",
+      "text": "Aquele que abandonou tanto a vitória quanto a derrota, esse, em paz, é feliz.",
+      "author": "Buda",
+      "authorOriginal": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q65",
-      "text": "Esteja onde você está, não onde você acha que deveria estar.",
-      "author": "Hale Dwoskin",
-      "source": "O Método Sedona"
+      "id": "q026",
+      "text": "Aquele que provou a doçura da solidão e da tranquilidade fica livre do medo e livre da culpa, enquanto saboreia a doçura de beber dos ensinamentos.",
+      "author": "Buda",
+      "authorOriginal": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q66",
-      "text": "A dor que você sente é o casulo se rompendo para que a borboleta possa surgir.",
-      "author": "Hale Dwoskin",
-      "source": null
+      "id": "q027",
+      "text": "Que o homem vença a ira com o amor, vença o mal com o bem; que vença a avareza com a generosidade e a mentira com a verdade!",
+      "author": "Buda",
+      "authorOriginal": "Buddha",
+      "source": "Dhammapada"
     },
     {
-      "id": "q67",
-      "text": "Quem vive em harmonia consigo mesmo vive em harmonia com o universo.",
+      "id": "q028",
+      "text": "\"Tudo o que foi criado perece\": quem compreende e vê isso aceita a dor com serenidade; esse é o caminho da pureza.",
+      "author": "Buda",
+      "authorOriginal": "Buddha",
+      "source": "Dhammapada"
+    },
+    {
+      "id": "q029",
+      "text": "Abandona o que ficou para trás, abandona o que está por vir, abandona o que está no meio, ao atravessares para a outra margem da existência; se a tua mente estiver inteiramente livre, não retornarás ao nascer nem ao perecer.",
+      "author": "Buda",
+      "authorOriginal": "Buddha",
+      "source": "Dhammapada"
+    },
+    {
+      "id": "q030",
+      "text": "Fizeste-me infinito, tal é o teu desejo. Este frágil vaso esvazias sem cessar e enches sempre de vida nova.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Gitanjali"
+    },
+    {
+      "id": "q031",
+      "text": "Agora é tempo de sentar-me em silêncio, frente a frente contigo, e cantar a entrega da vida neste ócio sereno e transbordante.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Gitanjali"
+    },
+    {
+      "id": "q032",
+      "text": "Deixa todos os teus fardos nas mãos daquele que tudo pode suportar, e nunca olhes para trás com pesar.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Gitanjali"
+    },
+    {
+      "id": "q033",
+      "text": "Se não falares, encherei o meu coração com o teu silêncio e o suportarei. Permanecerei imóvel, esperando como a noite em sua vigília de estrelas, a fronte inclinada com paciência.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Gitanjali"
+    },
+    {
+      "id": "q034",
+      "text": "Na noite do cansaço, deixa-me entregar ao sono sem luta, repousando a minha confiança em ti.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Gitanjali"
+    },
+    {
+      "id": "q035",
+      "text": "Dá-me a força de carregar com leveza as minhas alegrias e as minhas tristezas.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Gitanjali"
+    },
+    {
+      "id": "q036",
+      "text": "Quando o trabalho tumultuoso ergue seu estrondo por toda parte, isolando-me do além, vem a mim, meu senhor do silêncio, com a tua paz e o teu repouso.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Gitanjali"
+    },
+    {
+      "id": "q037",
+      "text": "A libertação não está, para mim, na renúncia. Sinto o abraço da liberdade em mil laços de alegria.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Gitanjali"
+    },
+    {
+      "id": "q038",
+      "text": "Em muitos dias ociosos lamentei o tempo perdido. Mas ele nunca se perde, meu senhor. Tomaste cada instante da minha vida em tuas próprias mãos.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Gitanjali"
+    },
+    {
+      "id": "q039",
+      "text": "Os dias e as noites passam, e as eras florescem e murcham como flores. Tu sabes esperar.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Gitanjali"
+    },
+    {
+      "id": "q040",
+      "text": "Assim também, na morte, o mesmo desconhecido me aparecerá como sempre conhecido. E porque amo esta vida, sei que amarei também a morte.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Gitanjali"
+    },
+    {
+      "id": "q041",
+      "text": "Quando solto o leme, sei que chegou a hora de tomares o teu lugar. O que houver de ser feito será feito num instante. Vã é esta luta.",
+      "author": "Rabindranath Tagore",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "Gitanjali"
+    },
+    {
+      "id": "q042",
+      "text": "O amor nada possui nem deseja ser possuído; pois ao amor basta o amor.",
+      "author": "Khalil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "O Profeta"
+    },
+    {
+      "id": "q043",
+      "text": "Mas que haja espaços na vossa união, e que dancem entre vós os ventos do céu.",
+      "author": "Khalil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "O Profeta"
+    },
+    {
+      "id": "q044",
+      "text": "Podeis dar-lhes o vosso amor, mas não os vossos pensamentos, pois eles têm os seus próprios pensamentos.",
+      "author": "Khalil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "O Profeta"
+    },
+    {
+      "id": "q045",
+      "text": "É quando dais de vós mesmos que verdadeiramente dais.",
+      "author": "Khalil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "O Profeta"
+    },
+    {
+      "id": "q046",
+      "text": "Vossa alegria é vossa tristeza sem máscara. E a mesma fonte de onde brota o vosso riso muitas vezes esteve cheia de vossas lágrimas.",
+      "author": "Khalil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "O Profeta"
+    },
+    {
+      "id": "q047",
+      "text": "Quanto mais fundo a tristeza escava o vosso ser, mais alegria sois capazes de conter.",
+      "author": "Khalil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "O Profeta"
+    },
+    {
+      "id": "q048",
+      "text": "E se for um medo que desejais dissipar, a morada desse medo está no vosso coração, e não na mão daquilo que temeis.",
+      "author": "Khalil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "O Profeta"
+    },
+    {
+      "id": "q049",
+      "text": "Vossa dor é o romper da casca que envolve o vosso entendimento.",
+      "author": "Khalil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "O Profeta"
+    },
+    {
+      "id": "q050",
+      "text": "Não digais: \"Encontrei a verdade\", mas antes: \"Encontrei uma verdade\".",
+      "author": "Khalil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "O Profeta"
+    },
+    {
+      "id": "q051",
+      "text": "No íntimo de tais seres, o espírito habita num silêncio cheio de ritmo.",
+      "author": "Khalil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "O Profeta"
+    },
+    {
+      "id": "q052",
+      "text": "Contudo, o que há de eterno em vós sabe da eternidade da vida, e sabe que o ontem é apenas a memória do hoje, e o amanhã, o sonho do hoje.",
+      "author": "Khalil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "O Profeta"
+    },
+    {
+      "id": "q053",
+      "text": "Pois a vida e a morte são uma só, assim como o rio e o mar são um só.",
+      "author": "Khalil Gibran",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "O Profeta"
+    },
+    {
+      "id": "q054",
+      "text": "A cada instante, pensa com firmeza, como um homem digno, em cumprir o que tens em mãos com simples e perfeita dignidade, com afeto, liberdade e justiça, e em libertar-te de todos os outros pensamentos.",
       "author": "Marco Aurélio",
+      "authorOriginal": "Marcus Aurelius",
       "source": "Meditações"
     },
     {
-      "id": "q68",
-      "text": "Não é o que acontece com você, mas como você reage que importa.",
+      "id": "q055",
+      "text": "Pois um homem não pode perder nem o passado nem o futuro: como tirar de alguém aquilo que ele não possui?",
+      "author": "Marco Aurélio",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Meditações"
+    },
+    {
+      "id": "q056",
+      "text": "Em nenhum lugar o homem encontra recolhimento mais sereno e tranquilo do que na própria alma, sobretudo quando guarda em si pensamentos tais que, ao contemplá-los, alcança de imediato a perfeita serenidade; e afirmo que a serenidade nada mais é do que a boa ordenação da mente.",
+      "author": "Marco Aurélio",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Meditações"
+    },
+    {
+      "id": "q057",
+      "text": "O universo é transformação; a vida é opinião.",
+      "author": "Marco Aurélio",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Meditações"
+    },
+    {
+      "id": "q058",
+      "text": "Afasta a tua opinião, e desaparece a queixa: \"Fui ferido\". Afasta a queixa \"Fui ferido\", e o próprio dano desaparece.",
+      "author": "Marco Aurélio",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Meditações"
+    },
+    {
+      "id": "q059",
+      "text": "O tempo é como um rio feito dos acontecimentos, uma corrente impetuosa; mal uma coisa surge, já é levada, e outra toma o seu lugar, e essa também será levada.",
+      "author": "Marco Aurélio",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Meditações"
+    },
+    {
+      "id": "q060",
+      "text": "Sê como o promontório contra o qual as ondas se quebram sem cessar: ele permanece firme e abranda a fúria das águas ao seu redor.",
+      "author": "Marco Aurélio",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Meditações"
+    },
+    {
+      "id": "q061",
+      "text": "Como é fácil afastar e apagar toda impressão perturbadora ou indesejada, e logo encontrar a plena serenidade.",
+      "author": "Marco Aurélio",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Meditações"
+    },
+    {
+      "id": "q062",
+      "text": "Nada acontece a homem algum que ele não tenha sido feito pela natureza para suportar.",
+      "author": "Marco Aurélio",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Meditações"
+    },
+    {
+      "id": "q063",
+      "text": "Tal como são os teus pensamentos habituais, assim será o caráter da tua mente; pois a alma se tinge da cor dos pensamentos.",
+      "author": "Marco Aurélio",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Meditações"
+    },
+    {
+      "id": "q064",
+      "text": "Quando as circunstâncias te obrigarem a perturbar-te, volta depressa a ti mesmo e não permaneças em desarmonia além do que dura a necessidade.",
+      "author": "Marco Aurélio",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Meditações"
+    },
+    {
+      "id": "q065",
+      "text": "Está em nosso poder não formar opinião alguma sobre uma coisa e não perturbar a alma; pois as coisas em si não têm o poder de moldar os nossos juízos.",
+      "author": "Marco Aurélio",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Meditações"
+    },
+    {
+      "id": "q066",
+      "text": "Limita-te ao presente.",
+      "author": "Marco Aurélio",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Meditações"
+    },
+    {
+      "id": "q067",
+      "text": "Olha para dentro. Dentro está a fonte do bem, e ela jamais cessará de jorrar, se sempre cavares.",
+      "author": "Marco Aurélio",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "Meditações"
+    },
+    {
+      "id": "q068",
+      "text": "Das coisas, algumas dependem de nós, e outras não.",
       "author": "Epicteto",
-      "source": null
+      "authorOriginal": "Epictetus",
+      "source": "Encheirídion"
     },
     {
-      "id": "q69",
-      "text": "Se você é deprimido, está vivendo no passado. Se está ansioso, vivendo no futuro. Se está em paz, vivendo no presente.",
-      "author": "Lao Tsé",
-      "source": null
+      "id": "q069",
+      "text": "Se amas um vaso de barro, dize que amas um vaso de barro; assim, quando ele se quebrar, não te perturbarás.",
+      "author": "Epicteto",
+      "authorOriginal": "Epictetus",
+      "source": "Encheirídion"
     },
     {
-      "id": "q70",
-      "text": "A liberdade não é dada a nós por ninguém; devemos cultivá-la nós mesmos.",
-      "author": "Thich Nhat Hanh",
-      "source": null
+      "id": "q070",
+      "text": "Os homens não se perturbam com as coisas que acontecem, mas com as opiniões que têm sobre elas.",
+      "author": "Epicteto",
+      "authorOriginal": "Epictetus",
+      "source": "Encheirídion"
     },
     {
-      "id": "q71",
-      "text": "Nós não vemos as coisas como elas são, vemos como nós somos.",
-      "author": "Anaïs Nin",
-      "source": null
+      "id": "q071",
+      "text": "Não desejes que as coisas aconteçam como queres; deseja antes que aconteçam como acontecem, e a tua vida fluirá em paz.",
+      "author": "Epicteto",
+      "authorOriginal": "Epictetus",
+      "source": "Encheirídion"
     },
     {
-      "id": "q72",
-      "text": "Ontem eu era inteligente, então eu queria mudar o mundo. Hoje sou sábio, então estou mudando a mim mesmo.",
-      "author": "Rumi",
-      "source": null
+      "id": "q072",
+      "text": "A doença é um obstáculo para o corpo, mas não para a vontade, a menos que a própria vontade o consinta.",
+      "author": "Epicteto",
+      "authorOriginal": "Epictetus",
+      "source": "Encheirídion"
     },
     {
-      "id": "q73",
-      "text": "Cada manhã nascemos de novo. O que fazemos hoje é o que mais importa.",
-      "author": "Buda",
-      "source": null
+      "id": "q073",
+      "text": "Nunca digas de coisa alguma: \"Perdi-a\", mas sim: \"Devolvi-a\".",
+      "author": "Epicteto",
+      "authorOriginal": "Epictetus",
+      "source": "Encheirídion"
     },
     {
-      "id": "q74",
-      "text": "Permita que as coisas venham e vão. Fique calmo. Deixe-as passar.",
-      "author": "Lester Levenson",
-      "source": null
+      "id": "q074",
+      "text": "Lembra-te de que, na vida, deves portar-te como num banquete.",
+      "author": "Epicteto",
+      "authorOriginal": "Epictetus",
+      "source": "Encheirídion"
     },
     {
-      "id": "q75",
-      "text": "A raiz do sofrimento é o apego.",
-      "author": "Buda",
-      "source": null
+      "id": "q075",
+      "text": "Lembra-te de que não é quem te insulta ou te golpeia que te ofende, mas a tua opinião de que tais coisas são ofensivas.",
+      "author": "Epicteto",
+      "authorOriginal": "Epictetus",
+      "source": "Encheirídion"
     },
     {
-      "id": "q76",
-      "text": "O medo não existe em nenhum outro lugar senão na mente.",
-      "author": "Dale Carnegie",
-      "source": null
+      "id": "q076",
+      "text": "Pois, se conseguires ganhar tempo e adiar, mais facilmente serás senhor de ti mesmo.",
+      "author": "Epicteto",
+      "authorOriginal": "Epictetus",
+      "source": "Encheirídion"
     },
     {
-      "id": "q77",
-      "text": "Não busque a felicidade. Se a buscar, não a encontrará, porque buscar é a própria antítese da felicidade.",
-      "author": "Eckhart Tolle",
-      "source": "O Poder do Agora"
+      "id": "q077",
+      "text": "Tudo tem duas alças: uma pela qual se pode carregar, e outra pela qual não se pode.",
+      "author": "Epicteto",
+      "authorOriginal": "Epictetus",
+      "source": "Encheirídion"
     },
     {
-      "id": "q78",
-      "text": "Nada pode perturbar o lago calmo de sua mente, a menos que você o permita.",
-      "author": "Hale Dwoskin",
-      "source": "O Método Sedona"
+      "id": "q078",
+      "text": "Em toda condição da vida encontrarás distrações, descanso e prazeres; isto é, contanto que estejas disposto a menosprezar os males em vez de odiá-los.",
+      "author": "Sêneca",
+      "authorOriginal": "Seneca",
+      "source": "Da Tranquilidade da Alma"
     },
     {
-      "id": "q79",
-      "text": "A dor é certa, o sofrimento é opcional.",
-      "author": "Buda",
-      "source": null
+      "id": "q079",
+      "text": "Sabe, então, que toda condição da vida é passageira, e que tudo o que já aconteceu a alguém pode acontecer também a ti.",
+      "author": "Sêneca",
+      "authorOriginal": "Seneca",
+      "source": "Da Tranquilidade da Alma"
     },
     {
-      "id": "q80",
-      "text": "Você não precisa controlar seus pensamentos. Precisa apenas parar de permitir que eles o controlem.",
-      "author": "Dan Millman",
-      "source": null
+      "id": "q080",
+      "text": "A solidão nos cura quando estamos cansados das multidões, e as multidões nos curam quando estamos cansados da solidão.",
+      "author": "Sêneca",
+      "authorOriginal": "Seneca",
+      "source": "Da Tranquilidade da Alma"
     },
     {
-      "id": "q81",
-      "text": "Tudo é transitório. Tudo está em fluxo.",
-      "author": "Buda",
-      "source": null
+      "id": "q081",
+      "text": "A mente dos homens precisa de descanso: ela se ergue mais forte e mais vigorosa depois do repouso.",
+      "author": "Sêneca",
+      "authorOriginal": "Seneca",
+      "source": "Da Tranquilidade da Alma"
     },
     {
-      "id": "q82",
-      "text": "O privilégio de uma vida é tornar-se quem você realmente é.",
-      "author": "Carl Jung",
-      "source": null
+      "id": "q082",
+      "text": "É assim: não recebemos uma vida curta, nós a tornamos curta; não somos pobres de dias, mas perdulários deles.",
+      "author": "Sêneca",
+      "authorOriginal": "Seneca",
+      "source": "Da Brevidade da Vida"
     },
     {
-      "id": "q83",
-      "text": "Aprender a deixar ir deveria ser aprendido antes de aprender a obter.",
-      "author": "Ray Bradbury",
-      "source": null
+      "id": "q083",
+      "text": "Aquele que dispõe de todo o seu tempo para os próprios fins, que organiza cada dia como quem traça o plano da própria vida, nem deseja nem teme o amanhã.",
+      "author": "Sêneca",
+      "authorOriginal": "Seneca",
+      "source": "Da Brevidade da Vida"
     },
     {
-      "id": "q84",
-      "text": "Seu poder interior é sua paciência e tolerância.",
-      "author": "Dalai Lama",
-      "source": null
+      "id": "q084",
+      "text": "Existo como sou, e isso basta.\nSe ninguém mais no mundo o souber, sento-me satisfeito,\nE se todos e cada um o souberem, sento-me satisfeito.",
+      "author": "Walt Whitman",
+      "authorOriginal": "Walt Whitman",
+      "source": "Folhas de Relva"
     },
     {
-      "id": "q85",
-      "text": "O momento presente é sempre pequeno no sentido de que é sempre o aqui e agora. Mas contém uma imensidão se você souber como usá-lo.",
-      "author": "Eckhart Tolle",
-      "source": "O Poder do Agora"
+      "id": "q085",
+      "text": "Sou maior e melhor do que pensava,\nNão sabia que continha tanta bondade.",
+      "author": "Walt Whitman",
+      "authorOriginal": "Walt Whitman",
+      "source": "Folhas de Relva"
     },
     {
-      "id": "q86",
-      "text": "Quando aceitamos verdadeiramente o que é, ficamos livres da ilusão de como deveria ser.",
-      "author": "Hale Dwoskin",
-      "source": "O Método Sedona"
+      "id": "q086",
+      "text": "Contradigo-me?\nMuito bem, então me contradigo,\n(Sou vasto, contenho multidões.)",
+      "author": "Walt Whitman",
+      "authorOriginal": "Walt Whitman",
+      "source": "Folhas de Relva"
     },
     {
-      "id": "q87",
-      "text": "Cada experiência, não importa quão ruim pareça, contém dentro de si uma bênção de algum tipo.",
-      "author": "Buda",
-      "source": null
+      "id": "q087",
+      "text": "A pé e de coração leve, sigo pela estrada aberta,\nSadio, livre, o mundo diante de mim,\nO longo caminho pardo à minha frente, levando aonde eu quiser.",
+      "author": "Walt Whitman",
+      "authorOriginal": "Walt Whitman",
+      "source": "Folhas de Relva"
     },
     {
-      "id": "q88",
-      "text": "O impedimento à ação impulsiona a ação. O que está no caminho se torna o caminho.",
-      "author": "Marco Aurélio",
-      "source": "Meditações"
+      "id": "q088",
+      "text": "Celebro a mim mesmo e canto a mim mesmo,\nE o que eu presumir, tu também presumirás,\nPois cada átomo que me pertence pertence igualmente a ti.",
+      "author": "Walt Whitman",
+      "authorOriginal": "Walt Whitman",
+      "source": "Folhas de Relva"
     },
     {
-      "id": "q89",
-      "text": "O caos é meramente a ordem aguardando para ser decifrada.",
-      "author": "José Saramago",
-      "source": null
+      "id": "q089",
+      "text": "Confia em ti mesmo: todo coração vibra ao toque dessa corda de ferro.",
+      "author": "Ralph Waldo Emerson",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "Autoconfiança"
+    },
+    {
+      "id": "q090",
+      "text": "Nada pode trazer-te paz senão tu mesmo. Nada pode trazer-te paz senão o triunfo dos princípios.",
+      "author": "Ralph Waldo Emerson",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "Autoconfiança"
+    },
+    {
+      "id": "q091",
+      "text": "Uma coerência tola é o fantasma das mentes pequenas, adorado por pequenos estadistas, filósofos e teólogos.",
+      "author": "Ralph Waldo Emerson",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "Autoconfiança"
+    },
+    {
+      "id": "q092",
+      "text": "É fácil viver no mundo segundo a opinião do mundo; é fácil viver na solidão segundo a nossa própria; mas grande é o homem que, em meio à multidão, conserva com perfeita doçura a independência da solidão.",
+      "author": "Ralph Waldo Emerson",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "Autoconfiança"
+    },
+    {
+      "id": "q093",
+      "text": "Por tudo o que perdeste, ganhaste algo em troca; e por tudo o que ganhas, algo perdes.",
+      "author": "Ralph Waldo Emerson",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "Compensação"
+    },
+    {
+      "id": "q094",
+      "text": "Sê fiel a ti mesmo; nunca imites.",
+      "author": "Ralph Waldo Emerson",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "Autoconfiança"
+    },
+    {
+      "id": "q095",
+      "text": "A esperança é a coisa com penas\nQue pousa na alma,\nE canta a melodia sem palavras,\nE nunca, nunca cessa.",
+      "author": "Emily Dickinson",
+      "authorOriginal": "Emily Dickinson",
+      "source": "Poemas"
+    },
+    {
+      "id": "q096",
+      "text": "Se eu puder impedir que um coração se parta,\nNão terei vivido em vão;\nSe eu puder aliviar a dor de uma vida,\nOu acalmar um sofrimento,\nOu ajudar um pássaro desfalecido\nA voltar ao seu ninho,\nNão terei vivido em vão.",
+      "author": "Emily Dickinson",
+      "authorOriginal": "Emily Dickinson",
+      "source": "Poemas"
+    },
+    {
+      "id": "q097",
+      "text": "A alma escolhe a sua própria companhia,\nE então fecha a porta;\nDe sua divina decisão\nNinguém mais se aproxime.",
+      "author": "Emily Dickinson",
+      "authorOriginal": "Emily Dickinson",
+      "source": "Poemas"
+    },
+    {
+      "id": "q098",
+      "text": "Fui para os bosques porque desejava viver com consciência, enfrentar apenas o essencial da vida, e ver se não era capaz de aprender o que ela tinha a ensinar, e não descobrir, na hora da morte, que não havia vivido.",
+      "author": "Henry David Thoreau",
+      "authorOriginal": "Henry David Thoreau",
+      "source": "Walden"
+    },
+    {
+      "id": "q099",
+      "text": "Aprendi isto, ao menos, com a minha experiência: que, se alguém avança com confiança na direção dos seus sonhos e se esforça por viver a vida que imaginou, encontrará um êxito inesperado nas horas comuns.",
+      "author": "Henry David Thoreau",
+      "authorOriginal": "Henry David Thoreau",
+      "source": "Walden"
+    },
+    {
+      "id": "q100",
+      "text": "Se um homem não acompanha o passo dos companheiros, talvez seja porque ouve um tambor diferente. Que ele siga a música que ouve, por mais compassada ou distante que seja.",
+      "author": "Henry David Thoreau",
+      "authorOriginal": "Henry David Thoreau",
+      "source": "Walden"
     },
     {
       "id": "q101",
-      "text": "Quanto mais eu solto, mais alto eu subo.",
-      "author": "Lester Levenson",
-      "source": null
+      "text": "Abandona o peso da responsabilidade, solta o que seguras com força, entrega o cuidado do teu destino a forças maiores, sê verdadeiramente indiferente ao que será de tudo isso, e descobrirás não apenas um perfeito alívio interior, mas, muitas vezes, também os próprios bens que sinceramente julgavas estar renunciando.",
+      "author": "William James",
+      "authorOriginal": "William James",
+      "source": "As Variedades da Experiência Religiosa"
     },
     {
-      "id": "q145",
-      "text": "A adversidade é o diamante que o céu nos dá para lapidarmos.",
-      "author": "Leighton Meester",
-      "source": null
+      "id": "q102",
+      "text": "Onde há tristeza, há chão sagrado.",
+      "author": "Oscar Wilde",
+      "authorOriginal": "Oscar Wilde",
+      "source": "De Profundis"
     },
     {
-      "id": "q146",
-      "text": "Deixe ir o passado. O passado mudou você, mas não precisa defini-lo.",
-      "author": "Hale Dwoskin",
-      "source": "O Método Sedona"
+      "id": "q103",
+      "text": "Mais um dia glorioso na Sierra, em que parecemos dissolver-nos, sermos absorvidos e levados adiante, sem saber para onde. A vida não parece nem longa nem curta, e não nos preocupamos em poupar tempo ou apressar-nos mais do que as árvores e as estrelas.",
+      "author": "John Muir",
+      "authorOriginal": "John Muir",
+      "source": "Meu Primeiro Verão na Sierra"
     },
     {
-      "id": "q150",
-      "text": "Uma mente calma traz força interior e autoconfiança, e isso é muito importante para a boa saúde.",
-      "author": "Dalai Lama",
-      "source": null
+      "id": "q104",
+      "text": "Quando regresso, vou à Natureza para ser acalmado e curado, e para ter meus sentidos afinados mais uma vez.",
+      "author": "John Burroughs",
+      "authorOriginal": "John Burroughs",
+      "source": "Tempo e Mudança"
     },
     {
-      "id": "q151",
-      "text": "Todo o problema de vida se reduz a como melhor ganhar energia e como melhor gastá-la.",
-      "author": "Hale Dwoskin",
-      "source": "O Método Sedona"
-    },
-    {
-      "id": "q170",
-      "text": "Você não pode encontrar si mesmo pensando. Você se encontra soltando.",
-      "author": "Eckhart Tolle",
-      "source": null
-    },
-    {
-      "id": "q171",
-      "text": "A resposta para toda pergunta está no silêncio.",
-      "author": "Hale Dwoskin",
-      "source": null
-    },
-    {
-      "id": "q172",
-      "text": "Não é o estresse que nos mata, é nossa reação a ele.",
-      "author": "Hans Selye",
-      "source": null
-    },
-    {
-      "id": "q173",
-      "text": "Você é a consciência que observa tudo passando.",
-      "author": "Eckhart Tolle",
-      "source": "O Poder do Agora"
-    },
-    {
-      "id": "q174",
-      "text": "Quando você se liberta, você descobre que sempre esteve livre.",
-      "author": "Lester Levenson",
-      "source": null
-    },
-    {
-      "id": "q175",
-      "text": "Toda manhã temos duas escolhas: continuar dormindo com nossos sonhos, ou acordar e persegui-los.",
-      "author": "Hale Dwoskin",
-      "source": null
-    },
-    {
-      "id": "q176",
-      "text": "Viva como se você fosse morrer amanhã. Aprenda como se fosse viver para sempre.",
-      "author": "Mahatma Gandhi",
-      "source": null
-    },
-    {
-      "id": "q177",
-      "text": "A paz interior começa no momento em que você decide não permitir que outra pessoa ou evento controle suas emoções.",
-      "author": "Hale Dwoskin",
-      "source": null
-    },
-    {
-      "id": "q178",
-      "text": "O único caminho impossível é o que você nunca percorre.",
-      "author": "Hale Dwoskin",
-      "source": null
-    },
-    {
-      "id": "q179",
-      "text": "Todo dia é uma segunda chance.",
-      "author": "Hale Dwoskin",
-      "source": null
-    },
-    {
-      "id": "q180",
-      "text": "O silêncio não é vazio, ele está cheio de respostas.",
-      "author": "Hale Dwoskin",
-      "source": null
-    },
-    {
-      "id": "q181",
-      "text": "Confie no processo. O resultado se encarregará de si mesmo.",
-      "author": "Hale Dwoskin",
-      "source": "O Método Sedona"
-    },
-    {
-      "id": "q182",
-      "text": "Deixar ir não é fraqueza. É a maior força que existe.",
-      "author": "Hale Dwoskin",
-      "source": "O Método Sedona"
-    },
-    {
-      "id": "q208",
-      "text": "A realidade é sempre mais gentil do que a história que contamos sobre ela.",
-      "author": "Byron Katie",
-      "source": null
-    },
-    {
-      "id": "q212",
-      "text": "Quando a música muda, a dança também muda.",
-      "author": "Provérbio Africano",
-      "source": null
-    },
-    {
-      "id": "q213",
-      "text": "A escuridão não pode expulsar a escuridão; somente a luz pode fazer isso.",
-      "author": "Martin Luther King Jr.",
-      "source": null
-    },
-    {
-      "id": "q214",
-      "text": "Seja gentil, pois todos que você encontra estão travando uma dura batalha.",
-      "author": "Platão",
-      "source": null
-    },
-    {
-      "id": "q222",
-      "text": "Solte o resultado e abrace o processo.",
-      "author": "Hale Dwoskin",
-      "source": "O Método Sedona"
-    },
-    {
-      "id": "q223",
-      "text": "Permita que sua vulnerabilidade se torne sua maior força.",
-      "author": "Hale Dwoskin",
-      "source": null
-    },
-    {
-      "id": "q224",
-      "text": "Nosso medo mais profundo não é que sejamos inadequados. Nosso medo mais profundo é que somos poderosos além da medida.",
-      "author": "Marianne Williamson",
-      "source": "Um Retorno ao Amor"
-    },
-    {
-      "id": "q225",
-      "text": "Não tente tornar-se nada. Não torne-se nada. Não seja um meditador. Não se torne iluminado. Quando você se sentar, sente-se. Quando andar, ande. Isso é tudo.",
-      "author": "Ajahn Chah",
-      "source": null
-    },
-    {
-      "id": "q226",
-      "text": "Aquele que é mestre de si mesmo é mais poderoso do que o mestre do mundo.",
-      "author": "Buda",
-      "source": null
-    },
-    {
-      "id": "q227",
-      "text": "A mente que se abre a uma nova ideia jamais volta ao seu tamanho original.",
-      "author": "Albert Einstein",
-      "source": null
-    },
-    {
-      "id": "q228",
-      "text": "Não importa quão longa a tempestade, o sol sempre volta a brilhar entre as nuvens.",
-      "author": "Kahlil Gibran",
-      "source": null
-    },
-    {
-      "id": "q229",
-      "text": "Seu eu verdadeiro é amor, alegria e liberdade.",
-      "author": "Lester Levenson",
-      "source": null
-    },
-    {
-      "id": "q230",
-      "text": "A natureza não tem pressa, mas tudo se realiza.",
-      "author": "Lao Tsé",
-      "source": null
-    },
-    {
-      "id": "q231",
-      "text": "Não tente curar o mundo inteiro. Trate de curar a si mesmo.",
-      "author": "Lester Levenson",
-      "source": null
-    },
-    {
-      "id": "q232",
-      "text": "A maior riqueza é a paz de espírito.",
-      "author": "Dalai Lama",
-      "source": null
-    },
-    {
-      "id": "q233",
-      "text": "Se puder sonhar, pode realizar.",
-      "author": "Walt Disney",
-      "source": null
-    },
-    {
-      "id": "q234",
-      "text": "O futuro pertence àqueles que acreditam na beleza de seus sonhos.",
-      "author": "Eleanor Roosevelt",
-      "source": null
-    },
-    {
-      "id": "q235",
-      "text": "Quando admiro as maravilhas de um pôr do sol ou a beleza da lua, minha alma se expande em adoração ao Criador.",
-      "author": "Mahatma Gandhi",
-      "source": null
-    },
-    {
-      "id": "q239",
-      "text": "Olhe para dentro. Fique parado. Livre-se de seus medos.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q240",
-      "text": "A mente é como a água. Quando está agitada, é difícil ver. Quando está calma, tudo se torna claro.",
-      "author": "Prasad Mahes",
-      "source": null
-    },
-    {
-      "id": "q241",
-      "text": "Quando você libera a negatividade, abre espaço para a positividade.",
-      "author": "Hale Dwoskin",
-      "source": "O Método Sedona"
-    },
-    {
-      "id": "q242",
-      "text": "A viagem de mil milhas começa com um único passo.",
-      "author": "Lao Tsé",
-      "source": "Tao Te Ching"
-    },
-    {
-      "id": "q243",
-      "text": "O sofrimento é optativo.",
-      "author": "Dalai Lama",
-      "source": null
-    },
-    {
-      "id": "q244",
-      "text": "Uma viagem se faz melhor por amigos do que por quilômetros.",
-      "author": "Tim Cahill",
-      "source": null
-    },
-    {
-      "id": "q245",
-      "text": "Sua alma sabe a direção. Confie no caminho.",
-      "author": "Hale Dwoskin",
-      "source": null
-    },
-    {
-      "id": "q246",
-      "text": "Não persiga a felicidade. Solte a infelicidade.",
-      "author": "Hale Dwoskin",
-      "source": "O Método Sedona"
-    },
-    {
-      "id": "q247",
-      "text": "Até o mais escuro da noite terminará e o sol nascerá.",
-      "author": "Victor Hugo",
-      "source": null
-    },
-    {
-      "id": "q248",
-      "text": "A sabedoria começa na reflexão.",
-      "author": "Sócrates",
-      "source": null
-    },
-    {
-      "id": "q249",
-      "text": "Cuide de seus pensamentos; eles se tornam suas palavras.",
-      "author": "Lao Tsé",
-      "source": null
-    },
-    {
-      "id": "q250",
-      "text": "Não habite no passado, não sonhe com o futuro, concentre a mente no momento presente.",
-      "author": "Buda",
-      "source": null
-    },
-    {
-      "id": "q251",
-      "text": "Não importa quão devagar você vá, desde que não pare.",
-      "author": "Confúcio",
-      "source": null
-    },
-    {
-      "id": "q252",
-      "text": "Nossa maior glória não está em nunca cair, mas em nos levantarmos cada vez que caímos.",
-      "author": "Confúcio",
-      "source": null
-    },
-    {
-      "id": "q253",
-      "text": "A vida é realmente simples, mas insistimos em torná-la complicada.",
-      "author": "Confúcio",
-      "source": null
-    },
-    {
-      "id": "q254",
-      "text": "A única verdadeira sabedoria é saber que nada sabe.",
-      "author": "Sócrates",
-      "source": null
-    },
-    {
-      "id": "q255",
-      "text": "Tensão é quem você acha que deveria ser. Relaxamento é quem você é.",
-      "author": "Provérbio Chinês",
-      "source": null
-    },
-    {
-      "id": "q256",
-      "text": "Se não há luta, não há progresso.",
+      "id": "q105",
+      "text": "Viste como um homem foi feito escravo; verás como um escravo foi feito homem.",
       "author": "Frederick Douglass",
-      "source": null
+      "authorOriginal": "Frederick Douglass",
+      "source": "Narrativa da Vida de Frederick Douglass"
     },
     {
-      "id": "q267",
-      "text": "Não desvie o olhar. Mantenha seu olhar no lugar enfaixado. É por aí que a luz entra em você.",
-      "author": "Rumi",
-      "source": null
+      "id": "q106",
+      "text": "Eu vos digo: é preciso ainda trazer caos dentro de si para dar à luz uma estrela dançante.",
+      "author": "Friedrich Nietzsche",
+      "authorOriginal": "Friedrich Nietzsche",
+      "source": "Assim Falou Zaratustra"
     },
     {
-      "id": "q308",
-      "text": "A mente não é um vaso a ser enchido, mas um fogo a ser aceso.",
+      "id": "q107",
+      "text": "Uma vida sem reflexão não merece ser vivida.",
+      "author": "Sócrates",
+      "authorOriginal": "Socrates",
+      "source": "Apologia"
+    },
+    {
+      "id": "q108",
+      "text": "Tem ânimo diante da morte e sabe com certeza que nenhum mal pode acontecer a um homem bom, nem em vida nem depois da morte.",
+      "author": "Sócrates",
+      "authorOriginal": "Socrates",
+      "source": "Apologia"
+    },
+    {
+      "id": "q109",
+      "text": "Alexandre, julgando mais digno de um rei governar a si mesmo do que vencer seus inimigos, não buscou intimidade com nenhum deles.",
       "author": "Plutarco",
-      "source": null
-    },
-    {
-      "id": "q310",
-      "text": "Fui um buscador e ainda sou, mas parei de perguntar aos livros e às estrelas. Comecei a ouvir os ensinamentos da minha alma.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q317",
-      "text": "Governe sua mente ou ela governará você.",
-      "author": "Horácio",
-      "source": null
-    },
-    {
-      "id": "q318",
-      "text": "No centro do seu ser, você tem a resposta; você sabe quem é e sabe o que quer.",
-      "author": "Lao Tsé",
-      "source": "Tao Te Ching"
-    },
-    {
-      "id": "q319",
-      "text": "O silêncio é uma fonte de grande força.",
-      "author": "Lao Tsé",
-      "source": "Tao Te Ching"
-    },
-    {
-      "id": "q320",
-      "text": "Uma jornada de mil milhas começa com um único passo.",
-      "author": "Lao Tsé",
-      "source": "Tao Te Ching"
-    },
-    {
-      "id": "q321",
-      "text": "Simplicidade, paciência, compaixão. Esses três são seus maiores tesouros.",
-      "author": "Lao Tsé",
-      "source": "Tao Te Ching"
-    },
-    {
-      "id": "q322",
-      "text": "Pare de partir e você chegará. Pare de buscar e você verá. Pare de fugir e você será encontrado.",
-      "author": "Lao Tsé",
-      "source": null
-    },
-    {
-      "id": "q323",
-      "text": "A chama que brilha duas vezes mais forte dura metade do tempo.",
-      "author": "Lao Tsé",
-      "source": null
-    },
-    {
-      "id": "q324",
-      "text": "Conhecer os outros é inteligência; conhecer a si mesmo é verdadeira sabedoria. Dominar os outros é força; dominar a si mesmo é verdadeiro poder.",
-      "author": "Lao Tsé",
-      "source": "Tao Te Ching"
-    },
-    {
-      "id": "q325",
-      "text": "Você tem paciência para esperar até que sua lama assente e a água fique clara?",
-      "author": "Lao Tsé",
-      "source": "Tao Te Ching"
-    },
-    {
-      "id": "q326",
-      "text": "Nada é mais suave ou flexível que a água, mas nada pode resistir a ela.",
-      "author": "Lao Tsé",
-      "source": "Tao Te Ching"
-    },
-    {
-      "id": "q334",
-      "text": "Isso também passará.",
-      "author": "Provérbio Persa",
-      "source": null
-    },
-    {
-      "id": "q346",
-      "text": "A única pessoa que você está destinado a se tornar é a pessoa que você decide ser.",
-      "author": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q349",
-      "text": "Eu habito na possibilidade.",
-      "author": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q350",
-      "text": "A esperança é aquela coisa com penas que pousa na alma.",
-      "author": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q351",
-      "text": "A alma deveria estar sempre entreaberta, pronta para acolher a experiência extática.",
-      "author": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q361",
-      "text": "Termine cada dia e dê-o por encerrado. Você fez o que pôde. Alguns erros e absurdos sem dúvida se infiltraram; esqueça-os o mais rápido que puder.",
-      "author": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q362",
-      "text": "Feche os olhos. Apaixone-se. Fique lá.",
-      "author": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q363",
-      "text": "Deixe tudo acontecer com você: beleza e terror. Continue seguindo. Nenhum sentimento é definitivo.",
-      "author": "Rainer Maria Rilke",
-      "source": null
+      "authorOriginal": "Plutarch",
+      "source": "Vidas de Plutarco"
     }
   ]
 }

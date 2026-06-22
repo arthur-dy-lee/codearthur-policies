@@ -2,921 +2,767 @@
   "language": "zh-Hant",
   "quotes": [
     {
-      "id": "q9",
-      "text": "放下你的頭腦，然後保持覺知。閉上耳朵，用心傾聽。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q11",
-      "text": "你的使命不是去尋找愛，而只是去發現並拆除你內心為抵禦愛而築起的一切屏障。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q12",
-      "text": "傷口，是光進入你內心的地方。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q15",
-      "text": "當你放下你所是的，你就成為你可能成為的。",
+      "id": "q001",
+      "text": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
       "author": "老子",
       "authorOriginal": "Laozi",
       "source": "道德經"
     },
     {
-      "id": "q16",
-      "text": "對抗壓力最強大的武器，是我們選擇一種思想而非另一種思想的能力。",
-      "author": "威廉·詹姆斯",
-      "authorOriginal": "William James",
-      "source": null
-    },
-    {
-      "id": "q17",
-      "text": "一切有始的事物，終將有終。與此和解，一切便會安好。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q22",
-      "text": "痛苦無法避免，但受苦可以選擇。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q36",
-      "text": "生命是堅持與放手之間的平衡。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q38",
-      "text": "寧靜來自內心，不要向外尋求。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q39",
-      "text": "你自己，和整個宇宙中的任何人一樣，都值得被愛與關懷。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q40",
-      "text": "理解一切，便能寬恕一切。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q41",
-      "text": "沒有人能拯救我們，除了我們自己。我們必須自己走這條路。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q42",
-      "text": "心是一切。你所想的，你就會成為。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q43",
-      "text": "每個清晨我們都重新誕生。今天所做的，才是最重要的。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q44",
-      "text": "苦的根源是執著。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q45",
-      "text": "如果你想飛翔，就放下一切讓你沉重的東西。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q50",
-      "text": "當你明白無所欠缺，整個世界便屬於你。",
+      "id": "q002",
+      "text": "孰能濁以靜之徐清？孰能安以動之徐生？",
       "author": "老子",
       "authorOriginal": "Laozi",
       "source": "道德經"
     },
     {
-      "id": "q51",
-      "text": "自然從不匆忙，卻萬事皆成。",
+      "id": "q003",
+      "text": "致虛極，守靜篤。萬物並作，吾以觀復。",
       "author": "老子",
       "authorOriginal": "Laozi",
       "source": "道德經"
     },
     {
-      "id": "q52",
-      "text": "知足常樂，隨遇而安。",
+      "id": "q004",
+      "text": "歸根曰靜，是謂復命。",
       "author": "老子",
       "authorOriginal": "Laozi",
       "source": "道德經"
     },
     {
-      "id": "q53",
-      "text": "新的開始常常偽裝成痛苦的結束。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": null
-    },
-    {
-      "id": "q54",
-      "text": "勝人者有力，自勝者強。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": "道德經"
-    },
-    {
-      "id": "q55",
-      "text": "若能正心，餘生自然歸位。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": null
-    },
-    {
-      "id": "q56",
-      "text": "種一棵樹最好的時間是二十年前，其次是現在。",
-      "author": "中國諺語",
-      "authorOriginal": "Chinese Proverb",
-      "source": null
-    },
-    {
-      "id": "q57",
-      "text": "你能掌控的是你的內心——而非外在事件。認識到這一點，你將獲得力量。",
-      "author": "馬可·奧理略",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "沉思錄"
-    },
-    {
-      "id": "q58",
-      "text": "幸福的生活所需甚少；它全在於你內心的思維方式。",
-      "author": "馬可·奧理略",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "沉思錄"
-    },
-    {
-      "id": "q59",
-      "text": "你生活的幸福取決於你思想的品質。",
-      "author": "馬可·奧理略",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "沉思錄"
-    },
-    {
-      "id": "q60",
-      "text": "不要再浪費時間去爭論好人應該是什麼樣的了。去做一個好人。",
-      "author": "馬可·奧理略",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "沉思錄"
-    },
-    {
-      "id": "q61",
-      "text": "人不應該害怕死亡，而應該害怕從未真正活過。",
-      "author": "馬可·奧理略",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "沉思錄"
-    },
-    {
-      "id": "q62",
-      "text": "接受命運賦予你的一切，愛命運帶給你身邊的人。",
-      "author": "馬可·奧理略",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "沉思錄"
-    },
-    {
-      "id": "q63",
-      "text": "憤怒的後果遠比引發憤怒的原因更加嚴重。",
-      "author": "馬可·奧理略",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "沉思錄"
-    },
-    {
-      "id": "q64",
-      "text": "我們在想像中承受的痛苦，遠多於在現實中經歷的。",
-      "author": "塞內加",
-      "authorOriginal": "Seneca",
-      "source": "道德書簡"
-    },
-    {
-      "id": "q65",
-      "text": "真正的幸福是享受當下，而不焦慮地依賴未來。",
-      "author": "塞內加",
-      "authorOriginal": "Seneca",
-      "source": null
-    },
-    {
-      "id": "q66",
-      "text": "並非我們的生命太短暫，而是我們浪費了太多時間。",
-      "author": "塞內加",
-      "authorOriginal": "Seneca",
-      "source": "論生命之短暫"
-    },
-    {
-      "id": "q67",
-      "text": "運氣，是準備遇上機會時發生的事。",
-      "author": "塞內加",
-      "authorOriginal": "Seneca",
-      "source": null
-    },
-    {
-      "id": "q68",
-      "text": "困難磨練心智，正如勞作強健體魄。",
-      "author": "塞內加",
-      "authorOriginal": "Seneca",
-      "source": null
-    },
-    {
-      "id": "q69",
-      "text": "重要的不是發生了什麼，而是你如何回應。",
-      "author": "愛比克泰德",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q70",
-      "text": "通往幸福只有一條路，那就是不再為超出我們掌控的事情憂慮。",
-      "author": "愛比克泰德",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q71",
-      "text": "先告訴自己你想成為什麼樣的人，然後去做該做的事。",
-      "author": "愛比克泰德",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q72",
-      "text": "盡力做好力所能及之事，其餘的順其自然。",
-      "author": "愛比克泰德",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q73",
-      "text": "不能主宰自己的人，談不上自由。",
-      "author": "愛比克泰德",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q74",
-      "text": "廢墟之中，蘊藏著希望的寶藏。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q75",
-      "text": "不要悲傷。你失去的一切，都會以另一種形式回來。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q76",
-      "text": "昨天的我很聰明，想要改變世界。今天的我很有智慧，正在改變自己。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q77",
-      "text": "寂靜是上天的語言，其餘都是拙劣的翻譯。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q78",
-      "text": "點燃你的生命之火，去尋找那些為你搧風助燃的人。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q79",
-      "text": "世界的花園沒有盡頭，除非在你的心裡。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q80",
-      "text": "你所尋覓的，也在尋覓你。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q81",
-      "text": "回應每一個點燃你靈魂的召喚。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q82",
-      "text": "像一棵樹那樣，讓枯葉自然落下。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q83",
-      "text": "在對與錯的觀念之外，有一片曠野。我在那裡等你。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q84",
-      "text": "不要再表現得如此渺小。你是宇宙中狂喜運動著的存在。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q85",
-      "text": "將感恩披作外衣，它將滋養你生命的每一個角落。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q86",
-      "text": "讓你自己被你真正熱愛之事的奇妙引力靜靜牽引。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q87",
-      "text": "我曾站在瘋狂的邊緣，渴望知道答案，不停地敲門。門開了——我一直是在從裡面敲。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q88",
-      "text": "你生來就有翅膀，為何偏要匍匐度日？",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q89",
-      "text": "不要滿足於別人的故事。展開你自己的神話。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q101",
-      "text": "你不是大海中的一滴水，你是一滴水中的整個大海。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q145",
-      "text": "內心的成就終將改變外在的現實。",
-      "author": "普魯塔克",
-      "authorOriginal": "Plutarch",
-      "source": null
-    },
-    {
-      "id": "q146",
-      "text": "做你自己，因為別人都已經有人做了。",
-      "author": "奧斯卡·乏爾德",
-      "authorOriginal": "Oscar Wilde",
-      "source": null
-    },
-    {
-      "id": "q150",
-      "text": "認識你自己，是一切智慧的開端。",
-      "author": "亞里斯多德",
-      "authorOriginal": "Aristotle",
-      "source": null
-    },
-    {
-      "id": "q151",
-      "text": "宇宙萬物皆在你內心。向自己索取一切。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q170",
-      "text": "唯有在悲傷中，壞天氣才能征服我們；在喜悅中，我們直面風暴，與之抗衡。",
-      "author": "阿米莉亞·巴爾",
-      "authorOriginal": "Amelia Barr",
-      "source": null
-    },
-    {
-      "id": "q171",
-      "text": "困擾人們的不是事物本身，而是他們對事物的看法。",
-      "author": "愛比克泰德",
-      "authorOriginal": "Epictetus",
-      "source": "手冊"
-    },
-    {
-      "id": "q172",
-      "text": "不要解釋你的哲學，去實踐它。",
-      "author": "愛比克泰德",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q173",
-      "text": "真正令我們恐懼和沮喪的，不是外在事件本身，而是我們對它們的思考方式。",
-      "author": "愛比克泰德",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q174",
-      "text": "智者不為未得之物悲傷，而為已有之物歡喜。",
-      "author": "愛比克泰德",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q175",
-      "text": "自由是生命中唯一值得追求的目標。它是透過放下那些超出我們掌控的事物而贏得的。",
-      "author": "愛比克泰德",
-      "authorOriginal": "Epictetus",
-      "source": null
-    },
-    {
-      "id": "q176",
-      "text": "靈魂會被它的思想染上顏色。",
-      "author": "馬可·奧理略",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "沉思錄"
-    },
-    {
-      "id": "q177",
-      "text": "清晨醒來時，想想活著是何等的榮幸。",
-      "author": "馬可·奧理略",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "沉思錄"
-    },
-    {
-      "id": "q178",
-      "text": "我們聽到的一切都是觀點，不是事實。我們看到的一切都是視角，不是真相。",
-      "author": "馬可·奧理略",
-      "authorOriginal": "Marcus Aurelius",
-      "source": null
-    },
-    {
-      "id": "q179",
-      "text": "最好的報復，就是不要變成你的敵人那樣的人。",
-      "author": "馬可·奧理略",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "沉思錄"
-    },
-    {
-      "id": "q180",
-      "text": "若非正義之事，不要去做；若非真實之言，不要去說。",
-      "author": "馬可·奧理略",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "沉思錄"
-    },
-    {
-      "id": "q181",
-      "text": "對他人寬容，對自己嚴格。",
-      "author": "馬可·奧理略",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "沉思錄"
-    },
-    {
-      "id": "q182",
-      "text": "永遠不要讓未來困擾你。你將用同樣的理性武器來面對它，正如今天你用它來對抗當下。",
-      "author": "馬可·奧理略",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "沉思錄"
-    },
-    {
-      "id": "q208",
-      "text": "你所思考的事決定了你心靈的品質。你的靈魂會被你的思想染上顏色。",
-      "author": "馬可·奧理略",
-      "authorOriginal": "Marcus Aurelius",
-      "source": "沉思錄"
-    },
-    {
-      "id": "q212",
-      "text": "改變的秘訣在於，把全部精力集中在建設新的事物上，而非與舊的事物抗爭。",
-      "author": "蘇格拉底",
-      "authorOriginal": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q213",
-      "text": "未經審視的人生不值得過。",
-      "author": "蘇格拉底",
-      "authorOriginal": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q214",
-      "text": "我唯一知道的事，就是我一無所知。",
-      "author": "蘇格拉底",
-      "authorOriginal": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q222",
-      "text": "一個知道為什麼而活的人，幾乎可以忍受任何活法。",
-      "author": "弗里德里希·尼采",
-      "authorOriginal": "Friedrich Nietzsche",
-      "source": null
-    },
-    {
-      "id": "q223",
-      "text": "每一次與自然同行，你所收穫的都遠超你所尋求的。",
-      "author": "約翰·乏爾",
-      "authorOriginal": "John Muir",
-      "source": null
-    },
-    {
-      "id": "q224",
-      "text": "覺得自然萬物已然足夠；覺得空氣和水令人振奮；被清晨的散步所煥然一新——這些就是簡單生活的回報。",
-      "author": "約翰·巴勒斯",
-      "authorOriginal": "John Burroughs",
-      "source": null
-    },
-    {
-      "id": "q225",
-      "text": "你的痛苦，是包裹著你理解力的外殼正在破裂。",
-      "author": "紀伯倫",
-      "authorOriginal": "Kahlil Gibran",
-      "source": "先知"
-    },
-    {
-      "id": "q226",
-      "text": "從苦難中湧現出最堅強的靈魂；最偉大的人格上銘刻著最深的傷疤。",
-      "author": "紀伯倫",
-      "authorOriginal": "Kahlil Gibran",
-      "source": null
-    },
-    {
-      "id": "q227",
-      "text": "當你不再與自己的思想和平共處時，你才開始說話。",
-      "author": "紀伯倫",
-      "authorOriginal": "Kahlil Gibran",
-      "source": "先知"
-    },
-    {
-      "id": "q228",
-      "text": "悲傷在你生命中刻得越深，你所能容納的喜悅就越多。",
-      "author": "紀伯倫",
-      "authorOriginal": "Kahlil Gibran",
-      "source": "先知"
-    },
-    {
-      "id": "q229",
-      "text": "你的孩子並非屬於你。他們經由你而來，卻非因你而生。",
-      "author": "紀伯倫",
-      "authorOriginal": "Kahlil Gibran",
-      "source": "先知"
-    },
-    {
-      "id": "q230",
-      "text": "愛從來不知道自己的深度，直到分離的時刻到來。",
-      "author": "紀伯倫",
-      "authorOriginal": "Kahlil Gibran",
-      "source": "先知"
-    },
-    {
-      "id": "q231",
-      "text": "我從喋喋不休者身上學會了沉默，從偏執者身上學會了寬容，從刻薄者身上學會了善良。",
-      "author": "紀伯倫",
-      "authorOriginal": "Kahlil Gibran",
-      "source": null
-    },
-    {
-      "id": "q232",
-      "text": "讓你的臉永遠朝向陽光——陰影自然會落在你身後。",
-      "author": "華特·惠特曼",
-      "authorOriginal": "Walt Whitman",
-      "source": null
-    },
-    {
-      "id": "q233",
-      "text": "無論是我還是任何人，都無法替你走那條路。你必須自己去走。",
-      "author": "華特·惠特曼",
-      "authorOriginal": "Walt Whitman",
-      "source": null
-    },
-    {
-      "id": "q234",
-      "text": "我自相矛盾嗎？那又怎樣，我就是自相矛盾。我博大廣闊，我包含無數。",
-      "author": "華特·惠特曼",
-      "authorOriginal": "Walt Whitman",
-      "source": "自我之歌"
-    },
-    {
-      "id": "q235",
-      "text": "我如此存在著，這便足夠了。",
-      "author": "華特·惠特曼",
-      "authorOriginal": "Walt Whitman",
-      "source": null
-    },
-    {
-      "id": "q239",
-      "text": "在我們身後和身前的一切，與我們內心的東西相比，都是微不足道的。",
-      "author": "拉爾夫·沃爾多·乏默生",
-      "authorOriginal": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q240",
-      "text": "在一個不斷試圖將你變成別人的世界裡，做自己是最大的成就。",
-      "author": "拉爾夫·沃爾多·愛默生",
-      "authorOriginal": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q241",
-      "text": "你每憤怒一分鐘，就失去了六十秒的快樂。",
-      "author": "拉爾夫·沃爾多·愛默生",
-      "authorOriginal": "Ralph Waldo Emerson",
-      "source": null
-    },
-    {
-      "id": "q242",
-      "text": "你現在是什麼樣的人，取決於你過去做了什麼。你將來會成為什麼樣的人，取決於你現在做什麼。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q243",
-      "text": "健康是最大的禮物，知足是最大的財富，信任是最好的關係。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q244",
-      "text": "三樣東西無法長久隱藏：太陽、月亮和真相。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q245",
-      "text": "我們被自己的思想所塑造；我們成為自己所想的樣子。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q246",
-      "text": "一個被發展並付諸行動的想法，比一個僅僅存在於想法中的想法重要得多。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q247",
-      "text": "沒有通往幸福的路：幸福本身就是路。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q248",
-      "text": "耐心是關鍵。記住：水罐是一滴一滴灌滿的。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q249",
-      "text": "在分離中蘊藏著世界最大的苦難；在慈悲中蘊藏著世界真正的力量。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q250",
-      "text": "不念過去，不畏將來，專注當下。",
-      "author": "佛陀",
-      "authorOriginal": "Buddha",
-      "source": null
-    },
-    {
-      "id": "q251",
-      "text": "不怕慢，就怕站。",
-      "author": "孔子",
-      "authorOriginal": "Confucius",
-      "source": null
-    },
-    {
-      "id": "q252",
-      "text": "最大的光榮不在於從未跌倒，而在於每次跌倒後都爬起來。",
-      "author": "孔子",
-      "authorOriginal": "Confucius",
-      "source": null
-    },
-    {
-      "id": "q253",
-      "text": "生活其實很簡單，只是我們非要把它弄得很複雜。",
-      "author": "孔子",
-      "authorOriginal": "Confucius",
-      "source": null
-    },
-    {
-      "id": "q254",
-      "text": "唯一真正的智慧，是知道自己一無所知。",
-      "author": "蘇格拉底",
-      "authorOriginal": "Socrates",
-      "source": null
-    },
-    {
-      "id": "q255",
-      "text": "緊張是你認為自己應該成為的樣子，放鬆是你本來的樣子。",
-      "author": "中國諺語",
-      "authorOriginal": "Chinese Proverb",
-      "source": null
-    },
-    {
-      "id": "q256",
-      "text": "沒有抗爭，就沒有進步。",
-      "author": "弗雷德里克·道格拉斯",
-      "authorOriginal": "Frederick Douglass",
-      "source": null
-    },
-    {
-      "id": "q267",
-      "text": "不要轉身離去。凝視那個包紮的傷口，光正是從那裡照進你的。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q308",
-      "text": "心靈不是一個要被填滿的容器，而是一團需要被點燃的火焰。",
-      "author": "普魯塔克",
-      "authorOriginal": "Plutarch",
-      "source": null
-    },
-    {
-      "id": "q310",
-      "text": "我一直是個追尋者，現在依然如此，但我不再向書本和星辰發問。我開始傾聽靈魂的教誨。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q317",
-      "text": "主宰你的心，否則它將主宰你。",
-      "author": "賀拉斯",
-      "authorOriginal": "Horace",
-      "source": null
-    },
-    {
-      "id": "q318",
-      "text": "在你存在的核心，你擁有答案；你知道自己是誰，你知道自己想要什麼。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": "道德經"
-    },
-    {
-      "id": "q319",
-      "text": "沉默是巨大力量的泉源。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": "道德經"
-    },
-    {
-      "id": "q320",
-      "text": "千里之行，始於足下。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": "道德經"
-    },
-    {
-      "id": "q321",
-      "text": "簡樸、耐心、慈悲。這三者是你最大的寶藏。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": "道德經"
-    },
-    {
-      "id": "q322",
-      "text": "停止離開，你就會到達。停止尋找，你就會看見。停止逃避，你就會被找到。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": null
-    },
-    {
-      "id": "q323",
-      "text": "燃燒得加倍明亮的火焰，只能維持一半的時間。",
-      "author": "老子",
-      "authorOriginal": "Laozi",
-      "source": null
-    },
-    {
-      "id": "q324",
+      "id": "q005",
       "text": "知人者智，自知者明。勝人者有力，自勝者強。",
       "author": "老子",
       "authorOriginal": "Laozi",
       "source": "道德經"
     },
     {
-      "id": "q325",
-      "text": "你有沒有耐心等待，直到你的泥沙沉澱、水面澄清？",
+      "id": "q006",
+      "text": "知足者富，強行者有志。",
       "author": "老子",
       "authorOriginal": "Laozi",
       "source": "道德經"
     },
     {
-      "id": "q326",
+      "id": "q007",
+      "text": "柔弱勝剛強。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
+    },
+    {
+      "id": "q008",
+      "text": "天下之至柔，馳騁天下之至堅。無有入無間。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
+    },
+    {
+      "id": "q009",
+      "text": "故知足之足，常足矣。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
+    },
+    {
+      "id": "q010",
+      "text": "躁勝寒，靜勝熱。清靜為天下正。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
+    },
+    {
+      "id": "q011",
+      "text": "合抱之木，生於毫末；九層之臺，起於累土；千里之行，始於足下。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
+    },
+    {
+      "id": "q012",
+      "text": "人之生也柔弱，其死也堅強。故堅強者死之徒，柔弱者生之徒。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
+    },
+    {
+      "id": "q013",
       "text": "天下莫柔弱於水，而攻堅強者莫之能勝。",
       "author": "老子",
       "authorOriginal": "Laozi",
       "source": "道德經"
     },
     {
-      "id": "q334",
-      "text": "這也會過去。",
-      "author": "波斯諺語",
-      "authorOriginal": "Persian Proverb",
-      "source": null
+      "id": "q014",
+      "text": "弱之勝強，柔之勝剛，天下莫不知，莫能行。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
     },
     {
-      "id": "q346",
-      "text": "你注定要成為的那個人，就是你決定成為的那個人。",
-      "author": "拉爾夫·沃爾多·愛默生",
+      "id": "q015",
+      "text": "君子坦蕩蕩，小人長戚戚。",
+      "author": "孔子",
+      "authorOriginal": "Confucius",
+      "source": "論語"
+    },
+    {
+      "id": "q016",
+      "text": "知者樂水，仁者樂山；知者動，仁者靜。",
+      "author": "孔子",
+      "authorOriginal": "Confucius",
+      "source": "論語"
+    },
+    {
+      "id": "q017",
+      "text": "不患人之不己知，患不知人也。",
+      "author": "孔子",
+      "authorOriginal": "Confucius",
+      "source": "論語"
+    },
+    {
+      "id": "q018",
+      "text": "怨恨永不能以怨恨平息，唯有以慈愛方能止息怨恨——此乃亙古之理。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": "法句經"
+    },
+    {
+      "id": "q019",
+      "text": "如磐石不為風所動，智者亦不為毀譽所搖。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": "法句經"
+    },
+    {
+      "id": "q020",
+      "text": "智者聞法之後，心境澄明，恰如深沉、平和而寂靜的湖水。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": "法句經"
+    },
+    {
+      "id": "q021",
+      "text": "善者隨遇而安，不為求樂而多言；無論觸於喜悅或哀傷，智者皆不顯欣喜，亦不顯沮喪。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": "法句經"
+    },
+    {
+      "id": "q022",
+      "text": "因真知而得自在，其念寂靜，言行亦寂靜——如此方成寂靜之人。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": "法句經"
+    },
+    {
+      "id": "q023",
+      "text": "縱使一人於戰陣中勝過千萬之眾，若另一人能戰勝自己，則後者方為最偉大的勝者。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": "法句經"
+    },
+    {
+      "id": "q024",
+      "text": "願我們安樂而活，不憎恨那憎恨我們的人！處於憎恨者之間，願我們安住而無憎恨。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": "法句經"
+    },
+    {
+      "id": "q025",
+      "text": "捨棄勝負之心者，知足之人，方得安樂。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": "法句經"
+    },
+    {
+      "id": "q026",
+      "text": "嘗過孤獨與寧靜之甘美者，於暢飲法之甘露時，便遠離恐懼，遠離罪愆。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": "法句經"
+    },
+    {
+      "id": "q027",
+      "text": "願人以慈愛克服憤怒，以善克服惡，以慷慨克服貪婪，以真實克服虛妄。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": "法句經"
+    },
+    {
+      "id": "q028",
+      "text": "「諸行皆無常」——能如是知見者，便於苦中超然，此乃通往清淨之道。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": "法句經"
+    },
+    {
+      "id": "q029",
+      "text": "捨棄過去，捨棄未來，捨棄當下，渡向存在的彼岸；若你的心全然自在，便不再墮入生滅。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": "法句經"
+    },
+    {
+      "id": "q030",
+      "text": "你使我成為無盡，這正是你的喜樂。這脆弱的器皿，你一次又一次將它倒空，又永遠以新的生命將它充滿。",
+      "author": "泰戈爾",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "吉檀迦利"
+    },
+    {
+      "id": "q031",
+      "text": "此刻正是靜坐之時，與你面面相對，在這寂靜而盈溢的閒暇裡，唱出生命的奉獻之歌。",
+      "author": "泰戈爾",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "吉檀迦利"
+    },
+    {
+      "id": "q032",
+      "text": "將你一切的重擔，交付於那能承擔一切之手，從此不再回首悔恨。",
+      "author": "泰戈爾",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "吉檀迦利"
+    },
+    {
+      "id": "q033",
+      "text": "倘若你不言語，我便以你的靜默盈滿我心，安然承受。我將靜守而等待，如夜晚以繁星守望，俯首低垂，滿懷耐心。",
+      "author": "泰戈爾",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "吉檀迦利"
+    },
+    {
+      "id": "q034",
+      "text": "在這倦怠的夜裡，讓我不再掙扎，安然入眠，將我的信賴託付於你。",
+      "author": "泰戈爾",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "吉檀迦利"
+    },
+    {
+      "id": "q035",
+      "text": "請賜我力量，讓我輕盈地承載我的歡樂與憂傷。",
+      "author": "泰戈爾",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "吉檀迦利"
+    },
+    {
+      "id": "q036",
+      "text": "當喧囂的勞作在四面八方鼓噪，將我隔絕於彼岸之外，請來到我身邊，我寂靜的主啊，帶著你的安寧與憩息。",
+      "author": "泰戈爾",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "吉檀迦利"
+    },
+    {
+      "id": "q037",
+      "text": "我的解脫不在棄絕之中。我在千萬條歡愉的繫縛裡，感受到自由的擁抱。",
+      "author": "泰戈爾",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "吉檀迦利"
+    },
+    {
+      "id": "q038",
+      "text": "在許多閒散的日子裡，我曾為虛度的光陰哀傷。但它從未失去，我的主啊。我生命的每一刻，你都已親手握持。",
+      "author": "泰戈爾",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "吉檀迦利"
+    },
+    {
+      "id": "q039",
+      "text": "晝夜流轉，歲月如花，綻放而後凋零。而你，深諳等待之道。",
+      "author": "泰戈爾",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "吉檀迦利"
+    },
+    {
+      "id": "q040",
+      "text": "縱然在死亡裡，那同一個未知，也將如向來那般為我所識。正因我深愛此生，我知道我也將同樣深愛死亡。",
+      "author": "泰戈爾",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "吉檀迦利"
+    },
+    {
+      "id": "q041",
+      "text": "當我放開船舵，我便知道，輪到你接掌的時刻已然來臨。該成就的，頃刻便會成就。這般掙扎，原是徒勞。",
+      "author": "泰戈爾",
+      "authorOriginal": "Rabindranath Tagore",
+      "source": "吉檀迦利"
+    },
+    {
+      "id": "q042",
+      "text": "愛不佔有，亦不受佔有；因為愛本身，已足以圓滿愛。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q043",
+      "text": "讓你們的相守之間留有空隙，讓天堂的風在你們之間起舞。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q044",
+      "text": "你可以給他們你的愛，卻不能給他們你的思想，因為他們有自己的思想。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q045",
+      "text": "唯有當你獻出自身，你才是真正地給予。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q046",
+      "text": "你的歡樂，是你卸下面具的憂傷。那湧出你笑聲的同一口井，往往也曾盈滿你的淚水。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q047",
+      "text": "憂傷在你生命中鐫刻得愈深，你所能容納的歡樂便愈多。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q048",
+      "text": "倘若你想驅散一份恐懼，那恐懼的根源在你心中，而非在你所畏懼之物的手裡。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q049",
+      "text": "你的痛苦，是包裹你領悟的硬殼正在破裂。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q050",
+      "text": "莫說「我已尋得真理」，而要說「我尋得了一種真理」。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q051",
+      "text": "在這樣的人胸懷之中，靈魂安住於有韻律的靜默裡。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q052",
+      "text": "然而你心中那超越時間的部分，深知生命本是無始無終，並明白昨日不過是今日的記憶，明日不過是今日的夢。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q053",
+      "text": "因為生與死本是一體，正如江河與大海本是一體。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q054",
+      "text": "每一刻，都要堅定地以一個羅馬人、一個堂堂之人自勉，以完美而質樸的尊嚴、以慈愛、自由與正義，去做手邊之事，並讓自己從其餘一切雜念中解脫。",
+      "author": "馬可·奧勒留",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q055",
+      "text": "人既不能失去過去，也不能失去未來；因為一個人並不擁有之物，又怎能從他手中奪去？",
+      "author": "馬可·奧勒留",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q056",
+      "text": "人無論退往何處，都不及退回自己的靈魂那般寧靜、那般無擾，尤其當他心中懷有這樣的思想：一凝視它們，便立刻歸於圓滿的安寧。我斷言，所謂安寧，無非是心靈的井然有序。",
+      "author": "馬可·奧勒留",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q057",
+      "text": "宇宙即是流變，人生不過是看法。",
+      "author": "馬可·奧勒留",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q058",
+      "text": "去除你的成見，「我受了傷害」這抱怨便隨之消失。去除「我受了傷害」這抱怨，傷害本身也就隨之消失。",
+      "author": "馬可·奧勒留",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q059",
+      "text": "時間如同一條由種種事件匯成的河流，是一道湍急的流水；一事方一現身，便被沖走，另一事接踵而至，而後也將同樣被沖走。",
+      "author": "馬可·奧勒留",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q060",
+      "text": "要像那海角的礁石，任波濤不斷拍擊，它卻巋然屹立，馴服了四周怒湧的水勢。",
+      "author": "馬可·奧勒留",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q061",
+      "text": "拭去一切擾人或失當的印象，何其容易，轉瞬便可重歸全然的安寧。",
+      "author": "馬可·奧勒留",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q062",
+      "text": "凡降臨於人的，無一不是天性所能承擔的。",
+      "author": "馬可·奧勒留",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q063",
+      "text": "你慣常懷有怎樣的思想，你心靈的品格便是怎樣；因為靈魂會被思想所浸染。",
+      "author": "馬可·奧勒留",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q064",
+      "text": "當你被境遇所迫而一時心緒紛亂時，要迅速回到自己內心，不要讓失序持續得比那迫力本身更久。",
+      "author": "馬可·奧勒留",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q065",
+      "text": "對一件事不抱任何成見，從而使靈魂不受擾動，這原在我們的能力之內；因為事物本身並無左右我們判斷的天然力量。",
+      "author": "馬可·奧勒留",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q066",
+      "text": "把自己安住於當下。",
+      "author": "馬可·奧勒留",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q067",
+      "text": "向內探尋。善的泉源就在你心中，只要你肯不斷掘鑿，它便會永遠汩汩湧出。",
+      "author": "馬可·奧勒留",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q068",
+      "text": "世間之事，有些在我們能力之內，有些則不然。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": "愛比克泰德手冊"
+    },
+    {
+      "id": "q069",
+      "text": "倘若你珍愛一只陶罐，就說你所愛的不過是一只陶罐；如此，當它破碎時，你便不致心緒不寧。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": "愛比克泰德手冊"
+    },
+    {
+      "id": "q070",
+      "text": "擾亂人心的，並非發生的事，而是人對那些事的看法。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": "愛比克泰德手冊"
+    },
+    {
+      "id": "q071",
+      "text": "不要強求世事如你所願，而要願世事如其所是，如此你的人生便能安然順流。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": "愛比克泰德手冊"
+    },
+    {
+      "id": "q072",
+      "text": "疾病是身體的障礙，卻非意志的障礙——除非意志本身甘願如此。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": "愛比克泰德手冊"
+    },
+    {
+      "id": "q073",
+      "text": "對任何事物，切莫說「我失去了它」，而要說「我把它歸還了」。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": "愛比克泰德手冊"
+    },
+    {
+      "id": "q074",
+      "text": "要記得，人生在世，當如赴一場宴席。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": "愛比克泰德手冊"
+    },
+    {
+      "id": "q075",
+      "text": "要記得，辱罵你、毆打你的人並未真正侮辱你；真正令你受辱的，是你認為此事是侮辱的那個看法。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": "愛比克泰德手冊"
+    },
+    {
+      "id": "q076",
+      "text": "因為你只要爭得片刻、稍加延緩，便更容易掌握自己。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": "愛比克泰德手冊"
+    },
+    {
+      "id": "q077",
+      "text": "凡事皆有兩個把手，一個可以承擔，一個則不能。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": "愛比克泰德手冊"
+    },
+    {
+      "id": "q078",
+      "text": "人生於任何境遇之中，都能尋得消遣、舒緩與樂趣——只要你願意輕看諸般禍患，而非憎惡它們。",
+      "author": "塞內卡",
+      "authorOriginal": "Seneca",
+      "source": "論心靈的寧靜"
+    },
+    {
+      "id": "q079",
+      "text": "要知道，人生的一切境遇皆是無常的；凡曾降臨於任何人身上的，也都可能降臨於你。",
+      "author": "塞內卡",
+      "authorOriginal": "Seneca",
+      "source": "論心靈的寧靜"
+    },
+    {
+      "id": "q080",
+      "text": "當我們厭倦了人群，孤獨會療癒我們；當我們厭倦了孤獨，人群會療癒我們。",
+      "author": "塞內卡",
+      "authorOriginal": "Seneca",
+      "source": "論心靈的寧靜"
+    },
+    {
+      "id": "q081",
+      "text": "人的心靈需要鬆弛：歇息之後，它會更加昂揚而充滿活力。",
+      "author": "塞內卡",
+      "authorOriginal": "Seneca",
+      "source": "論心靈的寧靜"
+    },
+    {
+      "id": "q082",
+      "text": "事實如此：我們所得的並非短暫的一生，而是我們把它過短了；我們並非光陰貧乏，而是揮霍了光陰。",
+      "author": "塞內卡",
+      "authorOriginal": "Seneca",
+      "source": "論生命之短暫"
+    },
+    {
+      "id": "q083",
+      "text": "凡能依己意支配全部時光、把每一天都當作鋪陳一生藍圖來安排的人，既不奢望明日，也不畏懼明日。",
+      "author": "塞內卡",
+      "authorOriginal": "Seneca",
+      "source": "論生命之短暫"
+    },
+    {
+      "id": "q084",
+      "text": "我如我所是地存在，這便已足夠，\n縱使世間無人知曉，我亦安然而坐，怡然自得，\n縱使人人皆知曉，我仍安然而坐，怡然自得。",
+      "author": "惠特曼",
+      "authorOriginal": "Walt Whitman",
+      "source": "草葉集"
+    },
+    {
+      "id": "q085",
+      "text": "我比自己所想的更為廣大、更為美好，\n我未曾料到，自己竟懷有如此之多的良善。",
+      "author": "惠特曼",
+      "authorOriginal": "Walt Whitman",
+      "source": "草葉集"
+    },
+    {
+      "id": "q086",
+      "text": "我自相矛盾嗎？\n那好吧，我便自相矛盾，\n（我廣闊無垠，我包羅萬象。）",
+      "author": "惠特曼",
+      "authorOriginal": "Walt Whitman",
+      "source": "草葉集"
+    },
+    {
+      "id": "q087",
+      "text": "我徒步上路，心懷輕快，踏上這開闊的大道，\n康健、自由，世界就在我眼前，\n那綿長的褐色小徑在前方延伸，通往我所選擇的任何地方。",
+      "author": "惠特曼",
+      "authorOriginal": "Walt Whitman",
+      "source": "草葉集"
+    },
+    {
+      "id": "q088",
+      "text": "我讚頌自己，歌唱自己，\n我所認定的，你也將認定，\n因為屬於我的每一個原子，同樣也屬於你。",
+      "author": "惠特曼",
+      "authorOriginal": "Walt Whitman",
+      "source": "草葉集"
+    },
+    {
+      "id": "q089",
+      "text": "信賴你自己：每一顆心都會應和那根鋼弦的震顫。",
+      "author": "愛默生",
       "authorOriginal": "Ralph Waldo Emerson",
-      "source": null
+      "source": "論自立"
     },
     {
-      "id": "q349",
-      "text": "我棲居在無限的可能之中。",
-      "author": "艾蜜莉·狄金生",
-      "authorOriginal": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q350",
-      "text": "希望是棲息在靈魂裡的一隻長著羽毛的鳥。",
-      "author": "艾蜜莉·狄金生",
-      "authorOriginal": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q351",
-      "text": "靈魂的門應該永遠半開著，隨時準備迎接那狂喜的體驗。",
-      "author": "艾蜜莉·狄金生",
-      "authorOriginal": "Emily Dickinson",
-      "source": null
-    },
-    {
-      "id": "q361",
-      "text": "過好每一天，然後翻篇。你已經盡力了。一些失誤和荒唐在所難免，盡快忘掉它們吧。",
-      "author": "拉爾夫·沃爾多·愛默生",
+      "id": "q090",
+      "text": "除了你自己，沒有什麼能帶給你安寧。除了原則的勝利，沒有什麼能帶給你安寧。",
+      "author": "愛默生",
       "authorOriginal": "Ralph Waldo Emerson",
-      "source": null
+      "source": "論自立"
     },
     {
-      "id": "q362",
-      "text": "閉上眼睛，墜入愛中，留在那裡。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
+      "id": "q091",
+      "text": "愚蠢的一致是心胸狹小者的夢魘，卻為渺小的政客、哲人與神職者所崇奉。",
+      "author": "愛默生",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "論自立"
     },
     {
-      "id": "q363",
-      "text": "讓一切發生在你身上：美與恐懼。只管繼續前行。沒有任何感受是終點。",
-      "author": "萊納·瑪利亞·里爾克",
-      "authorOriginal": "Rainer Maria Rilke",
-      "source": null
+      "id": "q092",
+      "text": "在世間隨世俗之見而活，並非難事；於獨處時隨自己之見而活，亦非難事；然而真正偉大之人，是身處人群之中，仍能以全然的從容，守住獨處時那份獨立。",
+      "author": "愛默生",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "論自立"
+    },
+    {
+      "id": "q093",
+      "text": "你所錯過的每一樣，都換來了別的一樣；你所得到的每一樣，也都失去了別的一樣。",
+      "author": "愛默生",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "論補償"
+    },
+    {
+      "id": "q094",
+      "text": "堅持做你自己，永不模仿他人。",
+      "author": "愛默生",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": "論自立"
+    },
+    {
+      "id": "q095",
+      "text": "希望是長著羽翼的鳥兒，\n棲息在靈魂的深處，\n吟唱著沒有歌詞的曲調，\n從不停歇，永不止住。",
+      "author": "狄金森",
+      "authorOriginal": "Emily Dickinson",
+      "source": "詩集"
+    },
+    {
+      "id": "q096",
+      "text": "倘若我能阻止一顆心碎裂，\n我便不虛此生；\n倘若我能撫平一段生命的疼痛，\n或減輕一分傷悲，\n或幫一隻昏厥的知更鳥\n重回牠的巢中，\n我便不虛此生。",
+      "author": "狄金森",
+      "authorOriginal": "Emily Dickinson",
+      "source": "詩集"
+    },
+    {
+      "id": "q097",
+      "text": "靈魂揀選自己的伴侶，\n而後緊閉門扉；\n對她那神聖的抉擇，\n再莫要相擾。",
+      "author": "狄金森",
+      "authorOriginal": "Emily Dickinson",
+      "source": "詩集"
+    },
+    {
+      "id": "q098",
+      "text": "我走入森林，因為我希望從容地生活，只直面生命中那些本質之事，看看自己能否領會它所要教導的一切，免得臨終之時，才發現自己不曾真正活過。",
+      "author": "梭羅",
+      "authorOriginal": "Henry David Thoreau",
+      "source": "湖濱散記"
+    },
+    {
+      "id": "q099",
+      "text": "至少，我的這場試驗讓我懂得：一個人若朝著夢想的方向堅定前行，努力去過他所想望的生活，便會在尋常的時刻裡，遇見意想不到的成功。",
+      "author": "梭羅",
+      "authorOriginal": "Henry David Thoreau",
+      "source": "湖濱散記"
+    },
+    {
+      "id": "q100",
+      "text": "倘若一個人與同伴步調不一，或許是因為他聽見了另一種鼓聲。就讓他隨著自己所聽見的節拍前行吧，無論那節拍何等緩慢，或何等遙遠。",
+      "author": "梭羅",
+      "authorOriginal": "Henry David Thoreau",
+      "source": "湖濱散記"
+    },
+    {
+      "id": "q101",
+      "text": "放下那份責任的重負，鬆開你緊握的手，把命運的料理交託給更高的力量，對這一切的結局真正地泰然處之——你會發現，不僅獲得了徹底的內心安頓，往往還會額外得到那些你真心以為已然捨棄的東西。",
+      "author": "威廉·詹姆斯",
+      "authorOriginal": "William James",
+      "source": "宗教經驗之種種"
+    },
+    {
+      "id": "q102",
+      "text": "有憂傷之處，便是神聖之地。",
+      "author": "奧斯卡·王爾德",
+      "authorOriginal": "Oscar Wilde",
+      "source": "自深深處"
+    },
+    {
+      "id": "q103",
+      "text": "又是內華達山中輝煌的一日，人彷彿被消融、被吸納，隨著脈動向前流去，不知去向何方。生命既不覺得漫長，也不覺得短暫，我們不再急於惜時或趕路，恰如那些樹木與星辰。",
+      "author": "約翰·繆爾",
+      "authorOriginal": "John Muir",
+      "source": "我在山中的第一個夏天"
+    },
+    {
+      "id": "q104",
+      "text": "當我歸來，我便回到大自然的懷抱，得以慰藉與療癒，讓我的感官再一次重歸和諧。",
+      "author": "約翰·巴勒斯",
+      "authorOriginal": "John Burroughs",
+      "source": "時與變"
+    },
+    {
+      "id": "q105",
+      "text": "你已看見一個人如何被製造成奴隸；你將看見一個奴隸如何成就為一個人。",
+      "author": "弗雷德里克·道格拉斯",
+      "authorOriginal": "Frederick Douglass",
+      "source": "弗雷德里克·道格拉斯的生平自述"
+    },
+    {
+      "id": "q106",
+      "text": "我告訴你們：一個人心中仍須懷有混沌，方能孕育出一顆翩然起舞的星辰。",
+      "author": "尼采",
+      "authorOriginal": "Friedrich Nietzsche",
+      "source": "查拉圖斯特拉如是說"
+    },
+    {
+      "id": "q107",
+      "text": "未經省察的人生，不值得一過。",
+      "author": "蘇格拉底",
+      "authorOriginal": "Socrates",
+      "source": "申辯篇"
+    },
+    {
+      "id": "q108",
+      "text": "對於死亡，要心懷安然，並確信無疑：無論在生時還是死後，沒有任何禍患能降臨於一個善良的人。",
+      "author": "蘇格拉底",
+      "authorOriginal": "Socrates",
+      "source": "申辯篇"
+    },
+    {
+      "id": "q109",
+      "text": "亞歷山大認為，治理自己比征服敵人更顯王者風範，因而不與任何敵人結交往來。",
+      "author": "普魯塔克",
+      "authorOriginal": "Plutarch",
+      "source": "希臘羅馬名人傳"
     }
   ]
 }
