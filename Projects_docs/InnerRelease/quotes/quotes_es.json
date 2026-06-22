@@ -2,909 +2,789 @@
   "language": "es",
   "quotes": [
     {
-      "id": "q1",
-      "text": "Todo lo que no puedas aceptar, puedes dejarlo ir. Todo lo que puedas dejar ir, puedes tenerlo.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q2",
-      "text": "Las emociones son solo emociones. No son tú, no son hechos, y puedes dejarlas ir.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q3",
-      "text": "La resistencia es como avanzar con el freno puesto. Cuando sueltas, te sientes cada vez más al mando y cada vez menos víctima de lo que está ocurriendo.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q4",
-      "text": "El dolor es una etiqueta. El sufrimiento proviene de la etiqueta, no de la sensación en sí.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q5",
-      "text": "En tu esencia, ya estás completo, ya estás íntegro, ya eres suficiente tal como eres.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q6",
-      "text": "Cada vez que liberas, es solo una decisión, una simple elección. Tienes esa elección en cada momento de cada día.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q7",
-      "text": "Cuando sueltas, tu mente se aquieta. Tienes más capacidad para enfocarte, concentrarte, perseverar y dejar de estorbarte a ti mismo.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q8",
-      "text": "Solo intentar mantener lo 'positivo' en mente no funciona a menos que dejes ir lo 'negativo': el pasado, tu equipaje excesivo.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
       "id": "q9",
-      "text": "La culpa es un inconsciente 'te debo' un castigo.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q10",
-      "text": "Cuando resistimos algo que no queremos, también estamos resistiendo lo que sí queremos. La resistencia es resistencia de cualquier manera, y eso es lo que bloquea el flujo.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q11",
-      "text": "Di 'siento enojo' o 'siento tristeza', que es más válido que 'soy enojo' o 'soy tristeza'. Validas tu experiencia sin invalidar quién eres.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q12",
-      "text": "Cualquier sentimiento que surja es solo un sentimiento. No eres tú.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q13",
-      "text": "Cuando queremos cambiar algo, le estamos resistiendo. Irónicamente, es esa misma resistencia la que lo mantiene en su lugar.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q14",
-      "text": "Puedes elegir tener razón, o puedes elegir ser libre.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q15",
-      "text": "A medida que sueltas la necesidad de controlar, en realidad te sientes más en control.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q16",
-      "text": "Tu mente es como una computadora. Liberar es el botón definitivo de borrar para tus virus mentales.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q17",
-      "text": "La conciencia es lo primario, todo lo demás que experimentamos es secundario.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q18",
-      "text": "Ya somos aquello que buscamos. Solo tenemos que soltar la creencia de que no lo somos.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q19",
-      "text": "La disposición a soltar la necesidad de entenderlo todo permite que la respuesta simplemente esté ahí.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q20",
-      "text": "El deseo es una carencia. Cada vez que deseamos algo, estamos diciendo que no lo tenemos.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q21",
-      "text": "Tu libertad ya está aquí y ahora.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q22",
-      "text": "Deja de pasar la vida de largo. Comienza a abordar tu vida como si tuvieras todo el tiempo del mundo. El momento que ofrece la mayor oportunidad para el autodescubrimiento es ahora.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q23",
-      "text": "Una de las principales formas en que creamos decepciones e infelicidad es aferrándonos a pensamientos y sentimientos limitantes.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q24",
-      "text": "Tú eres la clave de tu propia felicidad, salud, bienestar y éxito. Todo lo que necesitas hacer es usar esta clave para desbloquear los secretos de la libertad y la felicidad dentro de tu propio corazón.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q25",
-      "text": "Soltar es natural. Rendirse es natural. Aferrarse es antinatural.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q26",
-      "text": "En tu esencia, existe esta conciencia autorradiante que es tu verdadera naturaleza. En nuestra esencia, no hay ninguna diferencia entre lo que tú eres y lo que yo soy.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q27",
-      "text": "No es la lucha lo que lleva a manifestar la meta. Es soltar la lucha lo que lo hace posible.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q28",
-      "text": "Cuando reconoces la verdadera fuente de quién eres, eso trae un nivel completamente diferente de libertad del sufrimiento y una felicidad inquebrantable.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q29",
-      "text": "La supresión es mantener una tapa sobre nuestras emociones, empujarlas hacia abajo, negarlas, reprimirlas y pretender que no existen.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q30",
-      "text": "Las personas que realmente logran un cambio son las que ascienden al coraje o la aceptación.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q31",
-      "text": "Libera tu necesidad y permítete tener.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q32",
-      "text": "Si te sientes atascado, suelta la necesidad de cambiarlo o permítete sentir como te sientes. Cualquiera de las dos ayudará a disolver la sensación de estancamiento.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q33",
-      "text": "Si te sumerges debajo de las olas en la superficie de la conciencia, siempre hay calma.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q34",
-      "text": "En lugar de querer ser amado, permítete reconocer que tú eres amor.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q35",
-      "text": "Suelta la necesidad de hacer que tus problemas sean reales otra vez.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q36",
-      "text": "Vive la felicidad y sé la felicidad.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q37",
-      "text": "La presencia de la conciencia que eres es pura bienvenida. Sin palabras, le dice sí a todo.",
-      "author": "Hale Dwoskin",
-      "source": "La felicidad es libre"
-    },
-    {
-      "id": "q38",
-      "text": "Da la bienvenida a tus pensamientos, tus sensaciones, tus sentimientos y las historias que te cuentas. Simplemente permite que todo esté aquí, y sabe que todo está bien tal como es.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q39",
-      "text": "Ya eres Ser ilimitado. Cada camino o técnica está diseñado solo para hacerte evidente a ti mismo.",
-      "author": "Hale Dwoskin",
-      "source": "La felicidad es libre"
-    },
-    {
-      "id": "q40",
-      "text": "Tu mente puede ser tu peor amo, pero un gran sirviente.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q41",
-      "text": "No puedes cambiar una experiencia. Pero puedes cambiar la forma en que reaccionas a ella.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q42",
-      "text": "Todo aquello en lo que nos enfocamos lo creamos. Así que si estamos realmente enojados por una guerra, una lucha o un sufrimiento, estamos añadiendo nuestra energía a ello.",
-      "author": "Hale Dwoskin",
-      "source": "El Secreto"
-    },
-    {
-      "id": "q43",
-      "text": "Cuando resistimos las cosas en nuestra vida, lo que resistimos persiste. Todo en tu estado mental que resistes, persiste.",
-      "author": "Hale Dwoskin",
-      "source": "El Método Sedona"
-    },
-    {
-      "id": "q44",
-      "text": "Sin Conciencia no hay experiencia. Nos enredamos tanto en los cambios del cuerpo-mente-mundo que nos perdemos la belleza natural y la dicha del ser puro.",
-      "author": "Hale Dwoskin",
-      "source": "La felicidad es libre"
-    },
-    {
-      "id": "q45",
-      "text": "Permítete explorar la posibilidad de que no hay nada separado de la Verdad de quien eres.",
-      "author": "Hale Dwoskin",
-      "source": "La felicidad es libre"
-    },
-    {
-      "id": "q46",
-      "text": "La Conciencia-Ser que eres es siempre la parte más íntima de cada experiencia.",
-      "author": "Hale Dwoskin",
-      "source": "La felicidad es libre"
-    },
-    {
-      "id": "q47",
-      "text": "Puedes tener cualquier cosa que quieras, siempre que primero sueltes el deseo de tenerla.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q48",
-      "text": "La mente nunca descubrirá quién eres porque la mente es el encubrimiento de quién eres. Solo soltando la mente descubrirás quién eres.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q49",
-      "text": "En lugar de mantenerlo abajo, le permites subir y salir. Cada sentimiento suprimido está empujando para subir y salir todo el tiempo.",
-      "author": "Lester Levenson",
-      "source": "La felicidad es libre"
-    },
-    {
-      "id": "q50",
-      "text": "Toda infelicidad es causada por nuestro intento de ser limitados, de ser un ego. Cuanto más somos nuestro Ser, más felices somos.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q51",
-      "text": "Cuando no hay esfuerzo, no hay ego. Cuanto más esfuerzo, más ego.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q52",
-      "text": "Cada problema es un problema del ego. Para tener un problema tiene que haber una frustración del ego.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q53",
-      "text": "Una vez que te das cuenta de lo fácil que es la forma más elevada de vida, se necesita un esfuerzo tremendo para asumir lo contrario.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q54",
-      "text": "Cuando uno ama de verdad, nunca puede ser herido.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q55",
-      "text": "El único método de recibir amor es dar amor, porque lo que damos debe regresar.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q56",
-      "text": "El amor humano es necesitar al otro. El amor divino es dar al otro.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q57",
-      "text": "La felicidad equivale a la capacidad de amar, más que a ser amado.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q58",
-      "text": "El amor es un sentimiento de dar sin pensar en recibir nada a cambio.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q59",
-      "text": "Todo lo que nos sucede se origina en la mente.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q60",
-      "text": "Nuestra verdadera naturaleza, el ser real infinito que somos, es simplemente nosotros menos la mente.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q61",
-      "text": "La mente es la única limitación que tienes.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q62",
-      "text": "Liberar completamente el ego es ser completamente libre.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q63",
-      "text": "Un sentimiento es solo un programa ejecutándose en la mente. Puedes elegir detener el programa.",
-      "author": "Lester Levenson",
-      "source": "La felicidad es libre"
-    },
-    {
-      "id": "q64",
-      "text": "Cada problema físico tiene una causa mental. Limpia la mente, y el cuerpo seguirá.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q65",
-      "text": "La verdad siempre es simple. Es el ego el que complica todo.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q66",
-      "text": "Si no deshaces tu mente y la haces más silenciosa, entonces tu mente se está volviendo más ruidosa. Por lo tanto, debes continuar liberando tu mente hasta llegar al final.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q67",
-      "text": "Podemos tener paz si soltamos el querer cambiar el pasado y querer controlar el futuro.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q68",
-      "text": "La miseria es complejidad. La felicidad es simplicidad.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q69",
-      "text": "Cada vez que te sientes miserable, hay presente una excelente oportunidad para dar un gran paso adelante.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q70",
-      "text": "Libera y permítete ver la perfección donde la aparente imperfección parece estar.",
-      "author": "Lester Levenson",
-      "source": "La felicidad es libre"
-    },
-    {
-      "id": "q71",
-      "text": "La mejor medida de nuestra inteligencia es nuestra capacidad de ser felices.",
-      "author": "Lester Levenson",
-      "source": "Sedona Releasing Worldwide"
-    },
-    {
-      "id": "q72",
-      "text": "Si pudiéramos solo ser, simplemente ser, podríamos ver nuestra infinitud. Podríamos ver que somos el todo.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q73",
-      "text": "Si no nos gusta lo que nos está pasando en el mundo, todo lo que tenemos que hacer es cambiar nuestra conciencia, y el mundo exterior cambia para nosotros.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q74",
-      "text": "Sentir tristeza por algo es aferrarse a ello. Di: 'Esto es algo que tengo que soltar', e inmediatamente te sentirás mejor.",
-      "author": "Lester Levenson",
-      "source": "La felicidad es libre"
-    },
-    {
-      "id": "q75",
-      "text": "El camino hacia la alegría infinita es a través de la eliminación del deseo: sin apegos, sin aversiones.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q76",
-      "text": "El estado original de todos los Seres es el Amor. Nuestros problemas se deben solo a que cubrimos este estado natural.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q77",
-      "text": "La verdad puede encontrarse mediante un proceso de eliminar pensamientos erróneos, que son pensamientos de limitación. Cuando se eliminan todos los pensamientos de limitación, lo que queda es nuestro Ser natural e ilimitado.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q78",
-      "text": "La paz es no resistencia, aceptación completa, identificación con todos, con cada uno, con todo.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q79",
-      "text": "El concepto de amor de la gran mayoría de las personas es en realidad odio, más o menos. 'Te necesito, debo tenerte, no puedo vivir sin ti, eres mío': todo eso es no-amor.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q80",
-      "text": "El amor elimina el miedo. El amor elimina la ansiedad.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q81",
-      "text": "Crecer es trascenderte a ti mismo, a tu yo habitual, que no es otra cosa que el ego.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q82",
-      "text": "No indagues en la oscuridad para entender la luz. No te detengas en la enfermedad para estar sano. No te entregues a pensamientos de carencia para tener abundancia.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q83",
-      "text": "Hay más dolor en aferrarse al pensamiento de dolor que en la situación misma.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q84",
-      "text": "Una imagen mental de lo que queremos, con la aceptación completa y la convicción de que es nuestro ahora, lo traerá rápidamente.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q85",
-      "text": "Cuando damos un paso hacia el Ser, Él da nueve pasos hacia nosotros.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q86",
-      "text": "Todo el objetivo del camino es soltar el ego. Lo que queda es tu Ser.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q87",
-      "text": "Los parlamentos no pueden arreglar el mundo; pero suficientes individuos sintiendo amor sí pueden.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q88",
-      "text": "Las personas se necesitan mutuamente y piensan que es amor. No hay aferrarse ni encerrar al otro cuando uno ama.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q89",
-      "text": "No hay nada malo; solo hay cometer errores en el camino de regreso a Casa.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q90",
-      "text": "Cuanto más miserable te sientas, menos deberías buscar una salida. Más bien, aíslate hasta que veas y sueltes la razón de ello.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q91",
-      "text": "Estaba soltando y deshaciendo el infierno que había creado. Al cuadrar todo con amor, tratando de amar en lugar de tratar de ser amado, me volví más y más libre, más y más feliz.",
-      "author": "Lester Levenson",
-      "source": "Sin apegos, sin aversiones"
-    },
-    {
-      "id": "q92",
-      "text": "El ego es la fuente del nacimiento y la muerte, y cuando se suelta el ego, mueres a la muerte.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q93",
-      "text": "Alcanza el lugar donde nadie ni nada pueda perturbarte.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q94",
-      "text": "Todos somos dioses actuando como tontos.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q95",
-      "text": "¿Qué es la alegría? La alegría no es otra cosa que el Ser. Cuando los deseos se cumplen, la mente se aquieta. Esto permite que el Ser brille, y eso es lo que llamamos alegría.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q96",
-      "text": "La felicidad se intensifica más y más a medida que avanzamos hacia la libertad total. No desapareces. No pierdes nada. Ganas más.",
-      "author": "Lester Levenson",
-      "source": "La felicidad es libre"
-    },
-    {
-      "id": "q97",
-      "text": "La fachada es el ego. Está motivada por nuestra búsqueda de amor. La única recompensa es la frustración, pues solo amando se encuentra el amor.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q98",
-      "text": "Algunos de nosotros buscamos la felicidad donde está y como resultado nos volvemos más felices. Y otros la buscan ciegamente en el mundo donde no está y se frustran más.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q99",
-      "text": "La mayor felicidad que podemos dar a una pareja proviene de ayudarle a comprender más la Verdad.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q100",
-      "text": "No existe tal cosa como un error: ¡lo hacemos nosotros! No existe tal cosa como un accidente: ¡lo hacemos nosotros!",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q101",
-      "text": "Si ves miseria, es tu miseria. Cuando ves la perfección donde la aparente imperfección parece estar, la miseria es solo una apariencia.",
-      "author": "Lester Levenson",
-      "source": "Las claves de la libertad definitiva"
-    },
-    {
-      "id": "q102",
-      "text": "Soltar es como el cese repentino de una presión interna o el dejar caer un peso. Se acompaña de una sensación repentina de alivio y ligereza, con mayor felicidad y libertad.",
-      "author": "David R. Hawkins",
-      "source": "Dejar ir: el camino de la entrega"
-    },
-    {
-      "id": "q103",
-      "text": "Soltar implica ser consciente de un sentimiento, dejarlo surgir, quedarse con él y dejar que siga su curso sin querer cambiarlo ni hacer nada al respecto.",
-      "author": "David R. Hawkins",
-      "source": "Dejar ir: el camino de la entrega"
-    },
-    {
-      "id": "q104",
-      "text": "Al soltar, ignora todos los pensamientos. Enfócate en el sentimiento en sí, no en los pensamientos.",
-      "author": "David R. Hawkins",
-      "source": "Dejar ir: el camino de la entrega"
-    },
-    {
-      "id": "q105",
-      "text": "No son los pensamientos o los hechos los que causan dolor, sino los sentimientos que los acompañan. Los pensamientos en sí mismos son indoloros, pero no los sentimientos que los sustentan.",
-      "author": "David R. Hawkins",
-      "source": "Dejar ir: el camino de la entrega"
-    },
-    {
-      "id": "q106",
-      "text": "El punto crucial es: al cambiarnos a nosotros mismos, cambiamos el mundo. A medida que nos volvemos más amorosos por dentro, la sanación ocurre por fuera.",
-      "author": "David R. Hawkins",
-      "source": "Dejar ir: el camino de la entrega"
-    },
-    {
-      "id": "q107",
-      "text": "Tenemos tres formas principales de manejar los sentimientos: la supresión, la expresión y la evasión.",
-      "author": "David R. Hawkins",
-      "source": "Dejar ir: el camino de la entrega"
-    },
-    {
-      "id": "q108",
-      "text": "Los sentimientos suprimidos y reprimidos buscan una salida y utilizan los eventos como detonantes y excusas para ventilarse. Somos como ollas a presión listas para liberar vapor cuando surge la oportunidad.",
-      "author": "David R. Hawkins",
-      "source": "Dejar ir: el camino de la entrega"
-    },
-    {
-      "id": "q109",
-      "text": "Lo que sostenemos dentro colorea nuestro mundo. Si soltamos la culpa, veremos inocencia.",
-      "author": "David R. Hawkins",
-      "source": "Dejar ir: el camino de la entrega"
-    },
-    {
-      "id": "q110",
-      "text": "El mundo solo puede vernos como nos vemos a nosotros mismos.",
-      "author": "David R. Hawkins",
-      "source": "Dejar ir: el camino de la entrega"
-    },
-    {
-      "id": "q111",
-      "text": "Estar entregado significa no tener emociones fuertes sobre algo: 'Está bien si sucede, y está bien si no sucede.'",
-      "author": "David R. Hawkins",
-      "source": "Dejar ir: el camino de la entrega"
-    },
-    {
-      "id": "q112",
-      "text": "Los sentimientos van y vienen, y eventualmente te das cuenta de que no eres tus sentimientos, sino que el verdadero 'tú' simplemente los está presenciando.",
-      "author": "David R. Hawkins",
-      "source": "Dejar ir: el camino de la entrega"
-    },
-    {
-      "id": "q113",
-      "text": "La simple bondad hacia uno mismo y hacia todo lo que vive es la fuerza transformadora más poderosa de todas.",
-      "author": "David R. Hawkins",
-      "source": "Dejar ir: el camino de la entrega"
-    },
-    {
-      "id": "q114",
-      "text": "Los eventos de la vida son oportunidades para crecer, expandirse, experimentar y desarrollarse.",
-      "author": "David R. Hawkins",
-      "source": "Dejar ir: el camino de la entrega"
-    },
-    {
-      "id": "q115",
-      "text": "Dentro de nosotros, pero fuera de nuestra conciencia, está la verdad de que 'ya sé todo lo que necesito saber'.",
-      "author": "David R. Hawkins",
-      "source": "Dejar ir: el camino de la entrega"
-    },
-    {
-      "id": "q116",
-      "text": "La fuerza puede traer satisfacción, pero solo el poder trae alegría. La victoria sobre otros nos trae satisfacción, pero la victoria sobre nosotros mismos nos trae alegría.",
-      "author": "David R. Hawkins",
-      "source": "El poder contra la fuerza"
-    },
-    {
-      "id": "q117",
-      "text": "A veces, dejar ir las cosas es un acto de mucho mayor poder que defenderlas o aferrarse a ellas.",
-      "author": "Eckhart Tolle",
-      "source": "El poder del ahora"
-    },
-    {
-      "id": "q118",
-      "text": "La entrega es la sabiduría simple pero profunda de ceder ante el flujo de la vida en lugar de oponerse a él.",
-      "author": "Eckhart Tolle",
-      "source": "El poder del ahora"
-    },
-    {
-      "id": "q119",
-      "text": "Entrégate a lo que es. Di 'sí' a la vida, y observa cómo la vida de repente comienza a trabajar a tu favor en lugar de en tu contra.",
-      "author": "Eckhart Tolle",
-      "source": "El poder del ahora"
-    },
-    {
-      "id": "q120",
-      "text": "A veces la entrega significa renunciar a tratar de entender y sentirse cómodo con no saber.",
-      "author": "Eckhart Tolle",
-      "source": "Una nueva tierra"
-    },
-    {
-      "id": "q121",
-      "text": "Cuando sueltas la creencia de que deberías o necesitas saber quién eres, ¿qué pasa con la confusión? De repente desaparece.",
-      "author": "Eckhart Tolle",
-      "source": "Una nueva tierra"
-    },
-    {
-      "id": "q122",
-      "text": "La verdadera libertad viene de soltar la resistencia a lo que es.",
-      "author": "Eckhart Tolle",
-      "source": "El poder del ahora"
-    },
-    {
-      "id": "q123",
-      "text": "La entrega es la transición interior de la resistencia a la aceptación, del no al sí.",
-      "author": "Eckhart Tolle",
-      "source": "El poder del ahora"
-    },
-    {
-      "id": "q124",
-      "text": "El apego a las cosas se desvanece por sí solo cuando ya no buscas encontrarte en ellas.",
-      "author": "Eckhart Tolle",
-      "source": "Una nueva tierra"
-    },
-    {
-      "id": "q125",
-      "text": "Nada que viene y va eres tú. 'Estoy aburrido.' ¿Quién sabe esto?",
-      "author": "Eckhart Tolle",
-      "source": "La quietud habla"
-    },
-    {
-      "id": "q126",
-      "text": "Llegas al estado natural al soltar el control, al soltar el esfuerzo y descansar en un estado de viveza.",
-      "author": "Adyashanti",
-      "source": "Meditación verdadera"
-    },
-    {
-      "id": "q127",
-      "text": "Soltar es liberar las imágenes y las emociones, los rencores y los miedos, los aferramientos y las decepciones del pasado que atan nuestro espíritu.",
-      "author": "Jack Kornfield",
-      "source": null
-    },
-    {
-      "id": "q128",
-      "text": "Soltar no significa deshacerse de algo. Soltar significa dejar ser. Cuando dejamos ser con compasión, las cosas vienen y van por sí solas.",
-      "author": "Jack Kornfield",
-      "source": null
-    },
-    {
-      "id": "q129",
-      "text": "Suelta la batalla. Respira tranquilamente y deja que sea. Deja que tu cuerpo se relaje y tu corazón se ablande.",
-      "author": "Jack Kornfield",
-      "source": null
-    },
-    {
-      "id": "q130",
-      "text": "Al soltar, permitimos que todo llegue a nosotros con gracia.",
-      "author": "Jack Kornfield",
-      "source": null
-    },
-    {
-      "id": "q131",
-      "text": "Cuando resistimos el cambio, se llama sufrimiento. Pero cuando podemos soltar completamente y no luchar contra él, cuando podemos abrazar la falta de suelo de nuestra situación y relajarnos en su cualidad dinámica, eso se llama iluminación.",
-      "author": "Pema Chödrön",
-      "source": "Vivir bellamente con incertidumbre y cambio"
-    },
-    {
-      "id": "q132",
-      "text": "La esencia de la generosidad es soltar. El dolor siempre es una señal de que nos estamos aferrando a algo, generalmente a nosotros mismos.",
-      "author": "Pema Chödrön",
-      "source": "Cómodos con la incertidumbre"
-    },
-    {
-      "id": "q133",
-      "text": "Estar plenamente vivo, plenamente humano y completamente despierto es ser continuamente arrojado fuera del nido.",
-      "author": "Pema Chödrön",
-      "source": "Cuando todo se derrumba"
-    },
-    {
-      "id": "q134",
-      "text": "Cada vez que te quedas presente con el miedo y la incertidumbre, estás soltando una forma habitual de encontrar seguridad y confort.",
-      "author": "Pema Chödrön",
-      "source": "Cuando todo se derrumba"
-    },
-    {
-      "id": "q135",
-      "text": "El problema es que el deseo de cambiar es fundamentalmente una forma de agresión hacia ti mismo.",
-      "author": "Pema Chödrön",
-      "source": "La sabiduría de no escapar"
-    },
-    {
-      "id": "q136",
-      "text": "Intenta aprender a dejar que lo que es simplemente sea.",
+      "text": "Suelta tu mente y luego sé consciente. Cierra tus oídos y escucha.",
       "author": "Rumi",
       "source": null
     },
     {
-      "id": "q137",
+      "id": "q11",
+      "text": "Tu tarea no es buscar el amor, sino simplemente buscar y encontrar todas las barreras que has construido dentro de ti contra él.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q12",
       "text": "La herida es el lugar por donde la Luz entra en ti.",
       "author": "Rumi",
       "source": null
     },
     {
-      "id": "q138",
-      "text": "El momento en que aceptas los problemas que te han sido dados, la puerta se abrirá.",
+      "id": "q15",
+      "text": "Cuando sueltas lo que eres, te conviertes en lo que podrías ser.",
+      "author": "Lao-Tse",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q16",
+      "text": "La mayor arma contra el estrés es nuestra capacidad de elegir un pensamiento sobre otro.",
+      "author": "William James",
+      "source": null
+    },
+    {
+      "id": "q17",
+      "text": "Todo lo que tiene un comienzo tiene un final. Haz las paces con eso y todo estará bien.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q22",
+      "text": "El dolor es inevitable. El sufrimiento es opcional.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q36",
+      "text": "La vida es un equilibrio entre sostener y soltar.",
       "author": "Rumi",
       "source": null
     },
     {
-      "id": "q139",
-      "text": "Pon tus pensamientos a dormir, no dejes que proyecten una sombra sobre la luna de tu corazón. Suelta el pensamiento.",
+      "id": "q38",
+      "text": "La paz viene de dentro. No la busques fuera.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q39",
+      "text": "Tú mismo, tanto como cualquier persona en el universo entero, mereces tu amor y tu afecto.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q40",
+      "text": "Comprenderlo todo es perdonarlo todo.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q41",
+      "text": "Nadie nos salva sino nosotros mismos. Nadie puede y nadie debe. Nosotros mismos debemos recorrer el camino.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q42",
+      "text": "La mente lo es todo. En lo que piensas, te conviertes.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q43",
+      "text": "Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q44",
+      "text": "La raíz del sufrimiento es el apego.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q45",
+      "text": "Si quieres volar, abandona todo lo que te pesa.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q50",
+      "text": "Cuando te das cuenta de que nada falta, el mundo entero te pertenece.",
+      "author": "Lao-Tse",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q51",
+      "text": "La naturaleza no tiene prisa, y sin embargo todo se cumple.",
+      "author": "Lao-Tse",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q52",
+      "text": "Conténtate con lo que tienes; regocíjate en cómo son las cosas.",
+      "author": "Lao-Tse",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q53",
+      "text": "Los nuevos comienzos a menudo se disfrazan de finales dolorosos.",
+      "author": "Lao-Tse",
+      "source": null
+    },
+    {
+      "id": "q54",
+      "text": "Quien controla a otros puede ser poderoso, pero quien se ha dominado a sí mismo es aún más fuerte.",
+      "author": "Lao-Tse",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q55",
+      "text": "Si corriges tu mente, el resto de tu vida encajará en su lugar.",
+      "author": "Lao-Tse",
+      "source": null
+    },
+    {
+      "id": "q56",
+      "text": "El mejor momento para plantar un árbol fue hace veinte años. El segundo mejor momento es ahora.",
+      "author": "Proverbio chino",
+      "source": null
+    },
+    {
+      "id": "q57",
+      "text": "Tienes poder sobre tu mente, no sobre los eventos externos. Date cuenta de esto y encontrarás la fuerza.",
+      "author": "Marco Aurelio",
+      "source": "Meditaciones"
+    },
+    {
+      "id": "q58",
+      "text": "Se necesita muy poco para hacer una vida feliz; todo está dentro de ti, en tu forma de pensar.",
+      "author": "Marco Aurelio",
+      "source": "Meditaciones"
+    },
+    {
+      "id": "q59",
+      "text": "La felicidad de tu vida depende de la calidad de tus pensamientos.",
+      "author": "Marco Aurelio",
+      "source": "Meditaciones"
+    },
+    {
+      "id": "q60",
+      "text": "No pierdas más tiempo discutiendo sobre lo que un hombre bueno debería ser. Sé uno.",
+      "author": "Marco Aurelio",
+      "source": "Meditaciones"
+    },
+    {
+      "id": "q61",
+      "text": "No es la muerte lo que un hombre debería temer, sino que debería temer nunca comenzar a vivir.",
+      "author": "Marco Aurelio",
+      "source": "Meditaciones"
+    },
+    {
+      "id": "q62",
+      "text": "Acepta las cosas a las que el destino te une, y ama a las personas con las que el destino te reúne.",
+      "author": "Marco Aurelio",
+      "source": "Meditaciones"
+    },
+    {
+      "id": "q63",
+      "text": "Cuánto más graves son las consecuencias de la ira que sus causas.",
+      "author": "Marco Aurelio",
+      "source": "Meditaciones"
+    },
+    {
+      "id": "q64",
+      "text": "Sufrimos más a menudo en la imaginación que en la realidad.",
+      "author": "Séneca",
+      "source": "Cartas a Lucilio"
+    },
+    {
+      "id": "q65",
+      "text": "La verdadera felicidad es disfrutar del presente, sin dependencia ansiosa del futuro.",
+      "author": "Séneca",
+      "source": null
+    },
+    {
+      "id": "q66",
+      "text": "No es que tengamos poco tiempo de vida, sino que desperdiciamos mucho de él.",
+      "author": "Séneca",
+      "source": "Sobre la brevedad de la vida"
+    },
+    {
+      "id": "q67",
+      "text": "La suerte es lo que sucede cuando la preparación se encuentra con la oportunidad.",
+      "author": "Séneca",
+      "source": null
+    },
+    {
+      "id": "q68",
+      "text": "Las dificultades fortalecen la mente, así como el trabajo fortalece el cuerpo.",
+      "author": "Séneca",
+      "source": null
+    },
+    {
+      "id": "q69",
+      "text": "No es lo que te sucede, sino cómo reaccionas ante ello lo que importa.",
+      "author": "Epicteto",
+      "source": null
+    },
+    {
+      "id": "q70",
+      "text": "Solo hay un camino hacia la felicidad y es dejar de preocuparse por las cosas que están más allá de nuestro poder.",
+      "author": "Epicteto",
+      "source": null
+    },
+    {
+      "id": "q71",
+      "text": "Primero dite a ti mismo lo que serías; y luego haz lo que tengas que hacer.",
+      "author": "Epicteto",
+      "source": null
+    },
+    {
+      "id": "q72",
+      "text": "Haz el mejor uso de lo que está en tu poder y toma el resto como venga.",
+      "author": "Epicteto",
+      "source": null
+    },
+    {
+      "id": "q73",
+      "text": "Ningún hombre es libre si no es dueño de sí mismo.",
+      "author": "Epicteto",
+      "source": null
+    },
+    {
+      "id": "q74",
+      "text": "Donde hay ruina, hay esperanza de un tesoro.",
       "author": "Rumi",
       "source": null
     },
     {
-      "id": "q140",
-      "text": "Suelta tus preocupaciones y ten el corazón completamente claro, como la superficie de un espejo que no contiene imágenes.",
+      "id": "q75",
+      "text": "No te aflijas. Todo lo que pierdes vuelve de otra forma.",
       "author": "Rumi",
       "source": null
     },
     {
-      "id": "q141",
+      "id": "q76",
       "text": "Ayer era inteligente, así que quería cambiar el mundo. Hoy soy sabio, así que me estoy cambiando a mí mismo.",
       "author": "Rumi",
       "source": null
     },
     {
-      "id": "q142",
-      "text": "Cuando discutes con la realidad, pierdes, pero solo el 100% de las veces.",
-      "author": "Byron Katie",
-      "source": "Amar lo que es"
+      "id": "q77",
+      "text": "El silencio es el lenguaje de Dios, todo lo demás es una pobre traducción.",
+      "author": "Rumi",
+      "source": null
     },
     {
-      "id": "q143",
-      "text": "Soltar nos da libertad, y la libertad es la única condición para la felicidad.",
-      "author": "Thich Nhat Hanh",
-      "source": "El corazón de las enseñanzas de Buda"
+      "id": "q78",
+      "text": "Prende fuego a tu vida. Busca a los que aviven tus llamas.",
+      "author": "Rumi",
+      "source": null
     },
     {
-      "id": "q144",
-      "text": "En el proceso de soltar perderás muchas cosas del pasado, pero te encontrarás a ti mismo.",
-      "author": "Deepak Chopra",
+      "id": "q79",
+      "text": "El jardín del mundo no tiene límites, excepto en tu mente.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q80",
+      "text": "Lo que buscas te está buscando a ti.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q81",
+      "text": "Responde a cada llamada que excite tu espíritu.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q82",
+      "text": "Sé como un árbol y deja caer las hojas muertas.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q83",
+      "text": "Más allá de las ideas de lo correcto y lo incorrecto, hay un campo. Te encontraré allí.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q84",
+      "text": "Deja de actuar tan pequeño. Eres el universo en movimiento extático.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q85",
+      "text": "Viste la gratitud como un manto y alimentará cada rincón de tu vida.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q86",
+      "text": "Déjate arrastrar silenciosamente por la extraña atracción de lo que realmente amas.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q87",
+      "text": "He vivido al borde de la locura, queriendo saber razones, llamando a una puerta. Se abre. He estado llamando desde adentro.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q88",
+      "text": "Naciste con alas, ¿por qué prefieres arrastrarte por la vida?",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q89",
+      "text": "No te conformes con historias, con cómo les ha ido a otros. Despliega tu propio mito.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q101",
+      "text": "No eres una gota en el océano. Eres el océano entero en una gota.",
+      "author": "Rumi",
       "source": null
     },
     {
       "id": "q145",
-      "text": "Cuando suelto lo que soy, me convierto en lo que podría ser. Cuando suelto lo que tengo, recibo lo que necesito.",
-      "author": "Lao-Tse",
-      "source": "Tao Te Ching"
+      "text": "Lo que logremos internamente cambiará la realidad exterior.",
+      "author": "Plutarco",
+      "source": null
     },
     {
       "id": "q146",
-      "text": "Debemos estar dispuestos a soltar la vida que hemos planeado, para poder vivir la vida que nos está esperando.",
-      "author": "Joseph Campbell",
-      "source": null
-    },
-    {
-      "id": "q147",
-      "text": "Haz todo con una mente que suelta. Si sueltas un poco tendrás un poco de paz; si sueltas mucho tendrás mucha paz; si sueltas completamente tendrás paz completa.",
-      "author": "Ajahn Chah",
-      "source": null
-    },
-    {
-      "id": "q148",
-      "text": "El momento en que dejas de resistir es el momento en que permites que todo lo que has estado buscando te encuentre.",
-      "author": "Michael Singer",
-      "source": "El alma desatada"
-    },
-    {
-      "id": "q149",
-      "text": "Siente el sentimiento pero no te conviertas en la emoción. Obsérvala. Permítela. Libérala.",
-      "author": "Crystal Andrus",
+      "text": "Sé tú mismo; todos los demás ya están ocupados.",
+      "author": "Oscar Wilde",
       "source": null
     },
     {
       "id": "q150",
-      "text": "Algo asombroso sucede cuando nos entregamos y simplemente amamos. Nos fundimos en otro mundo, un reino de poder que ya está dentro de nosotros.",
-      "author": "Marianne Williamson",
-      "source": "Un retorno al amor"
+      "text": "Conocerte a ti mismo es el principio de toda sabiduría.",
+      "author": "Aristóteles",
+      "source": null
     },
     {
       "id": "q151",
-      "text": "Seis palabras de consejo: Suelta lo que ha pasado. Suelta lo que pueda venir. Suelta lo que está sucediendo ahora. No intentes resolver nada. No intentes hacer que nada suceda. Relájate, ahora mismo, y descansa.",
-      "author": "Tilopa",
+      "text": "Todo en el universo está dentro de ti. Pídete todo a ti mismo.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q170",
+      "text": "Solo en la tristeza el mal tiempo nos domina; en la alegría enfrentamos la tormenta y la desafiamos.",
+      "author": "Amelia Barr",
+      "source": null
+    },
+    {
+      "id": "q171",
+      "text": "Las personas no se perturban por las cosas, sino por la opinión que tienen de ellas.",
+      "author": "Epicteto",
+      "source": "Enquiridión"
+    },
+    {
+      "id": "q172",
+      "text": "No expliques tu filosofía. Encárnala.",
+      "author": "Epicteto",
+      "source": null
+    },
+    {
+      "id": "q173",
+      "text": "Lo que realmente nos asusta y nos consterna no son los eventos externos en sí, sino la forma en que pensamos sobre ellos.",
+      "author": "Epicteto",
+      "source": null
+    },
+    {
+      "id": "q174",
+      "text": "Es sabio el hombre que no se aflige por las cosas que no tiene, sino que se regocija por las que tiene.",
+      "author": "Epicteto",
+      "source": null
+    },
+    {
+      "id": "q175",
+      "text": "La libertad es la única meta digna en la vida. Se gana ignorando las cosas que están más allá de nuestro control.",
+      "author": "Epicteto",
+      "source": null
+    },
+    {
+      "id": "q176",
+      "text": "El alma se tiñe del color de sus pensamientos.",
+      "author": "Marco Aurelio",
+      "source": "Meditaciones"
+    },
+    {
+      "id": "q177",
+      "text": "Cuando te levantes por la mañana, piensa en qué privilegio es estar vivo.",
+      "author": "Marco Aurelio",
+      "source": "Meditaciones"
+    },
+    {
+      "id": "q178",
+      "text": "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.",
+      "author": "Marco Aurelio",
+      "source": null
+    },
+    {
+      "id": "q179",
+      "text": "La mejor venganza es no ser como tu enemigo.",
+      "author": "Marco Aurelio",
+      "source": "Meditaciones"
+    },
+    {
+      "id": "q180",
+      "text": "Si no es correcto, no lo hagas; si no es verdad, no lo digas.",
+      "author": "Marco Aurelio",
+      "source": "Meditaciones"
+    },
+    {
+      "id": "q181",
+      "text": "Sé tolerante con los demás y estricto contigo mismo.",
+      "author": "Marco Aurelio",
+      "source": "Meditaciones"
+    },
+    {
+      "id": "q182",
+      "text": "Nunca dejes que el futuro te perturbe. Lo enfrentarás con las mismas armas de la razón que hoy te arman contra el presente.",
+      "author": "Marco Aurelio",
+      "source": "Meditaciones"
+    },
+    {
+      "id": "q208",
+      "text": "Las cosas en las que piensas determinan la calidad de tu mente. Tu alma toma el color de tus pensamientos.",
+      "author": "Marco Aurelio",
+      "source": "Meditaciones"
+    },
+    {
+      "id": "q212",
+      "text": "El secreto del cambio es enfocar toda tu energía no en luchar contra lo viejo, sino en construir lo nuevo.",
+      "author": "Sócrates",
+      "source": null
+    },
+    {
+      "id": "q213",
+      "text": "Una vida sin examen no merece ser vivida.",
+      "author": "Sócrates",
+      "source": null
+    },
+    {
+      "id": "q214",
+      "text": "Solo sé que no sé nada.",
+      "author": "Sócrates",
+      "source": null
+    },
+    {
+      "id": "q222",
+      "text": "Quien tiene un porqué para vivir puede soportar casi cualquier cómo.",
+      "author": "Friedrich Nietzsche",
+      "source": null
+    },
+    {
+      "id": "q223",
+      "text": "En cada paseo por la naturaleza, uno recibe mucho más de lo que busca.",
+      "author": "John Muir",
+      "source": null
+    },
+    {
+      "id": "q224",
+      "text": "Encontrar suficientes los elementos universales; encontrar el aire y el agua estimulantes; sentirse renovado por un paseo matutino: estas son algunas de las recompensas de la vida sencilla.",
+      "author": "John Burroughs",
+      "source": null
+    },
+    {
+      "id": "q225",
+      "text": "Tu dolor es la ruptura de la cáscara que encierra tu entendimiento.",
+      "author": "Kahlil Gibran",
+      "source": "El Profeta"
+    },
+    {
+      "id": "q226",
+      "text": "Del sufrimiento han surgido las almas más fuertes; los caracteres más macizos están marcados con cicatrices.",
+      "author": "Kahlil Gibran",
+      "source": null
+    },
+    {
+      "id": "q227",
+      "text": "Hablas cuando dejas de estar en paz con tus pensamientos.",
+      "author": "Kahlil Gibran",
+      "source": "El Profeta"
+    },
+    {
+      "id": "q228",
+      "text": "Cuanto más profundamente la tristeza talla en tu ser, más alegría puedes contener.",
+      "author": "Kahlil Gibran",
+      "source": "El Profeta"
+    },
+    {
+      "id": "q229",
+      "text": "Tus hijos no son tus hijos. Vienen a través de ti pero no de ti.",
+      "author": "Kahlil Gibran",
+      "source": "El Profeta"
+    },
+    {
+      "id": "q230",
+      "text": "Y siempre se ha sabido que el amor no conoce su propia profundidad hasta la hora de la separación.",
+      "author": "Kahlil Gibran",
+      "source": "El Profeta"
+    },
+    {
+      "id": "q231",
+      "text": "He aprendido el silencio del parlanchín, la tolerancia del intolerante y la bondad del cruel.",
+      "author": "Kahlil Gibran",
+      "source": null
+    },
+    {
+      "id": "q232",
+      "text": "Mantén tu rostro siempre hacia la luz del sol, y las sombras caerán detrás de ti.",
+      "author": "Walt Whitman",
+      "source": null
+    },
+    {
+      "id": "q233",
+      "text": "Ni yo ni nadie más puede recorrer ese camino por ti. Debes recorrerlo tú mismo.",
+      "author": "Walt Whitman",
+      "source": null
+    },
+    {
+      "id": "q234",
+      "text": "¿Me contradigo? Muy bien, me contradigo. Soy vasto, contengo multitudes.",
+      "author": "Walt Whitman",
+      "source": "Canto a mí mismo"
+    },
+    {
+      "id": "q235",
+      "text": "Existo tal como soy, eso es suficiente.",
+      "author": "Walt Whitman",
+      "source": null
+    },
+    {
+      "id": "q239",
+      "text": "Lo que queda detrás de nosotros y lo que queda ante nosotros son cosas insignificantes comparadas con lo que queda dentro de nosotros.",
+      "author": "Ralph Waldo Emerson",
+      "source": null
+    },
+    {
+      "id": "q240",
+      "text": "Ser tú mismo en un mundo que constantemente intenta hacerte otra cosa es el mayor logro.",
+      "author": "Ralph Waldo Emerson",
+      "source": null
+    },
+    {
+      "id": "q241",
+      "text": "Por cada minuto que estás enojado, pierdes sesenta segundos de felicidad.",
+      "author": "Ralph Waldo Emerson",
+      "source": null
+    },
+    {
+      "id": "q242",
+      "text": "Lo que eres es lo que has sido. Lo que serás es lo que hagas ahora.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q243",
+      "text": "La salud es el mayor regalo, la satisfacción la mayor riqueza, la fidelidad la mejor relación.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q244",
+      "text": "Tres cosas no pueden permanecer ocultas por mucho tiempo: el sol, la luna y la verdad.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q245",
+      "text": "Somos moldeados por nuestros pensamientos; nos convertimos en lo que pensamos.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q246",
+      "text": "Una idea que se desarrolla y se pone en acción es más importante que una idea que existe solo como idea.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q247",
+      "text": "No hay camino hacia la felicidad: la felicidad es el camino.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q248",
+      "text": "La paciencia es clave. Recuerda: un cántaro se llena gota a gota.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q249",
+      "text": "En la separación yace la mayor miseria del mundo; en la compasión yace la verdadera fuerza del mundo.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q250",
+      "text": "No te detengas en el pasado, no sueñes con el futuro, concentra la mente en el momento presente.",
+      "author": "Buda",
+      "source": null
+    },
+    {
+      "id": "q251",
+      "text": "No importa cuán lento vayas, siempre y cuando no te detengas.",
+      "author": "Confucio",
+      "source": null
+    },
+    {
+      "id": "q252",
+      "text": "Nuestra mayor gloria no está en no caer nunca, sino en levantarnos cada vez que caemos.",
+      "author": "Confucio",
+      "source": null
+    },
+    {
+      "id": "q253",
+      "text": "La vida es realmente simple, pero insistimos en hacerla complicada.",
+      "author": "Confucio",
+      "source": null
+    },
+    {
+      "id": "q254",
+      "text": "La única sabiduría verdadera es saber que no sabes nada.",
+      "author": "Sócrates",
+      "source": null
+    },
+    {
+      "id": "q255",
+      "text": "La tensión es quién crees que deberías ser. La relajación es quién eres.",
+      "author": "Proverbio chino",
+      "source": null
+    },
+    {
+      "id": "q256",
+      "text": "Si no hay lucha, no hay progreso.",
+      "author": "Frederick Douglass",
+      "source": null
+    },
+    {
+      "id": "q267",
+      "text": "No te apartes. Mantén tu mirada en el lugar vendado. Por ahí es donde la luz entra en ti.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q308",
+      "text": "La mente no es un recipiente que llenar, sino un fuego que encender.",
+      "author": "Plutarco",
+      "source": null
+    },
+    {
+      "id": "q310",
+      "text": "He sido un buscador y aún lo soy, pero dejé de preguntar a los libros y a las estrellas. Comencé a escuchar las enseñanzas de mi alma.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q317",
+      "text": "Gobierna tu mente o ella te gobernará a ti.",
+      "author": "Horacio",
+      "source": null
+    },
+    {
+      "id": "q318",
+      "text": "En el centro de tu ser tienes la respuesta; sabes quién eres y sabes lo que quieres.",
+      "author": "Lao-Tse",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q319",
+      "text": "El silencio es una fuente de gran fortaleza.",
+      "author": "Lao-Tse",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q320",
+      "text": "Un viaje de mil millas comienza con un solo paso.",
+      "author": "Lao-Tse",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q321",
+      "text": "Simplicidad, paciencia, compasión. Estos tres son tus mayores tesoros.",
+      "author": "Lao-Tse",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q322",
+      "text": "Deja de partir y llegarás. Deja de buscar y verás. Deja de huir y serás encontrado.",
+      "author": "Lao-Tse",
+      "source": null
+    },
+    {
+      "id": "q323",
+      "text": "La llama que brilla con el doble de intensidad arde la mitad de tiempo.",
+      "author": "Lao-Tse",
+      "source": null
+    },
+    {
+      "id": "q324",
+      "text": "Conocer a otros es inteligencia; conocerse a uno mismo es verdadera sabiduría. Dominar a otros es fuerza; dominarse a uno mismo es verdadero poder.",
+      "author": "Lao-Tse",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q325",
+      "text": "¿Tienes la paciencia de esperar hasta que tu lodo se asiente y el agua esté clara?",
+      "author": "Lao-Tse",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q326",
+      "text": "Nada es más suave ni más flexible que el agua, y sin embargo nada puede resistirla.",
+      "author": "Lao-Tse",
+      "source": "Tao Te Ching"
+    },
+    {
+      "id": "q334",
+      "text": "Esto también pasará.",
+      "author": "Proverbio persa",
+      "source": null
+    },
+    {
+      "id": "q346",
+      "text": "La única persona en la que estás destinado a convertirte es la persona que decides ser.",
+      "author": "Ralph Waldo Emerson",
+      "source": null
+    },
+    {
+      "id": "q349",
+      "text": "Habito en la posibilidad.",
+      "author": "Emily Dickinson",
+      "source": null
+    },
+    {
+      "id": "q350",
+      "text": "La esperanza es esa cosa con plumas que se posa en el alma.",
+      "author": "Emily Dickinson",
+      "source": null
+    },
+    {
+      "id": "q351",
+      "text": "El alma debería estar siempre entreabierta, lista para recibir la experiencia extática.",
+      "author": "Emily Dickinson",
+      "source": null
+    },
+    {
+      "id": "q361",
+      "text": "Termina cada día y olvídalo. Hiciste lo que pudiste. Sin duda se colaron algunos errores y absurdos; olvídalos tan pronto como puedas.",
+      "author": "Ralph Waldo Emerson",
+      "source": null
+    },
+    {
+      "id": "q362",
+      "text": "Cierra los ojos. Enamórate. Quédate ahí.",
+      "author": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q363",
+      "text": "Deja que todo te suceda: la belleza y el terror. Solo sigue adelante. Ningún sentimiento es definitivo.",
+      "author": "Rainer Maria Rilke",
       "source": null
     }
   ]

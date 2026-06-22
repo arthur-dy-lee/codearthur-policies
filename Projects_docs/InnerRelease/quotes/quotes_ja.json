@@ -2,1060 +2,920 @@
   "language": "ja",
   "quotes": [
     {
-      "id": "q1",
-      "text": "受け入れられないものは何でも、手放すことができます。手放すことができるものは何でも、手に入れることができます。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q2",
-      "text": "感情はただの感情です。それはあなた自身ではなく、事実でもなく、手放すことができるのです。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q3",
-      "text": "抵抗とは、ブレーキをかけたまま前に進もうとする感覚です。手放すと、ますます自分が主導権を握り、何が起きても被害者ではなくなっていると感じます。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q4",
-      "text": "痛みはラベルです。苦しみはその感覚自体からではなく、ラベルから生まれます。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q5",
-      "text": "あなたの本質は、すでに全体であり、すでに完全であり、そのままで十分なのです。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q6",
-      "text": "手放すたびに、それは決断であり、シンプルな選択です。毎日のあらゆる瞬間に、その選択をすることができます。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q7",
-      "text": "手放すと、心が静まります。集中力が増し、フォローする力が高まり、自分自身の邪魔をしなくなります。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q8",
-      "text": "「ポジティブ」なことだけを心に留めようとしても、「ネガティブ」なもの——過去や余分な荷物——を手放さなければうまくいきません。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
       "id": "q9",
-      "text": "罪悪感とは、罰に対する無意識の「借り」です。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q10",
-      "text": "望まないものに抵抗するとき、望むものにも抵抗しています。抵抗はどちらにしても抵抗であり、それが流れを阻んでいるのです。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
+      "text": "心を手放し、そして気づきを持ちなさい。耳を閉じて、聴きなさい。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q11",
-      "text": "「私は怒っている」ではなく「怒りを感じている」、「私は悲しい」ではなく「悲しみを感じている」と言いましょう。自分が何者であるかを否定せずに、体験を認めることができます。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
+      "text": "あなたの使命は愛を探すことではなく、自分の中に愛に対して築いた壁を見つけ出すことです。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q12",
-      "text": "湧き上がってくる感情は、ただの感情です。それはあなたではありません。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q13",
-      "text": "何かを変えたいと思うとき、私たちはそれに抵抗しています。皮肉なことに、まさにその抵抗がそれをその場に留めているのです。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q14",
-      "text": "正しくあることを選ぶか、自由であることを選ぶか。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
+      "text": "傷こそが、光があなたの中に入ってくる場所です。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q15",
-      "text": "コントロールしたいという欲求を手放すと、実際にはもっとコントロールできていると感じます。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
+      "text": "今の自分を手放すとき、なりうる自分になれるのです。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道徳経"
     },
     {
       "id": "q16",
-      "text": "あなたの心はコンピューターのようなものです。リリースは、心のウイルスに対する究極の削除ボタンです。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
+      "text": "ストレスに対する最大の武器は、一つの思考を別の思考より選ぶ力です。",
+      "author": "ウィリアム・ジェームズ",
+      "authorOriginal": "William James",
+      "source": null
     },
     {
       "id": "q17",
-      "text": "気づきが第一であり、私たちが経験する他のすべては二次的なものです。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q18",
-      "text": "私たちはすでに求めているそのものです。ただ、そうではないという信念を手放すだけでいいのです。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q19",
-      "text": "答えを見つけ出したいという欲求を手放す意欲が、答えをそこにあらしめるのです。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q20",
-      "text": "欲望とは欠乏です。何かを欲するとき、私たちはそれを持っていないと言っているのです。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q21",
-      "text": "あなたの自由は、すでに今ここにあります。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
+      "text": "始まりがあるものには、すべて終わりがあります。それを受け入れれば、すべてうまくいきます。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q22",
-      "text": "人生を急いで通り過ぎるのをやめましょう。まるで無限の時間があるかのように人生に向き合い始めましょう。自己発見の最大の機会を提供する瞬間は、今です。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q23",
-      "text": "失望や不幸を生み出す主な方法の一つは、制限的な思考や感情にしがみつくことです。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q24",
-      "text": "あなた自身が、自分の幸福、健康、ウェルビーイング、成功の鍵です。この鍵を使って、自分の心の中にある自由と幸福の秘密を解き放つだけでいいのです。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q25",
-      "text": "手放すことは自然なことです。委ねることは自然なことです。しがみつくことこそ不自然なのです。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q26",
-      "text": "あなたの本質には、真の本性である自己輝く気づきがあります。私たちの本質において、あなたが何であるかと私が何であるかの間に違いは全くありません。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q27",
-      "text": "目標を実現するのは闘いではありません。闘いを手放すことが、それを可能にするのです。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q28",
-      "text": "自分が誰であるかの真の源を認識すると、苦しみからの全く別のレベルの自由と揺るぎない幸福がもたらされます。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q29",
-      "text": "抑圧とは、感情に蓋をし、押し戻し、否定し、抑え込み、存在しないふりをすることです。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q30",
-      "text": "本当に変化を起こす人々は、勇気や受容のレベルに上がっていく人々です。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q31",
-      "text": "欲しいという気持ちを手放し、自分自身が持つことを許しなさい。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q32",
-      "text": "行き詰まりを感じたら、変えたいという欲求を手放すか、今の気持ちのままでいることを許すか、どちらかをしてみてください。どちらも行き詰まりの感覚を溶かす助けになります。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q33",
-      "text": "意識の表面にある波の下に潜れば、そこには常に静けさがあります。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q34",
-      "text": "愛されたいと望む代わりに、自分自身が愛そのものであることを認識しましょう。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q35",
-      "text": "自分の問題を再び現実のものにしたいという気持ちを手放しなさい。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
+      "text": "苦痛は避けられません。しかし、苦しみは選択です。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q36",
-      "text": "幸せを生き、幸せそのものになりなさい。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
-    },
-    {
-      "id": "q37",
-      "text": "あなたが存在するという気づきの存在は、純粋な歓迎です。言葉なくして、すべてに「はい」と言います。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "幸せはタダ"
+      "text": "人生とは、しがみつくことと手放すことのバランスです。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q38",
-      "text": "思考、感覚、感情、そして自分に語りかける物語を歓迎しなさい。それらすべてがここにあることを許し、すべてがそのままで大丈夫だと知りなさい。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
+      "text": "平和は内から来ます。外に求めてはなりません。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q39",
-      "text": "あなたはすでに無限の存在です。すべての道や技法は、自分自身を自分に明らかにするためだけに設計されています。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "幸せはタダ"
+      "text": "この宇宙の誰にも劣らず、あなた自身が愛と慈しみに値するのです。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q40",
-      "text": "あなたの心は最悪の主人にもなりますが、素晴らしい従者にもなります。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
+      "text": "すべてを理解することは、すべてを許すことです。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q41",
-      "text": "経験を変えることはできません。しかし、それに対する反応を変えることはできます。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
+      "text": "私たちを救えるのは自分自身だけです。誰も救えないし、誰も救ってはくれません。自ら道を歩まなければなりません。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q42",
-      "text": "私たちが集中するものは何でも創り出します。戦争や争い、苦しみに対して本当に怒っていると、私たちはそれにエネルギーを加えているのです。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "ザ・シークレット"
+      "text": "心がすべてです。あなたが考えるもの、それがあなたになります。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q43",
-      "text": "人生の中で抵抗するものは持続します。心の中で抵抗するものは何であれ、持続するのです。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "セドナメソッド"
+      "text": "毎朝、私たちは新たに生まれます。今日何をするかが最も大切なのです。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q44",
-      "text": "気づきなくして体験はありません。私たちは身体・心・世界の変化に夢中になりすぎて、純粋な存在の自然な美しさと至福を見逃してしまいます。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "幸せはタダ"
+      "text": "苦しみの根源は執着です。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q45",
-      "text": "あなたが何者であるかという真実から切り離されたものは何もないという可能性を探求してみてください。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "幸せはタダ"
-    },
-    {
-      "id": "q46",
-      "text": "あなたが存在する存在-気づきは、常にあらゆる体験の最も親密な部分です。",
-      "author": "ヘイル・ドゥオスキン",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "幸せはタダ"
-    },
-    {
-      "id": "q47",
-      "text": "何でも欲しいものを手に入れることができます。ただし、まずそれを欲しいという気持ちを手放すことが条件です。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
-    },
-    {
-      "id": "q48",
-      "text": "心はあなたが誰であるかを決して発見しません。なぜなら、心はあなたが誰であるかの覆い隠しだからです。心を手放すことによってのみ、あなたが誰であるかを発見できるのです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
-    },
-    {
-      "id": "q49",
-      "text": "押し込める代わりに、上に出てくることを許すのです。抑圧されたすべての感情は、常に上に出ようとしています。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "幸せはタダ"
+      "text": "空を飛びたいなら、あなたを重くしているすべてのものを手放しなさい。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q50",
-      "text": "すべての不幸は、限定された存在であろうとする、つまりエゴであろうとすることから生じます。本来の自分であればあるほど、幸せになれるのです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "何も欠けていないと悟ったとき、全世界があなたのものになります。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道徳経"
     },
     {
       "id": "q51",
-      "text": "努力がないとき、エゴはありません。努力が大きいほど、エゴも大きいのです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "自然は急ぎません。それでもすべてが成し遂げられます。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道徳経"
     },
     {
       "id": "q52",
-      "text": "すべての問題はエゴの問題です。問題があるためには、エゴの欲求不満がなければなりません。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "持っているものに満足し、あるがままを喜びなさい。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道徳経"
     },
     {
       "id": "q53",
-      "text": "最高の生き方がいかに楽なものかを悟ると、その反対を仮定するのに途方もない努力がかかります。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "新しい始まりは、しばしば苦しい終わりに姿を変えています。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": null
     },
     {
       "id": "q54",
-      "text": "本当に愛するとき、傷つくことは決してありません。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "他者を制する者は力がある。しかし自己を制する者はさらに強い。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道徳経"
     },
     {
       "id": "q55",
-      "text": "愛を受け取る唯一の方法は、愛を与えることです。なぜなら、私たちが与えるものは必ず返ってくるからです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "心を正せば、人生の残りはおのずと整います。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": null
     },
     {
       "id": "q56",
-      "text": "人間的な愛とは相手を必要とすることです。神聖な愛とは相手に与えることです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "木を植える最良の時期は二十年前でした。次に良い時期は今です。",
+      "author": "中国のことわざ",
+      "authorOriginal": "Chinese Proverb",
+      "source": null
     },
     {
       "id": "q57",
-      "text": "幸福とは、愛されることよりも、愛する能力に等しいのです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "あなたは心を支配する力を持っています——外の出来事ではありません。このことに気づけば、強さが見つかるでしょう。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
     },
     {
       "id": "q58",
-      "text": "愛とは、見返りを求めない与える気持ちです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "幸せな人生を送るのに必要なものはごくわずかです。それはすべてあなたの内に、あなたの考え方の中にあります。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
     },
     {
       "id": "q59",
-      "text": "私たちに起こることはすべて、心の中に起源があります。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "あなたの人生の幸福は、思考の質にかかっています。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
     },
     {
       "id": "q60",
-      "text": "私たちの本当の本性、無限の真の自己とは、単に私たちから心を引いたものです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "善き人とは何かを議論して時間を浪費するのはやめなさい。善き人であれ。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
     },
     {
       "id": "q61",
-      "text": "心が唯一の制限です。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "人が恐れるべきは死ではなく、生き始めないことを恐れるべきです。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
     },
     {
       "id": "q62",
-      "text": "エゴを完全に手放すことは、完全に自由になることです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "運命があなたに結びつけるものを受け入れ、運命が引き合わせる人々を愛しなさい。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
     },
     {
       "id": "q63",
-      "text": "感情とは心の中で動いているプログラムに過ぎません。そのプログラムを止めることを選択できるのです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "幸せはタダ"
+      "text": "怒りの結果は、その原因よりもはるかに重大です。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
     },
     {
       "id": "q64",
-      "text": "すべての身体的問題には精神的な原因があります。心を清めれば、身体もそれに従います。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "私たちは現実よりも想像の中で多く苦しんでいます。",
+      "author": "セネカ",
+      "authorOriginal": "Seneca",
+      "source": "道徳書簡集"
     },
     {
       "id": "q65",
-      "text": "真実は常にシンプルです。すべてを複雑にしているのはエゴです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "真の幸福とは、未来に不安を抱くことなく、今を楽しむことです。",
+      "author": "セネカ",
+      "authorOriginal": "Seneca",
+      "source": null
     },
     {
       "id": "q66",
-      "text": "心を解きほぐして静かにしなければ、心はますます騒がしくなります。だからこそ、最後に到達するまで心を手放し続けなければなりません。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "人生が短いのではありません。私たちがその多くを浪費しているのです。",
+      "author": "セネカ",
+      "authorOriginal": "Seneca",
+      "source": "人生の短さについて"
     },
     {
       "id": "q67",
-      "text": "過去を変えたいという欲求と未来をコントロールしたいという欲求を手放せば、平和を手に入れることができます。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "幸運とは、準備が機会に出会ったときに起こるものです。",
+      "author": "セネカ",
+      "authorOriginal": "Seneca",
+      "source": null
     },
     {
       "id": "q68",
-      "text": "不幸とは複雑さです。幸福とはシンプルさです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "困難は心を鍛えます。労働が体を鍛えるように。",
+      "author": "セネカ",
+      "authorOriginal": "Seneca",
+      "source": null
     },
     {
       "id": "q69",
-      "text": "惨めだと感じるたびに、大きく前進する絶好の機会が存在しています。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "大切なのは何が起こるかではなく、それにどう反応するかです。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": null
     },
     {
       "id": "q70",
-      "text": "手放して、一見不完全に見えるところに完全さを見ることを自分に許しなさい。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "幸せはタダ"
+      "text": "幸福への道はただ一つ、自分の力の及ばないことについて悩むのをやめることです。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": null
     },
     {
       "id": "q71",
-      "text": "私たちの知性の最良の尺度は、幸せになる能力です。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "セドナ・リリーシング・ワールドワイド"
+      "text": "まず自分がどうありたいかを言い、それから為すべきことを為しなさい。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": null
     },
     {
       "id": "q72",
-      "text": "もし私たちがただ存在することができれば、自分の無限を見ることができるでしょう。私たちがすべてであることを見ることができるでしょう。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "自分の力の及ぶことを最大限に活かし、残りはあるがままに受け入れなさい。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": null
     },
     {
       "id": "q73",
-      "text": "世界で起きていることが気に入らなければ、意識を変えるだけでいいのです。すると、外の世界が私たちのために変わります。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "自分自身の主人でない者は、自由ではありません。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": null
     },
     {
       "id": "q74",
-      "text": "何かに対して悲しく感じることは、それにしがみつくことです。「これは手放さなければならないものだ」と言えば、すぐに気分が良くなります。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "幸せはタダ"
+      "text": "廃墟のあるところに、宝への希望があります。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q75",
-      "text": "無限の喜びへの道は、欲望の排除を通じてです——執着なく、嫌悪なく。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "嘆かないでください。失ったものはすべて、別の形で戻ってきます。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q76",
-      "text": "すべての存在の本来の状態は愛です。私たちの悩みは、この自然な状態を覆い隠していることのみに起因します。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "昨日の私は賢かったから、世界を変えたいと思いました。今日の私は智慧があるので、自分自身を変えています。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q77",
-      "text": "真実は、制限の思考である間違った思考を排除するプロセスによって見出すことができます。制限のすべての思考が排除されると、残るのは私たちの自然で無限の自己です。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "沈黙は神の言葉です。それ以外はすべて不完全な翻訳にすぎません。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q78",
-      "text": "平和とは非抵抗であり、完全な受容であり、すべて、すべての人、すべてのものとの一体化です。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "自分の人生に火をつけなさい。その炎をあおいでくれる人を探しなさい。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q79",
-      "text": "大多数の人が愛だと思っているものは、実際には多かれ少なかれ憎しみです。「あなたが必要、あなたなしでは生きられない、あなたは私のもの」——これはすべて非愛です。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "世界という庭に限界はありません。あなたの心の中を除いては。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q80",
-      "text": "愛は恐れを排除します。愛は不安を排除します。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "あなたが探しているものは、あなたを探しています。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q81",
-      "text": "成長とは、自分自身を、つまり習慣的な自己を超越することであり、それはエゴにほかなりません。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "あなたの魂を奮い立たせるすべての呼びかけに応えなさい。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q82",
-      "text": "光を理解するために闇を探ってはいけません。健康であるために病気にこだわってはいけません。供給を得るために欠乏の思考にふけってはいけません。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "木のように、枯れ葉を落としなさい。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q83",
-      "text": "痛みの思考にしがみつくことの方が、状況そのものよりも多くの痛みを生み出します。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "善悪の観念の向こうに、一つの野原があります。そこであなたに会いましょう。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q84",
-      "text": "望むものを心に描き、それが今すでに自分のものであるという完全な受容と確信を持てば、速やかにそれが実現します。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "そんなに小さくふるまうのはやめなさい。あなたは歓喜の中で動く宇宙そのものです。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q85",
-      "text": "私たちが自己に向かって一歩踏み出すと、自己は私たちに向かって九歩歩んできます。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "感謝をまとうように身につけなさい。それがあなたの人生のすべてを満たすでしょう。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q86",
-      "text": "道における全体の目的は、エゴを手放すことです。残るのはあなたの自己です。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "本当に愛するものの不思議な引力に、静かに引かれるままになりなさい。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q87",
-      "text": "議会が世界を正すことはできません。しかし、十分な数の個人が愛を感じることはできます。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "私は狂気の淵に住み、理由を知りたくて扉を叩いていました。扉が開きました。ずっと内側から叩いていたのです。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q88",
-      "text": "人々はお互いを必要とし、それを愛だと思っています。本当に愛するとき、相手にしがみついたり、囲い込んだりすることはありません。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "あなたは翼を持って生まれたのに、なぜ這って生きることを選ぶのですか？",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q89",
-      "text": "悪いことなどありません。ただ、故郷への帰り道で間違いを犯しているだけです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
-    },
-    {
-      "id": "q90",
-      "text": "惨めになればなるほど、逃げ場を探すべきではありません。むしろ、その理由を見て手放すまで、向き合い続けなさい。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
-    },
-    {
-      "id": "q91",
-      "text": "私は自分が作り出した地獄を手放し、解消していました。すべてを愛で解決し、愛されようとするよりも愛そうとすることで、ますます自由に、ますます幸せになりました。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "執着なし嫌悪なし"
-    },
-    {
-      "id": "q92",
-      "text": "エゴは生と死の源であり、エゴを手放すとき、死に対して死ぬのです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
-    },
-    {
-      "id": "q93",
-      "text": "誰にも何にも心を乱されない境地に到達しなさい。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
-    },
-    {
-      "id": "q94",
-      "text": "私たちは皆、愚か者のように振る舞っている神です。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
-    },
-    {
-      "id": "q95",
-      "text": "喜びとは何でしょうか。喜びとは自己にほかなりません。欲望が満たされると、心は静まります。それが自己を輝かせ、私たちがそれを喜びと呼ぶのです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
-    },
-    {
-      "id": "q96",
-      "text": "完全な自由に向かって進むほど、幸福はますます強烈になります。あなたは消えません。何も失いません。より多くを得るのです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "幸せはタダ"
-    },
-    {
-      "id": "q97",
-      "text": "見せかけはエゴです。それは愛を求めることによって動機づけられています。唯一の報酬はフラストレーションです。なぜなら、愛を見つけるのは愛することによってのみだからです。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
-    },
-    {
-      "id": "q98",
-      "text": "幸せがある場所で探している人はますます幸せになり、幸せがない世界で盲目的に探している人はますますフラストレーションを感じています。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
-    },
-    {
-      "id": "q99",
-      "text": "パートナーに与えることができる最大の幸せは、真理のより深い理解を助けることから生まれます。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
-    },
-    {
-      "id": "q100",
-      "text": "間違いなどというものはありません——私たちがそうするのです！事故などというものはありません——私たちがそうするのです！",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
+      "text": "他人の話に満足してはいけません。自分自身の神話を紡ぎなさい。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q101",
-      "text": "惨めさを見るなら、それはあなたの惨めさです。一見不完全に見えるところに完全さを見れば、惨めさは見かけに過ぎないとわかります。",
-      "author": "レスター・レヴェンソン",
-      "authorOriginal": "Lester Levenson",
-      "source": "究極の自由への鍵"
-    },
-    {
-      "id": "q102",
-      "text": "手放すとは、内なる圧力の突然の解消や重荷を降ろすようなものです。それには安堵感と軽さ、そして幸福と自由の増大が伴います。",
-      "author": "デヴィッド・R・ホーキンズ",
-      "authorOriginal": "David R. Hawkins",
-      "source": "手放す：明け渡しの道"
-    },
-    {
-      "id": "q103",
-      "text": "手放すとは、感情に気づき、それが浮かび上がるのを許し、それとともにいて、違うものにしようとしたり何かをしようとしたりせずに、自然に経過するのを見守ることです。",
-      "author": "デヴィッド・R・ホーキンズ",
-      "authorOriginal": "David R. Hawkins",
-      "source": "手放す：明け渡しの道"
-    },
-    {
-      "id": "q104",
-      "text": "手放すときは、すべての思考を無視しなさい。思考ではなく、感情そのものに集中しなさい。",
-      "author": "デヴィッド・R・ホーキンズ",
-      "authorOriginal": "David R. Hawkins",
-      "source": "手放す：明け渡しの道"
-    },
-    {
-      "id": "q105",
-      "text": "痛みをもたらすのは思考や事実ではなく、それに伴う感情です。思考そのものには痛みはありませんが、その根底にある感情には痛みがあります。",
-      "author": "デヴィッド・R・ホーキンズ",
-      "authorOriginal": "David R. Hawkins",
-      "source": "手放す：明け渡しの道"
-    },
-    {
-      "id": "q106",
-      "text": "重要な点は、自分自身を変えることで世界を変えるということです。内面でより愛に満ちるようになると、外面でも癒しが起こります。",
-      "author": "デヴィッド・R・ホーキンズ",
-      "authorOriginal": "David R. Hawkins",
-      "source": "手放す：明け渡しの道"
-    },
-    {
-      "id": "q107",
-      "text": "私たちには感情を扱う三つの主な方法があります：抑圧、表現、そして逃避です。",
-      "author": "デヴィッド・R・ホーキンズ",
-      "authorOriginal": "David R. Hawkins",
-      "source": "手放す：明け渡しの道"
-    },
-    {
-      "id": "q108",
-      "text": "抑圧され押し込められた感情は出口を求め、出来事をきっかけや口実として利用して発散します。私たちは機会が訪れると蒸気を放出する圧力鍋のようなものです。",
-      "author": "デヴィッド・R・ホーキンズ",
-      "authorOriginal": "David R. Hawkins",
-      "source": "手放す：明け渡しの道"
-    },
-    {
-      "id": "q109",
-      "text": "内側に抱えているものが私たちの世界を色づけます。罪悪感を手放せば、無垢さが見えてきます。",
-      "author": "デヴィッド・R・ホーキンズ",
-      "authorOriginal": "David R. Hawkins",
-      "source": "手放す：明け渡しの道"
-    },
-    {
-      "id": "q110",
-      "text": "世界は、私たちが自分自身を見るようにしか私たちを見ることができません。",
-      "author": "デヴィッド・R・ホーキンズ",
-      "authorOriginal": "David R. Hawkins",
-      "source": "手放す：明け渡しの道"
-    },
-    {
-      "id": "q111",
-      "text": "明け渡すとは、物事に対して強い感情を持たないことです。「それが起きても大丈夫、起きなくても大丈夫」。",
-      "author": "デヴィッド・R・ホーキンズ",
-      "authorOriginal": "David R. Hawkins",
-      "source": "手放す：明け渡しの道"
-    },
-    {
-      "id": "q112",
-      "text": "感情は来ては去り、やがてあなたは自分が感情ではなく、本当の「あなた」はそれらをただ目撃しているだけだと気づきます。",
-      "author": "デヴィッド・R・ホーキンズ",
-      "authorOriginal": "David R. Hawkins",
-      "source": "手放す：明け渡しの道"
-    },
-    {
-      "id": "q113",
-      "text": "自分自身と生きとし生けるものへのシンプルな優しさが、すべての中で最も強力な変容の力です。",
-      "author": "デヴィッド・R・ホーキンズ",
-      "authorOriginal": "David R. Hawkins",
-      "source": "手放す：明け渡しの道"
-    },
-    {
-      "id": "q114",
-      "text": "人生の出来事は、成長し、拡大し、体験し、発展する機会です。",
-      "author": "デヴィッド・R・ホーキンズ",
-      "authorOriginal": "David R. Hawkins",
-      "source": "手放す：明け渡しの道"
-    },
-    {
-      "id": "q115",
-      "text": "私たちの内側には、気づかないところに「私はすでに知る必要のあるすべてを知っている」という真実があります。",
-      "author": "デヴィッド・R・ホーキンズ",
-      "authorOriginal": "David R. Hawkins",
-      "source": "手放す：明け渡しの道"
-    },
-    {
-      "id": "q116",
-      "text": "力は満足をもたらすことができますが、喜びをもたらすのはパワーだけです。他者への勝利は満足をもたらしますが、自己への勝利は喜びをもたらします。",
-      "author": "デヴィッド・R・ホーキンズ",
-      "authorOriginal": "David R. Hawkins",
-      "source": "パワーか、フォースか"
-    },
-    {
-      "id": "q117",
-      "text": "時として、物事を手放すことは、守ったりしがみついたりするよりもはるかに大きな力の行為です。",
-      "author": "エックハルト・トール",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "さとりをひらくと人生はシンプルで楽になる"
-    },
-    {
-      "id": "q118",
-      "text": "明け渡しとは、人生の流れに逆らうのではなく、それに従うというシンプルだが深遠な知恵です。",
-      "author": "エックハルト・トール",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "さとりをひらくと人生はシンプルで楽になる"
-    },
-    {
-      "id": "q119",
-      "text": "あるがままに身を委ねなさい。人生に「はい」と言いなさい。すると、人生がいかにあなたのために働き始めるか、あなたに逆らうのではなく、共に歩み始めるかがわかるでしょう。",
-      "author": "エックハルト・トール",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "さとりをひらくと人生はシンプルで楽になる"
-    },
-    {
-      "id": "q120",
-      "text": "時として明け渡しとは、理解しようとすることを手放し、知らないことを心地よく受け入れることです。",
-      "author": "エックハルト・トール",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "ニュー・アース"
-    },
-    {
-      "id": "q121",
-      "text": "自分が誰であるかを知るべきだ、知る必要があるという信念を手放すと、混乱はどうなるでしょうか。突然、消えてなくなります。",
-      "author": "エックハルト・トール",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "ニュー・アース"
-    },
-    {
-      "id": "q122",
-      "text": "本当の自由は、あるがままへの抵抗を手放すことから生まれます。",
-      "author": "エックハルト・トール",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "さとりをひらくと人生はシンプルで楽になる"
-    },
-    {
-      "id": "q123",
-      "text": "明け渡しとは、抵抗から受容への、「いいえ」から「はい」への内なる移行です。",
-      "author": "エックハルト・トール",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "さとりをひらくと人生はシンプルで楽になる"
-    },
-    {
-      "id": "q124",
-      "text": "物事への執着は、そこに自分自身を見出そうとしなくなったとき、おのずと離れていきます。",
-      "author": "エックハルト・トール",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "ニュー・アース"
-    },
-    {
-      "id": "q125",
-      "text": "来ては去るものは、あなたではありません。「退屈だ」——誰がそれを知っているのですか？",
-      "author": "エックハルト・トール",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "静寂のささやき"
-    },
-    {
-      "id": "q126",
-      "text": "コントロールを手放し、努力を手放し、鮮やかさの状態で休むことによって、あなたは自然な状態に入ります。",
-      "author": "アディヤシャンティ",
-      "authorOriginal": "Adyashanti",
-      "source": "真の瞑想"
-    },
-    {
-      "id": "q127",
-      "text": "手放すとは、私たちの精神を縛るイメージや感情、恨みや恐れ、しがみつきや過去の失望を解放することです。",
-      "author": "ジャック・コーンフィールド",
-      "authorOriginal": "Jack Kornfield",
-      "source": null
-    },
-    {
-      "id": "q128",
-      "text": "手放すとは、取り除くことではありません。手放すとは、あるがままにすることです。慈悲を持ってあるがままにすると、物事はおのずと来ては去っていきます。",
-      "author": "ジャック・コーンフィールド",
-      "authorOriginal": "Jack Kornfield",
-      "source": null
-    },
-    {
-      "id": "q129",
-      "text": "闘いを手放しなさい。静かに呼吸し、あるがままにしなさい。身体をリラックスさせ、心を柔らかくしなさい。",
-      "author": "ジャック・コーンフィールド",
-      "authorOriginal": "Jack Kornfield",
-      "source": null
-    },
-    {
-      "id": "q130",
-      "text": "手放すことによって、すべてが優雅に私たちのもとに訪れるのを許すのです。",
-      "author": "ジャック・コーンフィールド",
-      "authorOriginal": "Jack Kornfield",
-      "source": null
-    },
-    {
-      "id": "q131",
-      "text": "変化に抵抗するとき、それは苦しみと呼ばれます。しかし、完全に手放してそれに抗わず、自分の状況の地盤のなさを受け入れてそのダイナミックな性質にリラックスできたとき、それは悟りと呼ばれます。",
-      "author": "ペマ・チョドロン",
-      "authorOriginal": "Pema Chödrön",
-      "source": "不確実さと変化の中で美しく生きる"
-    },
-    {
-      "id": "q132",
-      "text": "寛大さの本質は手放すことです。痛みは常に、何か——たいてい自分自身——にしがみついているサインです。",
-      "author": "ペマ・チョドロン",
-      "authorOriginal": "Pema Chödrön",
-      "source": "不確かさのなかで"
-    },
-    {
-      "id": "q133",
-      "text": "十分に生き、十分に人間であり、完全に目覚めているということは、絶え間なく巣から放り出されることです。",
-      "author": "ペマ・チョドロン",
-      "authorOriginal": "Pema Chödrön",
-      "source": "すべてが崩れ落ちるとき"
-    },
-    {
-      "id": "q134",
-      "text": "恐れと不確実さとともに留まるたびに、あなたは安心と安らぎを見つける習慣的な方法を手放しているのです。",
-      "author": "ペマ・チョドロン",
-      "authorOriginal": "Pema Chödrön",
-      "source": "すべてが崩れ落ちるとき"
-    },
-    {
-      "id": "q135",
-      "text": "問題は、変わりたいという欲求が根本的に自分自身への攻撃の一形態であるということです。",
-      "author": "ペマ・チョドロン",
-      "authorOriginal": "Pema Chödrön",
-      "source": "逃げ場なしの知恵"
-    },
-    {
-      "id": "q136",
-      "text": "あるがままを、ただあるがままにすることを学んでみなさい。",
+      "text": "あなたは大海の一滴ではありません。あなたは一滴の中の大海そのものです。",
       "author": "ルーミー",
       "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q137",
-      "text": "傷こそ、光があなたの中に入ってくる場所です。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q138",
-      "text": "与えられた困難を受け入れた瞬間、扉が開きます。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q139",
-      "text": "思考を眠らせなさい。心の月に影を落とさせてはなりません。考えることを手放しなさい。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q140",
-      "text": "心配事を手放して、何の映像も映さない鏡の表面のように、完全に澄み切った心でいなさい。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q141",
-      "text": "昨日の私は賢かったので、世界を変えたいと思いました。今日の私は知恵があるので、自分自身を変えています。",
-      "author": "ルーミー",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q142",
-      "text": "現実と議論すると、あなたは負けます——しかも100%の確率で。",
-      "author": "バイロン・ケイティ",
-      "authorOriginal": "Byron Katie",
-      "source": "ありのままを愛する"
-    },
-    {
-      "id": "q143",
-      "text": "手放すことは私たちに自由を与え、自由こそが幸福の唯一の条件です。",
-      "author": "ティク・ナット・ハン",
-      "authorOriginal": "Thich Nhat Hanh",
-      "source": "仏陀の教えの心"
-    },
-    {
-      "id": "q144",
-      "text": "手放すプロセスの中で、あなたは過去の多くのものを失うでしょう。しかし、自分自身を見つけるでしょう。",
-      "author": "ディーパック・チョプラ",
-      "authorOriginal": "Deepak Chopra",
       "source": null
     },
     {
       "id": "q145",
-      "text": "自分が何であるかを手放すと、自分がなり得るものになります。持っているものを手放すと、必要なものを受け取ります。",
-      "author": "老子",
-      "authorOriginal": "Lao Tzu",
-      "source": "道徳経"
+      "text": "内面で成し遂げたことが、外の現実を変えるのです。",
+      "author": "プルタルコス",
+      "authorOriginal": "Plutarch",
+      "source": null
     },
     {
       "id": "q146",
-      "text": "私たちが計画した人生を手放す覚悟がなければ、待っている人生を得ることはできません。",
-      "author": "ジョセフ・キャンベル",
-      "authorOriginal": "Joseph Campbell",
-      "source": null
-    },
-    {
-      "id": "q147",
-      "text": "手放す心ですべてを行いなさい。少し手放せば少しの平和が得られます。たくさん手放せばたくさんの平和が得られます。完全に手放せば完全な平和が得られます。",
-      "author": "アーチャン・チャー",
-      "authorOriginal": "Ajahn Chah",
-      "source": null
-    },
-    {
-      "id": "q148",
-      "text": "抵抗をやめた瞬間が、あなたが求めてきたすべてのものがあなたを見つけることを許す瞬間です。",
-      "author": "マイケル・シンガー",
-      "authorOriginal": "Michael Singer",
-      "source": "覚醒の魂"
-    },
-    {
-      "id": "q149",
-      "text": "感情を感じなさい。しかし、感情そのものにならないこと。それを目撃しなさい。許しなさい。手放しなさい。",
-      "author": "クリスタル・アンドラス",
-      "authorOriginal": "Crystal Andrus",
+      "text": "自分自身でありなさい。他の人はもう全員取られています。",
+      "author": "オスカー・ワイルド",
+      "authorOriginal": "Oscar Wilde",
       "source": null
     },
     {
       "id": "q150",
-      "text": "私たちが明け渡してただ愛するとき、素晴らしいことが起こります。私たちは別の世界、すでに内にあるパワーの領域へと溶け込んでいきます。",
-      "author": "マリアン・ウィリアムソン",
-      "authorOriginal": "Marianne Williamson",
-      "source": "愛への帰還"
+      "text": "自分自身を知ることが、すべての智慧の始まりです。",
+      "author": "アリストテレス",
+      "authorOriginal": "Aristotle",
+      "source": null
     },
     {
       "id": "q151",
-      "text": "六つの言葉の教え：過ぎ去ったものを手放しなさい。来るかもしれないものを手放しなさい。今起きていることを手放しなさい。何も理解しようとするな。何も起こそうとするな。今ここで、リラックスして休みなさい。",
-      "author": "ティロパ",
-      "authorOriginal": "Tilopa",
+      "text": "宇宙のすべてはあなたの中にあります。すべてを自分自身に求めなさい。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q170",
+      "text": "悲しみの悪天候の中でだけ私たちは負けますが、喜びの中では嵐に立ち向かい、挑みます。",
+      "author": "アメリア・バー",
+      "authorOriginal": "Amelia Barr",
+      "source": null
+    },
+    {
+      "id": "q171",
+      "text": "人は物事によって乱されるのではなく、物事に対する自分の見方によって乱されるのです。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": "提要"
+    },
+    {
+      "id": "q172",
+      "text": "自分の哲学を説明するな。体現せよ。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": null
+    },
+    {
+      "id": "q173",
+      "text": "私たちを本当に怯えさせ、落胆させるのは、外の出来事そのものではなく、それについての私たちの考え方です。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": null
+    },
+    {
+      "id": "q174",
+      "text": "賢者とは、持っていないものを嘆かず、持っているものを喜ぶ人です。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": null
+    },
+    {
+      "id": "q175",
+      "text": "自由は人生における唯一の価値ある目標です。それは自分の力の及ばないものを無視することで勝ち取られます。",
+      "author": "エピクテトス",
+      "authorOriginal": "Epictetus",
+      "source": null
+    },
+    {
+      "id": "q176",
+      "text": "魂はその思考の色に染まります。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
+    },
+    {
+      "id": "q177",
+      "text": "朝目覚めたとき、生きていることがどれほどの特権であるかを考えなさい。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
+    },
+    {
+      "id": "q178",
+      "text": "私たちが聞くものはすべて意見であり、事実ではありません。私たちが見るものはすべて見方であり、真実ではありません。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": null
+    },
+    {
+      "id": "q179",
+      "text": "最高の復讐は、敵のようにならないことです。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
+    },
+    {
+      "id": "q180",
+      "text": "正しくなければ行うな。真実でなければ言うな。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
+    },
+    {
+      "id": "q181",
+      "text": "他者には寛容に、自分には厳格であれ。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
+    },
+    {
+      "id": "q182",
+      "text": "未来に心を乱されてはなりません。今日あなたを武装させている同じ理性の力で、未来にも立ち向かうのですから。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
+    },
+    {
+      "id": "q208",
+      "text": "あなたが考えることが心の質を決めます。魂は思考の色に染まるのです。",
+      "author": "マルクス・アウレリウス",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "自省録"
+    },
+    {
+      "id": "q212",
+      "text": "変化の秘訣は、古いものと闘うことにではなく、新しいものを築くことにすべてのエネルギーを注ぐことです。",
+      "author": "ソクラテス",
+      "authorOriginal": "Socrates",
+      "source": null
+    },
+    {
+      "id": "q213",
+      "text": "吟味されない人生は生きるに値しません。",
+      "author": "ソクラテス",
+      "authorOriginal": "Socrates",
+      "source": null
+    },
+    {
+      "id": "q214",
+      "text": "私は自分が何も知らないということを知っています。",
+      "author": "ソクラテス",
+      "authorOriginal": "Socrates",
+      "source": null
+    },
+    {
+      "id": "q222",
+      "text": "生きる理由を持つ者は、ほとんどどんな状況にも耐えられます。",
+      "author": "フリードリヒ・ニーチェ",
+      "authorOriginal": "Friedrich Nietzsche",
+      "source": null
+    },
+    {
+      "id": "q223",
+      "text": "自然の中を歩くたびに、求める以上のものを受け取ります。",
+      "author": "ジョン・ミューア",
+      "authorOriginal": "John Muir",
+      "source": null
+    },
+    {
+      "id": "q224",
+      "text": "普遍的な要素で満足すること。空気と水に活力を感じること。朝の散歩にリフレッシュされること——これらは素朴な生活の報酬です。",
+      "author": "ジョン・バロウズ",
+      "authorOriginal": "John Burroughs",
+      "source": null
+    },
+    {
+      "id": "q225",
+      "text": "あなたの痛みは、理解を包む殻が割れることです。",
+      "author": "ハリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q226",
+      "text": "苦しみの中から最も強い魂が生まれてきました。最も偉大な人格は傷跡で覆われています。",
+      "author": "ハリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": null
+    },
+    {
+      "id": "q227",
+      "text": "自分の思考と平和でなくなったとき、人は話し始めます。",
+      "author": "ハリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q228",
+      "text": "悲しみがあなたの存在を深く刻むほど、より多くの喜びを入れることができます。",
+      "author": "ハリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q229",
+      "text": "あなたの子どもたちはあなたの子どもたちではありません。彼らはあなたを通って来ますが、あなたから来るのではありません。",
+      "author": "ハリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q230",
+      "text": "そして常に知られていたことですが、愛はその深さを別れの時まで知りません。",
+      "author": "ハリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "預言者"
+    },
+    {
+      "id": "q231",
+      "text": "私は多弁な人から沈黙を、不寛容な人から寛容を、不親切な人から親切を学びました。",
+      "author": "ハリール・ジブラーン",
+      "authorOriginal": "Kahlil Gibran",
+      "source": null
+    },
+    {
+      "id": "q232",
+      "text": "顔をいつも太陽の方に向けなさい——そうすれば影はあなたの後ろに落ちます。",
+      "author": "ウォルト・ホイットマン",
+      "authorOriginal": "Walt Whitman",
+      "source": null
+    },
+    {
+      "id": "q233",
+      "text": "私も他の誰も、あなたのためにその道を歩くことはできません。あなた自身が歩かなければなりません。",
+      "author": "ウォルト・ホイットマン",
+      "authorOriginal": "Walt Whitman",
+      "source": null
+    },
+    {
+      "id": "q234",
+      "text": "私は自分と矛盾しているだろうか？よろしい、では矛盾しよう。私は大きい、多くのものを含んでいるのだ。",
+      "author": "ウォルト・ホイットマン",
+      "authorOriginal": "Walt Whitman",
+      "source": "自分自身の歌"
+    },
+    {
+      "id": "q235",
+      "text": "私はこのままの私として存在している。それで十分です。",
+      "author": "ウォルト・ホイットマン",
+      "authorOriginal": "Walt Whitman",
+      "source": null
+    },
+    {
+      "id": "q239",
+      "text": "私たちの背後にあるものと前方にあるものは、私たちの内にあるものに比べれば取るに足らないことです。",
+      "author": "ラルフ・ウォルドー・エマーソン",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": null
+    },
+    {
+      "id": "q240",
+      "text": "常にあなたを別の何かにしようとする世界の中で、自分自身であり続けることが最大の偉業です。",
+      "author": "ラルフ・ウォルドー・エマーソン",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": null
+    },
+    {
+      "id": "q241",
+      "text": "怒っている一分ごとに、六十秒の幸福を失っています。",
+      "author": "ラルフ・ウォルドー・エマーソン",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": null
+    },
+    {
+      "id": "q242",
+      "text": "あなたが今あるものは、かつてあったものです。あなたがこれからなるものは、今あなたがすることです。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q243",
+      "text": "健康は最大の贈り物、満足は最大の富、信頼は最良の絆です。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q244",
+      "text": "三つのものは長く隠すことができません。太陽と月と真実です。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q245",
+      "text": "私たちは思考によって形作られます。考えるものに、私たちはなるのです。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q246",
+      "text": "発展させて行動に移されたアイデアは、アイデアのままのものより重要です。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q247",
+      "text": "幸福への道はありません。幸福が道なのです。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q248",
+      "text": "忍耐が鍵です。思い出してください——水瓶は一滴ずつ満ちるのです。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q249",
+      "text": "分離の中に世界最大の不幸があり、慈悲の中に世界の真の強さがあります。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q250",
+      "text": "過去に囚われるな、未来を夢見るな、心を今この瞬間に集中させなさい。",
+      "author": "仏陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q251",
+      "text": "どんなにゆっくりでも構いません。立ち止まりさえしなければ。",
+      "author": "孔子",
+      "authorOriginal": "Confucius",
+      "source": null
+    },
+    {
+      "id": "q252",
+      "text": "最大の栄光は一度も倒れないことではなく、倒れるたびに起き上がることにあります。",
+      "author": "孔子",
+      "authorOriginal": "Confucius",
+      "source": null
+    },
+    {
+      "id": "q253",
+      "text": "人生は本当にシンプルなのに、私たちは複雑にしたがるのです。",
+      "author": "孔子",
+      "authorOriginal": "Confucius",
+      "source": null
+    },
+    {
+      "id": "q254",
+      "text": "唯一の真の智慧は、自分が何も知らないと知ることです。",
+      "author": "ソクラテス",
+      "authorOriginal": "Socrates",
+      "source": null
+    },
+    {
+      "id": "q255",
+      "text": "緊張とは、あなたがこうあるべきだと思っている自分です。リラックスとは、ありのままのあなたです。",
+      "author": "中国のことわざ",
+      "authorOriginal": "Chinese Proverb",
+      "source": null
+    },
+    {
+      "id": "q256",
+      "text": "闘いがなければ、進歩はありません。",
+      "author": "フレデリック・ダグラス",
+      "authorOriginal": "Frederick Douglass",
+      "source": null
+    },
+    {
+      "id": "q267",
+      "text": "目をそらさないでください。包帯の巻かれた場所を見つめ続けなさい。そこから光があなたに入ってくるのです。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q308",
+      "text": "心は満たされるべき器ではなく、燃え立たせるべき火です。",
+      "author": "プルタルコス",
+      "authorOriginal": "Plutarch",
+      "source": null
+    },
+    {
+      "id": "q310",
+      "text": "私は探求者でしたし、今もそうです。しかし、本や星に問うのをやめました。自分の魂の教えに耳を傾け始めたのです。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q317",
+      "text": "心を支配しなさい。さもなければ心があなたを支配します。",
+      "author": "ホラティウス",
+      "authorOriginal": "Horace",
+      "source": null
+    },
+    {
+      "id": "q318",
+      "text": "あなたの存在の中心に答えがあります。あなたは自分が誰であり、何を望んでいるかを知っています。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道徳経"
+    },
+    {
+      "id": "q319",
+      "text": "沈黙は偉大な力の源です。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道徳経"
+    },
+    {
+      "id": "q320",
+      "text": "千里の道も一歩から始まります。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道徳経"
+    },
+    {
+      "id": "q321",
+      "text": "素朴さ、忍耐、思いやり。この三つがあなたの最大の宝です。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道徳経"
+    },
+    {
+      "id": "q322",
+      "text": "去ることをやめれば到着します。探すことをやめれば見えてきます。逃げることをやめれば見つけてもらえます。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": null
+    },
+    {
+      "id": "q323",
+      "text": "二倍明るく燃える炎は、半分の時間で燃え尽きます。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": null
+    },
+    {
+      "id": "q324",
+      "text": "他者を知る者は智慧がある。自分を知る者は真に賢い。他者を制する者は強い。自分を制する者は真に力がある。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道徳経"
+    },
+    {
+      "id": "q325",
+      "text": "あなたの泥が沈み、水が澄むまで待つ忍耐がありますか？",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道徳経"
+    },
+    {
+      "id": "q326",
+      "text": "水より柔らかく、しなやかなものはありませんが、水に抵抗できるものもまたありません。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道徳経"
+    },
+    {
+      "id": "q334",
+      "text": "これもまた過ぎ去る。",
+      "author": "ペルシアのことわざ",
+      "authorOriginal": "Persian Proverb",
+      "source": null
+    },
+    {
+      "id": "q346",
+      "text": "あなたが運命づけられている唯一の人は、あなたがなろうと決意した人です。",
+      "author": "ラルフ・ウォルドー・エマーソン",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": null
+    },
+    {
+      "id": "q349",
+      "text": "私は可能性の中に住んでいます。",
+      "author": "エミリー・ディキンソン",
+      "authorOriginal": "Emily Dickinson",
+      "source": null
+    },
+    {
+      "id": "q350",
+      "text": "希望は羽を持ち、魂にとまるものです。",
+      "author": "エミリー・ディキンソン",
+      "authorOriginal": "Emily Dickinson",
+      "source": null
+    },
+    {
+      "id": "q351",
+      "text": "魂はいつも扉を少し開けておき、恍惚の体験を迎え入れる準備をしておくべきです。",
+      "author": "エミリー・ディキンソン",
+      "authorOriginal": "Emily Dickinson",
+      "source": null
+    },
+    {
+      "id": "q361",
+      "text": "一日を終えたら、それで終わりにしなさい。できることはやりました。いくつかの失敗や愚かなこともあったでしょう。できるだけ早く忘れなさい。",
+      "author": "ラルフ・ウォルドー・エマーソン",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": null
+    },
+    {
+      "id": "q362",
+      "text": "目を閉じなさい。恋に落ちなさい。そこにいなさい。",
+      "author": "ルーミー",
+      "authorOriginal": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q363",
+      "text": "すべてのことが自分に起こるままにしなさい。美しさも恐ろしさも。ただ歩き続けなさい。どんな感情も最後ではないのです。",
+      "author": "ライナー・マリア・リルケ",
+      "authorOriginal": "Rainer Maria Rilke",
       "source": null
     }
   ]

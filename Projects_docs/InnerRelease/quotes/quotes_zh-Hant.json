@@ -2,1060 +2,920 @@
   "language": "zh-Hant",
   "quotes": [
     {
-      "id": "q1",
-      "text": "凡是你無法接受的，你都可以放下。凡是你能放下的，你都可以擁有。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q2",
-      "text": "情緒只是情緒。它們不是你，不是事實，你可以放下它們。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q3",
-      "text": "抗拒就像踩著煞車前行。當你放手時，你會越來越感到自主，越來越不覺得自己是境遇的受害者。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q4",
-      "text": "痛苦是一個標籤。苦難來自標籤，而非感受本身。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q5",
-      "text": "在你的核心深處，你已然完整，已然圓滿，已然足夠。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q6",
-      "text": "每一次釋放，都只是一個決定，一個簡單的選擇。每一天的每一刻，你都擁有這個選擇。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q7",
-      "text": "當你放下時，心靈會變得寧靜。你更能專注、集中、貫徹始終，不再成為自己的障礙。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q8",
-      "text": "僅僅試圖保持「積極」是行不通的，除非你先放下「消極」——放下過去，放下那些多餘的包袱。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
       "id": "q9",
-      "text": "內疚是一種無意識的「我欠你一個懲罰」。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q10",
-      "text": "當我們抗拒不想要的東西時，我們也在抗拒想要的東西。抗拒就是抗拒，無論方向如何，它都在阻礙流動。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
+      "text": "放下你的頭腦，然後保持覺知。閉上耳朵，用心傾聽。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q11",
-      "text": "試著說「我感到憤怒」或「我感到悲傷」，而不是「我就是憤怒」或「我就是悲傷」。你可以認可自己的體驗，而不否定自己是誰。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
+      "text": "你的使命不是去尋找愛，而只是去發現並拆除你內心為抵禦愛而築起的一切屏障。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q12",
-      "text": "升起的任何感受都只是一個感受，它不是你。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q13",
-      "text": "當我們想要改變某樣東西時，我們其實在抗拒它。諷刺的是，正是這種抗拒將它固定在了原處。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q14",
-      "text": "你可以選擇正確，也可以選擇自由。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
+      "text": "傷口，是光進入你內心的地方。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q15",
-      "text": "當你放下對控制的渴望，你反而會感到更有掌控力。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
+      "text": "當你放下你所是的，你就成為你可能成為的。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
     },
     {
       "id": "q16",
-      "text": "你的心靈就像一台電腦。釋放是清除心靈病毒的終極刪除鍵。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
+      "text": "對抗壓力最強大的武器，是我們選擇一種思想而非另一種思想的能力。",
+      "author": "威廉·詹姆斯",
+      "authorOriginal": "William James",
+      "source": null
     },
     {
       "id": "q17",
-      "text": "覺知是根本，我們所經歷的一切都是次要的。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q18",
-      "text": "我們本來就是我們所尋找的。我們只需放下「我們不是」的信念。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q19",
-      "text": "願意放下弄清楚一切的執念，答案自然就會呈現。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q20",
-      "text": "慾望就是匱乏。每當我們渴望某樣東西時，就是在說我們沒有它。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q21",
-      "text": "你的自由就在此時此地。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
+      "text": "一切有始的事物，終將有終。與此和解，一切便會安好。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q22",
-      "text": "不要再匆匆掠過生命。開始以一種擁有無限時間的心態來對待你的人生。當下這一刻，才是最好的自我發現的機會。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q23",
-      "text": "我們製造失望和不快樂的主要方式之一，就是緊握著那些限制性的想法和感受不放。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q24",
-      "text": "你就是開啟自己幸福、健康和成功的那把鑰匙。你只需用這把鑰匙，去解鎖內心深處自由與幸福的秘密。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q25",
-      "text": "放下是自然的。臣服是自然的。執著才是不自然的。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q26",
-      "text": "在你的核心深處，有一個自發光的覺知，那才是你的真實本性。在我們的核心處，你我之間沒有任何分別。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q27",
-      "text": "並非掙扎帶來了目標的實現，而是放下掙扎才使之成為可能。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q28",
-      "text": "當你認識到自己的真正本源時，那將帶來一種全然不同層次的自由——免於痛苦、不可動搖的幸福。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q29",
-      "text": "壓抑就是給我們的情緒蓋上蓋子，把它們推回去、否認、壓制，假裝它們不存在。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q30",
-      "text": "真正能做出改變的人，是那些提升到勇氣或接納層次的人。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q31",
-      "text": "釋放你的渴求，允許自己擁有。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q32",
-      "text": "如果你感到困住了，要麼放下想要改變它的念頭，要麼允許自己如實地感受。兩者都能幫助化解那種被困住的感覺。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q33",
-      "text": "如果你潛入意識表面波浪的下方，那裡總是平靜的。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q34",
-      "text": "與其渴望被愛，不如允許自己認識到——你本身就是愛。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q35",
-      "text": "放下想要讓你的問題再次變得真實的念頭。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
+      "text": "痛苦無法避免，但受苦可以選擇。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q36",
-      "text": "活出幸福，成為幸福。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
-    },
-    {
-      "id": "q37",
-      "text": "你所是的那個覺知臨在，就是純粹的歡迎。它無需言語，對一切說「是」。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "幸福是免費的"
+      "text": "生命是堅持與放手之間的平衡。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q38",
-      "text": "歡迎你的想法、感受、情緒，以及你對自己講的故事。允許它們全部存在，知道一切本來就好。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
+      "text": "寧靜來自內心，不要向外尋求。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q39",
-      "text": "你已經是無限的存在。每一條道路或技巧，都只是為了讓你對自己顯而易見。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "幸福是免費的"
+      "text": "你自己，和整個宇宙中的任何人一樣，都值得被愛與關懷。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q40",
-      "text": "你的心智可以是最糟糕的主人，但也可以是最好的僕人。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
+      "text": "理解一切，便能寬恕一切。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q41",
-      "text": "你無法改變一段經歷，但你可以改變自己對它的反應方式。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
+      "text": "沒有人能拯救我們，除了我們自己。我們必須自己走這條路。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q42",
-      "text": "我們關注什麼，就創造什麼。所以如果我們對戰爭、衝突或苦難感到憤怒，我們就是在為它們增添能量。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "秘密"
+      "text": "心是一切。你所想的，你就會成為。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q43",
-      "text": "當我們抗拒生活中的事物時，我們所抗拒的會持續存在。你心中抗拒的一切，都會持續下去。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "塞多納釋放法"
+      "text": "每個清晨我們都重新誕生。今天所做的，才是最重要的。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q44",
-      "text": "沒有覺知就沒有體驗。我們太過沉迷於身心世界的變化，以至於錯過了純粹存在的自然之美與喜悅。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "幸福是免費的"
+      "text": "苦的根源是執著。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q45",
-      "text": "允許自己去探索這樣一種可能性：沒有什麼與你真實的本質是分離的。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "幸福是免費的"
-    },
-    {
-      "id": "q46",
-      "text": "你所是的存在-覺知，始終是每一個體驗中最親密的部分。",
-      "author": "海爾·德沃斯金",
-      "authorOriginal": "Hale Dwoskin",
-      "source": "幸福是免費的"
-    },
-    {
-      "id": "q47",
-      "text": "你可以擁有任何你想要的東西，只要你先放下對它的渴求。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
-    },
-    {
-      "id": "q48",
-      "text": "心智永遠無法發現你是誰，因為心智就是對你本質的遮蔽。只有放下心智，你才能發現自己是誰。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
-    },
-    {
-      "id": "q49",
-      "text": "不要把它壓下去，而是讓它升起來、釋放出去。每一個被壓抑的感受都在時刻推動著想要浮出水面。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "幸福是免費的"
+      "text": "如果你想飛翔，就放下一切讓你沉重的東西。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
     },
     {
       "id": "q50",
-      "text": "一切的不快樂都是因為我們試圖變得有限、試圖做一個小我。我們越是做真實的自己，就越幸福。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "當你明白無所欠缺，整個世界便屬於你。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
     },
     {
       "id": "q51",
-      "text": "沒有努力的地方，就沒有小我。越是用力，小我就越大。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "自然從不匆忙，卻萬事皆成。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
     },
     {
       "id": "q52",
-      "text": "每一個問題都是小我的問題。要產生問題，首先得有小我的挫敗感。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "知足常樂，隨遇而安。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
     },
     {
       "id": "q53",
-      "text": "一旦你意識到最高的生活方式是多麼毫不費力，你就會發現要假裝相反的狀態反而需要巨大的努力。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "新的開始常常偽裝成痛苦的結束。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": null
     },
     {
       "id": "q54",
-      "text": "當一個人真正去愛時，他永遠不會受到傷害。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "勝人者有力，自勝者強。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
     },
     {
       "id": "q55",
-      "text": "接受愛的唯一方式就是給予愛，因為我們給出去的一定會回來。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "若能正心，餘生自然歸位。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": null
     },
     {
       "id": "q56",
-      "text": "人間的愛是需要對方。神聖的愛是給予對方。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "種一棵樹最好的時間是二十年前，其次是現在。",
+      "author": "中國諺語",
+      "authorOriginal": "Chinese Proverb",
+      "source": null
     },
     {
       "id": "q57",
-      "text": "幸福取決於一個人愛的能力，而非被愛的程度。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "你能掌控的是你的內心——而非外在事件。認識到這一點，你將獲得力量。",
+      "author": "馬可·奧理略",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
     },
     {
       "id": "q58",
-      "text": "愛是一種給予的感受，不求任何回報。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "幸福的生活所需甚少；它全在於你內心的思維方式。",
+      "author": "馬可·奧理略",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
     },
     {
       "id": "q59",
-      "text": "發生在我們身上的一切，都源於心靈。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "你生活的幸福取決於你思想的品質。",
+      "author": "馬可·奧理略",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
     },
     {
       "id": "q60",
-      "text": "我們的真實本性——那個無限的真我——不過就是我們減去心智。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "不要再浪費時間去爭論好人應該是什麼樣的了。去做一個好人。",
+      "author": "馬可·奧理略",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
     },
     {
       "id": "q61",
-      "text": "心智是你唯一的限制。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "人不應該害怕死亡，而應該害怕從未真正活過。",
+      "author": "馬可·奧理略",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
     },
     {
       "id": "q62",
-      "text": "完全釋放小我，就是完全自由。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "接受命運賦予你的一切，愛命運帶給你身邊的人。",
+      "author": "馬可·奧理略",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
     },
     {
       "id": "q63",
-      "text": "感受只是心靈中運行的一個程序。你可以選擇停止這個程序。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "幸福是免費的"
+      "text": "憤怒的後果遠比引發憤怒的原因更加嚴重。",
+      "author": "馬可·奧理略",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
     },
     {
       "id": "q64",
-      "text": "每一個身體的問題都有一個心靈的原因。清除心靈，身體就會跟隨。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "我們在想像中承受的痛苦，遠多於在現實中經歷的。",
+      "author": "塞內加",
+      "authorOriginal": "Seneca",
+      "source": "道德書簡"
     },
     {
       "id": "q65",
-      "text": "真理總是簡單的。是小我把一切變得複雜。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "真正的幸福是享受當下，而不焦慮地依賴未來。",
+      "author": "塞內加",
+      "authorOriginal": "Seneca",
+      "source": null
     },
     {
       "id": "q66",
-      "text": "如果你不去清理和安靜你的心智，它就會變得越來越嘈雜。因此，你必須持續釋放，直到抵達終點。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "並非我們的生命太短暫，而是我們浪費了太多時間。",
+      "author": "塞內加",
+      "authorOriginal": "Seneca",
+      "source": "論生命之短暫"
     },
     {
       "id": "q67",
-      "text": "如果我們放下改變過去的渴望和控制未來的執念，就能擁有平靜。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "運氣，是準備遇上機會時發生的事。",
+      "author": "塞內加",
+      "authorOriginal": "Seneca",
+      "source": null
     },
     {
       "id": "q68",
-      "text": "痛苦是複雜，幸福是簡單。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "困難磨練心智，正如勞作強健體魄。",
+      "author": "塞內加",
+      "authorOriginal": "Seneca",
+      "source": null
     },
     {
       "id": "q69",
-      "text": "每次你感到痛苦的時候，都是一個向前大步邁進的絕佳機會。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "重要的不是發生了什麼，而是你如何回應。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": null
     },
     {
       "id": "q70",
-      "text": "釋放，然後允許自己在看似不完美之處看到完美。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "幸福是免費的"
+      "text": "通往幸福只有一條路，那就是不再為超出我們掌控的事情憂慮。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": null
     },
     {
       "id": "q71",
-      "text": "衡量我們智慧的最佳標準，是我們幸福的能力。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "塞多納全球釋放"
+      "text": "先告訴自己你想成為什麼樣的人，然後去做該做的事。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": null
     },
     {
       "id": "q72",
-      "text": "如果我們能只是存在，只是安在，我們就能看到自己的無限。我們就能看到我們就是一切。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "盡力做好力所能及之事，其餘的順其自然。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": null
     },
     {
       "id": "q73",
-      "text": "如果我們不喜歡這個世界正在發生的事，我們所要做的就是改變我們的意識——外在的世界就會為我們而改變。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "不能主宰自己的人，談不上自由。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": null
     },
     {
       "id": "q74",
-      "text": "對任何事感到悲傷，就是在緊握不放。告訴自己「這是我需要放下的」，你立刻就會感覺好些。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "幸福是免費的"
+      "text": "廢墟之中，蘊藏著希望的寶藏。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q75",
-      "text": "通往無限喜悅的道路在於消除慾望——無執著，無厭惡。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "不要悲傷。你失去的一切，都會以另一種形式回來。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q76",
-      "text": "所有生命的原始狀態都是愛。我們的煩惱只是因為我們遮蔽了這個自然的狀態。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "昨天的我很聰明，想要改變世界。今天的我很有智慧，正在改變自己。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q77",
-      "text": "真理可以通過消除錯誤思想來發現，所謂錯誤思想就是限制性的思想。當所有限制性思想被消除後，剩下的就是我們自然的、無限的本我。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "寂靜是上天的語言，其餘都是拙劣的翻譯。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q78",
-      "text": "平靜是不抗拒，是完全的接納，是與一切、每個人、每件事的合一。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "點燃你的生命之火，去尋找那些為你搧風助燃的人。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q79",
-      "text": "絕大多數人所理解的愛，實際上或多或少是恨。「我需要你，我必須擁有你，沒有你我活不下去，你是我的」——這些都不是愛。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "世界的花園沒有盡頭，除非在你的心裡。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q80",
-      "text": "愛消除恐懼，愛消除焦慮。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "你所尋覓的，也在尋覓你。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q81",
-      "text": "成長就是超越你自己，超越那個習慣性的自我——那不過是小我。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "回應每一個點燃你靈魂的召喚。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q82",
-      "text": "不要探究黑暗來理解光明。不要沉溺於疾病來獲得健康。不要糾纏於匱乏的念頭來獲得富足。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "像一棵樹那樣，讓枯葉自然落下。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q83",
-      "text": "執著於痛苦的念頭所帶來的苦，比實際情況本身更甚。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "在對與錯的觀念之外，有一片曠野。我在那裡等你。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q84",
-      "text": "在心中描繪你所想要的，完全接受並確信它此刻已屬於你，它就會迅速到來。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "不要再表現得如此渺小。你是宇宙中狂喜運動著的存在。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q85",
-      "text": "當我們向真我邁出一步時，它會向我們邁出九步。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "將感恩披作外衣，它將滋養你生命的每一個角落。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q86",
-      "text": "這條道路上的全部目標就是放下小我。剩下的就是你的真我。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "讓你自己被你真正熱愛之事的奇妙引力靜靜牽引。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q87",
-      "text": "議會無法拯救世界，但足夠多的人感受到愛，就可以。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "我曾站在瘋狂的邊緣，渴望知道答案，不停地敲門。門開了——我一直是在從裡面敲。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q88",
-      "text": "人們需要彼此，卻以為那是愛。真正去愛的時候，不會有緊抓不放，不會有圍籬圈禁。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "你生來就有翅膀，為何偏要匍匐度日？",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q89",
-      "text": "沒有什麼是壞的，只不過是在回家的路上犯了些錯。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
-    },
-    {
-      "id": "q90",
-      "text": "你越痛苦，越不應該尋找逃避。相反，安靜下來，直到你看清並放下痛苦的原因。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
-    },
-    {
-      "id": "q91",
-      "text": "我在放下，在解除我所創造的地獄。通過用愛去平衡一切，試著去愛而非試著被愛，我變得越來越自由，越來越幸福。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "無執無厭"
-    },
-    {
-      "id": "q92",
-      "text": "小我是生死的根源。當小我被放下時，你便超越了死亡。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
-    },
-    {
-      "id": "q93",
-      "text": "到達那個境地——沒有人、沒有事能擾動你。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
-    },
-    {
-      "id": "q94",
-      "text": "我們都是神，卻活得像個傻瓜。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
-    },
-    {
-      "id": "q95",
-      "text": "什麼是喜悅？喜悅就是真我本身。當慾望被滿足時，心智便歸於寂靜。這讓真我得以閃耀——這就是我們所說的喜悅。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
-    },
-    {
-      "id": "q96",
-      "text": "越是趨向完全的自由，幸福就越來越強烈。你不會消失，不會失去任何東西，你會得到更多。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "幸福是免費的"
-    },
-    {
-      "id": "q97",
-      "text": "面具就是小我。它的動力是尋求被愛。但唯一的回報是挫敗，因為只有通過去愛，才能找到愛。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
-    },
-    {
-      "id": "q98",
-      "text": "我們中的一些人在正確的地方尋找幸福，因此越來越快樂。另一些人在世界中盲目地尋找——那裡並沒有幸福——因此越來越沮喪。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
-    },
-    {
-      "id": "q99",
-      "text": "我們能給予伴侶的最大幸福，來自幫助他或她更加理解真理。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
-    },
-    {
-      "id": "q100",
-      "text": "沒有所謂的失誤——是我們做的！沒有所謂的意外——是我們做的！",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
+      "text": "不要滿足於別人的故事。展開你自己的神話。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
     },
     {
       "id": "q101",
-      "text": "如果你看到痛苦，那是你的痛苦。當你在看似不完美之處看到完美時，痛苦不過是一個表象。",
-      "author": "萊斯特·萊文森",
-      "authorOriginal": "Lester Levenson",
-      "source": "通往終極自由的鑰匙"
-    },
-    {
-      "id": "q102",
-      "text": "放下就像內在壓力的突然停止，或卸下了一個重擔。伴隨而來的是突如其來的釋然和輕鬆，以及更多的幸福和自由。",
-      "author": "大衛·霍金斯",
-      "authorOriginal": "David R. Hawkins",
-      "source": "臣服之道"
-    },
-    {
-      "id": "q103",
-      "text": "放下意味著覺察到一種感受，讓它升起來，與它同在，讓它自行運行，不去試圖改變它或對它做任何事情。",
-      "author": "大衛·霍金斯",
-      "authorOriginal": "David R. Hawkins",
-      "source": "臣服之道"
-    },
-    {
-      "id": "q104",
-      "text": "在放下的時候，忽略所有的念頭。專注於感受本身，而非念頭。",
-      "author": "大衛·霍金斯",
-      "authorOriginal": "David R. Hawkins",
-      "source": "臣服之道"
-    },
-    {
-      "id": "q105",
-      "text": "令人痛苦的不是想法或事實，而是伴隨它們的感受。想法本身是無痛的，但它們背後的感受卻並非如此。",
-      "author": "大衛·霍金斯",
-      "authorOriginal": "David R. Hawkins",
-      "source": "臣服之道"
-    },
-    {
-      "id": "q106",
-      "text": "關鍵在於：通過改變自己，我們改變世界。當我們的內在變得更有愛，外在的療癒就會發生。",
-      "author": "大衛·霍金斯",
-      "authorOriginal": "David R. Hawkins",
-      "source": "臣服之道"
-    },
-    {
-      "id": "q107",
-      "text": "我們有三種主要的方式來處理情緒：壓抑、表達和逃避。",
-      "author": "大衛·霍金斯",
-      "authorOriginal": "David R. Hawkins",
-      "source": "臣服之道"
-    },
-    {
-      "id": "q108",
-      "text": "被壓抑的情緒尋求出口，利用事件作為觸發器和藉口來宣洩自己。我們就像高壓鍋，一有機會就準備釋放蒸汽。",
-      "author": "大衛·霍金斯",
-      "authorOriginal": "David R. Hawkins",
-      "source": "臣服之道"
-    },
-    {
-      "id": "q109",
-      "text": "我們內心所承載的東西，會為我們的世界上色。如果我們放下內疚，我們就會看到純真。",
-      "author": "大衛·霍金斯",
-      "authorOriginal": "David R. Hawkins",
-      "source": "臣服之道"
-    },
-    {
-      "id": "q110",
-      "text": "世界只能以我們看待自己的方式來看我們。",
-      "author": "大衛·霍金斯",
-      "authorOriginal": "David R. Hawkins",
-      "source": "臣服之道"
-    },
-    {
-      "id": "q111",
-      "text": "臣服意味著對一件事不再有強烈的情緒：「它發生也好，不發生也好。」",
-      "author": "大衛·霍金斯",
-      "authorOriginal": "David R. Hawkins",
-      "source": "臣服之道"
-    },
-    {
-      "id": "q112",
-      "text": "感受來來去去，最終你會意識到你不是你的感受，真正的「你」只是在見證它們。",
-      "author": "大衛·霍金斯",
-      "authorOriginal": "David R. Hawkins",
-      "source": "臣服之道"
-    },
-    {
-      "id": "q113",
-      "text": "對自己和一切生命的簡單善意，是最強大的轉化力量。",
-      "author": "大衛·霍金斯",
-      "authorOriginal": "David R. Hawkins",
-      "source": "臣服之道"
-    },
-    {
-      "id": "q114",
-      "text": "生命中的事件是成長、擴展、體驗和發展的機會。",
-      "author": "大衛·霍金斯",
-      "authorOriginal": "David R. Hawkins",
-      "source": "臣服之道"
-    },
-    {
-      "id": "q115",
-      "text": "在我們的內心深處，雖然不在覺知之中，有一個真理：「我已經知道我需要知道的一切。」",
-      "author": "大衛·霍金斯",
-      "authorOriginal": "David R. Hawkins",
-      "source": "臣服之道"
-    },
-    {
-      "id": "q116",
-      "text": "力量能帶來滿足，但只有真正的力量能帶來喜悅。戰勝他人帶來滿足，戰勝自己帶來喜悅。",
-      "author": "大衛·霍金斯",
-      "authorOriginal": "David R. Hawkins",
-      "source": "意念力"
-    },
-    {
-      "id": "q117",
-      "text": "有時候，放手是比防禦或緊握更為強大的行為。",
-      "author": "艾克哈特·托勒",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "當下的力量"
-    },
-    {
-      "id": "q118",
-      "text": "臣服是一種簡單而深刻的智慧——順應生命的流動，而非與之對抗。",
-      "author": "艾克哈特·托勒",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "當下的力量"
-    },
-    {
-      "id": "q119",
-      "text": "臣服於當下。對生命說「是」——然後看看生命如何開始為你而非與你對抗地運作。",
-      "author": "艾克哈特·托勒",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "當下的力量"
-    },
-    {
-      "id": "q120",
-      "text": "有時候，臣服意味著放棄試圖去理解，安於不知道。",
-      "author": "艾克哈特·托勒",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "新世界"
-    },
-    {
-      "id": "q121",
-      "text": "當你放下「你應該或需要知道自己是誰」的信念時，困惑會怎樣？它突然消失了。",
-      "author": "艾克哈特·托勒",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "新世界"
-    },
-    {
-      "id": "q122",
-      "text": "真正的自由來自釋放對當下的抗拒。",
-      "author": "艾克哈特·托勒",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "當下的力量"
-    },
-    {
-      "id": "q123",
-      "text": "臣服是從抗拒到接納的內在轉變，從「不」到「是」。",
-      "author": "艾克哈特·托勒",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "當下的力量"
-    },
-    {
-      "id": "q124",
-      "text": "當你不再試圖從事物中尋找自我時，對事物的執著自然會脫落。",
-      "author": "艾克哈特·托勒",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "新世界"
-    },
-    {
-      "id": "q125",
-      "text": "來來去去的都不是你。「我很無聊。」誰知道這一點？",
-      "author": "艾克哈特·托勒",
-      "authorOriginal": "Eckhart Tolle",
-      "source": "寧靜的聲音"
-    },
-    {
-      "id": "q126",
-      "text": "你通過放下控制、放下努力、安住於一種鮮活的狀態中，來進入自然的狀態。",
-      "author": "阿迪亞香提",
-      "authorOriginal": "Adyashanti",
-      "source": "真正的冥想"
-    },
-    {
-      "id": "q127",
-      "text": "放下，就是釋放那些束縛我們靈魂的意象和情緒、怨恨和恐懼、執著和過去的失望。",
-      "author": "傑克·康菲爾德",
-      "authorOriginal": "Jack Kornfield",
-      "source": null
-    },
-    {
-      "id": "q128",
-      "text": "放下不是丟棄，放下是讓一切如其所是。當我們帶著慈悲讓一切如是，事物自會來去。",
-      "author": "傑克·康菲爾德",
-      "authorOriginal": "Jack Kornfield",
-      "source": null
-    },
-    {
-      "id": "q129",
-      "text": "放下那場戰鬥吧。安靜地呼吸，讓一切如是。讓你的身體放鬆，讓你的心柔軟。",
-      "author": "傑克·康菲爾德",
-      "authorOriginal": "Jack Kornfield",
-      "source": null
-    },
-    {
-      "id": "q130",
-      "text": "通過放下，我們允許一切優雅地向我們走來。",
-      "author": "傑克·康菲爾德",
-      "authorOriginal": "Jack Kornfield",
-      "source": null
-    },
-    {
-      "id": "q131",
-      "text": "當我們抗拒變化時，那叫做受苦。但當我們能夠完全放手，不再與之抗爭，當我們能擁抱處境的不確定並放鬆於其中的活力時，那就叫做覺醒。",
-      "author": "佩瑪·丘卓",
-      "authorOriginal": "Pema Chödrön",
-      "source": "在不確定和變化中優美地生活"
-    },
-    {
-      "id": "q132",
-      "text": "慷慨的本質就是放下。痛苦總是意味著我們在緊握著什麼不放——通常是我們自己。",
-      "author": "佩瑪·丘卓",
-      "authorOriginal": "Pema Chödrön",
-      "source": "與不確定共處"
-    },
-    {
-      "id": "q133",
-      "text": "要完全活著、完全作為人、完全覺醒，就是不斷地被拋出巢穴。",
-      "author": "佩瑪·丘卓",
-      "authorOriginal": "Pema Chödrön",
-      "source": "當一切崩潰時"
-    },
-    {
-      "id": "q134",
-      "text": "每一次你在恐懼和不確定中保持臨在，你就是在放下一種慣性的尋求安全感和舒適感的方式。",
-      "author": "佩瑪·丘卓",
-      "authorOriginal": "Pema Chödrön",
-      "source": "當一切崩潰時"
-    },
-    {
-      "id": "q135",
-      "text": "問題在於，想要改變自己的慾望，從根本上來說是一種對自己的攻擊。",
-      "author": "佩瑪·丘卓",
-      "authorOriginal": "Pema Chödrön",
-      "source": "無處可逃的智慧"
-    },
-    {
-      "id": "q136",
-      "text": "試著學會讓一切如其所是。",
+      "text": "你不是大海中的一滴水，你是一滴水中的整個大海。",
       "author": "魯米",
       "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q137",
-      "text": "傷口是光進入你內心的地方。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q138",
-      "text": "當你接受命運給予你的磨難，那扇門就會打開。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q139",
-      "text": "讓你的念頭入睡吧，不要讓它們在你心靈的明月上投下陰影。放下思考。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q140",
-      "text": "放下你的憂慮，讓心變得澄澈，如同一面不留影像的明鏡。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q141",
-      "text": "昨天我還聰明，所以我想改變世界。今天我有了智慧，所以我在改變自己。",
-      "author": "魯米",
-      "authorOriginal": "Rumi",
-      "source": null
-    },
-    {
-      "id": "q142",
-      "text": "當你與現實爭辯時，你會輸——而且是百分之百會輸。",
-      "author": "拜倫·凱蒂",
-      "authorOriginal": "Byron Katie",
-      "source": "一念之轉"
-    },
-    {
-      "id": "q143",
-      "text": "放下給予我們自由，而自由是幸福的唯一條件。",
-      "author": "一行禪師",
-      "authorOriginal": "Thich Nhat Hanh",
-      "source": "佛陀之心"
-    },
-    {
-      "id": "q144",
-      "text": "在放下的過程中，你會失去很多過去的東西，但你會找到自己。",
-      "author": "迪帕克·喬普拉",
-      "authorOriginal": "Deepak Chopra",
       "source": null
     },
     {
       "id": "q145",
-      "text": "當我放下我所是的，我便成為我可能成為的。當我放下我所有的，我便接收到我所需的。",
-      "author": "老子",
-      "authorOriginal": "Lao Tzu",
-      "source": "道德經"
+      "text": "內心的成就終將改變外在的現實。",
+      "author": "普魯塔克",
+      "authorOriginal": "Plutarch",
+      "source": null
     },
     {
       "id": "q146",
-      "text": "我們必須願意放下我們已規劃好的人生，才能擁有那個正在等待我們的人生。",
-      "author": "約瑟夫·坎貝爾",
-      "authorOriginal": "Joseph Campbell",
-      "source": null
-    },
-    {
-      "id": "q147",
-      "text": "以放下的心做一切事。放下一點點，就有一點點平靜；放下很多，就有很多平靜；完全放下，就有完全的平靜。",
-      "author": "阿姜查",
-      "authorOriginal": "Ajahn Chah",
-      "source": null
-    },
-    {
-      "id": "q148",
-      "text": "你停止抗拒的那一刻，就是你所一直尋找的一切開始找到你的那一刻。",
-      "author": "邁克爾·辛格",
-      "authorOriginal": "Michael Singer",
-      "source": "不羈的靈魂"
-    },
-    {
-      "id": "q149",
-      "text": "感受那份感受，但不要成為那個情緒。見證它，允許它，釋放它。",
-      "author": "克里斯特爾·安德魯斯",
-      "authorOriginal": "Crystal Andrus",
+      "text": "做你自己，因為別人都已經有人做了。",
+      "author": "奧斯卡·乏爾德",
+      "authorOriginal": "Oscar Wilde",
       "source": null
     },
     {
       "id": "q150",
-      "text": "當我們臣服並純粹地去愛時，奇妙的事情就會發生。我們融入另一個世界，一個已在我們內心的力量之境。",
-      "author": "瑪麗安·威廉姆森",
-      "authorOriginal": "Marianne Williamson",
-      "source": "回歸愛"
+      "text": "認識你自己，是一切智慧的開端。",
+      "author": "亞里斯多德",
+      "authorOriginal": "Aristotle",
+      "source": null
     },
     {
       "id": "q151",
-      "text": "六字箴言：放下已經過去的。放下尚未到來的。放下正在發生的。不要試圖弄清任何事。不要試圖讓任何事發生。此刻放鬆，安住當下。",
-      "author": "帝洛巴",
-      "authorOriginal": "Tilopa",
+      "text": "宇宙萬物皆在你內心。向自己索取一切。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q170",
+      "text": "唯有在悲傷中，壞天氣才能征服我們；在喜悅中，我們直面風暴，與之抗衡。",
+      "author": "阿米莉亞·巴爾",
+      "authorOriginal": "Amelia Barr",
+      "source": null
+    },
+    {
+      "id": "q171",
+      "text": "困擾人們的不是事物本身，而是他們對事物的看法。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": "手冊"
+    },
+    {
+      "id": "q172",
+      "text": "不要解釋你的哲學，去實踐它。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": null
+    },
+    {
+      "id": "q173",
+      "text": "真正令我們恐懼和沮喪的，不是外在事件本身，而是我們對它們的思考方式。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": null
+    },
+    {
+      "id": "q174",
+      "text": "智者不為未得之物悲傷，而為已有之物歡喜。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": null
+    },
+    {
+      "id": "q175",
+      "text": "自由是生命中唯一值得追求的目標。它是透過放下那些超出我們掌控的事物而贏得的。",
+      "author": "愛比克泰德",
+      "authorOriginal": "Epictetus",
+      "source": null
+    },
+    {
+      "id": "q176",
+      "text": "靈魂會被它的思想染上顏色。",
+      "author": "馬可·奧理略",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q177",
+      "text": "清晨醒來時，想想活著是何等的榮幸。",
+      "author": "馬可·奧理略",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q178",
+      "text": "我們聽到的一切都是觀點，不是事實。我們看到的一切都是視角，不是真相。",
+      "author": "馬可·奧理略",
+      "authorOriginal": "Marcus Aurelius",
+      "source": null
+    },
+    {
+      "id": "q179",
+      "text": "最好的報復，就是不要變成你的敵人那樣的人。",
+      "author": "馬可·奧理略",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q180",
+      "text": "若非正義之事，不要去做；若非真實之言，不要去說。",
+      "author": "馬可·奧理略",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q181",
+      "text": "對他人寬容，對自己嚴格。",
+      "author": "馬可·奧理略",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q182",
+      "text": "永遠不要讓未來困擾你。你將用同樣的理性武器來面對它，正如今天你用它來對抗當下。",
+      "author": "馬可·奧理略",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q208",
+      "text": "你所思考的事決定了你心靈的品質。你的靈魂會被你的思想染上顏色。",
+      "author": "馬可·奧理略",
+      "authorOriginal": "Marcus Aurelius",
+      "source": "沉思錄"
+    },
+    {
+      "id": "q212",
+      "text": "改變的秘訣在於，把全部精力集中在建設新的事物上，而非與舊的事物抗爭。",
+      "author": "蘇格拉底",
+      "authorOriginal": "Socrates",
+      "source": null
+    },
+    {
+      "id": "q213",
+      "text": "未經審視的人生不值得過。",
+      "author": "蘇格拉底",
+      "authorOriginal": "Socrates",
+      "source": null
+    },
+    {
+      "id": "q214",
+      "text": "我唯一知道的事，就是我一無所知。",
+      "author": "蘇格拉底",
+      "authorOriginal": "Socrates",
+      "source": null
+    },
+    {
+      "id": "q222",
+      "text": "一個知道為什麼而活的人，幾乎可以忍受任何活法。",
+      "author": "弗里德里希·尼采",
+      "authorOriginal": "Friedrich Nietzsche",
+      "source": null
+    },
+    {
+      "id": "q223",
+      "text": "每一次與自然同行，你所收穫的都遠超你所尋求的。",
+      "author": "約翰·乏爾",
+      "authorOriginal": "John Muir",
+      "source": null
+    },
+    {
+      "id": "q224",
+      "text": "覺得自然萬物已然足夠；覺得空氣和水令人振奮；被清晨的散步所煥然一新——這些就是簡單生活的回報。",
+      "author": "約翰·巴勒斯",
+      "authorOriginal": "John Burroughs",
+      "source": null
+    },
+    {
+      "id": "q225",
+      "text": "你的痛苦，是包裹著你理解力的外殼正在破裂。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q226",
+      "text": "從苦難中湧現出最堅強的靈魂；最偉大的人格上銘刻著最深的傷疤。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": null
+    },
+    {
+      "id": "q227",
+      "text": "當你不再與自己的思想和平共處時，你才開始說話。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q228",
+      "text": "悲傷在你生命中刻得越深，你所能容納的喜悅就越多。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q229",
+      "text": "你的孩子並非屬於你。他們經由你而來，卻非因你而生。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q230",
+      "text": "愛從來不知道自己的深度，直到分離的時刻到來。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": "先知"
+    },
+    {
+      "id": "q231",
+      "text": "我從喋喋不休者身上學會了沉默，從偏執者身上學會了寬容，從刻薄者身上學會了善良。",
+      "author": "紀伯倫",
+      "authorOriginal": "Kahlil Gibran",
+      "source": null
+    },
+    {
+      "id": "q232",
+      "text": "讓你的臉永遠朝向陽光——陰影自然會落在你身後。",
+      "author": "華特·惠特曼",
+      "authorOriginal": "Walt Whitman",
+      "source": null
+    },
+    {
+      "id": "q233",
+      "text": "無論是我還是任何人，都無法替你走那條路。你必須自己去走。",
+      "author": "華特·惠特曼",
+      "authorOriginal": "Walt Whitman",
+      "source": null
+    },
+    {
+      "id": "q234",
+      "text": "我自相矛盾嗎？那又怎樣，我就是自相矛盾。我博大廣闊，我包含無數。",
+      "author": "華特·惠特曼",
+      "authorOriginal": "Walt Whitman",
+      "source": "自我之歌"
+    },
+    {
+      "id": "q235",
+      "text": "我如此存在著，這便足夠了。",
+      "author": "華特·惠特曼",
+      "authorOriginal": "Walt Whitman",
+      "source": null
+    },
+    {
+      "id": "q239",
+      "text": "在我們身後和身前的一切，與我們內心的東西相比，都是微不足道的。",
+      "author": "拉爾夫·沃爾多·乏默生",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": null
+    },
+    {
+      "id": "q240",
+      "text": "在一個不斷試圖將你變成別人的世界裡，做自己是最大的成就。",
+      "author": "拉爾夫·沃爾多·愛默生",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": null
+    },
+    {
+      "id": "q241",
+      "text": "你每憤怒一分鐘，就失去了六十秒的快樂。",
+      "author": "拉爾夫·沃爾多·愛默生",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": null
+    },
+    {
+      "id": "q242",
+      "text": "你現在是什麼樣的人，取決於你過去做了什麼。你將來會成為什麼樣的人，取決於你現在做什麼。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q243",
+      "text": "健康是最大的禮物，知足是最大的財富，信任是最好的關係。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q244",
+      "text": "三樣東西無法長久隱藏：太陽、月亮和真相。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q245",
+      "text": "我們被自己的思想所塑造；我們成為自己所想的樣子。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q246",
+      "text": "一個被發展並付諸行動的想法，比一個僅僅存在於想法中的想法重要得多。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q247",
+      "text": "沒有通往幸福的路：幸福本身就是路。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q248",
+      "text": "耐心是關鍵。記住：水罐是一滴一滴灌滿的。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q249",
+      "text": "在分離中蘊藏著世界最大的苦難；在慈悲中蘊藏著世界真正的力量。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q250",
+      "text": "不念過去，不畏將來，專注當下。",
+      "author": "佛陀",
+      "authorOriginal": "Buddha",
+      "source": null
+    },
+    {
+      "id": "q251",
+      "text": "不怕慢，就怕站。",
+      "author": "孔子",
+      "authorOriginal": "Confucius",
+      "source": null
+    },
+    {
+      "id": "q252",
+      "text": "最大的光榮不在於從未跌倒，而在於每次跌倒後都爬起來。",
+      "author": "孔子",
+      "authorOriginal": "Confucius",
+      "source": null
+    },
+    {
+      "id": "q253",
+      "text": "生活其實很簡單，只是我們非要把它弄得很複雜。",
+      "author": "孔子",
+      "authorOriginal": "Confucius",
+      "source": null
+    },
+    {
+      "id": "q254",
+      "text": "唯一真正的智慧，是知道自己一無所知。",
+      "author": "蘇格拉底",
+      "authorOriginal": "Socrates",
+      "source": null
+    },
+    {
+      "id": "q255",
+      "text": "緊張是你認為自己應該成為的樣子，放鬆是你本來的樣子。",
+      "author": "中國諺語",
+      "authorOriginal": "Chinese Proverb",
+      "source": null
+    },
+    {
+      "id": "q256",
+      "text": "沒有抗爭，就沒有進步。",
+      "author": "弗雷德里克·道格拉斯",
+      "authorOriginal": "Frederick Douglass",
+      "source": null
+    },
+    {
+      "id": "q267",
+      "text": "不要轉身離去。凝視那個包紮的傷口，光正是從那裡照進你的。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q308",
+      "text": "心靈不是一個要被填滿的容器，而是一團需要被點燃的火焰。",
+      "author": "普魯塔克",
+      "authorOriginal": "Plutarch",
+      "source": null
+    },
+    {
+      "id": "q310",
+      "text": "我一直是個追尋者，現在依然如此，但我不再向書本和星辰發問。我開始傾聽靈魂的教誨。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q317",
+      "text": "主宰你的心，否則它將主宰你。",
+      "author": "賀拉斯",
+      "authorOriginal": "Horace",
+      "source": null
+    },
+    {
+      "id": "q318",
+      "text": "在你存在的核心，你擁有答案；你知道自己是誰，你知道自己想要什麼。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
+    },
+    {
+      "id": "q319",
+      "text": "沉默是巨大力量的泉源。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
+    },
+    {
+      "id": "q320",
+      "text": "千里之行，始於足下。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
+    },
+    {
+      "id": "q321",
+      "text": "簡樸、耐心、慈悲。這三者是你最大的寶藏。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
+    },
+    {
+      "id": "q322",
+      "text": "停止離開，你就會到達。停止尋找，你就會看見。停止逃避，你就會被找到。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": null
+    },
+    {
+      "id": "q323",
+      "text": "燃燒得加倍明亮的火焰，只能維持一半的時間。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": null
+    },
+    {
+      "id": "q324",
+      "text": "知人者智，自知者明。勝人者有力，自勝者強。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
+    },
+    {
+      "id": "q325",
+      "text": "你有沒有耐心等待，直到你的泥沙沉澱、水面澄清？",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
+    },
+    {
+      "id": "q326",
+      "text": "天下莫柔弱於水，而攻堅強者莫之能勝。",
+      "author": "老子",
+      "authorOriginal": "Laozi",
+      "source": "道德經"
+    },
+    {
+      "id": "q334",
+      "text": "這也會過去。",
+      "author": "波斯諺語",
+      "authorOriginal": "Persian Proverb",
+      "source": null
+    },
+    {
+      "id": "q346",
+      "text": "你注定要成為的那個人，就是你決定成為的那個人。",
+      "author": "拉爾夫·沃爾多·愛默生",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": null
+    },
+    {
+      "id": "q349",
+      "text": "我棲居在無限的可能之中。",
+      "author": "艾蜜莉·狄金生",
+      "authorOriginal": "Emily Dickinson",
+      "source": null
+    },
+    {
+      "id": "q350",
+      "text": "希望是棲息在靈魂裡的一隻長著羽毛的鳥。",
+      "author": "艾蜜莉·狄金生",
+      "authorOriginal": "Emily Dickinson",
+      "source": null
+    },
+    {
+      "id": "q351",
+      "text": "靈魂的門應該永遠半開著，隨時準備迎接那狂喜的體驗。",
+      "author": "艾蜜莉·狄金生",
+      "authorOriginal": "Emily Dickinson",
+      "source": null
+    },
+    {
+      "id": "q361",
+      "text": "過好每一天，然後翻篇。你已經盡力了。一些失誤和荒唐在所難免，盡快忘掉它們吧。",
+      "author": "拉爾夫·沃爾多·愛默生",
+      "authorOriginal": "Ralph Waldo Emerson",
+      "source": null
+    },
+    {
+      "id": "q362",
+      "text": "閉上眼睛，墜入愛中，留在那裡。",
+      "author": "魯米",
+      "authorOriginal": "Rumi",
+      "source": null
+    },
+    {
+      "id": "q363",
+      "text": "讓一切發生在你身上：美與恐懼。只管繼續前行。沒有任何感受是終點。",
+      "author": "萊納·瑪利亞·里爾克",
+      "authorOriginal": "Rainer Maria Rilke",
       "source": null
     }
   ]
