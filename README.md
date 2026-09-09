@@ -37,6 +37,7 @@ codearthur-policies/
 |:--|:--|:--|:--|
 | `privacy.html` | 20 条 | 20 条 | 隐私政策 |
 | `terms.html` | 30 条 | 30 条 | 用户协议 & EULA（合并） |
+| `health-disclaimer.html` | 7 条 | 7 条 | 健康与呼吸安全声明（按需适用于健康类 App） |
 | `account-deletion.html` | 8 条 | 8 条 | 账号与数据删除说明 |
 
 中英文章节编号一一对应，内容一致。英文版额外包含 GDPR/CCPA 合规细节引用。
@@ -134,11 +135,13 @@ codearthur-policies/
 # 英文版
 https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/privacy.html?name=FireApp
 https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/terms.html?name=FireApp
+https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/health-disclaimer.html?name=BreathAtlas
 https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/account-deletion.html?name=FireApp
 
 # 中文版
 https://arthur-dy-lee.github.io/codearthur-policies/bozhu/zh/privacy.html?name=FireApp
 https://arthur-dy-lee.github.io/codearthur-policies/bozhu/zh/terms.html?name=FireApp
+https://arthur-dy-lee.github.io/codearthur-policies/bozhu/zh/health-disclaimer.html?name=BreathAtlas
 https://arthur-dy-lee.github.io/codearthur-policies/bozhu/zh/account-deletion.html?name=FireApp
 ```
 
@@ -195,6 +198,7 @@ func openPrivacyPolicy() {
 设置
 ├── 隐私政策 / Privacy Policy      → 打开 privacy.html
 ├── 用户协议 / Terms of Service    → 打开 terms.html
+├── 健康与呼吸安全声明 / Health Notice → 健康类 App 打开 health-disclaimer.html
 └── 删除账号 / Delete Account      → 打开 account-deletion.html（如有账号功能）
 ```
 

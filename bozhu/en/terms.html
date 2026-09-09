@@ -34,11 +34,15 @@
 <body>
 
 <h1>Terms of Service &amp; End User License Agreement</h1>
-<p class="update-date">Last updated: March 7, 2026</p>
+<p class="update-date">Last updated: September 10, 2026</p>
 
 <p>Please read these Terms of Service and End User License Agreement (collectively, "this Agreement") carefully before using <strong class="app-name">Our App</strong> ("the App"), developed by Bozhu Li ("Developer", "we", "us", or "our"). By downloading, installing, or using the App, you agree to be bound by this Agreement. If you do not agree to these terms, do not use the App.</p>
 
 <p>This Agreement applies to all apps published by Bozhu Li on the Apple App Store (collectively, "our Apps").</p>
+
+<div class="highlight">
+    <p><strong>Health and wellness features:</strong> If the App offers breathing exercises, relaxation guidance, symptom-related education, or other health and wellness content, the separate <a href="health-disclaimer.html" id="health-link">Health &amp; Breathing Safety Notice</a> also applies. It explains contraindications, unsafe environments, stop signals, emergency guidance, evidence limitations, and restrictions on intensive or clinically oriented methods. The App is not a medical device or a substitute for professional care.</p>
+</div>
 
 <!-- Section 1: License -->
 <h2>1. License Grant</h2>
@@ -365,7 +369,7 @@
 <!-- Section 29: Entire Agreement -->
 <h2>29. Entire Agreement</h2>
 
-<p>This Agreement, together with the <a href="privacy.html" id="privacy-link">Privacy Policy</a>, constitutes the entire agreement between you and the Developer regarding the use of the App and supersedes all prior agreements, representations, and understandings.</p>
+<p>This Agreement, together with the <a href="privacy.html" id="privacy-link">Privacy Policy</a> and any applicable <a href="health-disclaimer.html" id="health-link-entire">Health &amp; Breathing Safety Notice</a>, constitutes the entire agreement between you and the Developer regarding the use of the App and supersedes all prior agreements, representations, and understandings.</p>
 
 <!-- Contact -->
 <h2>30. Contact Us</h2>
@@ -389,6 +393,10 @@
         var privacyLink = document.getElementById('privacy-link');
         if (privacyLink && window.location.search) {
             privacyLink.href = 'privacy.html' + window.location.search;
+        }
+        var healthLinks = document.querySelectorAll('#health-link, #health-link-entire');
+        for (var j = 0; j < healthLinks.length; j++) {
+            if (window.location.search) healthLinks[j].href = 'health-disclaimer.html' + window.location.search;
         }
     })();
 </script>

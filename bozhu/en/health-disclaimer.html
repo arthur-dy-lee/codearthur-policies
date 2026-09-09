@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health &amp; Breathing Safety Notice</title>
+    <style>
+        * { box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; line-height: 1.7; color: #333; background: #fff; padding: 20px; max-width: 800px; margin: 0 auto; }
+        h1 { font-size: 1.6em; margin-bottom: 8px; color: #111; }
+        h2 { font-size: 1.2em; margin-top: 28px; margin-bottom: 10px; color: #222; }
+        p, li { font-size: .95em; margin-bottom: 8px; }
+        ul { padding-left: 20px; }
+        .updated { color: #777; font-size: .85em; margin-bottom: 24px; }
+        .warning { background: #fff8e1; border-left: 4px solid #d97706; border-radius: 4px; padding: 14px 18px; }
+        .contact { background: #f7f7f7; border-radius: 8px; padding: 14px 18px; margin-top: 24px; }
+        a { color: #007aff; text-decoration: none; }
+        @media (prefers-color-scheme: dark) {
+            body { background: #1c1c1e; color: #e5e5e7; }
+            h1, h2 { color: #f5f5f7; }
+            .warning { background: #3a3000; }
+            .contact { background: #2c2c2e; }
+        }
+    </style>
+</head>
+<body>
+<h1>Health &amp; Breathing Safety Notice</h1>
+<p class="updated">Last updated: September 10, 2026</p>
+
+<div class="warning">
+    <p><strong><span class="app-name">The App</span> is an educational, general-wellness tool. It is not a medical device and does not provide medical advice, diagnosis, monitoring, treatment, rehabilitation, or emergency services.</strong></p>
+</div>
+
+<h2>1. Before You Begin</h2>
+<p>Ask a qualified healthcare professional before starting if you are pregnant, under 18, receiving medical or mental-health treatment, have recently had surgery, or have a history of fainting, seizures, panic triggered by breath focus, cardiovascular disease, high or low blood pressure, respiratory disease, or a neurological or eye condition.</p>
+<p>Do not delay medical care or change medication, an asthma action plan, or any other treatment because of information in the App.</p>
+
+<h2>2. Use a Safe Setting</h2>
+<p>Practise seated or lying down in a safe, well-ventilated place. Never practise:</p>
+<ul>
+    <li>while driving or operating machinery;</li>
+    <li>in or near water, in a bath or shower, or while swimming or diving;</li>
+    <li>standing or anywhere fainting or a fall could cause injury;</li>
+    <li>after alcohol, drugs, or medication that impairs judgment; or</li>
+    <li>together with cold exposure or another hazardous activity.</li>
+</ul>
+
+<h2>3. Breathing and Breath Holds</h2>
+<p>Keep every breath comfortable and smaller than your maximum. Never force the depth, speed, duration, or hold. Breath-hold methods are distinct methods: removing a hold does not turn a named ratio such as 4–7–8 into the same practice. If a hold is uncomfortable or conflicts with your safety profile, stop that method and choose a separate no-hold practice.</p>
+<p>Rapid, forceful, prolonged, connected, reduced-volume, carbon-dioxide-tolerance, and long-hold methods can cause hyperventilation, air hunger, tingling, panic, dizziness, fainting, or injury. The App provides no self-guided timer for restricted methods. Those entries are limited to history, evidence limitations, risks, professional-guidance advice, and external references.</p>
+
+<h2>4. Stop Signals and Emergencies</h2>
+<p>Stop immediately and return to normal breathing if you feel dizzy, faint, confused, numb, panicked, unusually short of breath, in pain, or otherwise unwell. Seek prompt medical advice if symptoms are new, worsening, or persistent.</p>
+<p>Call local emergency services for severe breathing difficulty, chest pain, loss of consciousness, signs of stroke, or any situation that may be immediately dangerous. The App cannot detect or respond to an emergency.</p>
+
+<h2>5. Evidence and Results</h2>
+<p>Evidence varies by method and may be limited, preliminary, or apply only to supervised clinical populations. A cited article does not mean that the App or its exact timing has been clinically validated. No outcome is guaranteed. General-wellness exercises must not be used to manage a diagnosed condition without appropriate clinical guidance.</p>
+
+<h2>6. External Links and Intellectual Property</h2>
+<p>External links are provided for independent education. Third-party sites control their own content and terms. References do not imply sponsorship, affiliation, endorsement, or permission to reproduce a third party’s program. Method ideas and historical facts are described in original editorial language; third-party text, branding, recordings, and course materials remain the property of their respective owners.</p>
+
+<h2>7. Your Choice and Legal Rights</h2>
+<p>You may stop any practice at any time. If you do not understand or accept this notice, do not start a breathing session. Nothing in this notice excludes rights or responsibilities that cannot lawfully be excluded. This notice supplements the <a href="terms.html" id="terms-link">Terms of Service</a>.</p>
+
+<div class="contact">
+    <p><strong>Developer:</strong> Bozhu Li</p>
+    <p><strong>Email:</strong> <a href="mailto:arthur.dy.lee@gmail.com">arthur.dy.lee@gmail.com</a></p>
+</div>
+
+<script>
+    (function() {
+        var params = new URLSearchParams(window.location.search);
+        var appName = params.get('name') || params.get('app') || 'The App';
+        var els = document.querySelectorAll('.app-name');
+        for (var i = 0; i < els.length; i++) els[i].textContent = appName;
+        document.title = 'Health & Breathing Safety Notice - ' + appName;
+        var termsLink = document.getElementById('terms-link');
+        if (termsLink && window.location.search) termsLink.href = 'terms.html' + window.location.search;
+    })();
+</script>
+</body>
+</html>

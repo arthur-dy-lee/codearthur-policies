@@ -34,11 +34,15 @@
 <body>
 
 <h1>用户协议与最终用户许可协议</h1>
-<p class="update-date">最后更新：2026 年 3 月 7 日</p>
+<p class="update-date">最后更新：2026 年 9 月 10 日</p>
 
 <p>请在使用 <strong class="app-name">Our App</strong>（以下简称"本应用"）之前仔细阅读本用户协议与最终用户许可协议（以下统称"本协议"）。本应用由 李东岳（以下简称"开发者"、"我们"）开发。下载、安装或使用本应用，即表示您同意受本协议约束。如果您不同意本协议的条款，请勿使用本应用。</p>
 
 <p>本协议适用于 李东岳 在 Apple App Store 上发布的所有应用（以下统称"我们的应用"）。</p>
+
+<div class="highlight">
+    <p><strong>健康与身心功能：</strong>如果本应用提供呼吸练习、放松引导、症状相关知识或其他健康内容，独立的<a href="health-disclaimer.html" id="health-link">《健康与呼吸安全声明》</a>同时适用。该声明说明禁忌情况、不安全环境、停止信号、紧急处理、证据局限，以及对强力或临床相关方法的限制。本应用不是医疗器械，也不能替代专业医疗。</p>
+</div>
 
 <!-- Section 1 -->
 <h2>1. 许可授权</h2>
@@ -363,7 +367,7 @@
 <!-- Section 29 -->
 <h2>29. 完整协议</h2>
 
-<p>本协议连同<a href="privacy.html" id="privacy-link">隐私政策</a>，构成您与开发者之间关于使用本应用的完整协议，并取代所有先前的协议、陈述和谅解。</p>
+<p>本协议连同<a href="privacy.html" id="privacy-link">隐私政策</a>以及适用的<a href="health-disclaimer.html" id="health-link-entire">《健康与呼吸安全声明》</a>，构成您与开发者之间关于使用本应用的完整协议，并取代所有先前的协议、陈述和谅解。</p>
 
 <!-- Section 30 -->
 <h2>30. 联系我们</h2>
@@ -386,6 +390,10 @@
         var privacyLink = document.getElementById('privacy-link');
         if (privacyLink && window.location.search) {
             privacyLink.href = 'privacy.html' + window.location.search;
+        }
+        var healthLinks = document.querySelectorAll('#health-link, #health-link-entire');
+        for (var j = 0; j < healthLinks.length; j++) {
+            if (window.location.search) healthLinks[j].href = 'health-disclaimer.html' + window.location.search;
         }
     })();
 </script>
