@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>帮助与支持</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Segoe UI", Roboto, sans-serif; max-width: 720px; margin: 0 auto; padding: 20px; line-height: 1.7; color: #333; }
+        h1 { color: #1a1a1a; }
+        h2 { color: #333; margin-top: 2em; }
+        h3 { margin-top: 1.5em; }
+        a { color: #0066cc; }
+        .contact-box { background: #f5f5f7; border-radius: 12px; padding: 20px; margin: 20px 0; }
+        .template-box { background: #f0f4f8; border: 1px solid #d0d7de; border-radius: 10px; padding: 16px 20px; margin: 16px 0; font-family: "SF Mono", Menlo, Consolas, monospace; font-size: 14px; white-space: pre-wrap; line-height: 1.8; color: #24292f; }
+        .copy-btn { display: inline-block; margin-top: 8px; padding: 6px 16px; background: #0066cc; color: #fff; border: none; border-radius: 6px; font-size: 14px; cursor: pointer; }
+        .copy-btn:hover { background: #0055b3; }
+        .copy-btn.copied { background: #2ea44f; }
+        .note { color: #666; font-size: 14px; margin-top: 8px; }
+        @media (prefers-color-scheme: dark) {
+            body { background: #1c1c1e; color: #e5e5e7; }
+            h1, h2, h3 { color: #f5f5f7; }
+            .contact-box { background: #2c2c2e; }
+            .template-box { background: #252529; border-color: #48484a; color: #e5e5e7; }
+        }
+    </style>
+</head>
+<body>
+    <h1 id="page-title">帮助与支持</h1>
+    <p id="page-intro">感谢使用我们的应用！如果你遇到问题或有任何疑问，请联系我们。</p>
+
+    <div class="contact-box">
+        <h2>联系我们</h2>
+        <p><strong>电子邮件：</strong><a href="mailto:arthur.dy.lee@gmail.com">arthur.dy.lee@gmail.com</a></p>
+        <p><strong>GitHub Issues：</strong><a href="https://github.com/arthur-dy-lee/codearthur-policies/issues" target="_blank">提交错误报告或功能建议</a></p>
+    </div>
+
+    <h2>如何提交反馈</h2>
+    <p>为便于我们尽快定位并解决问题，请通过电子邮件或 GitHub Issues 按以下格式提交反馈：</p>
+
+    <div class="template-box" id="template">
+[应用名称] 问题标题
+
+应用：<span id="tpl-app">应用名称</span>
+应用版本：（例如 1.0）
+设备：（例如 iPhone 15 Pro）
+iOS 版本：（例如 iOS 17.5）
+
+问题描述：
+请详细说明遇到的问题或你的建议。
+
+复现步骤（如适用）：
+1.
+2.
+3.
+
+预期结果：
+
+实际结果：
+
+截图（如适用）：
+    </div>
+    <button class="copy-btn" onclick="copyTemplate()">复制模板</button>
+    <p class="note">提示：提交前请用你的实际信息替换模板中的占位内容。</p>
+
+    <h2>常见问题</h2>
+
+    <h3>我的数据会上传到服务器吗？</h3>
+    <p>除应用内另有明确说明外，文件处理均在你的设备上完成，文件不会离开你的 iPhone 或 iPad。请在应用的 App Store“App 隐私”页面查看具体数据处理说明。</p>
+
+    <h3>如何在新设备上恢复购买？</h3>
+    <p>打开应用，进入订阅或设置页面并轻点“恢复购买”。请确认登录的是最初购买时使用的同一个 Apple 账户。</p>
+
+    <h3>可以申请退款吗？</h3>
+    <p>订阅和购买由 Apple 处理。如需申请退款，请访问 <a href="https://reportaproblem.apple.com" target="_blank">reportaproblem.apple.com</a>。</p>
+
+    <h3>支持哪些设备？</h3>
+    <p>我们的应用需要 iOS 17.0 或更高版本，并支持兼容的 iPhone 和 iPad。</p>
+
+    <p style="margin-top: 3em; color: #888; font-size: 14px;">&copy; 2026 Bozhu Li。保留所有权利。</p>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const appName = params.get('name') || '本应用';
+
+        document.title = '帮助与支持 — ' + appName;
+        document.getElementById('page-title').textContent = appName + ' — 帮助与支持';
+        document.getElementById('page-intro').textContent =
+            '感谢使用 ' + appName + '！如果你遇到问题或有任何疑问，请联系我们。';
+        document.getElementById('tpl-app').textContent = appName;
+
+        function copyTemplate() {
+            const text = document.getElementById('template').innerText;
+            navigator.clipboard.writeText(text).then(function() {
+                const btn = document.querySelector('.copy-btn');
+                btn.textContent = '已复制';
+                btn.classList.add('copied');
+                setTimeout(function() {
+                    btn.textContent = '复制模板';
+                    btn.classList.remove('copied');
+                }, 2000);
+            });
+        }
+    </script>
+</body>
+</html>
