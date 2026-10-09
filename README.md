@@ -39,8 +39,9 @@ codearthur-policies/
 | `terms.html` | 30 条 | 30 条 | 用户协议 & EULA（合并） |
 | `health-disclaimer.html` | 7 条 | 7 条 | 健康与呼吸安全声明（按需适用于健康类 App） |
 | `account-deletion.html` | 8 条 | 8 条 | 账号与数据删除说明 |
+| `open-source-licenses.html` | 共用页 | — | 开源组件、AI 模型及运行库的致谢、来源和完整许可原文 |
 
-中英文章节编号一一对应，内容一致。英文版额外包含 GDPR/CCPA 合规细节引用。
+已提供中英文的文档章节编号一一对应，内容一致。英文版隐私政策额外包含 GDPR/CCPA 合规细节引用。开源许可目前提供英文原文共用页。
 
 ---
 
@@ -137,6 +138,7 @@ https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/privacy.html?name=F
 https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/terms.html?name=FireApp
 https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/health-disclaimer.html?name=BreathAtlas
 https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/account-deletion.html?name=FireApp
+https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/open-source-licenses.html?name=SilenceCut
 
 # 中文版
 https://arthur-dy-lee.github.io/codearthur-policies/bozhu/zh/privacy.html?name=FireApp
@@ -146,6 +148,16 @@ https://arthur-dy-lee.github.io/codearthur-policies/bozhu/zh/account-deletion.ht
 ```
 
 支持两种参数名：`?name=AppName` 或 `?app=AppName`，效果一致。页面内的 JS 会自动替换文档中的 App 名称占位符。
+
+### 共用开源许可
+
+设置入口统一使用「开源许可 / Open Source Licenses」，链接到 `bozhu/en/open-source-licenses.html`。不带参数时显示通用标题；`?name=AppName` 或 `?app=AppName` 只调整标题和 App 来源说明，不改变许可正文，也不表示该 App 使用了页面列出的全部组件。
+
+当前先收录 Whisper、WhisperKit / Argmax Core ML 模型转换，以及 Large V3 的 Apache 2.0 补充许可。页面完整保留 OpenAI 和 Argmax 各自的 MIT 版权声明及 Apache 2.0 原文，可脱离脚本阅读，并支持浅色、深色和窄屏显示。
+
+后续新增组件时，在同一 HTML 中增加对应分类或条目，注明组件名称、来源、版本（适用时）、版权持有人和许可，保留已有条目及稳定锚点，并更新页面日期。AI 模型权重与运行库分别核对许可；不同版本或转换来源有不同声明时，应分别保留。组件适用范围以实际 App、版本、平台和可选下载内容为准。
+
+共用网页用于集中维护和展示；App 分发包或模型下载中需要随附的许可、NOTICE、源码或其他材料仍应按各组件要求保留。这一页目前覆盖上述语音组件，其他依赖可继续补充。HTML 提交到仓库后，还需部署并验证公开地址，再将 App 设置入口接入该地址。
 
 ## App 中的调用方式
 
