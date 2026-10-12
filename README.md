@@ -153,7 +153,7 @@ https://arthur-dy-lee.github.io/codearthur-policies/bozhu/zh/account-deletion.ht
 
 设置入口统一使用「开源许可 / Open Source Licenses」，链接到 `bozhu/en/open-source-licenses.html`。不带参数时显示通用标题；`?name=AppName` 或 `?app=AppName` 只调整标题和 App 来源说明，不改变许可正文，也不表示该 App 使用了页面列出的全部组件。
 
-当前先收录 Whisper、WhisperKit / Argmax Core ML 模型转换，以及 Large V3 的 Apache 2.0 补充许可。页面完整保留 OpenAI 和 Argmax 各自的 MIT 版权声明及 Apache 2.0 原文，可脱离脚本阅读，并支持浅色、深色和窄屏显示。
+当前收录 Whisper、WhisperKit / Argmax Core ML 模型转换、Large V3 的 Apache 2.0 补充许可，以及 Paraformer INT8 模型和 sherpa-onnx 1.13.8 运行库。Paraformer 条目标明阿里达摩院原模型 v1.1.9、Apache 2.0 许可，以及 VoiceFolio 实际使用的 ONNX / INT8 转换仓库和固定 revision；模型权重许可与 FunASR 代码库许可分别说明。页面完整保留 OpenAI 和 Argmax 各自的 MIT 版权声明及 Apache 2.0 原文，可脱离脚本阅读，并支持浅色、深色和窄屏显示。
 
 后续新增组件时，在同一 HTML 中增加对应分类或条目，注明组件名称、来源、版本（适用时）、版权持有人和许可，保留已有条目及稳定锚点，并更新页面日期。AI 模型权重与运行库分别核对许可；不同版本或转换来源有不同声明时，应分别保留。组件适用范围以实际 App、版本、平台和可选下载内容为准。
 

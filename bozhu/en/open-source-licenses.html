@@ -48,7 +48,7 @@
     <header>
         <h1 id="page-title">Open Source Licenses</h1>
         <p class="subtitle">Third-party software and AI models</p>
-        <p class="update-date">Last updated: <time datetime="2026-10-09">October 9, 2026</time></p>
+        <p class="update-date">Last updated: <time datetime="2026-10-12">October 12, 2026</time></p>
     </header>
 
     <p>We thank the open source community for the software and AI models that help power apps published by Bozhu Li. This shared page collects their acknowledgements, source links, copyright notices, and license texts.</p>
@@ -90,6 +90,17 @@
                 <li><a href="https://www.apache.org/licenses/LICENSE-2.0">Official Apache License 2.0</a></li>
             </ul>
         </article>
+        <article id="paraformer-int8">
+            <h3>Paraformer INT8 — Alibaba DAMO Academy</h3>
+            <p>Optional Chinese speech recognition model. The original Paraformer-large model is published by Alibaba DAMO Academy through ModelScope. The INT8 ONNX model and vocabulary distributed by csukuangfj are converted from <code>iic/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8358-tensorflow1</code>, tag <code>v1.1.9</code>.</p>
+            <p><strong>Attribution:</strong> Alibaba DAMO Academy speech team; ONNX conversion distributed by csukuangfj / the sherpa-onnx project.<br><strong>Model license:</strong> <a href="#apache-2-0">Apache License 2.0 — full text below</a>, as identified by the original ModelScope model. This model license is separate from the license of the FunASR code repository.</p>
+            <p><strong>Conversion:</strong> <code>csukuangfj/sherpa-onnx-paraformer-zh-2024-03-09</code>, revision <code>906992d326ebf0c5171cde675aa0902be9e5bc6c</code>. VoiceFolio downloads <code>model.int8.onnx</code> and <code>tokens.txt</code> from this revision. The distributed weights are an ONNX conversion with INT8 quantization of the upstream model.</p>
+            <ul class="sources">
+                <li><a href="https://modelscope.cn/models/iic/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8358-tensorflow1">Original Paraformer-large model and license</a></li>
+                <li><a href="https://modelscope.cn/api/v1/models/iic/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8358-tensorflow1/repo?Revision=v1.1.9&amp;FilePath=README.md">Original v1.1.9 model card with Apache 2.0 declaration</a></li>
+                <li><a href="https://huggingface.co/csukuangfj/sherpa-onnx-paraformer-zh-2024-03-09/tree/906992d326ebf0c5171cde675aa0902be9e5bc6c">Pinned ONNX / INT8 model files</a> · <a href="https://huggingface.co/csukuangfj/sherpa-onnx-paraformer-zh-2024-03-09/blob/906992d326ebf0c5171cde675aa0902be9e5bc6c/README.md">Conversion provenance</a></li>
+            </ul>
+        </article>
     </section>
 
     <!-- Add future library notices here; retain the component's own copyright. -->
@@ -103,6 +114,15 @@
                 <li><a href="https://github.com/argmaxinc/WhisperKit">WhisperKit source repository</a></li>
                 <li><a href="https://github.com/argmaxinc/WhisperKit/blob/v0.10.1/LICENSE">WhisperKit 0.10.1 license</a></li>
                 <li><a href="https://huggingface.co/argmaxinc/whisperkit-coreml">WhisperKit Core ML model repository</a></li>
+            </ul>
+        </article>
+        <article id="sherpa-onnx">
+            <h3>sherpa-onnx — k2-fsa</h3>
+            <p>On-device speech recognition runtime used for Paraformer INT8. VoiceFolio uses the 1.13.8 binary distribution packaged by willwade/sherpa-onnx-spm, with its own local Swift wrapper.</p>
+            <p><strong>Attribution:</strong> k2-fsa and sherpa-onnx contributors. Individual source files retain their respective copyright notices.<br><strong>License:</strong> <a href="#apache-2-0">Apache License 2.0 — full text below</a>.</p>
+            <ul class="sources">
+                <li><a href="https://github.com/k2-fsa/sherpa-onnx/tree/v1.13.8">sherpa-onnx 1.13.8 source</a> · <a href="https://github.com/k2-fsa/sherpa-onnx/blob/v1.13.8/LICENSE">Upstream Apache 2.0 license</a></li>
+                <li><a href="https://github.com/willwade/sherpa-onnx-spm/releases/tag/1.13.8">Binary distribution</a></li>
             </ul>
         </article>
     </section>
@@ -159,7 +179,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.</pre>
         </details>
         <details id="apache-2-0">
-            <summary>Apache License 2.0 — Large V3 Model Notice</summary>
+            <summary>Apache License 2.0 — Large V3, Paraformer and sherpa-onnx</summary>
             <pre>                                 Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
