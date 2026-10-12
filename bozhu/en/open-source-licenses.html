@@ -101,6 +101,19 @@
                 <li><a href="https://huggingface.co/csukuangfj/sherpa-onnx-paraformer-zh-2024-03-09/tree/906992d326ebf0c5171cde675aa0902be9e5bc6c">Pinned ONNX / INT8 model files</a> · <a href="https://huggingface.co/csukuangfj/sherpa-onnx-paraformer-zh-2024-03-09/blob/906992d326ebf0c5171cde675aa0902be9e5bc6c/README.md">Conversion provenance</a></li>
             </ul>
         </article>
+        <article id="qwen3-asr-1-7b">
+            <h3>Qwen3-ASR 1.7B — Qwen Team / Alibaba Cloud</h3>
+            <p>Optional multilingual speech recognition model available in VoiceFolio for macOS. The original model weights and tokenizer are published by the Qwen team. VoiceFolio uses an independent mixed-precision INT8 / FP32 ONNX conversion distributed by solavr for sherpa-onnx.</p>
+            <p><strong>Attribution:</strong> Qwen Team / Alibaba Cloud; independent ONNX conversion distributed by solavr.<br><strong>License:</strong> The original model, official implementation used for export, and independent exporter identify <a href="#apache-2-0">Apache License 2.0 — full text below</a>. The conversion's <a href="#qwen3-asr-notice">NOTICE is retained below</a>.</p>
+            <p><strong>Base model:</strong> <code>Qwen/Qwen3-ASR-1.7B</code>, revision <code>7278e1e70fe206f11671096ffdd38061171dd6e5</code>.<br><strong>Conversion:</strong> <code>solavr/sherpa-onnx-qwen3-asr-1.7B-int8</code>, revision <code>455608654fe097e55cc9ecac65fd83e53d2347c1</code>. VoiceFolio pins the model and tokenizer files to this revision.</p>
+            <p>The conversion exports the original BF16 weights to ONNX, with an FP32 convolutional frontend, an INT8 audio encoder, and a mixed INT8 / FP32 decoder with external weight data. Decoder attention projections remain FP32, and tokenizer files are copied unchanged. This conversion is not an official Qwen or k2-fsa release.</p>
+            <ul class="sources">
+                <li><a href="https://huggingface.co/Qwen/Qwen3-ASR-1.7B/blob/7278e1e70fe206f11671096ffdd38061171dd6e5/README.md">Original Qwen3-ASR 1.7B model card and Apache 2.0 declaration</a></li>
+                <li><a href="https://github.com/QwenLM/Qwen3-ASR/tree/7c6daf77a2421100f5fb066495372c00129d39ff">Official model implementation used for export</a></li>
+                <li><a href="https://huggingface.co/solavr/sherpa-onnx-qwen3-asr-1.7B-int8/tree/455608654fe097e55cc9ecac65fd83e53d2347c1">Pinned mixed-precision ONNX model files</a> · <a href="https://huggingface.co/solavr/sherpa-onnx-qwen3-asr-1.7B-int8/blob/455608654fe097e55cc9ecac65fd83e53d2347c1/README.md">Conversion provenance</a></li>
+                <li><a href="https://huggingface.co/solavr/sherpa-onnx-qwen3-asr-1.7B-int8/blob/455608654fe097e55cc9ecac65fd83e53d2347c1/LICENSE">Conversion license</a> · <a href="https://huggingface.co/solavr/sherpa-onnx-qwen3-asr-1.7B-int8/blob/455608654fe097e55cc9ecac65fd83e53d2347c1/NOTICE">Conversion NOTICE</a> · <a href="https://huggingface.co/solavr/sherpa-onnx-qwen3-asr-1.7B-int8/blob/455608654fe097e55cc9ecac65fd83e53d2347c1/MODIFICATIONS.md">Conversion modifications</a></li>
+            </ul>
+        </article>
     </section>
 
     <!-- Add future library notices here; retain the component's own copyright. -->
@@ -118,7 +131,7 @@
         </article>
         <article id="sherpa-onnx">
             <h3>sherpa-onnx — k2-fsa</h3>
-            <p>On-device speech recognition runtime used for Paraformer INT8. VoiceFolio uses the 1.13.8 binary distribution packaged by willwade/sherpa-onnx-spm, with its own local Swift wrapper.</p>
+            <p>On-device speech recognition runtime used for Paraformer INT8 and Qwen3-ASR 1.7B. VoiceFolio uses the 1.13.8 binary distribution packaged by willwade/sherpa-onnx-spm, with its own local Swift wrapper.</p>
             <p><strong>Attribution:</strong> k2-fsa and sherpa-onnx contributors. Individual source files retain their respective copyright notices.<br><strong>License:</strong> <a href="#apache-2-0">Apache License 2.0 — full text below</a>.</p>
             <ul class="sources">
                 <li><a href="https://github.com/k2-fsa/sherpa-onnx/tree/v1.13.8">sherpa-onnx 1.13.8 source</a> · <a href="https://github.com/k2-fsa/sherpa-onnx/blob/v1.13.8/LICENSE">Upstream Apache 2.0 license</a></li>
@@ -178,8 +191,35 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.</pre>
         </details>
+        <details id="qwen3-asr-notice">
+            <summary>Conversion NOTICE — Qwen3-ASR 1.7B</summary>
+            <pre>Qwen3-ASR 1.7B INT8 ONNX conversion
+
+Base model:
+  Qwen/Qwen3-ASR-1.7B
+  https://huggingface.co/Qwen/Qwen3-ASR-1.7B
+  Revision: 7278e1e70fe206f11671096ffdd38061171dd6e5
+  License: Apache-2.0
+
+Official model implementation used for export:
+  QwenLM/Qwen3-ASR
+  https://github.com/QwenLM/Qwen3-ASR
+  Revision: 7c6daf77a2421100f5fb066495372c00129d39ff
+  License: Apache-2.0
+
+Conversion implementation:
+  Independent Qwen3-ASR-to-ONNX exporter
+  License: Apache-2.0
+
+Runtime compatibility target:
+  k2-fsa/sherpa-onnx 1.13.7
+  https://github.com/k2-fsa/sherpa-onnx
+
+No source code or generated model files from a third-party Qwen3-ASR ONNX
+converter are used. This is not an official release of Qwen or k2-fsa.</pre>
+        </details>
         <details id="apache-2-0">
-            <summary>Apache License 2.0 — Large V3, Paraformer and sherpa-onnx</summary>
+            <summary>Apache License 2.0 — Large V3, Paraformer, Qwen3-ASR and sherpa-onnx</summary>
             <pre>                                 Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
