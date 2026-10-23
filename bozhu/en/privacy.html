@@ -31,6 +31,7 @@
 </head>
 <body>
 
+<main id="general-policy">
 <h1>Privacy Policy</h1>
 <p class="update-date">Last updated: September 14, 2026</p>
 
@@ -251,10 +252,57 @@
     <p><strong>Email:</strong> <a href="mailto:arthur.dy.lee@gmail.com">arthur.dy.lee@gmail.com</a></p>
 </div>
 
+</main>
+
+<main id="lumame-policy" hidden>
+<h1>LumaMe Privacy Policy</h1>
+<p class="update-date">Last updated: October 23, 2026</p>
+<p>This notice describes LumaMe, developed by Bozhu Li. Advertising disclosures apply to versions that integrate Google AdMob; earlier versions without that SDK do not perform that advertising processing. LumaMe does not require an account.</p>
+
+<h2>1. Lighting, camera and private media</h2>
+<p>LumaMe processes lighting presets, drafts, settings, photos and videos on your device. The app does not upload this content to a developer-operated server or include it in advertising requests. Camera and microphone permissions are requested for the capture features you choose. A copy is added to the system Photos library only when you select that save destination. Sharing or exporting content uses the destination you choose and its privacy practices.</p>
+
+<h2>2. Advertising data and purposes</h2>
+<p>The free version includes Google AdMob advertising and Google's User Messaging Platform (UMP) consent service. Depending on consent, system permissions and the services used, Google may process:</p>
+<ul>
+    <li>IP address and approximate location inferred from it; LumaMe does not request precise location for ads.</li>
+    <li>Device and advertising identifiers, including IDFA when tracking is permitted.</li>
+    <li>Advertising data, such as ad views and interactions, and product interaction data.</li>
+    <li>Crash data, performance data and other diagnostic data.</li>
+</ul>
+<p>These seven App Store data categories support advertising, advertising measurement, analytics, SDK operation and fraud prevention. In the integrated Google Mobile Ads 13.10.0 privacy manifest, approximate location, device identifiers, advertising data and product interactions are linked to the user; crash, performance and other diagnostics are declared not linked. Device identifiers may be used for tracking across other companies' apps and websites when authorized. The App Store privacy label includes third-party SDK processing even when the developer does not receive that data directly.</p>
+<p>See <a href="https://policies.google.com/privacy">Google's Privacy Policy</a> and <a href="https://developers.google.com/admob/ios/privacy/data-disclosure">Google Mobile Ads data disclosures</a> for provider practices, purposes and retention.</p>
+
+<h2>3. Consent, tracking and ad-free access</h2>
+<p>LumaMe updates applicable regional consent through UMP before requesting ads. Where needed, advertising privacy options and a consent retry are available in Settings. Apple's App Tracking Transparency permission is separate: you can decline or change it under iOS Settings &gt; Privacy &amp; Security &gt; Tracking. Declining tracking does not restrict basic lighting, capture or media features or require payment. Ad availability and personalization depend on your choices and applicable requirements.</p>
+<p>Valid Pro subscriptions, subscription trials, lifetime purchases and eligible promotional entitlements provide ad-free access. Ads remain paused while purchase eligibility is unresolved. Watching a rewarded ad is optional and grants a local extra-use session; it does not grant Pro status.</p>
+
+<h2>4. Purchases, support and external links</h2>
+<p>Apple handles App Store payments. LumaMe uses purchase entitlement information to unlock features and remove ads; the developer does not receive your payment-card details. If you contact support, we receive the email and information you choose to send and retain it as needed to handle your request and applicable legal duties. Legal and support websites, advertising services and destinations you open may receive connection information and operate under their own privacy notices, including processing outside your country where permitted with applicable safeguards.</p>
+
+<h2>5. Local retention, export and deletion</h2>
+<p>Manage or export local settings and delete local data from LumaMe Settings. Deleting all local data clears local advertising reward records and the active ad session/cache. Daily advertising display limits remain in the device Keychain to avoid repeated interruptions; original feature-use quotas and Apple purchase entitlements are separate. Recently Deleted retains private media for seven days unless you restore or permanently delete it earlier.</p>
+<p>Deleting LumaMe data does not delete copies exported to Photos or other destinations, system backups, Apple purchase records, or data already held by Google. Manage those copies and provider-held data through the relevant service. We do not hold a server-side copy of your private media to recover.</p>
+
+<h2>6. Rights, children and changes</h2>
+<p>Depending on applicable law, you may request access, correction, deletion, export, restriction or objection, withdraw consent, opt out of sale or sharing where applicable, and complain to a supervisory authority. Local-only data is controlled from your device; contact us about information we actually hold or for help with a provider. LumaMe is not directed at children under 13 or the applicable local age of consent, and we do not knowingly collect children's personal information. Contact us if you believe a child has provided it.</p>
+<p>Updates show a new date here. Where required, material processing changes require renewed consent before taking effect.</p>
+
+<h2>7. Contact</h2>
+<div class="contact"><p>Developer: Bozhu Li</p><p>Email: <a href="mailto:arthur.dy.lee@gmail.com">arthur.dy.lee@gmail.com</a></p></div>
+<p><a href="../zh/privacy.html?name=LumaMe" lang="zh-Hans" hreflang="zh-Hans">简体中文</a></p>
+</main>
+
 <script>
     (function() {
         var params = new URLSearchParams(window.location.search);
         var appName = params.get('name') || params.get('app') || 'Our App';
+        if (appName.trim().toLowerCase() === 'lumame') {
+            document.getElementById('general-policy').hidden = true;
+            document.getElementById('lumame-policy').hidden = false;
+            document.title = 'Privacy Policy - LumaMe';
+            return;
+        }
         var els = document.querySelectorAll('.app-name');
         for (var i = 0; i < els.length; i++) {
             els[i].textContent = appName;
