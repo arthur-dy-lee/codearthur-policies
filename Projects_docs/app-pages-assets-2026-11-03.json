@@ -1,0 +1,331 @@
+[
+  {
+    "path": "projects_publish/en/silencecut/assets/app-icon.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/41/1a/a8411ae1-c4fb-7030-77f1-ce69fa53494c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "pixels": [
+      512,
+      512
+    ],
+    "bytes": 38383,
+    "sha256": "1c283f3b8c4cf1b24cb55ae81d0b6b05b953e400dc78371577ae119824f9372a"
+  },
+  {
+    "path": "projects_publish/en/silencecut/assets/preview-1.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/83/eb/ce83eb4f-0fe3-0885-8e08-868b13978332/Screenshot_iPhone_17_Pro_Max_10-09-2026_at_19.11.43.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1304
+    ],
+    "bytes": 68957,
+    "sha256": "6a3c822a67bdfb2e99edd5e79950469a79dc644e87796752b77caa6219e46144"
+  },
+  {
+    "path": "projects_publish/en/silencecut/assets/preview-2.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/96/18/e1961826-9caf-c668-daf0-3244d4d0757a/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-09-07_at_22.09.41.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1304
+    ],
+    "bytes": 126501,
+    "sha256": "ecbde1e51ee23e77cd2e1819830a9a95047b38a9f88817f8e0c92510335963f4"
+  },
+  {
+    "path": "projects_publish/en/silencecut/assets/preview-3.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/09/c2/ba09c2ba-ba1b-96a1-addf-77b7b9540dd4/Screenshot_iPhone_17_Pro_Max_10-09-2026_at_19.38.10.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1304
+    ],
+    "bytes": 112229,
+    "sha256": "949c995820ef0006f1db9d5e2b65a8afa5d50a6568e768c92863c69490b56216"
+  },
+  {
+    "path": "projects_publish/en/financefreedom/assets/app-icon.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/c3/00/b9c30086-08ed-ccb3-52d5-4e9510489386/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "pixels": [
+      512,
+      512
+    ],
+    "bytes": 33363,
+    "sha256": "fe25ec4bfb4ed6a300a12dd73b76e4d0c54e3c2b45bbd40b2104644db12ddfd3"
+  },
+  {
+    "path": "projects_publish/en/financefreedom/assets/preview-1.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/39/a1/cb39a14e-c4f8-9fc7-9779-9ab865523d29/0_APP_IPHONE_67_0.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1304
+    ],
+    "bytes": 102021,
+    "sha256": "5acf0ce1473e0e97a1937ba0108e5ccb979bd32cfa98a86be54d3e6bd9d580d7"
+  },
+  {
+    "path": "projects_publish/en/financefreedom/assets/preview-2.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/23/65/c3236517-e1b3-469b-e65d-8fac0c6adad9/1_APP_IPHONE_67_1.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1304
+    ],
+    "bytes": 130746,
+    "sha256": "47d323a7ee38d39b129079cdcba60bb645e53cb449524d895ccc669ccf8903b1"
+  },
+  {
+    "path": "projects_publish/en/financefreedom/assets/preview-3.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/64/2e/4e642ebd-8beb-f524-5b9e-bfbf415698ed/2_APP_IPHONE_67_2.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1304
+    ],
+    "bytes": 66901,
+    "sha256": "8fdf60566ed7cf47a74044fd490bbf101bf015f984e32bf789112b9099e56f5f"
+  },
+  {
+    "path": "projects_publish/en/voicefolio/assets/app-icon.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/11/81/d61181fc-2118-feeb-5dd9-2a6ed16baf91/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "pixels": [
+      512,
+      512
+    ],
+    "bytes": 54972,
+    "sha256": "ad30fbe1832fba3c768a3e293340b3f31958198d9615f3dff0608f1bcfa7cf2f"
+  },
+  {
+    "path": "projects_publish/en/voicefolio/assets/preview-1.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/22/ea/0c22eab0-458d-968d-3ec8-71ec7d45212b/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-25_at_23.13.23.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1298
+    ],
+    "bytes": 60652,
+    "sha256": "31f846982157efb5afbcaa21025e6369be01900cf7a8037790b67ef6210bad14"
+  },
+  {
+    "path": "projects_publish/en/voicefolio/assets/preview-2.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/8b/8e/308b8ef2-9282-187a-255c-8f1daccf0b2a/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-07-01_at_16.07.31.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1298
+    ],
+    "bytes": 115700,
+    "sha256": "32f5751bacc19805fe9733f4a0a21fe48e3f43c8298848fb4ed32b0979ab8cb9"
+  },
+  {
+    "path": "projects_publish/en/voicefolio/assets/preview-3.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/07/a1/2107a1c9-337d-5bf2-8945-8d94b58b747f/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-07-01_at_15.46.44.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1298
+    ],
+    "bytes": 89440,
+    "sha256": "39ca5a7967122757ad5a7dda26ac4ca37b36562e4d9f72a13ac362f22eb58b65"
+  },
+  {
+    "path": "projects_publish/en/prompttempo/assets/app-icon.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/8d/46/078d46b1-8097-053a-0e58-d801797d9e98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "pixels": [
+      512,
+      512
+    ],
+    "bytes": 27572,
+    "sha256": "23d1cf650e9575b6bb90ddf589277b3d9d933d7bbf9151c450e494c10bb3a715"
+  },
+  {
+    "path": "projects_publish/en/prompttempo/assets/preview-1.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/de/30/acde304b-a5eb-26cb-6d71-376daa5f8f31/Codex__U56fe_U50cf_2026_U5e749_U670819_U65e5_20_05_21.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1298
+    ],
+    "bytes": 156116,
+    "sha256": "7ca8eda5cf0c9ad57a5b47f157b690ce21e6551a4c8092b1c5f9fba2f64551e1"
+  },
+  {
+    "path": "projects_publish/en/prompttempo/assets/preview-2.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/b1/63/57b163dc-6a6e-779f-7600-5ff214b621ca/Screenshot_iPhone_18_Pro_Max_09-19-2026_at_20.28.51.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1298
+    ],
+    "bytes": 73257,
+    "sha256": "87bbf808ae1cc1e9056d0e680a9560ef5f3bd669c0f63aa7634a3f28745a89f7"
+  },
+  {
+    "path": "projects_publish/en/prompttempo/assets/preview-3.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/e0/69/f4e06930-4a75-0c9b-4acf-5e19b60bc94f/Screenshot_iPhone_18_Pro_Max_09-19-2026_at_20.28.59.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1298
+    ],
+    "bytes": 100905,
+    "sha256": "6608003561df865137e6db86d1de194cfcbf3f35280e55d85d3cc75f2dd20cec"
+  },
+  {
+    "path": "projects_publish/en/lumame/assets/app-icon.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/2d/84/202d84ed-18d6-b82c-0134-77b9cce24f37/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "pixels": [
+      512,
+      512
+    ],
+    "bytes": 33365,
+    "sha256": "4f17c298b9968f730f4488c34b009b13e0b57ddbd5b0420723d8bc9e1d67ad60"
+  },
+  {
+    "path": "projects_publish/en/lumame/assets/preview-1.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/e9/b4/1ee9b4a0-d0e2-6731-6fea-6990c18c3ff2/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-09-09_at_18.39.58.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1298
+    ],
+    "bytes": 83786,
+    "sha256": "37b726aa166ca87310ef8f1638ec34f18b901d3d04820647e2fda09c14f50d7a"
+  },
+  {
+    "path": "projects_publish/en/lumame/assets/preview-2.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/77/5b/d8775bb1-9b07-1783-f561-57ba5569db5f/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-09-09_at_18.37.53.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1298
+    ],
+    "bytes": 63454,
+    "sha256": "66e43523b34c4724c1aec93e94bff0f3ac1a11e13d0f4041bb2ebf2a04ffb1c4"
+  },
+  {
+    "path": "projects_publish/en/lumame/assets/preview-3.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/56/e0/4e56e0e0-ea1e-7007-b72c-82441192f9be/Codex__U56fe_U50cf_2026_U5e749_U67088_U65e5_23_34_53.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1298
+    ],
+    "bytes": 87561,
+    "sha256": "82a605e7c3f4dfe6d89de3c8822ccfe1589265b838ca57d093d3e59d380d8b8d"
+  },
+  {
+    "path": "projects_publish/en/healthrhythm/assets/app-icon.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/09/f5/a509f560-c443-5188-c398-dd0c63dce794/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "pixels": [
+      512,
+      512
+    ],
+    "bytes": 34776,
+    "sha256": "82ccff577b963941e85d35b1f096be1ea23a3ed96cf323d936772354465ad248"
+  },
+  {
+    "path": "projects_publish/en/healthrhythm/assets/preview-1.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/1b/e7/391be7bf-59b9-21e3-e026-f34ac566b804/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_21.39.24.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1298
+    ],
+    "bytes": 110125,
+    "sha256": "47239e926f17aa00b5efe4eafd48cf9ba3ea6e984b3eb74c737d31fcd53b5701"
+  },
+  {
+    "path": "projects_publish/en/healthrhythm/assets/preview-2.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/21/da/b821da5b-6c14-2048-72b9-01da11421716/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_21.39.37.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1298
+    ],
+    "bytes": 119325,
+    "sha256": "7023b23aebee2621920b53e78bc7088d81dc0a17ab7b87887a4121fddb003f67"
+  },
+  {
+    "path": "projects_publish/en/healthrhythm/assets/preview-3.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/67/b9/b567b9b3-08d1-80c0-6d37-0b65f89307bb/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-01_at_21.39.53.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1298
+    ],
+    "bytes": 80879,
+    "sha256": "d4ebfbfef3b1b4dc10e4dd091a796e63fb777af0dbee95d0eaf5062a5a706cf2"
+  },
+  {
+    "path": "projects_publish/en/breathlever/assets/app-icon.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/67/80/236780fd-ab62-00df-cff5-782fd8193f2b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "pixels": [
+      512,
+      512
+    ],
+    "bytes": 45260,
+    "sha256": "0b597cf1110bacc6eb7695d1e2003b822b3c2c84b5b8cce32ac164af3c6b5bd1"
+  },
+  {
+    "path": "projects_publish/en/breathlever/assets/preview-1.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/7d/78/c27d7896-7e10-7554-b991-27b9313e3df6/01_iPhone_home.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1304
+    ],
+    "bytes": 135892,
+    "sha256": "d2765b2d9caa19c717aaebe963e527ffe4647201137a46309a224698ca805e16"
+  },
+  {
+    "path": "projects_publish/en/breathlever/assets/preview-2.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/86/98/b786987e-42a7-aee4-8008-0eefa6470800/02_iPhone_explore.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1304
+    ],
+    "bytes": 114096,
+    "sha256": "dea662e2e6c1f8db7fb34e103fef15c337098888da5497de7a335bfc7749ad55"
+  },
+  {
+    "path": "projects_publish/en/breathlever/assets/preview-3.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/95/03/a595034c-021c-7830-6f82-de4334588349/03_iPhone_practice.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1304
+    ],
+    "bytes": 62165,
+    "sha256": "123bf5ac877bd1fef27ee691f8d78dab5fa23a57d644011966f707ebd5bbfadc"
+  },
+  {
+    "path": "projects_publish/en/innerrelease/assets/app-icon.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/c8/0c/3bc80ccd-cfa9-63a1-138d-8c262ca82725/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "pixels": [
+      512,
+      512
+    ],
+    "bytes": 27982,
+    "sha256": "c302462ef60719e56ee3b37765a203ed7e9d4ffdbfcefaaf33150445b8ebb379"
+  },
+  {
+    "path": "projects_publish/en/innerrelease/assets/preview-1.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/67/a7/4067a7b0-654e-1c43-0a9b-b44fe6fb329a/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-22_at_22.39.01.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1298
+    ],
+    "bytes": 76932,
+    "sha256": "fa9ad54cd049b946515b6be923d4a34b7e87b45ff74d4e534ea6efb2c8e37353"
+  },
+  {
+    "path": "projects_publish/en/innerrelease/assets/preview-2.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/54/a4/e754a48d-667f-a90e-70da-25976902901f/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-22_at_22.39.04.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1298
+    ],
+    "bytes": 72056,
+    "sha256": "b33ab6d0bcdd85a367268e5df74aec3ca61db5809a4a02cf52a116bbf07db118"
+  },
+  {
+    "path": "projects_publish/en/innerrelease/assets/preview-3.jpg",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/05/8f/47058fac-7338-3844-3c56-a17420eb1b9f/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-22_at_22.53.51.png/600x0w.jpg",
+    "pixels": [
+      600,
+      1298
+    ],
+    "bytes": 52659,
+    "sha256": "0178c0e7beba8ee86378a35ae5744cd4c4959933adf2d5f510c7b69950b725f4"
+  },
+  {
+    "path": "projects_publish/en/silencecut/icon/silencecut-icon-2026.png",
+    "source": "matrixApps/Projects/SilenceCut_App/ios_workspace/SilenceCutApp/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
+    "pixels": [
+      1024,
+      1024
+    ],
+    "sha256": "f9919b86b0fbb84eb847cb8180a619ce07af31a686e94f89634a479a6e4baa3a"
+  }
+]

@@ -1,495 +1,78 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SilenceCut: Remove Silence from Video on iPhone &amp; iPad</title>
-    <meta name="description" content="Remove silence and pauses from videos and podcast audio on iPhone and iPad. SilenceCut offers on-device detection, automatic captions and flexible exports.">
-    <link rel="canonical" href="https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/landing-page/">
-    <meta name="apple-itunes-app" content="app-id=6760957695">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="SilenceCut">
-    <meta property="og:title" content="SilenceCut: Remove Silence from Video on iPhone &amp; iPad">
-    <meta property="og:description" content="Cut silent pauses from videos and podcast audio, add captions and export on iPhone and iPad. Silence detection runs on your device.">
-    <meta property="og:url" content="https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/landing-page/">
-    <meta property="og:image" content="https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/icon/AppIcon-1024.png">
-    <meta property="og:image:alt" content="SilenceCut app icon">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="SilenceCut: Remove Silence from Video on iPhone &amp; iPad">
-    <meta name="twitter:description" content="Remove silent pauses, generate captions and export videos or audio with on-device silence detection.">
-    <meta name="twitter:image" content="https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/icon/AppIcon-1024.png">
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "SoftwareApplication",
-        "name": "SilenceCut",
-        "identifier": "6760957695",
-        "applicationCategory": "MultimediaApplication",
-        "operatingSystem": "iOS 17.0 or later; iPadOS 17.0 or later",
-        "availableOnDevice": ["iPhone", "iPad"],
-        "url": "https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/landing-page/",
-        "downloadUrl": "https://apps.apple.com/app/id6760957695",
-        "image": "https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/icon/AppIcon-1024.png",
-        "description": "Remove silence and pauses from videos and podcast audio with on-device detection, automatic captions and flexible exports."
-    }
-    </script>
-    <style>
-        :root {
-            --bg: #fafafa;
-            --card: #ffffff;
-            --text: #1d1d1f;
-            --text-secondary: #6e6e73;
-            --accent: #0071e3;
-            --accent-hover: #0077ed;
-            --gradient-start: #1a1a2e;
-            --gradient-end: #16213e;
-            --feature-bg: #f5f5f7;
-            --pro-gradient-start: #667eea;
-            --pro-gradient-end: #764ba2;
-        }
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
-            color: var(--text);
-            background: var(--bg);
-            -webkit-font-smoothing: antialiased;
-        }
-
-        /* Hero */
-        .hero {
-            background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
-            color: #fff;
-            text-align: center;
-            padding: 100px 20px 80px;
-            position: relative;
-            overflow: hidden;
-        }
-
-        .hero::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: radial-gradient(circle at 30% 50%, rgba(102, 126, 234, 0.15) 0%, transparent 50%),
-                        radial-gradient(circle at 70% 80%, rgba(118, 75, 162, 0.1) 0%, transparent 50%);
-            animation: float 20s ease-in-out infinite;
-        }
-
-        @keyframes float {
-            0%, 100% { transform: translate(0, 0); }
-            50% { transform: translate(-20px, -20px); }
-        }
-
-        .hero-content { position: relative; z-index: 1; max-width: 680px; margin: 0 auto; }
-
-        .app-icon {
-            width: 120px;
-            height: 120px;
-            border-radius: 26px;
-            margin: 0 auto 32px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-            overflow: hidden;
-        }
-
-        .app-icon img {
-            width: 100%;
-            height: 100%;
-            display: block;
-        }
-
-        .hero h1 {
-            font-size: 56px;
-            font-weight: 700;
-            letter-spacing: -0.02em;
-            margin-bottom: 16px;
-        }
-
-        .hero .tagline {
-            font-size: 22px;
-            color: rgba(255,255,255,0.8);
-            margin-bottom: 40px;
-            line-height: 1.5;
-        }
-
-        .app-store-badge {
-            display: inline-block;
-            transition: transform 0.2s;
-        }
-
-        .app-store-badge:hover { transform: scale(1.05); }
-
-        .app-store-badge img { height: 54px; }
-
-        /* Sections */
-        section { padding: 80px 20px; }
-
-        .container { max-width: 1080px; margin: 0 auto; }
-
-        .section-title {
-            font-size: 40px;
-            font-weight: 700;
-            text-align: center;
-            margin-bottom: 16px;
-            letter-spacing: -0.02em;
-        }
-
-        .section-subtitle {
-            font-size: 18px;
-            color: var(--text-secondary);
-            text-align: center;
-            margin-bottom: 56px;
-            max-width: 600px;
-            margin-left: auto;
-            margin-right: auto;
-            line-height: 1.6;
-        }
-
-        /* Features Grid */
-        .features-grid {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 24px;
-        }
-
-        .feature-card {
-            background: var(--card);
-            border-radius: 20px;
-            padding: 36px 28px;
-            text-align: center;
-            transition: transform 0.3s, box-shadow 0.3s;
-            border: 1px solid rgba(0,0,0,0.04);
-        }
-
-        .feature-card:hover {
-            transform: translateY(-4px);
-            box-shadow: 0 12px 40px rgba(0,0,0,0.08);
-        }
-
-        .feature-icon {
-            width: 56px;
-            height: 56px;
-            border-radius: 14px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin: 0 auto 20px;
-            font-size: 28px;
-        }
-
-        .feature-icon.detect { background: #e8f5e9; }
-        .feature-icon.tune { background: #e3f2fd; }
-        .feature-icon.subtitle { background: #fce4ec; }
-        .feature-icon.export { background: #fff3e0; }
-        .feature-icon.privacy { background: #f3e5f5; }
-        .feature-icon.speed { background: #e0f7fa; }
-
-        .feature-card h3 {
-            font-size: 18px;
-            font-weight: 600;
-            margin-bottom: 10px;
-        }
-
-        .feature-card p {
-            font-size: 15px;
-            color: var(--text-secondary);
-            line-height: 1.6;
-        }
-
-        /* How it works */
-        .how-it-works { background: var(--feature-bg); }
-
-        .steps {
-            display: flex;
-            gap: 40px;
-            align-items: flex-start;
-            justify-content: center;
-        }
-
-        .step {
-            text-align: center;
-            flex: 1;
-            max-width: 260px;
-            position: relative;
-        }
-
-        .step:not(:last-child)::after {
-            content: '→';
-            position: absolute;
-            right: -28px;
-            top: 36px;
-            font-size: 28px;
-            color: var(--text-secondary);
-        }
-
-        .step-number {
-            width: 64px;
-            height: 64px;
-            border-radius: 50%;
-            background: linear-gradient(135deg, var(--pro-gradient-start), var(--pro-gradient-end));
-            color: #fff;
-            font-size: 26px;
-            font-weight: 700;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin: 0 auto 20px;
-        }
-
-        .step h3 {
-            font-size: 18px;
-            font-weight: 600;
-            margin-bottom: 8px;
-        }
-
-        .step p {
-            font-size: 15px;
-            color: var(--text-secondary);
-            line-height: 1.5;
-        }
-
-        /* Pro Section */
-        .pro-section {
-            background: linear-gradient(135deg, var(--pro-gradient-start), var(--pro-gradient-end));
-            color: #fff;
-            text-align: center;
-            border-radius: 0;
-        }
-
-        .pro-section .section-title { color: #fff; }
-        .pro-section .section-subtitle { color: rgba(255,255,255,0.8); }
-
-        .pro-features {
-            display: flex;
-            gap: 32px;
-            justify-content: center;
-            flex-wrap: wrap;
-        }
-
-        .pro-item {
-            background: rgba(255,255,255,0.15);
-            backdrop-filter: blur(10px);
-            border-radius: 16px;
-            padding: 28px 32px;
-            min-width: 200px;
-            border: 1px solid rgba(255,255,255,0.2);
-        }
-
-        .pro-item .icon { font-size: 32px; margin-bottom: 12px; }
-        .pro-item h3 { font-size: 17px; font-weight: 600; margin-bottom: 6px; }
-        .pro-item p { font-size: 14px; color: rgba(255,255,255,0.7); }
-
-        /* FAQ */
-        .faq .container { max-width: 800px; }
-        .faq-items { display: grid; gap: 28px; }
-        .faq-item h3 { font-size: 20px; margin-bottom: 10px; }
-        .faq-item p { color: var(--text-secondary); font-size: 16px; line-height: 1.7; }
-
-        /* CTA */
-        .cta {
-            text-align: center;
-            padding: 80px 20px;
-        }
-
-        .cta h2 {
-            font-size: 36px;
-            font-weight: 700;
-            margin-bottom: 16px;
-        }
-
-        .cta p {
-            font-size: 18px;
-            color: var(--text-secondary);
-            margin-bottom: 32px;
-        }
-
-        /* Footer */
-        footer {
-            text-align: center;
-            padding: 40px 20px;
-            border-top: 1px solid rgba(0,0,0,0.06);
-            color: var(--text-secondary);
-            font-size: 14px;
-        }
-
-        footer a {
-            color: var(--text-secondary);
-            text-decoration: none;
-            margin: 0 12px;
-        }
-
-        footer a:hover { color: var(--accent); }
-
-        .footer-links { margin-bottom: 16px; }
-
-        /* Responsive */
-        @media (max-width: 768px) {
-            .hero { padding: 60px 20px 50px; }
-            .hero h1 { font-size: 36px; }
-            .hero .tagline { font-size: 18px; }
-            .section-title { font-size: 28px; }
-            .features-grid { grid-template-columns: 1fr; max-width: 400px; margin: 0 auto; }
-            .steps { flex-direction: column; align-items: center; }
-            .step:not(:last-child)::after { content: '↓'; right: auto; bottom: -28px; top: auto; left: 50%; transform: translateX(-50%); }
-            .pro-features { flex-direction: column; align-items: center; }
-        }
-
-        @media (max-width: 480px) {
-            .hero h1 { font-size: 28px; }
-            section { padding: 60px 16px; }
-        }
-    </style>
+  <title>SilenceCut — Remove Video Silence &amp; Create Multilingual Captions</title>
+  <meta name="description" content="Remove silent pauses from video and audio, recognize speech in multiple languages, and edit captions with SilenceCut for iPhone, iPad and Mac.">
+  <link rel="canonical" href="https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/landing-page/">
+  <link rel="stylesheet" href="/codearthur-policies/projects_publish/en/assets/app-pages.css?v=20261103">
+  <link rel="icon" href="https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/icon/silencecut-icon-2026.png">
+  <link rel="apple-touch-icon" href="https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/icon/silencecut-icon-2026.png">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Apps by Bozhu Li">
+  <meta property="og:title" content="SilenceCut — Remove Video Silence &amp; Create Multilingual Captions">
+  <meta property="og:description" content="Remove silent pauses from video and audio, recognize speech in multiple languages, and edit captions with SilenceCut for iPhone, iPad and Mac.">
+  <meta property="og:url" content="https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/landing-page/">
+  <meta property="og:image" content="https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/icon/silencecut-icon-2026.png">
+  <meta property="og:image:alt" content="SilenceCut — Remove Video Silence &amp; Create Multilingual Captions app icon">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="SilenceCut — Remove Video Silence &amp; Create Multilingual Captions">
+  <meta name="twitter:description" content="Remove silent pauses from video and audio, recognize speech in multiple languages, and edit captions with SilenceCut for iPhone, iPad and Mac.">
+  <meta name="twitter:image" content="https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/icon/silencecut-icon-2026.png">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "SoftwareApplication", "@id": "https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/landing-page/#app", "name": "SilenceCut", "identifier": "6760957695", "url": "https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/landing-page/", "downloadUrl": "https://apps.apple.com/app/id6760957695", "image": "https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/icon/silencecut-icon-2026.png", "applicationCategory": "MultimediaApplication", "operatingSystem": ["iOS", "iPadOS", "macOS"], "description": "Remove silent pauses from video and audio, recognize speech in multiple languages, and edit captions with SilenceCut for iPhone, iPad and Mac.", "featureList": ["Keep your natural rhythm", "Captions in the spoken language", "Finish in your own format"], "author": {"@type": "Person", "name": "Bozhu Li", "url": "https://arthur-dy-lee.github.io/codearthur-policies/"}}, {"@type": "WebPage", "@id": "https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/landing-page/", "url": "https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/landing-page/", "name": "SilenceCut — Remove Video Silence & Create Multilingual Captions", "description": "Remove silent pauses from video and audio, recognize speech in multiple languages, and edit captions with SilenceCut for iPhone, iPad and Mac.", "inLanguage": "en", "about": {"@id": "https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/landing-page/#app"}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "All apps", "item": "https://arthur-dy-lee.github.io/codearthur-policies/"}, {"@type": "ListItem", "position": 2, "name": "SilenceCut", "item": "https://arthur-dy-lee.github.io/codearthur-policies/projects_publish/en/silencecut/landing-page/"}]}]}</script>
 </head>
-<body>
-
-<!-- Hero -->
-<section class="hero">
-    <div class="hero-content">
-        <div class="app-icon"><img src="../icon/AppIcon-1024.png" alt="SilenceCut App Icon"></div>
-        <h1>SilenceCut: Remove Video Silence</h1>
-        <p class="tagline">Automatically remove silent segments from your videos.<br>Fast. Offline. Private.</p>
-        <a class="app-store-badge" href="https://apps.apple.com/app/silencecut/id6760957695" target="_blank" rel="noopener">
-            <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store">
-        </a>
+<body class="product" style="--accent:#2459d4;--soft:#e9efff">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header"><div class="wrap nav-inner">
+  <a class="brand" href="/codearthur-policies/"><span class="brand-mark" aria-hidden="true">b.</span><span>Bozhu Li<small>Independent apps</small></span></a>
+  <nav aria-label="Main navigation"><a href="#features">Features</a><a href="#screenshots">In the app</a><a class="nav-all" href="/codearthur-policies/#apps">All apps <span aria-hidden="true">↗</span></a></nav>
+</div></header>
+<main id="main">
+  <div class="wrap breadcrumbs"><a href="/codearthur-policies/">All apps</a><span aria-hidden="true">/</span><span>SilenceCut</span></div>
+  <section class="hero wrap" aria-labelledby="hero-title">
+    <div class="hero-copy">
+      <div class="app-identity"><img class="app-icon" src="/codearthur-policies/projects_publish/en/silencecut/icon/silencecut-icon-2026.png" alt="SilenceCut app icon" width="64" height="64" decoding="async"><div><p class="app-name">SilenceCut</p><p class="eyebrow">Video &amp; audio editing</p></div></div>
+      <h1 id="hero-title">Cut the pauses.<br>Keep the story.</h1>
+      <p class="hero-intro">Spend less time trimming the gaps between your words. SilenceCut finds silent pauses in video and audio, lets you shape the pacing, and turns spoken content into readable captions in multiple languages.</p>
+      <div class="hero-actions"><a class="button primary" href="https://apps.apple.com/app/id6760957695" rel="noopener">View on the App Store <span aria-hidden="true">↗</span></a><a class="text-link" href="#how-it-works">How it works <span aria-hidden="true">↓</span></a></div>
+      <p class="availability">iPhone · iPad · Mac<span>Free download · Optional Pro purchases</span></p>
     </div>
+    <div class="hero-visual"><div class="visual-label"><span class="status-dot"></span> A closer look at SilenceCut</div><div class="screenshot-stage">
+      <div class="back-shot"><img class="" src="/codearthur-policies/projects_publish/en/silencecut/assets/preview-2.jpg" alt="SilenceCut — Adjust the edit and export, official App Store screenshot" width="600" height="1304" loading="eager" decoding="async"></div><div class="front-shot"><img class="" src="/codearthur-policies/projects_publish/en/silencecut/assets/preview-3.jpg" alt="SilenceCut — Review captions, official App Store screenshot" width="600" height="1304" loading="eager" decoding="async"></div>
+    </div><p class="visual-note">Real app screenshots from the App Store.</p></div>
+  </section>
+  <div class="fact-strip wrap" aria-label="At a glance"><div><strong>On-device</strong><span>Silence removal</span></div><div><strong>Multilingual</strong><span>Speech recognition</span></div><div><strong>Video + audio</strong><span>Flexible exports</span></div></div>
+  <section class="section wrap" id="features" aria-labelledby="feature-title">
+    <div class="section-heading"><p class="eyebrow">Made for the way you work</p><h2 id="feature-title">A few thoughtful tools.<br>A clearer next step.</h2></div>
+    <div class="feature-grid"><article class="feature"><span class="index">01</span><h3>Keep your natural rhythm</h3><p>Adjust the volume threshold, minimum silence duration and padding. Preview the result so a thoughtful pause can stay, while unwanted dead air goes.</p></article><article class="feature"><span class="index">02</span><h3>Captions in the spoken language</h3><p>Let recognition detect the language or choose it yourself. Review the text and timing before sharing your work.</p></article><article class="feature"><span class="index">03</span><h3>Finish in your own format</h3><p>Export an MP4 or an audio-only file, adjust resolution and playback speed, and add captions when your project needs them.</p></article></div>
+  </section>
+<section class="caption-section wrap" aria-labelledby="caption-title">
+  <div><p class="eyebrow">Multilingual subtitle recognition</p><h2 id="caption-title">Your words.<br>Your spoken language.</h2></div>
+  <div><p>Recognize speech in the original language. Choose Auto for language detection, or select the source language before generating captions. Then review the words and timing, and decide how to export them.</p>
+  <ul class="language-list" aria-label="Examples of supported source languages"><li>English</li><li>Chinese</li><li>Japanese</li><li>Korean</li><li>Spanish</li><li>French</li><li>German</li></ul>
+  <p class="fine-print">Examples, not an exhaustive list. Language support depends on the selected speech model. Model files must be ready for offline recognition.</p></div>
 </section>
-
-<!-- How It Works -->
-<section class="how-it-works">
-    <div class="container">
-        <h2 class="section-title">Three Steps. That's It.</h2>
-        <p class="section-subtitle">Import your video, let SilenceCut find the silence, and export a tighter cut.</p>
-        <div class="steps">
-            <div class="step">
-                <div class="step-number">1</div>
-                <h3>Import</h3>
-                <p>Pick a video or audio file from your Photo Library or Files app.</p>
-            </div>
-            <div class="step">
-                <div class="step-number">2</div>
-                <h3>Detect</h3>
-                <p>SilenceCut automatically finds and marks all silent segments in seconds.</p>
-            </div>
-            <div class="step">
-                <div class="step-number">3</div>
-                <h3>Export</h3>
-                <p>Export your polished video as MP4, MOV, or audio-only — ready to share.</p>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Features -->
-<section>
-    <div class="container">
-        <h2 class="section-title">Powerful Features</h2>
-        <p class="section-subtitle">Everything you need to cut the silence and keep the content.</p>
-        <div class="features-grid">
-            <div class="feature-card">
-                <div class="feature-icon detect">🎯</div>
-                <h3>Smart Silence Detection</h3>
-                <p>Adaptive threshold automatically adjusts to your audio's noise floor for accurate results in any recording environment.</p>
-            </div>
-            <div class="feature-card">
-                <div class="feature-icon tune">🎛️</div>
-                <h3>Fine-Tune Controls</h3>
-                <p>Adjust volume threshold, minimum silence duration, and padding to get exactly the cut you want.</p>
-            </div>
-            <div class="feature-card">
-                <div class="feature-icon subtitle">💬</div>
-                <h3>AI Subtitles</h3>
-                <p>Generate subtitles with on-device Whisper AI models — from Tiny to Large. Burned right into your video, fully offline.</p>
-            </div>
-            <div class="feature-card">
-                <div class="feature-icon export">📦</div>
-                <h3>Flexible Export</h3>
-                <p>MP4, MOV, M4A, or WAV. Choose from Original, 4K, 1080p, or 720p resolution. Adjust speed from 0.5x to 2.0x.</p>
-            </div>
-            <div class="feature-card">
-                <div class="feature-icon privacy">🔒</div>
-                <h3>100% Private</h3>
-                <p>All processing happens on your device. Your files are never uploaded to any server. No internet required.</p>
-            </div>
-            <div class="feature-card">
-                <div class="feature-icon speed">⚡</div>
-                <h3>Lightning Fast</h3>
-                <p>Optimized 16kHz audio analysis delivers results in seconds, even for long recordings.</p>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Pro -->
-<section class="pro-section">
-    <div class="container">
-        <h2 class="section-title">Go Pro</h2>
-        <p class="section-subtitle">Unlock the full SilenceCut experience.</p>
-        <div class="pro-features">
-            <div class="pro-item">
-                <div class="icon">♾️</div>
-                <h3>Unlimited Projects</h3>
-                <p>No limits on how many videos you process.</p>
-            </div>
-            <div class="pro-item">
-                <div class="icon">✨</div>
-                <h3>No Watermark</h3>
-                <p>Export clean, professional videos.</p>
-            </div>
-            <div class="pro-item">
-                <div class="icon">🚫</div>
-                <h3>No Ads</h3>
-                <p>A completely distraction-free experience.</p>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- FAQ -->
-<section class="faq" aria-labelledby="faq-title">
-    <div class="container">
-        <h2 class="section-title" id="faq-title">Video Silence Removal FAQ</h2>
-        <div class="faq-items">
-            <div class="faq-item">
-                <h3>How do I remove pauses from a video on iPhone or iPad?</h3>
-                <p>Import your video into SilenceCut, detect the silent segments, and adjust the silence threshold and padding. Preview your edits before exporting the shorter video.</p>
-            </div>
-            <div class="faq-item">
-                <h3>Can I remove silence from podcast audio?</h3>
-                <p>Yes. SilenceCut also accepts audio files. Detect silent pauses, preview the result, and export audio as M4A or WAV.</p>
-            </div>
-            <div class="faq-item">
-                <h3>Are my videos uploaded for silence detection?</h3>
-                <p>No. Silence detection runs on your device. Your video and audio files are not uploaded to a server for analysis.</p>
-            </div>
-            <div class="faq-item">
-                <h3>What does SilenceCut Pro include?</h3>
-                <p>SilenceCut Pro unlocks watermark-free exports, an ad-free experience and unlimited projects.</p>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- CTA -->
-<section class="cta">
-    <h2>Ready to Cut the Silence?</h2>
-    <p>Available on iPhone and iPad. Requires iOS 17.0 or later.</p>
-    <a class="app-store-badge" href="https://apps.apple.com/app/silencecut/id6760957695" target="_blank" rel="noopener">
-        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store">
-    </a>
-</section>
-
-<!-- Footer -->
-<footer>
-    <div class="footer-links">
-        <a href="https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/privacy.html?name=SilenceCut">Privacy Policy</a>
-        <a href="https://arthur-dy-lee.github.io/codearthur-policies/bozhu/en/support.html">Support</a>
-        <a href="mailto:arthur.dy.lee@gmail.com">Contact</a>
-    </div>
-    <p>&copy; 2025 Bozhu Li. All rights reserved.</p>
+  <section class="screens-section" id="screenshots" aria-labelledby="screens-title"><div class="wrap">
+    <div class="section-heading row-heading"><div><p class="eyebrow">In the app</p><h2 id="screens-title">See it for yourself.</h2></div><p>Official App Store previews.<br>Layouts may vary by device and version.</p></div>
+    <div class="screenshot-gallery"><figure><img class="" src="/codearthur-policies/projects_publish/en/silencecut/assets/preview-1.jpg" alt="SilenceCut — Organize recordings, official App Store screenshot" width="600" height="1304" loading="lazy" decoding="async"><figcaption><span>01</span>Organize recordings</figcaption></figure><figure><img class="" src="/codearthur-policies/projects_publish/en/silencecut/assets/preview-2.jpg" alt="SilenceCut — Adjust the edit and export, official App Store screenshot" width="600" height="1304" loading="lazy" decoding="async"><figcaption><span>02</span>Adjust the edit and export</figcaption></figure><figure><img class="" src="/codearthur-policies/projects_publish/en/silencecut/assets/preview-3.jpg" alt="SilenceCut — Review captions, official App Store screenshot" width="600" height="1304" loading="lazy" decoding="async"><figcaption><span>03</span>Review captions</figcaption></figure></div>
+  </div></section>
+  <section class="section wrap workflow-section" id="how-it-works" aria-labelledby="workflow-title">
+    <div><p class="eyebrow">Getting started</p><h2 id="workflow-title">From the first tap<br>to something useful.</h2><p class="section-lead">Start with what you have. Make the choices that fit your task.</p></div><ol class="steps"><li><span class="step-num">01</span><div><h3>Bring in a recording</h3><p>Import a video or audio file from Photos or Files.</p></div></li><li><span class="step-num">02</span><div><h3>Shape the cut and captions</h3><p>Find pauses, tune the settings, then recognize speech and review the caption text.</p></div></li><li><span class="step-num">03</span><div><h3>Preview and share</h3><p>Check the pacing and subtitles, then export the result.</p></div></li></ol>
+  </section>
+  <section class="use-section wrap" aria-labelledby="use-title"><div class="section-heading"><p class="eyebrow">A place in your day</p><h2 id="use-title">Built for real moments.</h2></div><div class="use-grid"><article><h3>Talking-head videos</h3><p>Keep commentary, product demos and presentations moving without trimming every gap by hand.</p></article><article><h3>Podcasts &amp; interviews</h3><p>Tighten long pauses in an audio conversation while preserving the rhythm you want.</p></article><article><h3>Lessons &amp; tutorials</h3><p>Prepare clearer spoken explanations and add readable captions for your audience.</p></article></div></section>
+  <section class="practical-section wrap" aria-labelledby="practical-title"><div><p class="eyebrow">Good to know</p><h2 id="practical-title">A little context<br>before you begin.</h2></div><div class="practical-list"><article><h3>Your media stays local</h3><p>Silence removal processes video and audio on your device. Speech recognition uses on-device models; prepare or download the selected model before using it offline.</p></article><article><h3>Free to try; Pro for more</h3><p>The free download includes limited exports. Pro adds unlimited exports, watermark-free output and an ad-free experience. Current purchase options are shown in the app.</p></article></div></section>
+  <section class="section wrap faq-section" aria-labelledby="faq-title"><div><p class="eyebrow">Questions, answered</p><h2 id="faq-title">The useful details.</h2></div><div class="faq-list"><details><summary>Can SilenceCut recognize more than one language?</summary><p>Yes. Multilingual speech recognition can detect the source language automatically, or you can select it. Examples include English, Chinese, Japanese, Korean, Spanish, French and German. Language availability depends on the selected speech model.</p></details><details><summary>Can I review the captions before exporting?</summary><p>Yes. Review and correct the generated text and timing in the caption editor. You can burn captions into a video or export timed SRT captions; text export is also available.</p></details><details><summary>Does silence removal require uploading my recording?</summary><p>No. Silence removal runs on your device. On-device speech recognition needs its model files to be ready; downloading a model requires a connection.</p></details><details><summary>Which devices can I use?</summary><p>SilenceCut is available for iPhone, iPad and Mac. Check the App Store listing for current compatibility and purchase details.</p></details></div></section>
+  <section class="download-section wrap" aria-labelledby="download-title"><div><img class="app-icon" src="/codearthur-policies/projects_publish/en/silencecut/icon/silencecut-icon-2026.png" alt="SilenceCut app icon" width="80" height="80" decoding="async"><div><p class="eyebrow">SilenceCut</p><h2 id="download-title">Make room for your next step.</h2><p>iPhone · iPad · Mac</p></div></div><a class="button primary" href="https://apps.apple.com/app/id6760957695" rel="noopener">View on the App Store <span aria-hidden="true">↗</span></a></section>
+  <section class="related-section wrap" aria-labelledby="related-title"><div class="row-heading"><h2 id="related-title">More independent apps.</h2><a class="text-link" href="/codearthur-policies/#apps">Explore all apps <span aria-hidden="true">↗</span></a></div><div class="related-grid"><a class="related-app" href="/codearthur-policies/projects_publish/en/voicefolio/landing-page/"><img class="app-icon" src="/codearthur-policies/projects_publish/en/voicefolio/assets/app-icon.jpg" alt="VoiceFolio app icon" width="48" height="48" decoding="async"><span><strong>VoiceFolio</strong><small>Transcription &amp; notes</small></span><span aria-hidden="true">↗</span></a><a class="related-app" href="/codearthur-policies/projects_publish/en/prompttempo/landing-page/"><img class="app-icon" src="/codearthur-policies/projects_publish/en/prompttempo/assets/app-icon.jpg" alt="PromptTempo app icon" width="48" height="48" decoding="async"><span><strong>PromptTempo</strong><small>Teleprompter &amp; recording</small></span><span aria-hidden="true">↗</span></a></div></section>
+</main>
+<footer class="site-footer wrap">
+  <a class="footer-brand" href="/codearthur-policies/">Apps by Bozhu Li <span aria-hidden="true">↗</span></a>
+  <nav aria-label="Legal and support">
+    <a href="/codearthur-policies/bozhu/en/support.html?name=SilenceCut">Support</a><a href="/codearthur-policies/bozhu/en/privacy.html?name=SilenceCut">Privacy policy</a><a href="/codearthur-policies/bozhu/en/terms.html?name=SilenceCut">Terms of use</a>
+  </nav>
+  <p>© 2026 Bozhu Li. App features and compatibility may vary by device. See the App Store for current details.</p>
 </footer>
-
 </body>
 </html>
