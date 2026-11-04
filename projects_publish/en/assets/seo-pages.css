@@ -1,0 +1,66 @@
+/* Product-specific search headings and the small practical guide collection. */
+h1{overflow-wrap:anywhere}
+.screenshot-context{font-size:12px;line-height:1.7;margin-top:18px;max-width:800px}
+.product-guides{padding-bottom:65px}
+.product-guides>.eyebrow{margin-bottom:12px}
+.product-guides>h2{margin-bottom:26px}
+.guide-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px}
+.guide-card{display:block;border:1px solid var(--line);border-radius:16px;padding:25px;background:var(--white)}
+.guide-card:hover{border-color:var(--accent)}
+.guide-card>span{font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+.guide-card h2,.guide-card h3{font-size:22px;margin-block:15px 12px;line-height:1.25}
+.guide-card p{font-size:14px;line-height:1.75}
+.guide-card strong{display:block;font-size:12px;margin-top:20px;color:var(--accent)}
+.guide-hero{padding-block:55px 45px;max-width:1000px}
+.guide-hero h1{font-size:clamp(34px,4vw,56px);line-height:1.1;letter-spacing:-.045em;max-width:900px;margin-top:17px}
+.guide-hero .hero-intro{max-width:800px}
+.guide-byline{font-size:11px;margin-top:22px}
+.guide-layout{display:grid;grid-template-columns:230px minmax(0,1fr);gap:65px;padding-bottom:65px}
+.guide-toc{align-self:start;position:sticky;top:30px;border-top:1px solid var(--line);padding-top:22px}
+.guide-toc ol{margin:18px 0 25px;padding-left:20px}
+.guide-toc li{font-size:13px;line-height:1.6;padding-left:5px;margin-bottom:13px}
+.guide-content{min-width:0;max-width:800px}
+.guide-content h2{font-size:27px;line-height:1.2;letter-spacing:-.03em;margin-bottom:17px}
+.guide-content p,.guide-content li{font-size:16px;line-height:1.85}
+.guide-content ul{padding-left:22px;margin-block:12px 0}
+.guide-content li{padding-left:6px;margin-top:9px}
+.guide-before{background:var(--soft);border-radius:18px;padding:28px 30px;margin-bottom:40px}
+.guide-step{padding-block:27px 33px;border-top:1px solid var(--line);scroll-margin-top:25px}
+.guide-step>.step-num{display:block;font-size:11px;margin-bottom:10px}
+.guide-figure{display:grid;grid-template-columns:minmax(0,280px) 1fr;gap:28px;align-items:center;background:var(--soft);border-radius:18px;padding:25px;margin-top:25px}
+.guide-figure img{width:100%;height:auto;border-radius:14px;border:1px solid #172e3517}
+.guide-figure figcaption{font-size:13px;line-height:1.8;color:var(--muted)}
+.guide-images{padding-block:27px 35px;border-top:1px solid var(--line)}
+.guide-tips{padding-block:25px;border-top:1px solid var(--line)}
+.guide-tips>div{margin-top:25px}
+.guide-tips h3{font-size:19px;margin-bottom:10px}
+.guide-version-note{font-size:12px!important;background:#eeefe9;border-radius:12px;padding:20px;margin-block:20px 35px}
+.guide-next{padding-block:28px;border-top:1px solid var(--line)}
+.guide-next .guide-cards{margin-top:25px}
+.hub-guides{padding-bottom:30px}
+.guide-hub .site-header nav a:not(.nav-guides):not(.nav-all),.guide .site-header nav a:not(.nav-guides):not(.nav-all){display:none}
+.guide-hub .guide-hero{max-width:1180px}
+@media(max-width:1000px){.guide-layout{grid-template-columns:190px minmax(0,1fr);gap:36px}.guide-figure{grid-template-columns:minmax(0,210px) 1fr;gap:20px;padding:20px}.guide-cards{grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}}
+@media(max-width:760px){
+ .product .nav-inner nav>a.nav-guides{display:inline-flex}
+ .catalog .nav-inner nav>a:not(.nav-guides){display:none}
+ .nav-inner nav a{min-height:40px;align-items:center;display:inline-flex}
+ .guide-hero{padding-block:36px 31px}
+ .guide-hero h1{font-size:36px;line-height:1.13}
+ .guide-hero .hero-intro{font-size:16px}
+ .guide-layout{grid-template-columns:1fr;gap:32px;padding-bottom:30px}
+ .guide-toc{position:static;background:#eeefe9;border:0;border-radius:15px;padding:23px}
+ .guide-toc ol{margin-bottom:18px}
+ .guide-toc li{font-size:13px;margin-bottom:10px}
+ .guide-content h2{font-size:25px}
+ .guide-content p,.guide-content li{font-size:15px;line-height:1.8}
+ .guide-before{padding:24px}
+ .guide-figure{grid-template-columns:1fr;padding:20px}
+ .guide-figure img{max-width:265px;margin-inline:auto}
+ .guide-figure figcaption{font-size:12px}
+ .guide-cards{grid-template-columns:1fr}
+ .guide-card{padding:23px}
+ .guide-card h2,.guide-card h3{font-size:21px}
+ .product-guides{padding-bottom:45px}
+}
+@media(max-width:380px){.guide-hero h1{font-size:33px}.guide-before,.guide-toc{padding:20px}.guide-content h2{font-size:23px}.guide-figure{padding:16px}}
