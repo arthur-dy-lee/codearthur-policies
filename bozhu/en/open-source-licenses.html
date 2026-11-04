@@ -127,6 +127,17 @@
                 <li><a href="https://huggingface.co/solavr/sherpa-onnx-qwen3-asr-1.7B-int8/blob/455608654fe097e55cc9ecac65fd83e53d2347c1/LICENSE">Conversion license</a> · <a href="https://huggingface.co/solavr/sherpa-onnx-qwen3-asr-1.7B-int8/blob/455608654fe097e55cc9ecac65fd83e53d2347c1/NOTICE">Conversion NOTICE</a> · <a href="https://huggingface.co/solavr/sherpa-onnx-qwen3-asr-1.7B-int8/blob/455608654fe097e55cc9ecac65fd83e53d2347c1/MODIFICATIONS.md">Conversion modifications</a></li>
             </ul>
         </article>
+        <article id="qwen3-forced-aligner-0-6b">
+            <h3>Qwen3-ForcedAligner 0.6B — Qwen Team / Alibaba Cloud</h3>
+            <p>Optional forced alignment model used by PromptTempo for post-recording subtitle refinement on iOS and macOS. The original model is published by the Qwen team. The app uses the community ONNX Q4 conversion distributed by valoomba.</p>
+            <p><strong>Attribution:</strong> Qwen Team / Alibaba Cloud; ONNX conversion distributed by valoomba.<br><strong>Model license:</strong> <a href="#apache-2-0">Apache License 2.0 — full text below</a>, as identified by both the original model card and the conversion's model card.</p>
+            <p><strong>Base model:</strong> <code>Qwen/Qwen3-ForcedAligner-0.6B</code>.<br><strong>Conversion:</strong> <code>valoomba/Qwen3-ForcedAligner-0.6B-ONNX</code>, revision <code>261c9ed100c1b18a4a1fbc488e05625dc9a4ae5c</code>. PromptTempo downloads <code>onnx/model_q4.onnx</code> and <code>tokenizer.json</code> from this revision.</p>
+            <p>The conversion changes the model format to ONNX and provides Q4 quantization without new training or fine-tuning. This community conversion is not an official Qwen ONNX release. The app retains the model attribution and Apache 2.0 license in its bundled alignment package.</p>
+            <ul class="sources">
+                <li><a href="https://huggingface.co/Qwen/Qwen3-ForcedAligner-0.6B">Original Qwen3-ForcedAligner model card and Apache 2.0 declaration</a> · <a href="https://github.com/QwenLM/Qwen3-ASR/blob/main/LICENSE">Official implementation license</a></li>
+                <li><a href="https://huggingface.co/valoomba/Qwen3-ForcedAligner-0.6B-ONNX/tree/261c9ed100c1b18a4a1fbc488e05625dc9a4ae5c">Pinned ONNX / Q4 model files</a> · <a href="https://huggingface.co/valoomba/Qwen3-ForcedAligner-0.6B-ONNX/blob/261c9ed100c1b18a4a1fbc488e05625dc9a4ae5c/README.md">Conversion provenance and license declaration</a></li>
+            </ul>
+        </article>
         <article id="bark">
             <h3>Underdog Bark 3.0 Pro / Plus — Conway Research</h3>
             <p>Optional English speech recognition models published by Conway Research. The apps use the official Core ML model files. Bark derives from NVIDIA's Parakeet TDT 0.6B v3 through Moondream's Parakeet Ultra, with post-training and compression by Conway Research.</p>

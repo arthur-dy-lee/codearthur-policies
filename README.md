@@ -155,6 +155,8 @@ https://arthur-dy-lee.github.io/codearthur-policies/bozhu/zh/account-deletion.ht
 
 当前收录 Whisper、WhisperKit / Argmax Core ML 模型转换、Large V3 的 Apache 2.0 补充许可，以及 Paraformer INT8、Qwen3-ASR 0.6B / 1.7B、Conway Research 的 Underdog Bark 3.0 Pro / Plus 模型和 sherpa-onnx、FluidAudio 运行库。Paraformer 条目标明阿里达摩院原模型 v1.1.9、Apache 2.0 许可，以及 VoiceFolio 实际使用的 ONNX / INT8 转换仓库和固定 revision；模型权重许可与 FunASR 代码库许可分别说明。Qwen3-ASR 条目标明 Qwen 团队原模型、当前第三方 ONNX / INT8 转换来源及固定 revision，以及旧 solavr INT8 / FP32 转换的固定 revision、Apache 2.0 许可和完整 NOTICE。Bark 条目标明 Pro / Plus 的官方 Core ML 固定 revision、Conway Research / NVIDIA / Moondream 署名、上游修改和 App 的 Swift 适配，分别保留两款模型的原始 NOTICE，并区分模型的 CC BY 4.0 与 FluidAudio 的 Apache 2.0 许可。页面完整保留 OpenAI 和 Argmax 各自的 MIT 版权声明、Apache 2.0 和 CC BY 4.0 原文，可脱离脚本阅读，并支持浅色、深色和窄屏显示。
 
+另收录 PromptTempo 录后字幕精校准使用的 Qwen3-ForcedAligner 0.6B，注明 Qwen 原模型、valoomba 的 ONNX / Q4 转换、固定 revision 和 Apache 2.0 许可。App 中统一从「法律与政策」访问共用页；对齐包内随附的模型署名与许可证继续保留。
+
 后续新增组件时，在同一 HTML 中增加对应分类或条目，注明组件名称、来源、版本（适用时）、版权持有人和许可，保留已有条目及稳定锚点，并更新页面日期。AI 模型权重与运行库分别核对许可；不同版本或转换来源有不同声明时，应分别保留。组件适用范围以实际 App、版本、平台和可选下载内容为准。
 
 共用网页用于集中维护和展示；App 分发包或模型下载中需要随附的许可、NOTICE、源码或其他材料仍应按各组件要求保留。这一页目前覆盖上述语音组件，其他依赖可继续补充。HTML 提交到仓库后，还需部署并验证公开地址，再将 App 设置入口接入该地址。
@@ -236,6 +238,6 @@ func openPrivacyPolicy() {
 
 ## 更新流程
 
-修改仓库中的 HTML 文件 → 推送至 GitHub → GitHub Pages 自动部署 → App 内立即生效（无需发版）。
+修改本地 HTML → 提交并推送至 GitHub Pages 配置的发布分支 → 等待 GitHub Pages 部署成功 → App 再次打开在线链接时显示新版（无需发版，网页缓存可能造成短暂延迟）。仅修改本地文件或本地提交不会更新线上页面。
 
 重大条款变更时建议通过 App 内弹窗通知用户。
