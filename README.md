@@ -157,6 +157,8 @@ https://arthur-dy-lee.github.io/codearthur-policies/bozhu/zh/account-deletion.ht
 
 另收录 PromptTempo 录后字幕精校准使用的 Qwen3-ForcedAligner 0.6B，注明 Qwen 原模型、valoomba 的 ONNX / Q4 转换、固定 revision 和 Apache 2.0 许可。App 中统一从「法律与政策」访问共用页；对齐包内随附的模型署名与许可证继续保留。
 
+SpeakTempo 的 macOS 专用条目分别列出 NVIDIA Nemotron 3.5 Transcribe 30B-A4B 模型权重及 NeMo-Speech.cpp 0.3.0 运行库。模型条目标明 AtomicChat 的 GGUF 转换、下载镜像及 OpenMDW 1.1 许可原文；运行库条目标明 Apache 2.0 许可、NVIDIA NOTICE 和第三方声明。模型下载目录和 Mac App 安装包分别保留随附许可。
+
 后续新增组件时，在同一 HTML 中增加对应分类或条目，注明组件名称、来源、版本（适用时）、版权持有人和许可，保留已有条目及稳定锚点，并更新页面日期。AI 模型权重与运行库分别核对许可；不同版本或转换来源有不同声明时，应分别保留。组件适用范围以实际 App、版本、平台和可选下载内容为准。
 
 共用网页用于集中维护和展示；App 分发包或模型下载中需要随附的许可、NOTICE、源码或其他材料仍应按各组件要求保留。这一页目前覆盖上述语音组件，其他依赖可继续补充。HTML 提交到仓库后，还需部署并验证公开地址，再将 App 设置入口接入该地址。
