@@ -1,0 +1,6 @@
+---
+layout: null
+---
+{% for entry in site.data.sitemap -%}
+{{ entry.loc }}
+{% endfor -%}

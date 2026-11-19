@@ -242,4 +242,6 @@ func openPrivacyPolicy() {
 
 修改本地 HTML → 提交并推送至 GitHub Pages 配置的发布分支 → 等待 GitHub Pages 部署成功 → App 再次打开在线链接时显示新版（无需发版，网页缓存可能造成短暂延迟）。仅修改本地文件或本地提交不会更新线上页面。
 
+需要更新站点地图时，编辑 `_data/sitemap.yml`。GitHub Pages 构建会用同一份清单生成 `sitemap.xml` 和 `sitemap.txt`。
+
 重大条款变更时建议通过 App 内弹窗通知用户。
